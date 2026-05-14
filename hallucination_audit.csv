@@ -1,0 +1,89 @@
+id,category,question,llm_answer,correct_answer,source,classification
+S-01,S,What is the maximum Pell Grant award for the 2025-26 award year?,"As of my last update in October 2023, the maximum Pell Grant award for the 2024-25 award year was set at $7,395. However, the maximum award for the 2025-26 award year had not been officially announced yet. Pell Grant amounts can change annually based on federal budget decisions and other factors. To get the most accurate and up-to-date information regarding the maximum Pell Grant award for the 2025-26 award year, I recommend checking the official Federal Student Aid website or the U.S. Department of Education's announcements closer to that award year.",,,
+S-02,S,What is the deadline to complete the FAFSA for the 2025-26 award year?,"For the 2025-26 award year, the Free Application for Federal Student Aid (FAFSA) form will be available starting October 1, 2024. The federal deadline to submit the FAFSA for the 2025-26 award year is typically June 30, 2026. However, many states and colleges have their own deadlines, which can be earlier than the federal deadline. It's important to check with your state and the institutions you are applying to for their specific deadlines to ensure you are considered for all available financial aid.",,,
+M2-01,M2,"If I take out a subsidized loan, do I accrue interest while I'm enrolled in school?","No, if you take out a subsidized federal student loan, you do not accrue interest while you are enrolled in school at least half-time. The U.S. Department of Education pays the interest on a subsidized loan while you are in school, during the grace period (the first six months after you leave school), and during any periods of deferment. This is one of the key benefits of subsidized loans, as it helps reduce the overall cost of borrowing.",,,
+M2-02,M2,Can I receive both a Pell Grant and a Federal Work-Study award at the same time?,"Yes, you can receive both a Pell Grant and a Federal Work-Study (FWS) award at the same time. The Pell Grant is a need-based grant awarded to undergraduate students to help cover the cost of their education, while the Federal Work-Study program provides part-time job opportunities for students with financial need, allowing them to earn money to help pay for college expenses.
+
+Receiving both awards can help you manage your educational costs more effectively. However, the total amount of financial aid you receive, including grants, work-study, and any other forms of aid, cannot exceed your total cost of attendance as determined by your school. Be sure to check with your school's financial aid office for specific details regarding your eligibility and the amounts you may receive.",,,
+M3-01,M3,"Can I receive a Pell Grant, work-study, and a subsidized loan simultaneously, and is there a total aid cap?","Yes, you can receive a Pell Grant, work-study, and a subsidized loan simultaneously. These forms of financial aid can be combined to help cover your educational expenses.
+
+1. **Pell Grant**: This is a federal grant awarded to undergraduate students who demonstrate financial need. The amount you can receive depends on your financial need, the cost of attendance at your school, and your enrollment status (full-time or part-time).
+
+2. **Work-Study**: This is a federal program that provides part-time jobs for students with financial need, allowing them to earn money to help pay for college expenses. The amount you can earn through work-study is determined by your financial need and the availability of funds at your school.
+
+3. **Subsidized Loan**: This is a federal student loan for which the government pays the interest while you are in school at least half-time, during the grace period, and during deferment periods. Eligibility is based on financial need.
+
+Regarding a total aid cap, while there is no specific cap on the total amount of financial aid you can receive, there are limits on each type of aid. For example:
+
+- The maximum Pell Grant amount for the 2023-2024 award year is $7,395.
+- The maximum amount you can borrow in subsidized loans varies based on your year in school (e.g., $3,500 for first-year undergraduates, $4,500 for second-year undergraduates, and $5,500 for third-year and beyond).
+- Work-study earnings are based on the amount of funding your school has available and your financial need.
+
+However, your total financial aid package cannot exceed your cost of attendance (COA) at your school. The COA includes tuition, fees, room and board, and other related expenses. If your total aid exceeds your COA, your school may need to adjust your aid package.
+
+It's important to communicate with your school's financial aid office to understand your specific situation and ensure you",,,
+M3-02,M3,What happens to my financial aid if I drop below half-time enrollment and I have both federal loans and a university scholarship?,"If you drop below half-time enrollment, the implications for your financial aid can vary depending on the type of aid you have, including federal loans and university scholarships.
+
+1. **Federal Loans**: 
+   - **Grace Period**: If you drop below half-time enrollment, your federal student loans may enter a grace period. For most federal loans, this grace period is six months, during which you are not required to make payments. However, this period only applies if you were enrolled at least half-time for a certain period before dropping below that threshold.
+   - **Loan Repayment**: After the grace period ends, you will need to start repaying your loans. If you drop below half-time, you may also lose eligibility for additional federal student aid, including future loans and grants.
+
+2. **University Scholarships**: 
+   - **Eligibility Requirements**: Many university scholarships have specific enrollment requirements. If your scholarship requires you to maintain at least half-time enrollment, dropping below that threshold could result in the loss of the scholarship. You should check the terms and conditions of your specific scholarship to understand the impact of changing your enrollment status.
+   - **Notification**: If you drop below half-time, it is important to notify your university’s financial aid office. They can provide guidance on how your specific scholarship may be affected and whether there are any options for appeal or reinstatement.
+
+3. **Other Financial Aid**: 
+   - If you receive other forms of financial aid (such as state grants or institutional aid), you should also check the requirements for those programs, as they may have similar enrollment criteria.
+
+In summary, dropping below half-time enrollment can lead to the loss of federal loan benefits and university scholarships. It is crucial to communicate with your financial aid office to understand the specific consequences and explore any options you may have.",,,
+C-01,C,Does the federal government require undergraduate students to complete 80% of their attempted credits each year to keep financial aid?,"Yes, the federal government has a requirement known as Satisfactory Academic Progress (SAP) that students must meet to maintain eligibility for federal financial aid. One of the components of SAP is the completion rate, which typically requires students to successfully complete at least 67% of the credits they attempt, not 80%. 
+
+This means that if you attempt 30 credits in a year, you would need to successfully complete at least 20 credits to meet the completion rate requirement. Additionally, students must also maintain a minimum GPA and complete their degree within a maximum timeframe, usually 150% of the published length of the program.
+
+It's important to check with your specific institution, as they may have additional or more stringent requirements regarding SAP.",,,
+C-02,C,Is a 2.5 GPA required by the federal government for education students to maintain financial aid eligibility?,"No, a 2.5 GPA is not a federal requirement for maintaining financial aid eligibility for education students or any other students. The federal government does not set a specific GPA requirement for financial aid. However, students must maintain satisfactory academic progress (SAP) as defined by their institution to remain eligible for federal financial aid.
+
+Each college or university establishes its own SAP standards, which typically include maintaining a minimum GPA, completing a certain percentage of attempted credits, and completing a degree within a maximum timeframe. Many institutions set a minimum GPA of around 2.0, but some programs, especially in education, may have higher requirements.
+
+It's important for students to check with their specific institution to understand the SAP standards that apply to them.",,,
+T-01,T,How is my financial need calculated — what formula does the government use?,"Financial need for federal student aid is calculated using a formula established by the U.S. Department of Education. This formula takes into account several factors, including your family's financial situation, to determine your Expected Family Contribution (EFC). The EFC is then used to assess your financial need.
+
+Here’s a simplified breakdown of how the calculation works:
+
+1. **Cost of Attendance (COA)**: This includes tuition and fees, room and board, books and supplies, transportation, and personal expenses. The COA can vary by institution.
+
+2. **Expected Family Contribution (EFC)**: This is calculated based on the information you provide on the Free Application for Federal Student Aid (FAFSA). The EFC considers:
+   - Income (both student and parent, if applicable)
+   - Assets (savings, investments, etc.)
+   - Family size
+   - Number of family members attending college
+   - Other factors such as age of the older parent and the number of dependents
+
+3. **Financial Need**: Once you have the COA and EFC, your financial need is calculated using the following formula:
+
+   \[
+   \text{Financial Need} = \text{Cost of Attendance} - \text{Expected Family Contribution}
+   \]
+
+For example, if your COA is $30,000 and your EFC is $10,000, your financial need would be $20,000.
+
+This financial need is then used by colleges and universities to determine your eligibility for various types of financial aid, including federal grants, work-study, and loans. Each institution may have its own policies regarding how they allocate aid based on your financial need.",,,
+T-02,T,What information from my tax returns is used to determine my financial aid eligibility?,"When applying for financial aid in the United States, the information from your tax returns is used to assess your financial situation and determine your eligibility for various types of aid, including federal student aid. Here are the key pieces of information from your tax returns that are typically used:
+
+1. **Adjusted Gross Income (AGI)**: This is your total income minus specific deductions. AGI is a critical factor in determining your Expected Family Contribution (EFC), which is used to assess your financial need.
+
+2. **Income Tax Paid**: The amount of federal income tax you paid can also be considered in the financial aid process.
+
+3. **Taxable Income**: This includes wages, salaries, dividends, capital gains, and other income sources that are subject to tax.
+
+4. **Number of Dependents**: The number of dependents you claim on your tax return can affect your financial aid eligibility, as it may indicate your financial responsibilities.
+
+5. **Filing Status**: Your filing status (e.g., single, married filing jointly, head of household) can influence your financial aid calculations.
+
+6. **Untaxed Income**: Certain types of untaxed income, such as child support received, workers' compensation, and certain disability payments, may also be considered.
+
+7. **Assets**: While not directly from your tax return, information about your assets (such as savings accounts, investments, and real estate) is often required on the Free Application for Federal Student Aid (FAFSA) and can impact your financial aid eligibility.
+
+When completing the FAFSA, you may have the option to use the IRS Data Retrieval Tool (DRT), which allows you to automatically import your tax information directly from the IRS, ensuring accuracy and simplifying the application process.
+
+It's important to provide accurate and complete information on your FAFSA and any other financial aid applications to ensure you receive the appropriate amount of aid for which you are eligible.",,,
