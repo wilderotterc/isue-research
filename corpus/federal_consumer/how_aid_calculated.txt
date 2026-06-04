@@ -1,0 +1,75 @@
+You’ve submitted your Free Application for Federal Student Aid (FAFSA®) form, and you’ve checked your FAFSA Submission Summary to be sure all your information is correct. Now you’re wondering how the amount of financial aid you will be offered will be determined.
+
+The colleges or career schools you list on your FAFSA form will use several pieces of information to calculate your aid.
+
+Aid Amount: Who Decides and How
+If you meet the basic eligibility criteria for federal student aid, the financial aid office at your college or career school determines how much aid you are eligible to receive.
+
+Your eligibility depends on your Student Aid Index (SAI), your year in school, your enrollment status, and the cost of attendance at the school you will be attending.
+
+This is how they do it:
+
+The financial aid staff starts by determining your cost of attendance (COA) at that school.
+
+They then review your SAI.
+
+They subtract your SAI from your COA to determine the amount of your financial need and how much need-based aid you can get.
+
+To determine how much non-need-based aid you can get, the school takes your cost of attendance and subtracts any financial aid you’ve already been awarded.
+
+Cost of Attendance (COA)
+Your COA is the amount it will cost you to go to school. Most two-year and four-year colleges will calculate your COA to show your total cost for the school year (for instance, for the fall semester plus the spring semester). Schools with programs that last a different period of time (such as an 18-month certificate program) might give you a COA that covers a time period other than a year.
+
+If you're attending at least half time, your COA is the estimate of
+
+tuition and fees;
+
+the cost of food and housing (or living expenses for students who do not contract with the school for food and housing);
+
+the cost of books, supplies, transportation, loan fees, and miscellaneous expenses (including a reasonable amount for the documented cost of a personal computer);
+
+an allowance for child care or other dependent care;
+
+costs related to a disability; and/or
+
+reasonable costs for eligible study-abroad programs.
+
+Student Aid Index (SAI)
+The SAI is an eligibility index number that a college’s or career school’s financial aid office uses to determine how much federal student aid you would receive if you attended the school. This number results from the information that you provide in your FAFSA form.
+
+Most of the tax information used to calculate the SAI is transferred directly from the IRS into the FAFSA form. (Some FAFSA applicants may need to manually provide tax information.)
+
+Learn how the SAI is calculated.
+
+Note: The SAI is not a dollar amount of aid eligibility or what your family is expected to provide. A negative SAI indicates the student has higher financial need.
+
+The Federal Student Aid Estimator approximates the SAI.
+
+Need-Based Aid
+Need-based aid is financial aid you can receive if you have financial need and meet other eligibility criteria. You can’t receive more need-based aid than the amount of your financial need.
+
+Your college or career school first determines whether you have financial need by using a simple formula:
+
+Calculation of Your Financial Need
+Cost of Attendance (COA) – Student Aid Index (SAI) = Financial Need
+If your COA is $16,000 and your SAI is 12000, your financial need is $4,000; so you aren’t eligible for more than $4,000 in need-based aid.
+
+The following are the need-based federal student aid programs:
+
+Federal Pell Grant
+Federal Supplemental Educational Opportunity Grant (FSEOG)
+Direct Subsidized Loan
+Federal Work-Study
+Non-Need-Based Aid
+Your school determines how much non-need-based aid you can get by using this formula:
+
+Calculating Your Non-Need-Based Aid
+Cost of Attendance (COA) – Financial Aid Awarded So Far* = Eligibility for Non-need-based Aid
+*Includes aid from all sources, such as the school, private scholarship providers, etc.
+Non-need-based aid is financial aid that is not based on your SAI. What matters is your COA and how much other assistance you’ve been awarded so far. For instance, if your COA is $16,000 and you’ve been awarded a total of $4,000 in need-based aid and private scholarships, you can get up to $12,000 in non-need-based aid.
+
+The following are the non-need-based federal student aid programs:
+
+Direct Unsubsidized Loan
+Direct PLUS Loan
+Teacher Education Access for College and Higher Education (TEACH) Grant

@@ -1,0 +1,1001 @@
+Verification, Updates, and Corrections | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 4
+
+Verification, Updates, and Corrections
+
+Because students sometimes make errors on their application, there is a process for verifying applications and making corrections. The FAFSA Processing System (FPS) selects which applications are to be verified, but you also have the authority to verify additional students.
+
+You must verify applications selected by the FPS of students who will receive or have received subsidized 
+Title IV
+ aid, as defined below. Verification is not required for students who are only eligible for unsubsidized 
+Title IV
+ aid (however, see “Verification exclusions” later in this chapter for an important caveat). While graduate students are ineligible for most types of subsidized 
+Title IV
+ aid, they are eligible for Federal Work-Study and would need to complete verification if they are selected and receive that aid. Students who are eligible for both subsidized and unsubsidized 
+Title IV
+ aid may not avoid verification by accepting only unsubsidized aid; they must complete verification to receive any 
+Title IV
+ aid (see the “Disbursing unsubsidized aid” section later in this chapter for more information).
+
+ Subsidized student financial assistance programs
+ 
+
+34 CFR 668.52
+ “Subsidized student financial assistance programs”
+
+ Unsubsidized student financial assistance programs
+ 
+
+34 CFR 668.52
+ “Unsubsidized student financial assistance programs”
+
+Required Policies and Procedures
+
+Your school must have written policies about the following:
+
+The time in which students must submit verification documentation;
+
+The consequences for failing to submit those documents in time;
+
+The method you use to notify students if their Student Aid Index (SAI) and 
+Title IV
+ aid amounts change;
+
+The procedures you or students follow to correct FAFSA data; and
+
+The procedure you follow to refer a student to the Office of Inspector General (OIG) (see 
+Chapter 5
+).
+
+Your school must provide the following to students selected for verification in a timely manner:
+
+A clear explanation of their role in the process,
+
+A list of documents they need to submit, and
+
+Deadlines they must meet and the consequences of failing to meet them.
+
+The 
+FSA Assessments
+ are located as additional resources in the FSA Handbook portion of the Knowledge Center. You can use the verification assessment to evaluate your verification process. In addition, the Department has a list of questions and answers about verification located within our 
+Program Integrity Q & A website
+.
+
+ Policies and procedures
+ 
+
+34 CFR 668.53
+
+Verification Selection and Professional Judgment (PJ)
+
+You must complete verification for a selected student before you exercise professional judgment (PJ) to adjust any values used to calculate the SAI. 
+But a PJ adjustment does not require you to verify an application not selected for verification.
+
+Once the Department selects a FAFSA application for verification, every subsequent transaction for that award year, even one resulting from PJ, will indicate that the student is selected for verification.
+
+If a FAFSA that is not selected for verification is later corrected, that can result in the application being selected. However, when professional judgment is used to adjust an application that is not selected for verification and the FAA correctly indicates the PJ flag on the ISIR, the FPS prevents the subsequent transaction from being selected for verification.
+
+ Verification and PJ
+ 
+
+Verification and PJ reference
+
+34 CFR 668.53(c)
+
+Applications and Information to be Verified
+
+A menu of potential verification items for each award year will be published in the 
+Federal Register
+. The Department published 2024-25 FAFSA information to be verified and acceptable documentation in the 
+September 19, 2023 Federal Register Notice
+.
+
+A student’s FAFSA Submission Summary and Institutional Student Information Record (ISIR) will indicate if a student is selected for verification. On the FAFSA Submission Summary, there will be an asterisk (*) next to the SAI and a comment in the “Application Status” section informing the student that their school has the authority to ask for additional documentation to complete verification. Applicants will need to verify all the FAFSA items that apply to them. On the ISIR, you will see a verification indicator tracking flag set to a value of “Y” and a verification tracking group (V1, V4, or V5) to indicate placement in one of the 2024-25 verification tracking groups.
+
+ Verification items
+ 
+
+34 CFR 668.56
+
+ Acceptable documentation
+ 
+
+34 CFR 668.57
+
+School-Selected Verification
+
+In some cases, you the school may choose to select a student for verification. You must verify any information you have reason to believe is incorrect on an application. You may also, at your discretion, require a student to verify any FAFSA information and provide reasonable documentation according to consistently applied school policies. In either case you may, but are not required to, include any of the FPS verification items not already included. Students selected for verification by the school are subject to the same verification requirements as FPS-selected applications, including deadlines, allowable tolerances, and interim disbursement rules.
+
+When schools choose to verify an item other than those the Department selects, they may delay disbursing 
+Title IV
+ aid until verification is completed if the school-selected item can affect the student’s 
+Title IV
+ eligibility, such as an item about dependency status. But schools cannot delay disbursing 
+Title IV
+ funds when the item has no bearing on 
+Title IV
+ aid. For example, if your school is verifying home equity of a family’s primary residence to determine student eligibility for school or state aid, you may not delay 
+Title IV
+ disbursements as the value of the family’s primary residence is excluded from assets in the SAI formula.
+
+Verification Tracking Groups
+
+Students who are selected for verification by the Department will be placed in one of three verification groups (V1, V4, or V5) to determine which FAFSA information must be verified. Groups V2, V3, and V6 are reserved for future use by the Department.
+
+V1—Standard Verification Group
+
+Tax filers
+ (student, student spouse, parent, and parent spouse/partner, as applicable) must verify the following:
+
+Adjusted gross income
+
+Income earned from work
+
+U.S. income tax paid
+
+Untaxed portions of IRA distributions
+
+Untaxed portions of pensions
+
+IRA deductions and payments
+
+Tax exempt interest income
+
+Education Credits
+
+Foreign income exempt from federal taxation
+
+Family size
+
+Non-tax filers
+ (student, student spouse, parent, and parent spouse/partner, as applicable) must verify the following:
+
+Income earned from work
+
+Family size
+
+V4—Custom Verification Group
+
+Students must verify the following:
+
+Identity
+
+Statement of educational purpose (SEP).
+
+V5—Aggregate Verification Group
+
+This group is essentially a combination of V1 and V4. Tax filers and non-tax filers must verify the items listed in the Standard Verification Group (V1). Students must also verify identity and statement of educational purpose.
+
+Changing Tracking Groups
+
+A student may move from Verification Tracking Group V1 or V4 to group V5 based on corrections made to his or her FPS record or on other information available to the Department. If verification was already completed for the previous group, the student is only required to verify the V5 information that was not already verified. If verification was not completed for the previous group, the student needs to verify all the V5 information.
+
+No disbursements of 
+Title IV
+ aid may be made until the V5 verification is satisfactorily completed. If the student doesn’t complete verification, the school is not liable for any 
+Title IV
+ aid it disbursed prior to receiving the group V5 ISIR. The student is liable for the full amount because without verification there is no evidence they were eligible for that aid. See the 
+October 31, 2016, electronic announcement
+ for more information about disbursements and potential return of funds when students are selected for verification.
+
+Reporting Results for Groups V4 and V5
+
+You must report the verification results of identity for any student for whom you (1) receive an ISIR with tracking flag V4 or V5—
+as selected by the FPS, not your school
+—and (2) request verification documentation.
+
+You are required to report results 
+no more than 60 days
+ following your first request to the student for documentation of identity. Inaccurate and untimely reporting may subject your school to findings on your annual compliance audit or a program review. If there is a change in a result you have already submitted, you can submit the new code using the above process and must make that change 
+within 30 days
+ of becoming aware that a change occurred. The most recent submission will supplant prior award year submissions.
+
+Individual reporting
+
+You will receive a list of the students who listed your school on their FAFSA applications and who were selected for either V4 or V5 identity verification. In the Verification of Identity function of the FAFSA Partner Portal, you can filter the list by Name or SSN. You can also sort the records alphabetically, in ascending or descending order. You can select from the following dropdown options:
+
+Display all – Default option;
+
+Display not submitted – Displays only applicants for whom no results have been provided; or
+
+Display submitted – Displays only the applicants for whom results have been provided.
+
+For the 2024-25 award year, you will then enter one of the following numeric codes that most applies:
+
+1-Verification completed in person, no issues found
+
+2-Verification completed remotely, no issues found
+
+3-Verification attempted, issues found with identity. (You did not receive acceptable documentation for the SEP or identity.)
+
+5-No response from applicant or unable to locate
+
+Note:
+ Numeric codes 4 and 6 are reserved by the Department for future use.
+
+Batch reporting
+
+Batch reporting may not be available at the time you are required to begin reporting identity verification due to delays in the launch of the 2024-25 FAFSA processes. However, these instructions are provided for future use when this functionality becomes available.
+
+Instead of using this individual method, you can submit verification results by uploading a .CSV file with the data for up to 2,000 students. Each row must contain only one record and have the following elements, each in their own column:
+
+Applicant’s nine-digit Social Security number;
+
+Last name; and
+
+Verification of identity result numeric code from above.
+
+Verification for Confined or Incarcerated Individuals
+
+On July 1, 2023, because of statutory changes enacted through the 
+FAFSA Simplification Act
+, confined or incarcerated individuals enrolled in approved prison education programs (PEPs) became eligible for federal Pell Grants.
+
+For the 2024-25 award year, a confined or incarcerated individual as indicated through the incarcerated applicant flag will only be required to verify their identity and statement of educational purpose if selected for Verification Tracking Group V4 or V5. In addition, institutions are not required to verify a confined or incarcerated individual selected under Verification Tracking Flag V1.
+
+ Verification for confined or incarcerated individuals
+ 
+
+GEN-23-12
+
+34 CFR Part 668 Subpart P
+
+Verification Exclusions
+
+There are times when you don’t need to verify a student’s application. You are, however, still required to resolve conflicting information (except when a student dies during the award year or when they are no longer enrolled and will not re-enroll; see Chapter 5). You should document the basis for the verification exclusion. Other information not excluded must still be verified according to all other requirements.
+
+You don’t have to verify FAFSA information of a student in the following situations:
+
+Death of the student.
+ You don’t have to continue verification if you made an interim disbursement and the student died before verification was completed. You cannot make any additional disbursements, except for FWS funds already earned, to any of the student’s beneficiaries. You cannot originate or disburse their Direct Subsidized Loan or consider any interim disbursement you made of Pell or FSEOG funds or provisional FWS employment to be an overpayment.
+
+Not an aid recipient.
+ The student won’t receive 
+Title IV
+ aid for reasons other than a failure to complete verification. This includes being ineligible for that aid and withdrawing without receiving it.
+
+The applicant is eligible to receive only unsubsidized student financial assistance.
+ However, students selected for V4 or V5 verification should complete it in accordance with the answer to DOC-Q18 on the 
+verification Q and A page
+.
+
+Applicant verified by another school.
+ The student completed verification for the current award year at another school before transferring. Their FAFSA data must be the same as it was at the previous school, and you must get a letter from that school stating that it verified the student's application and providing the transaction number of the pertinent valid ISIR.
+
+Post enrollment.
+ The student was selected for verification 
+after
+ ceasing to be enrolled at your school, they do not intend to reenroll for the award year, and no further (including late) disbursements will be made.
+
+Unless you have reason to believe it is inaccurate, you don’t have to verify the reported FAFSA information of the 
+parents of a dependent student
+ if any of the following apply (including in cases where there is only one parent):
+
+Both parents are mentally incapacitated.
+
+Both parents, or the custodial parent, has died.
+
+The parents are residing in a country other than the United States and can’t be contacted by normal means.
+
+The parents can’t be located because the student does not have and cannot get their contact information.
+
+Unless you have reason to believe it is inaccurate, you don’t have to verify the reported FAFSA information of the 
+spouse of an independent student
+ if any of the following apply:
+
+The spouse has died.
+
+The spouse is mentally incapacitated.
+
+The spouse is residing in a country other than the United States and can’t be contacted by normal means.
+
+The spouse can’t be located because the student does not have and cannot get their contact information.
+
+Verification exemption example
+
+AVG, Chapter 4, Example 1:
+ A student is enrolled in their local community college and their application is selected for verification. The student provides their spouse’s information on the application but now explains that the spouse recently moved out and is unreachable. The student provides their school documents to show that they tried to locate their estranged spouse. The school determines that the student doesn’t need to verify their spouse’s tax and income information. However, the student must still verify their own information. The school may also choose to use professional judgment to remove the spouse’s information from the student’s FAFSA form.
+
+ Verification exclusions
+ 
+
+34 CFR 668.54(b)
+
+Verification Following Disasters
+
+The Dear Colleague Letter (DCL) 
+GEN-17-08
+ gives general guidance for awarding aid in federally declared disasters. It states that the Secretary will not enforce the verification requirements during the award year for applicants whose records were lost or destroyed because of a disaster if the school has tried to preserve and reconstruct any records. The school must document when it does not perform verification for this reason and use status code “S” when reporting the disbursement of Pell Grants to affected students. Also, the requirement for dependent students to submit a statement signed by a parent regarding family size is waived if the parents cannot provide the signature due to the disaster. The school must note why no parent was able to provide the statement.
+
+Schools that experience a local disaster (rather than a federally declared one) that affects 
+Title IV
+ administration should consult their regional 
+school participation division
+.
+
+Acceptable Documentation
+
+The 
+FAFSA Simplification Act
+ requires that, wherever possible, the Department use data received directly from the IRS to calculate a student’s SAI and Pell Grant award. The 
+Fostering Undergraduate Talent by Unlocking Resources for Education Act (FUTURE Act)
+ requires the Department of Education to access tax information held by the IRS pertaining to FAFSA applicants—and, where applicable, their parents and spouses—through a secure method: the 
+FUTURE Act
+ Direct Data Exchange (FA-DDX). The 
+FUTURE Act
+ amended the Internal Revenue Code (IRC) to mandate the disclosure of FTI directly from the IRS to the Department with an individual’s consent and approval. The 
+FUTURE Act
+ also made providing consent and approval for the exchange of FTI a requirement for receiving federal student aid.
+
+Applicants and contributors will be required to provide consent and approval to retrieve FTI directly from the IRS. When FTI is received from the IRS via the FA-DDX, the FTI received is considered verified and no additional documentation is necessary. As a result, the FA-DDX tis the fastest, easiest, and most secure method of meeting income and tax verification requirements. The 
+September 19, 2023, Federal Register Notice
+ gives the documentation required for verifying 2024-25 application data, which depends on the item verified, as explained in this section.
+
+In addition, the Department has developed suggested text that you may use to create a verification document and to verify non-tax items, such as family size. To review the suggested text for 2024-25, please see 
+GEN-23-12
+.
+
+If you use a verification document, be sure that it is signed, that all required sections are completed, and that any relevant tax or alternative documents are attached. Copies of original documents are acceptable. An original signature on an original document, an original signature on a copy of a document, and a copy of a document with an original signature on it are all valid signatures, unless specifically noted in this chapter. If a copy of the tax return is used, the filer (or at least one of the filers of a joint return) must sign it or the tax preparer must provide their name and SSN, EIN, or PTIN.
+
+Income Information for Tax Filers
+
+As already noted, the importation of IRS tax data (FTI) via the FA-DDX serves as verification documentation. Applicants and contributors will not see or be given the option to change FTI imported directly from the IRS via the FA-DDX. Data transferred in this manner is considered verified, but there may be other data elements that must still be verified with additional documentation.
+
+ 
+
+FAFSA Information
+
+Acceptable Documentation
+
+ 
+
+FAFSA Information
+
+(a) Adjusted Gross Income (AGI)
+
+(b) Income Earned from Work
+
+(c) U.S. Income Tax Paid
+
+(d) Untaxed Portions of IRA Distributions
+
+(e) Untaxed Portions of Pensions
+
+(f) IRA Deductions and Payments
+
+(g) Tax Exempt Interest Income
+
+(h) Education Credits
+
+(i) Foreign Income Exempt from Federal Taxation
+
+Items (a) through (h), if transferred directly from the IRS and unchanged, do not need to be verified. When information is not transferred from the IRS, and for item (i), the following documentation is sufficient for verification:
+
+(1)	A transcript obtained at no cost from the IRS or other relevant tax authority of a U.S. territory (Guam, American Samoa, the U.S. Virgin Islands) or commonwealth (Puerto Rico and the Northern Mariana Islands), or a foreign government, that lists 2022 tax account information of the tax filer; or
+
+(2)	A signed copy of the income tax return and the applicable schedules that were filed with the IRS or other relevant tax authority of a U.S. territory, or a foreign government that lists 2022 tax account information of the tax filer.
+
+Qualified rollovers from one retirement account to another are not taxable, and they should not be counted as untaxed income (Untaxed portions of IRA distributions (d) or Pensions (e) above). Since neither a tax transcript nor FTI transferred via the FA-DDX identifies rollovers, you must get documentation from the tax filer. This could be a signed statement with the rollover amount or a notation by the filer on the tax transcript or return that includes the word “rollover” beside any applicable item, like the instruction the IRS gives for Form 1040. The annotation must be signed and dated by the filer. See VI-Q4 on the 
+Q and A page
+.
+
+ AGI and income tax documentation
+ 
+
+34 CFR 668.57(a)
+
+Income Information for Non-Tax Filers
+
+ 
+
+FAFSA Information
+
+Acceptable Documentation
+
+ 
+
+Income Earned from Work
+
+For an individual who has not filed and, under IRS or other relevant tax authority rules (e.g., the Republic of the Marshall Islands, the Republic of Palau, the Federated States of Micronesia, a U.S. territory or commonwealth or a foreign government), is not required to file a 2022 income tax return—
+
+(1)	A signed and dated statement certifying—
+
+That the individual is not required to file a 2022 income tax return; and
+
+The sources and amounts of earnings, other income, and resources that supported the individual(s) for the 2022 tax year;
+
+(2)	For individuals without a Social Security number (SSN), Individual Taxpayer Identification Number (ITIN), or Employer Identification Number (EIN), that they do not have an SSN, ITIN, or EIN;
+
+(3)	A copy of IRS Form W-2 for each source of 2022 employment income received or an equivalent document; and
+
+(4)	Except for dependent students, verification of non-filing for individuals who would file a return with a relevant tax authority other than the IRS dated on or after October 1, 2023.
+
+For non-tax filers you must request a W-2 form for each source of 2022 employment income and a signed statement certifying that the person has not filed and is not required to file a 2022 tax return. You must also get a signed statement giving the sources and amounts of the person’s income earned from work not found on W-2s. Students may sign on a nonfiling spouse’s behalf.
+
+For residents of the Freely Associated States (the Republic of the Marshall Islands, the Republic of Palau, or the Federated States of Micronesia), a copy of the wage and tax statement from each employer (substitute for W-2s) and a signed statement identifying any other employment income for the year not identified on the wage and tax statement is acceptable. Persons from a U.S. territory, commonwealth, or a foreign country who are not required to file a tax return can provide a signed statement, as well as any supporting documentation they might have (e.g., a form comparable to a U.S. W-2), certifying their income.
+
+The collection of documentation to verify income earned from work is used to determine if the applicant (and the applicable spouse or parent) was required to file a U.S. income tax return (or a return with a relevant tax authority) for the 2022 tax year. If the individual should have filed but failed to do so, that is conflicting information that you must resolve.
+
+If a W-2 is not Available
+
+If an individual who is required to submit an IRS Form W-2 did not save a copy, they should request a replacement W-2 from the employer who issued the original. A W-2 transcript from the IRS is also acceptable though it generally is not available until the year after the W-2 information is filed with the IRS (e.g., 2024 for 2022 information filed in 2023). If they are unable to obtain one in a timely manner, you may permit them to provide a signed statement that includes the amount of income earned from work, the source of that income, and the reason why the W-2 is not available in a timely manner.
+
+Family Size
+
+Since family size is based on the number of individuals listed and claimed on the IRS tax return, if transferred directly from the IRS and unchanged, family size does not need to be verified. However, when information is not transferred from the IRS, or if the applicant updated their family size when presented with the opportunity to do so on their FAFSA, the following documentation is sufficient for verification:
+
+A statement signed by the applicant and, if the applicant is a dependent student, by one of the applicant's parents, that lists the name and age of each family member for the 2024–25 award year and the relationship of that family member to the applicant.
+
+ Family size documentation
+ 
+
+34 CFR 668.57(b)
+
+For a dependent student, you don’t have to verify family size in the following situations:
+
+The family size is reported as two with a single, divorced, separated, or widowed parent; or
+
+The family size is reported as three with parents who are married or are unmarried and living together.
+
+For an independent student, you don’t have to verify family size in the following situations:
+
+The family size is reported as two if the student is married; or
+
+The family size is reported as one if the student is single, divorced, separated, or widowed.
+
+Keep in mind that family size needs to align with the answers to the relevant dependency status questions, such as the one about having dependents other than a spouse. If verification reveals that answers do not match, the FAFSA form needs to be corrected so that the information is in alignment.
+
+Identity and Statement of Educational Purpose
+
+Students should appear in person at your school and present a valid, unexpired, government-issued photo identification (ID) such as a U.S. passport, a driver’s license, or other state-issued ID. “Unexpired” means the ID has not expired at the time it is checked, even if it will expire before the end of the award year. A valid government-issued photo identification is one issued by the U.S. government, any of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, a federally recognized American Indian and Alaska Native Tribe, American Samoa, Guam, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau.
+
+You must maintain an annotated copy of that ID that includes the date it was received and the name of the person your school authorized to receive it.
+Your school may determine which of its staff are authorized to review an applicant’s identity. We recommend that the person(s) be full-time staff and the school keep a record of who they are.
+
+The following 
+are not sufficient
+ for identity verification:
+
+An ID issued by a state university or college.
+
+A military ID (18 U.S. Code § 701 prohibits it from being photocopied).
+
+Students must also sign (it must be a “wet” signature) a statement of educational purpose that certifies who they are and that the federal student aid they may receive will only be used for educational purposes and for the cost of attending the school for the 2024-25 year. Unlike the other suggested text provided in 
+GEN-23-12
+ the text for the “Statement of Educational Purpose” is not suggested—
+you must use the exact language given
+ (the student’s identification number is optional though if collected elsewhere on the same page as the statement). After examining the statement, you may convert it into an electronic record. You must keep that or the original for at least the required 
+Title IV
+ record retention period.
+
+A student who is unable to appear at your school must go to a notary public and sign the statement of educational purpose. They must then submit to your office that statement (again, with the “wet” signature), a certification from the notary that they appeared before the notary and presented a government-issued photo ID confirming their identity, and a copy of the same ID. Currently the Department does not authorize the use of online notary services as an alternative to traditional, in-person notary services.
+
+The 
+REAL ID Act
+ affects people entering certain restricted areas where identification is required: federal facilities, nuclear power plants, and federally regulated commercial airplanes. Because there are currently no restrictions under the act on agencies accepting an ID that is not compliant with the act (typically one marked “not for federal identification”) for other purposes, such an ID is acceptable for verification of identity/statement of educational purpose. It must be a government-issued ID that has not expired and includes the student’s photo and name.
+
+Reviewing and Using Documentation
+
+Using the Tax Return
+
+Although FTI transferred via the FA-DDX or an IRS tax transcript are preferable for completing verification, students can also submit a copy of the tax return and any applicable schedules. However, see the guidance under “victims of identity theft” later in this volume for an important caveat. The tax return will likely have been filed electronically with one of a variety of methods. These include do-it-yourself methods as well as completion by a tax preparer. Each method should permit printing of a paper copy of the return, though the e-file format might not contain every line item, showing instead only the data the tax filer provided. For example, if Item 2b, “Taxable interest,” does not appear on such a return, that means no taxable interest income was reported.
+
+You can accept a paper or electronic copy of the return if it contains a signature. Acceptable examples would include, but are not limited to:
+
+A signed paper return that the student either mailed or brought to the school.
+
+A signed paper return that the student faxed or scanned and emailed.
+
+An electronic copy that the student signed with a stylus or finger.
+
+An electronic copy that we consider signed because it has an image of the student’s signature attached.
+
+However, a signature on Form 8879, the IRS e-file Signature Authorization, is not an acceptable substitute for a signature on the tax return.
+
+For persons who have a tax professional prepare their return, instead of a copy of the return with the filer’s signature, you may accept one that has the name and PTIN of the preparer or has their SSN or EIN and has been signed, stamped, typed, or printed with their name and address. Note that the IRS requires paid preparers to have a PTIN.
+
+If a person did not retain a copy of their 2022 tax information and it cannot be located by the IRS or the relevant government agency, they must submit a signed statement indicating that they did not keep a copy of their tax information as well as documentation from the taxing authority indicating that the information cannot be located. Also, you must accept for an IRS filer either a copy of Form W–2 for each source of employment income received for 2022 or, if they are self-employed, a signed statement certifying the amount of AGI and taxes paid. For someone who filed an income tax return with a government of a U.S. territory or commonwealth or a foreign central government, accept a copy of a wage and tax statement or a signed statement certifying the amount of AGI and taxes paid for 2022.
+
+The following chart shows the tax form line numbers for the required verification items from IRS Form 1040 (or IRS Form 1040-NR).
+
+ 
+
+Item
+
+2022 IRS Form 1040 or IRS Form 1040-NR
+
+ 
+
+AGI
+
+Line 11
+
+ 
+
+Income earned from work
+
+Line 1z + Schedule 1: Lines 3 + 6
+
+ 
+
+U.S. income tax paid
+
+Line 24
+
+ 
+
+Untaxed portions of IRA distributions (excluding rollovers)
+
+Lines 4a – 4b
+
+ 
+
+Untaxed portions of pensions (excluding rollovers)
+
+Lines 5a – 5b
+
+ 
+
+IRA deductions and payments
+
+Schedule 1: Lines 16 + 20
+
+ 
+
+Tax exempt interest income
+
+Line 2a
+
+ 
+
+Education credits
+
+IRS Form 8863: Lines 8 + 19
+
+ 
+
+Foreign income exempt from federal taxation
+
+Schedule 1: Line 8d
+
+Using the Tax Transcript
+
+If applicants or contributors are unable to transfer data via the FA-DDX, you can use an IRS tax return transcript for the student, spouse, and/or parents, as applicable, to document information from the tax return. Before requesting a transcript, they should allow enough time to pass after filing the return; it takes the IRS two to four weeks to process returns filed electronically and six to eight weeks for mailed returns. Tax transcripts submitted to your school for verification do not need to be signed by the tax filer (but it is encouraged) unless you have reason to doubt their authenticity.
+
+There are a few ways to request a tax return transcript: online at 
+www.irs.gov/individuals/get-transcript
+, by calling 1-800-908-9946, or by mailing the paper Form 4506-T (or Form 4506-T-EZ), which can be printed from the IRS website. Phone requests are via an automated process instead of an IRS representative. With online requests, tax filers can get an electronic transcript (see below) or they can have the IRS mail them a paper transcript; non-online requests yield a mailed transcript. Schools can accept and copy transcripts originally obtained from the IRS.
+
+The Get Transcript Online feature allows users to get the transcript in real time as a portable document format (PDF) file, which they can submit electronically to a school or print and submit as a hard copy. To use the Get Transcript Online tool, users must have:
+
+Access to a valid email address,
+
+A text-enabled mobile phone in their name, and
+
+Specific financial account numbers, such as a credit card number or an account number for a home mortgage or auto loan. The process will not cause charges to the card or the account.
+
+See the 
+IRS.gov website
+ for more information on the Get Transcript Service.
+
+The IRS’s Income Verification Express Service (IVES) allows a third party to receive a tax filer’s transcript. The IVES participant submits a 4506-T or 4506-T-EZ form, signed by the tax filer, and receives the transcript from the IRS, which charges a small fee for the service. Schools may 
+apply to participate in IVES
+. They may also use a transcript from another IVES participant (which is not considered a third-party servicer in this case) for verification if they have no reason to doubt its authenticity. Schools may not pass on the charge for using this service to the student.
+
+To combat identity theft, the IRS masks much of the personally identifiable information on the transcript. For example, only the last four digits of any SSN or account or telephone number are displayed. The option on forms 4506-T and 4506-T-EZ to designate a third-party recipient of the transcript has been eliminated. As noted above, schools can elect to participate in IVES as a way of receiving transcripts directly from the IRS. Taxpayers will create a “customer file number” which appears on a requested transcript to help facilitate identification. This can be something like a student’s college ID number or some other number (but 
+not
+ an SSN). See the 
+October 4, 2018, announcement
+ and the 
+IRS news release
+ for more information.
+
+Each year the Department provides a tax return transcript matrix to assist schools with reviewing tax data. Specifically, the 
+tax return transcript matrix
+ consists of a chart of the FAFSA and ISIR tax items used for verification and their corresponding line items from the various IRS tax returns and the tax transcript for the appropriate award year. At the time the 
+2024-25 Application and Verification Guide
+ was published, the 2022 tax return transcript matrix had not been posted to FSA’s Knowledge Center. Please stay tuned to the electronic announcement section in the 
+Knowledge Center
+ for the latest information.
+
+The tax return transcript may show a 
+per computer amount
+ for some tax data that is different from what the filer reported to the IRS. The per computer amount should be used because it corrects mathematical errors and is more accurate than what appears on the original return. Also, if a transcript indicates “recomputed per computer,” that amount may be ignored for verification.
+
+Schools may accept for verification any IRS tax transcript that includes all the necessary information: adjusted gross income, income earned from work, U.S. income tax paid, untaxed IRA distributions, untaxed pensions, education credits, IRA deductions, tax exempt interest, and foreign income exempt from federal taxation. Because the record of account and the Return Transcript for Taxpayer (RTFTP) include all the above information, either may be used for verification. The Information Returns Processing Transcript Request—Wages (IRPTR-W) only provides wage information and therefore can only be used in lieu of a W-2 form. See the 
+February 23, 2017, electronic announcement
+ for information about the documents obtained from the IRS that are used for verification: the tax return transcript, the record of account, the account transcript, and the wage and income transcript. The announcement also explains Form 13873, which students or parents might receive when requesting documents from the IRS.
+
+Filers of non-IRS tax returns.
+ You may accept a transcript from a government of a foreign nation or a U.S. territory or commonwealth that has all the filer’s income and tax data to be verified. You may also accept a copy of the tax return, which must be signed by the filer or one of the filers of a joint return. Use the income and tax data that most closely corresponds to what is on the IRS tax return and convert monetary amounts into U.S. dollars as appropriate. If you question the accuracy of the information on the signed copy of the return, the filer must provide you with a copy of the tax account information issued by the tax authority. See DOC-Q28 on the 
+Q and A page
+.
+
+Special Cases
+
+Joint Return Filers Who Are No Longer Married
+
+When a student, or parents of a dependent student, filed a joint return and have separated, divorced, married someone else, or been widowed, the student must submit the following:
+
+A transcript obtained from the IRS or other relevant tax authority that lists 2022 tax account information of the tax filer(s); 
+or
+
+A copy of the income tax return and the applicable schedules that were filed with the IRS or other relevant tax authority that lists 2022 tax account information of the tax filer(s); 
+and
+
+A copy of IRS Form W-2 for each source of 2022 employment income received or an equivalent document.
+
+Using a Joint Return to Figure Individual AGI and Taxes Paid
+
+If the filer of a joint return has become widowed, divorced, or separated since filing the return, it may be necessary to determine the individual’s income and taxes paid using the joint return and W-2 forms. If a W-2 is not available (the filer is self-employed, for example) or if a duplicate copy from the employer who issued the original W-2 is not available in a timely manner, the school may permit the filer to provide a signed statement that certifies the base year AGI and U.S. taxes paid.
+
+Add the income amounts from the individual’s W-2 forms to any other income that can be extracted from the joint return. Any interest or business income earned on joint accounts or investments should be assessed at 50%. The same procedure should be used to divide business or farm profits or losses. Also, if the AGI listed on the joint return was adjusted, you should reduce the individual’s AGI by the portion of the adjustment that applies solely to individual on the FAFSA form.
+
+Use one of the following methods to figure the individual’s taxes paid:
+
+Tax table (preferred method).
+ Using the IRS Tax Table or Tax Rate Schedule for the appropriate year, calculate the amount of tax that would have been paid if a separate return had been filed. Use the deductions the individual could have claimed if the individual had filed a separate return. (If itemized deductions were taken, count only the portion of those deductions that could have been claimed on a separate tax return.)
+
+Proportional distribution.
+ Determine what percentage of the joint AGI was attributable to the individual, and then assess the joint taxes paid by that same percentage.
+
+Separating a joint return
+
+AVG, Chapter 4, Example 2:
+ A student’s application is selected for verification. The student filed joint return with their spouse in 2022 but have now divorced. The AGI on the student’s FAFSA matches the AGI of $56,500 on the 2022 tax return, which means it’s wrong because it includes the student’s former spouse's income.
+
+The student’s W-2 shows that their income for 2022 was $25,900, and the tax return shows $400 in interest. Because it was interest on a joint savings account, the aid administrator adds $200 of it to the student’s income and submits $26,100 as the corrected income.
+
+The aid administrator then determines that if the student had filed their tax return as single in 2022, their standard deduction would have been $12,950 (instead of $25,900 for married filers). The student’s income of $26,100 minus $12,950 for the standard deduction results in $13,150 in taxable income.
+
+The aid administrator uses the 2022 tax table to determine how much tax the student would have paid on this amount, considering any applicable credits reported on the original return. With a taxable income of $13,150, the tax amount from the tax schedule is $1,376.
+
+To use the proportional distribution method instead, the aid administrator figures out what percentage of the joint AGI student’s income represents. The percentage is 46% (26,100 ÷ 56,500 is .4619). The aid administrator then multiplies the income tax paid as reported on the tax return ($3,264 for this example) by this percentage. The student’s income tax by using this method is $1,501 (.46 x $3,264).
+
+Individuals with Filing Extensions
+
+For an individual who is required to file a 2022 IRS income tax return and has been granted a filing extension by the IRS beyond the automatic six-month extension for tax year 2022 the student must submit the following:
+
+A signed statement listing the sources of any 2022 income and the amount of income from each source;
+
+A copy of the IRS's approval of an extension beyond the automatic six-month extension for tax year 2022; 
+
+A copy of IRS Form W-2 for each source of 2022 employment income received or an equivalent document; and
+
+If self-employed, the signed statement must indicate the amount of estimated AGI and U.S. income tax paid for tax year 2022.
+
+You may require individuals with a filing extension to provide final income information to you after the return has been filed. If you do that, you must reverify the income information. If the student does not provide final income information, see the guidance described under the “Deadlines and Failure to Submit Documentation” section later in this chapter on failing to complete verification. See DOC-Q16 on the 
+Q and A page
+.
+
+For a person called up for active duty or qualifying National Guard duty during a war, another military operation, or a national emergency, a school must accept a statement from the person certifying that they have not filed an income tax return or a request for a filing extension because of that service.
+
+Filers of Amended Returns
+
+Students or parents who file an amended return (IRS Form 1040X) and provide consent and approval to retrieve FTI via the FA-DDX will 
+not
+ have their amended information transferred to the FAFSA form. The IRS will transfer only original tax information to the FAFSA form via the FA-DDX. However, there is currently no indicator on the FAFSA form that the tax return was amended and the original data may be inaccurate. If you are aware that an applicant or contributor filed an amended return, you are required to update or correct the applicant’s FAFSA form (with one exception, noted below). You will need to check the PJ flag on the corrected ISIR transaction to force FPS to use the manually entered tax information (instead of the FTI received via the FA-DDX) to calculate the student’s SAI and Pell Grant eligibility.
+
+Exception:
+ The Department acknowledged inconsistent tax data received via the FA-DDX for FAFSA forms processed prior to May 1, 2024. This issue was outlined in 
+Electronic Announcement GEN-24-29
+, published April 1, 2024. Specifically, in cases in which taxpayer information was updated through an amended tax return or other adjustments, the FA-DDX was transferring the most recent AGI and filing status and the original values for other tax return elements. The IRS updated the FA-DDX to include consistent tax data from the taxpayer’s original tax return and the Department reprocessed ISIR records impacted by this issue. For these reprocessed records 
+only
+, you are not required to update or correct the applicant’s FAFSA form based on an amended tax return. Refer to 
+Electronic Announcement GEN-24-49
+ for information on identifying reprocessed ISIRs.
+
+If the applicant is selected for verification and you are aware that the applicant or a contributor has filed an amended return, you must use the amended return information to complete verification. However, you are not required to confirm whether an amended return was filed as part of the verification process if you are not previously aware of such filing. You may still consider the FTI transferred from the IRS to be verified if you have no reason to believe the applicant or a contributor filed an amended return.
+
+Note:
+ This information was updated on April 17, 2024, based on 
+Electronic Announcement GEN-24-29
+. It was further updated on July 24, 2024, based on 
+Electronic Announcement GEN-24-71
+. For the most up-to-date information on FAFSA processing, please visit the 
+FAFSA Simplification Topics Page
+ on FSA’s Knowledge Center.
+
+Applicants or contributors unable to provide FTI via the FA-DDX may submit a signed copy of the 1040X form that was filed and one of the following documents to complete verification:
+
+Updated income and tax information from the IRS on an ISIR record with all tax information from the original tax return;
+
+A transcript obtained from the IRS that lists 2022 tax account information of the tax filer(s); or
+
+A signed copy of the 2022 IRS Form 1040 and the applicable schedules that were filed with the IRS.
+
+Because the tax return transcript does not reflect changes to the original return by the filer or the IRS, it is, by itself, not sufficient.
+
+When an amended return was filed, you must submit any changes to nondollar items and to single monetary items of $25 or more.
+
+Note that there may be instances when a student, spouse, or parent did not file a 1040X with the IRS but had their tax and income information amended by the IRS. In such a case a school may accept one of the items mentioned above plus documentation showing the IRS’s change(s).
+
+Victims of Tax-Related Identity Theft
+
+These individuals cannot get a return transcript or have their FTI transferred via the FA-DDX. Instead, they may submit the following:
+
+A Tax Return DataBase View (TRDBV) transcript obtained from the IRS; and
+
+A statement signed and dated by the tax filer indicating that they were a victim of IRS tax-related identity theft and that the IRS has been made aware of the tax-related identity theft.
+
+Tax filers may inform the IRS of the tax-related identity theft and obtain a TRDBV transcript by calling the IRS's Identity Protection Specialized Unit (IPSU) at 1-800-908-4490. Unless the institution has reason to suspect the authenticity of the TRDBV transcript provided by the IRS, a signature or stamp or any other validation from the IRS is not needed.
+
+See 
+DCL GEN-14-05
+ for a sample TRDBV transcript. Those who cannot obtain a TRDBV transcript may instead submit a copy of the tax return or another official IRS transcript or equivalent IRS document if it includes all the income and tax information required to be verified. Note that filers must first attempt to get a TRDBV before they can use a copy of the tax return or another transcript. Then, if the school has no reason to doubt the victim of identity theft or the accuracy of the document, it can be used to complete verification.
+
+Immigrants and Tax Filing
+
+Immigrants are not exempt from tax filing. The IRS is more concerned whether a person is a resident or nonresident rather than a legal or illegal alien. An alien is anyone who is not a U.S. citizen or national. A resident alien is one who either is a permanent resident or has resided in the U.S. for a specific minimum amount of time (has met the substantial presence test). All others are nonresident aliens. Resident aliens’ income is generally subject to tax in the same manner as U.S. citizens’, and they file Form 1040. Nonresident aliens who are required to file a return submit Form 1040NR, which is acceptable documentation for verification.
+
+Immigrants who do not have an SSN and are unable to get one can apply with the IRS for an individual taxpayer identification number (ITIN). The ITIN is only for tax purposes. It does not authorize a person to work, endorse his or her legal status, or entitle them to the earned income credit or Social Security benefits.
+
+See the IRS’s 
+Publication 519, U.S. Tax Guide for Aliens
+ at 
+www.irs.gov
+ for more information.
+
+Interim Disbursements
+
+Interim disbursements are allowed either prior to completing verification or after verification but before receiving the corrected FAFSA Submission Summary or ISIR. If you have no reason to question the accuracy of the information on the FAFSA form, prior to completing verification you may at your discretion:
+
+Make one disbursement of Pell and FSEOG funds for the applicant’s first payment period;
+
+Permit FWS employment for the first 60 consecutive days after the student enrolls for the award year; or
+
+Originate but not disburse a Direct Subsidized Loan.
+
+If verification results in changes to the FAFSA information that you determine will not alter award amounts, you may at your discretion also disburse a Direct Subsidized Loan prior to receiving the corrected valid FAFSA Submission Summary or ISIR (defined as a FAFSA Submission summary or ISIR on which all the information reported on a student’s FAFSA form is accurate and complete as of the date the application is signed).
+
+ Interim disbursements
+ 
+
+34 CFR 668.58
+
+Overpayments from Interim Disbursements
+
+If you make an interim disbursement of Pell or FSEOG funds prior to verification, your school is liable for any resulting overpayment. If you can’t eliminate it by reducing subsequent disbursements or having the student return the money, your school must use its own funds to reimburse the appropriate program by the earlier of 60 days after the student’s last day of attendance or the last day of the award year.
+
+If your school permits provisional FWS employment of students for up to 60 days prior to verification, your school is liable for any overpayment it can’t recover by adjusting other aid, and it must reimburse the FWS account from its own funds. Students must be paid for all work performed out of your school’s payroll account—they can’t be required to repay FWS wages earned except when they are proven guilty of fraud.
+
+Because interim disbursements were made at the school’s discretion, the school is ultimately responsible for repaying overpayment. Therefore, in this situation, a student does not owe a 
+Title IV
+ overpayment and must not be reported to NSLDS or referred to the Department for collection.
+
+If you make an interim disbursement after completing verification but prior to receiving a correct valid FAFSA Submission Summary or ISIR, and you fail to receive the FAFSA Submission Summary or ISIR within the deadlines discussed later in this chapter, your school must use its own funds to reimburse the appropriate program and ensure that the student is paid under its own payroll account for all work performed.
+
+ Recovery of funds from interim disbursements
+ 
+
+34 CFR 668.61
+
+Schools that Can’t Make Interim Disbursements
+
+Schools on the Heightened Cash Monitoring 2 (HCM2) and Reimbursement payment methods (see 
+Volume 4, Chapter 1
+) must, as part of their request for 
+Title IV
+ funds from the Department, submit documentation showing that students were eligible to receive the funds disbursed to them (and for which the schools are seeking reimbursement). Because final determination of student eligibility includes completing verification, HCM2 and reimbursement schools may not make interim disbursements.
+
+Updating Information
+
+Generally, a student cannot update information that was correct as of the date the application was signed because the FAFSA form is a “snapshot” of the family’s financial situation as of that date. For example, if the student’s family sold some stock after the student signed the FAFSA form and spent the money on an unreported asset such as a car, they cannot update their information to show a change in assets. After the FAFSA form is signed, only certain items can be updated under the following conditions:
+
+All applicants whose dependency status changes
+ must update that and the related FAFSA information throughout the award year except when the update is due to the student’s marital status changing.
+
+All applicants selected by the Department or a school for verification of family size
+ must update family size to be correct as of the date of verification unless the update is due to a change in the student’s marital status. Documenting family size is not required in a subsequent verification in the same year if the information has not changed.
+
+ Updating information
+ 
+
+34 CFR 668.55
+
+At your discretion you may update either dependency status or family size, even if the update is due to a change in the student’s marital status, if you deem it necessary to address an inequity or to reflect more accurately the student's ability to pay. Such a decision must be on a case-by-case basis, and you must document your reasons for it. You must also update all other pertinent information, such as spousal income and taxes paid, to be consistent with the new marital status. Do this first if the student is selected for verification, and then complete verification of the updated application. If you change the student's status to unmarried and that makes them dependent (because they were independent only due to marriage), the student’s FAFSA form must be updated with their parents’ information. Your school may have a policy of not considering such updates after a specific census date.
+
+However, you cannot update the marital status of an already independent student whose dependency status has not changed because of their marriage or divorce and who was not selected for verification. In such a case you must select the student for verification if you want to exercise your discretion to update their marital status and all other associated information.
+
+Parent Post-Application Marriage
+
+While the applicant does not typically update family size because of a change in their marital status, if the applicant is a dependent student and their parent marries or remarries between application and verification, the student must update family size to include the new stepparent. However, the student would not count the new stepparent’s income and assets. A school can use professional judgment to include the stepparent’s income or to otherwise account for the change.
+
+Correcting Errors
+
+As explained in the last section, you only make updates in specified situations, but for students who are not selected for verification, you or they must correct and submit for processing any errors reported on the original FAFSA form that would change the SAI or the students’ eligibility for 
+Title IV
+ aid.
+
+For students who are selected for verification and receiving subsidized student aid, changes to any non-dollar item and to any dollar item of $25 or more must be submitted for processing.
+
+Changes in a Selected Applicant's FAFSA
+
+To receive subsidized student aid, students or the school must submit for processing any changes resulting from verification to a non-dollar item or a single dollar item of $25 or more. Also, if you are required to submit 
+any
+ change through FPS because of verification, you must submit 
+all
+ changes, including amounts that are below $25.
+
+ Changes to FAFSA information
+ 
+
+34 CFR 668.59
+
+Pell Changes
+
+If FAFSA data changes, recalculate the Pell Grant using the information on the corrected valid FAFSA Submission Summary or ISIR. You can only pay an increased Pell Grant if you have that output document, and it supports an increased Pell award.
+
+If the FAFSA data change results in reduced Pell Grant eligibility and the student received an interim disbursement, adjust subsequent disbursements as necessary to eliminate the overpayment. Failing that, the student should reimburse the Pell Grant Program, or, if they do not return the overpayment, your school must reimburse the Pell program with its funds. If the student received Pell Grant money as a regular disbursement, they are responsible for repaying the overpayment. See 
+Volume 4, Chapter 3
+ for information on overpayments.
+
+Campus-Based and Direct Loan Changes
+
+If the correction results in a change in the SAI and the student received subsidized 
+Title IV
+ aid other than Pell Grant funds, then adjust the student's aid package using the information on the corrected valid FAFSA Submission Summary or ISIR. If there was an interim disbursement, comply with the relevant rules if the package must be reduced. If there was a regular disbursement and the package must be reduced, comply with FSEOG overpayment rules or with the rules for dealing with excess loan proceeds for Direct Subsidized Loans.
+
+Selection After Disbursement
+
+A student’s application might be selected for verification after corrections are submitted and the student has been paid based on the previous unselected FPS transaction. You must verify their application before making further disbursements. If verification does not justify aid already disbursed, then the student is responsible for repaying all aid for which they are not eligible, though the student may keep any Direct Loan money they received and FWS wages earned. See the guidance described under the “Deadlines and Failure to Submit Documentation” section later in this chapter for what happens if the student fails to complete verification.
+
+Verification selection after disbursement example
+
+AVG, Chapter 4, Example 3:
+ A student’s application isn’t selected for verification and they received Pell Grant and Direct Loans in the fall. In December, the student submits a correction on their FAFSA Submission Summary that causes the subsequent transaction to be selected for verification. The aid administrator at the student’s school tells the student to submit verification documents to receive aid for the spring and keep the Pell funds the student received for the fall. However, the student doesn’t submit the documents. The student does not have to repay the Direct Loan they received in the fall, but the student does have to return the Pell Grant, and the school must cancel the student’s aid package for the spring.
+
+Disbursing Unsubsidized Aid
+
+For students who are selected for Group V1 and are eligible for both subsidized and unsubsidized aid, a school may, on a case-by-case basis and with proper documentation, disburse Direct Unsubsidized and PLUS loans prior to completing verification that will be delayed. To avoid exceeding the student’s financial need, the school must consider the subsidized aid they will receive and adjust the aid amounts after verification if necessary.
+
+If the student never completes V1 verification, the student may keep the Direct Unsubsidized and PLUS loan aid that was disbursed. However, if the institution determines that the student was ineligible when they received aid, see the relevant guidance on returning aid in such situations in 
+Volume 4
+, Chapter 3.
+
+After Documentation Is Complete
+
+When you have obtained all necessary verification documents from the student, you should compare them to the FAFSA Submission Summary or ISIR you are reviewing for payment. If all the student’s information is correct or has been corrected and there are no outstanding issues or unresolved conflicting information, you may award and disburse aid for which the student is eligible.
+
+Sometimes schools ask if even further verification is needed to resolve discrepancies between the ISIR and what the student provided for verification. The answer is no unless you have reason to doubt the accuracy of the verification information. Acceptable documentation either confirms that an item was right on the ISIR, or it is used to correct that item. That is the purpose of verification; continued fact-finding is not necessary.
+
+How to Submit Corrections and Updates
+
+Corrections and updates can be submitted by the student on the FAFSA Submission Summary or the web or by the school using the FAFSA Partner Portal or the Electronic Data Exchange (EDE). In addition to the following information, see also 
+Volume 3 – Electronic Data Exchange and FAFSA Processing
+ of the 
+2024-25 FAFSA Specifications Guide
+.
+
+Note:
+ Batch corrections and updates may not be available at the time you need to begin making such corrections or updates due to the phased launch of the 2024-25 FAFSA process. However, these instructions are provided for future use when this functionality becomes available.
+
+Online FAFSA Form.
+ Students and other contributors can correct previously submitted data that was not imported from the IRS.
+
+FAFSA Partner Portal or EDE.
+ An FAA can submit corrections to a student’s application data using the FAFSA Partner Portal. Your school can submit corrections and updates electronically by entering the data manually in the FAFSA Partner Portal or by transmitting it to the FAFSA Processing System. However, you cannot update a contributor’s consent using EDE, a third-party software, or the FAFSA Partner Portal.
+
+If your school isn’t listed on the transaction you want to correct, the student must provide you with the DRN printed on the FAFSA Submission Summary. You can then add your school in the next available institution field and gain electronic access to the resulting corrected transaction. If all the fields are filled, the student must add your school code using the FAFSA online.
+
+Corrections and updates sent by a school must be based on reliable documentation in its possession that supports the changes to applicant data or signed documentation from the student or contributor. Examples of reliable documentation include applications for admission, acceptance letters, course registration information, or academic transcripts. Examples of signed documentation from a student or contributor on which corrections and updates may be based include a FAFSA Submission Summary, a copy of the correction or update, student/contributor statement, verification documents, or copies of tax returns or transcripts. These do not have to be wet signatures.
+
+The FPS will process the change, send an ISIR to the school, and send the student an updated FAFSA Submission Summary or, if the FPS has the student’s email address, an email with a link to view the student’s updated FAFSA Submission Summary on the web.
+
+Paper FAFSA Submission Summary.
+ Students who received a paper FAFSA Submission Summary may make corrections or updates on it, then sign and return it to the FAFSA processor at the address given at the end of the FAFSA Submission Summary. If a contributor’s information is also updated or corrected, that contributor also needs to sign the FAFSA Submission Summary before submitting it for processing. One parent must also sign if the student is dependent and parent data was changed, unless the only corrections are to the institution or housing codes, the address, or telephone number.
+
+Students who applied electronically are encouraged to return to their Dashboard on StudentAid.gov to make corrections. In future application cycles, students who applied electronically but would like to make corrections via paper can have a paper FAFSA Submission Summary mailed to them by calling the FSAIC at 1-800-4-FED-AID and providing their name, SSN, and date of birth. However, this feature will not be available for the 2024-25 FAFSA application cycle.
+
+Adding Schools and Changing a Student’s Address
+
+As with other changes, a student can add schools or change their address, email address, or telephone number online or on a paper FAFSA Submission Summary. A student can also update these items over the phone by calling 1-800-433-3243 and providing their DRN, though this feature may not be available until later in the application cycle. You can submit those changes for the student through the FAFSA Partner Portal if your school is listed on the student’s application, or you have the student’s DRN.
+
+The FAFSA form has limited space for a student to list schools that will receive the application data: 10 schools can be listed on the paper application; 20 schools can be listed on the online FAFSA. If the student wants information sent to more schools, the student can use any of the methods listed previously to replace some or all the original schools. If the student originally listed 20 schools on the application and then replaced two schools with two new ones, those that were replaced will not receive an ISIR from this correction or any subsequent correction on which they did not appear.
+
+Signatures
+
+Any required signatures, such as those on worksheets or on copies of tax returns, must be collected at the time of verification—they cannot be collected after the verification deadline for that award year.
+
+For verification documentation, a school may collect an electronic signature for an applicant, parent, or spouse if the process includes an assurance of the identity of the person signing. This is often accomplished with a PIN or password that is assigned only after the identity of the signer has been authenticated (
+DOC-Q12 on the Q and A page
+).
+
+Deadlines and Failure to Submit Documentation
+
+You must require students selected for verification—either by your school or the Department—to submit the documentation by the date specified by your school (for Campus-Based and Direct Loans) or the Department (for Pell).
+
+ Failure to submit documentation
+ 
+
+34 CFR 668.60
+
+Campus-Based and Direct Loans
+
+If a student doesn’t provide verification documentation within your school’s established, reasonable timeframe, you cannot:
+
+Disburse more FSEOG funds,
+
+Employ or permit further FWS employment, or
+
+Originate or disburse any additional Direct Loans (subsidized, unsubsidized, or PLUS).
+
+The student must repay any FSEOG funds received that year.
+If the student fails to complete verification within your school’s established timeframe and if you received any Direct Subsidized Loan funds for the student that you did not disburse, you must return some or all those funds under the excess cash tolerance regulation [see 
+FSA Handbook Volume 4, Chapter 1
+].
+
+If the student provides the required documentation after your school’s deadline, you may, at your discretion, provide aid if still within the Department’s overall verification deadlines.
+
+Pell Grants
+
+A student selected for verification may submit a valid FAFSA Submission Summary or a school can receive a valid ISIR after the Pell deadline but before the verification deadline published in the 
+Federal Register
+. If a student does not provide the verification documentation or you do not receive the valid FAFSA Submission Summary or ISIR (if necessary) within this additional time, they forfeit their Pell Grant for the award year and must return any Pell money already received for that year.
+
+ Verification completed within additional time for Pell
+ 
+
+34 CFR 668.60(c)(1)
+
+Other Considerations
+
+The Department may determine not to process the FAFSA form of an applicant who has been requested to provide documentation until they do so, or the Department decides there is no longer a need for it.
+
+A Pell applicant selected for verification must complete the process by the deadline published in the 
+Federal Register
+. The notice for the 2023-24 award year was published on 
+June 23, 2023
+. The deadline for the 2023-24 award year is September 21, 2024, or 120 days after the last day of the student’s enrollment, whichever is earlier. When the notice for 2024-25 is published, the corresponding deadline date is expected to be mid-September 2025. Applicants to Campus-Based programs and the Direct Loan program must complete verification by the same deadline or by an earlier one your aid office establishes.
+
+Verification is complete when you have all the requested documentation and a valid ISIR or FAFSA Submission Summary (one on which all the information is accurate and complete). This includes any necessary corrections, which must be made by the 
+Federal Register
+ deadlines for submitting paper or electronic corrections.
+
+Late Disbursements
+
+Generally, a student ceases to be eligible for aid once they have finished the payment period and/or is no longer enrolled. However, the student may submit verification documentation and receive a late disbursement after that time if the Department processed a FAFSA Submission Summary or ISIR with an official SAI while they were still enrolled. For information on post-withdrawal disbursements, see 
+Volume 5
+ and for more information on late disbursements, see 
+Volume 4
+.
+
+Verification Status Codes
+
+When you disburse a Pell Grant, you must report the student’s verification status through the Common Origination and Disbursement System (COD) even if they were not selected for verification.
+
+V
+—You have verified the student. This includes students selected by the FPS and those your school chose to verify based on its own criteria.
+
+W
+—The student was selected for verification by the FPS or your school, and you chose to pay a first disbursement of Pell without documentation (interim disbursement). 
+This code must be updated once verification is complete, or COD will reduce the Pell Grant to zero.
+
+S
+—The FPS selected the student for verification, but you did not verify the student because they satisfied one of the exclusions described earlier in the chapter (except the post-enrollment exclusion; see “Blank” next).
+
+Blank
+—Report a blank if you have not performed verification for other reasons, i.e., because neither the FPS nor your school selected the student or because the student was selected by the FPS after ceasing to be enrolled at your school and all (including late) disbursements were made. A blank also applies when you disbursed aid on an initial transaction not selected for verification, a later transaction is selected, and the student never completes verification.
+
+Suggested Verification Text
+
+To review the suggested text for the 2024-25 award year, see the attachment 
+GEN-23-12
+. The suggested text fulfills verification requirements, but schools do not have to use it, except as noted below. Instead, they may develop and use their own (or someone else’s) text, forms, documents, statements, and certifications that are specific to the items required to be verified for a particular student or group of students at the school. However, schools must not put the seal of the Department of Education on any verification documents.
+
+The one exception is that schools 
+must
+ use the exact language provided in the “Statement of Educational Purpose” for students who are placed in verification tracking groups V4 or V5. This does not include the accompanying notary’s certificate of acknowledgment; for that the school may use some other form, such as the one its state uses.
+
+Previous
+
+Next
+
+ Last Modified: 08/01/2024 • Published: 03/28/2021

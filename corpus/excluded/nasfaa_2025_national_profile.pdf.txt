@@ -1,0 +1,1761 @@
+ll NASFAA
+NATIONAL ASSOCIATION Of STUDENr FINANCIAL AIP ADNINlfflWORS
+Table of Contents
+Overview ................................................................................................................................................................................. 1
+The Federal Pell Grant Program .............................................................................................................................................. 4
+Campus-Based Aid Programs .................................................................................................................................................. 6
+The Federal Supplemental Educational Opportunity Grant Program .............................................................................. 6
+The Federal Work-Study Program .................................................................................................................................... 8
+The Federal Family Education Loan Program and William D. Ford Direct Student Loan Program ....................................... 14
+Repayment, Loan, and Delinquency Status .................................................................................................................... 19
+Public Service Loan Forgiveness ..................................................................................................................................... 22
+Federal Need Analysis ........................................................................................................................................................... 24
+Legislation Introduced in Congress in 2024 on Student Aid Topics ...................................................................................... 25
+Fiscal Year 2025 Budget and Appropriations Update ........................................................................................................... 26
+Conclusion ............................................................................................................................................................................. 27
+Appendix: Federal Student Aid Data by State ....................................................................................................................... 28
+Tables
+Table 1. Summary Descriptions of the Major Federal Student Aid Programs ........................................................................ 2
+Table 2. Number and Distribution of Pell Grant Recipients by Family Income Level, Award Year 2022-23 .......................... 4
+Table 3a. Number of Dependent Undergraduates Who Received Federal Supplemental Educational
+Opportunity Grants by Family Income Level, Award Year 2022-23 ................................................................................. 6
+Table 3b. Number of Independent Undergraduates Who Received Federal Supplemental Educational
+Opportunity Grants by Family Income Level, Award Year 2022-23 ................................................................................. 6
+Table 4a. Number of Dependent Undergraduates Who Received Federal Work-Study Awards by
+Family Income Level, Award Year 2022-23 ...................................................................................................................... 9
+Table 4b. Number of Independent Undergraduates Who Received Federal Work-Study Awards
+by Family Income Level, Award Year 2022-23 .................................................................................................................. 9
+Table 5. Federal Supplemental Educational Opportunity Grant and Federal Work-Study Obligated Funds
+by State, Award Year 2024-25 ........................................................................................................................................ 12
+Table 6. Undergraduates Who Received Federal Direct Subsidized Loans by Family Income Level,
+Award Year 2019-20 ....................................................................................................................................................... 17
+Table 7. Undergraduates Who Received Federal Direct Unsubsidized Loans by Family Income Level,
+Award Year 2019-20 ....................................................................................................................................................... 17
+Table 8. Undergraduates Whose Parents Received Federal Direct PLUS Loans by Family Income Level,
+Award Year 2019-20 ....................................................................................................................................................... 17
+Table 9. Graduate/Professional Students Who Received Federal Direct PLUS Loans by Income Level,
+Award Year 2019-20 ....................................................................................................................................................... 18
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs i
+Figures
+Figure 1. Distribution of Pell Grant Recipients by Type of Institution, Award Year 2022-23 ................................................. 4
+Figure 2. Federal Pell Grant Appropriations in Current and Inflation-Adjusted Dollars (in millions),
+2014-15 to 2023-24 .......................................................................................................................................................... 5
+Figure 3. Maximum Pell Grant Award in Current and Inflation-Adjusted Dollars, 2015-16 to 2024-25 ................................ 5
+Figure 4. Distribution of Federal Supplemental Educational Opportunity Grant Recipients by
+Type of Institution, Award Year 2022-23 ......................................................................................................................... 7
+Figure 5a. Federal Appropriations for the Federal Supplemental Educational Opportunity Grant Program
+in Current and Inflation-Adjusted Dollars (in millions), 2016-17 to 2025-26 ................................................................... 7
+Figure 5b. Federal Supplemental Educational Opportunity Grant Program Volume
+in Current and Inflation-Adjusted Dollars (in millions), 2014-15 to 2023-24 ................................................................... 8
+Figure 6. Distribution of Federal Work-Study Recipients by Type of Institution, Award Year 2022-23 ............................... 10
+Figure 7a. Federal Appropriations for the Federal Work-Study Program in Current and Inflation-Adjusted
+Dollars (in millions), 2016-17 to 2025-26 ....................................................................................................................... 10
+Figure 7b. Federal Work-Study Program Volume in Current and Inflation-Adjusted Dollars
+(in millions), 2014-15 to 2023-24 ................................................................................................................................... 11
+Figure 8. Federal Student Loan Volume (Inflation-Adjusted Dollars, in millions), 2014-15 to 2023-24 ............................... 18
+Figure 9. Dollars Outstanding (in billions), by Repayment Plan, as of Sept. 30, 2024 .......................................................... 19
+Figure 10. Percentage of Federal Direct Loan Dollars Outstanding by Loan Status, as of Dec. 1, 2024 .............................. 20
+Figure 11. Federal Direct Loan & ED-Held Federal Family Education Loan Dollars Outstanding (in billions),
+by Loan Status, as of Sept. 30, 2024 ............................................................................................................................... 21
+Figure 12. Bills Introduced in 2024, by Topic ........................................................................................................................ 25
+Figure 13. Total Bills Introduced in Previous Six Years ......................................................................................................... 25
+ii © 2025 - National Association of Student Financial Aid Administrators
+Overview
+The National Association of Student Financial Aid Administrators’ (NASFAA) National Student Aid Profile is an annual
+publication designed to give a high-level overview of the federal student financial aid programs that provide funding to
+millions of students each year.
+In this profile, you will find an o verview of:
+● The Federal Pell Grant Program
+● The Federal Supplemental Educational Opportunity Grant (FSEOG) Program
+● The Federal Work-Study Program
+● The Federal Direct Subsidized and Unsubsidized Loan Programs
+● The Federal Direct PLUS Loan Program
+For each program, in addition to a basic de scription, you will find the most up-to-date data and information on the:
+● Number of Recipients
+● Total Volume of Awards
+● Federal Funding Levels
+● Distribution by Family Income
+In addition, we provide an appropr iations update on Title IV program funding for the 2025-26 award year.
+Due to the impacts of the coronavirus pandemic (COVID-19), the U.S. Department of Education (ED) took action to
+mitigate the negative economic effects on federal student loan borrowers by providing a number of flexibilities. These
+temporary flexibilities included a suspension of loan payments and interest accrual, and a halt to collections on
+defaulted loans. Interest on federal student loans began to accrue on Sept. 1, 2023, and student loan borrowers
+resumed making monthly payments in October 2023. In order to promote borrower success, ED provided a 12-month
+on-ramp back into repayment through Sept. 30, 2024. During this period, interest continued to accrue but borrowers
+were not reported as delinquent if they missed a payment, and their loans did not go into default. In addition, ongoing
+litigation around the Saving on a Valuable Education (SAVE) student loan repayment plan created uncertainty for some
+borrowers and may have affected the return to repayment process. As of August 2025, nearly 8 million SAVE plan
+borrowers remain in a forbearance status, which may skew early data on repayment trends and borrower outcomes.
+The overall impacts of the COVID-19 pandemic on student loan borrowing, repayment, and other aspects of federal
+student aid may not be known for several years. NASFAA will continue to update our National Student Aid Profile with
+new data as it is released annually to help further inform the community.
+If you have any questions or would like more information, you may reach out to NASFAA’s Policy & Federal Relations
+staff at policy@nasfaa.org or 202-785-0453.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 1
+Table 1. Summary Descriptions of the Major Federal Student Aid Programs
+Number of Recipients Volume
+Program Name Program Description and Average Awards 2023-24
+Federal Pell Gra nt Provides grants to low -income undergraduates Approximately 6.5 The tota l
+who have not yet earned a first bachelor’s million recipients in federal
+degree with the greatest demonstrated 2023-24. The average volume for
+financial need. The 2024-25 maximum award award was $4,818. Just Pell Grants
+was $7,395 and the minimum award amount over 75% of recipients was $31.5
+for a full-time student was $740. For 2025-26, had family incomes of billion.
+the maximum award is $7,395 and the less than $40,000.
+minimum award amount for a full-time student
+is $740.
+Federal Provides grants to low-income undergraduates Approximately 1.4 The total
+Supplemental with the greatest demonstrated financial need. million recipients in federal
+Educational Maximum award is $4,000; minimum award is 2022-23. The average volume was
+Opportunity Grant $100. Priority must be given to students who award was $801. Just $1.1 billion.
+(FSEOG) receive federal Pell Grants, and FSEOG must be over 64% of dependent
+offered first to students who have the lowest recipients came from
+expected family contributions. At least 25% of families with an income
+FSEOG dollars must come from institutional of less than $30,000.
+resources.
+Federal Work-Study Provides pa rt-time jobs to financially needy Approximately 419,932 The total
+(FWS) undergraduate and graduate/professional recipients in 2022-23. federal
+students. Jobs must, to the extent possible, be The average award was volume was
+related to students’ academic or career goals. $2,267. Of dependent $952 million.
+Institutions must generally contribute at least undergraduate
+25% of wages paid. recipients, roughly 42%
+had family incomes
+below $42,000.
+2 © 2025 - National Association of Student Financial Aid Administrators
+Table 1. Summary Descriptions of the Major Federal Student Aid Programs (continued)
+Number of Recipients Volume
+Program Name Program Description and Average Awards 2023-24
+Federal Direct Provides low-interest loans to financially Approximately 4.2 The tota l loan
+Subsidized Loan needy undergraduate students. Interest on the million borrowers in volume was
+loans is paid by the government while 2023-24. Average loan $15.7 billion.
+borrowers are in school, in the grace period, of $3,759.
+and during deferment. Borrowing is subject to
+annual and aggregate loan limits. Borrowers
+begin repaying loans six months after ceasing
+at least half-time enrollment in postsecondary
+education, unless the borrower qualifies for
+deferment. Cancellation of loans is available
+for employment in certain designated fields,
+under certain conditions.
+Federal Direct Provides low-interest loan s to undergraduate Approximately 5.6 The total loan
+Unsubsidized Loan and graduate/professional students. Loans are million borrowers in volume was
+provided regardless of a borrower’s income or 2023-24. Average loan $43.8 billion.
+financial need, as long as total aid does not of $4,136 for
+exceed cost of attendance. Recipients are undergraduate
+charged interest on the loans at all times. students and $19,313
+Borrowing is subject to annual and aggregate for graduate students.
+loan limits; limits are higher for independent
+students. Unless borrowers qualify for
+deferment, loan repayment begins six months
+after they cease at least half-time enrollment
+in postsecondary education. Cancellation of
+loans is available for borrowers employed in
+designated fields, under certain conditions.
+Federal Direct PLUS Provides loans to (1) the parents of depend ent Approximately 612,814 PLUS borrowers
+Loan undergraduates, as defined by the Higher parent borrowers in (parents and
+Education Act, and (2) graduate and 2023-24. Average loan graduate/
+professional students. Borrowers may obtain of $19,733. In the professional
+loans up to the full amount of the cost of same award year, an students)
+education, minus any aid students receive estimated 444,452 received $26.2
+from other sources. Loans are provided graduate/professional billion.
+regardless of income, but borrowers must pass students borrowed an
+a credit check or obtain an endorser. average of $31,719 in
+Grad PLUS loans.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 3
+The Federal Pell Grant Program
+Program Description. The federal Pell Grant program is the “foundational” federal student aid program. The program
+provides grants to financially needy undergraduate students who have not yet earned their first bachelor’s degree to
+help pay the costs of attending a postsecondary institution. (In very limited circumstances, post-baccalaureate students
+in teacher education programs may also qualify for Pell Grants.) Schools must determine a student’s federal Pell Grant
+eligibility before calculating eligibility for other federal student aid programs. During the annual congressional
+appropriations process, the minimum and maximum Pell Grant award levels are established for the upcoming award
+year. In award year 2024-25, grants ranged from $740 to $7,395. In award year 2025-26, grants will range from $740 to
+$7,395. The amounts students receive are based on their educational costs and the family’s ability to contribute to
+college costs. View the appendix to see data on the Federal Pell Grant program disaggregated by state.
+Figure 1. Distribution of Pell Grant Recipients by Type of Institution, Award Year 2022-23
+14.9%
+Public 4-year
+43.5%
+Public 2-year
+16.9%
+Private nonprofit
+Proprietary
+24.6%
+Source: U.S. Department of Education, Federal Pell Grant Program End-of-Year Report, 2022-23.
+Table 2. Number and Distribution of Pell Grant Recipients by Family In come Level, Award Year
+2022-23
+Family Income Level Number Percentage
+$6,000 or less 1,159,442 19%
+$6,001 to $15,000 865,575 14%
+$15,001 to $20,000 579,849 10%
+$20,001 to $30,000 1,081,801 18%
+$30,001 to $40,000 795,710 13%
+$40,001 to $50,000 601,014 10%
+$50,001 to $60,000 425,137 7%
+$60,001 and over 524,446 9%
+Total 6,032,974 100%
+Source: U.S. Department of Education, Federal Pell Grant Program End-of-Year Report, 2022-23.
+4 © 2025 - National Association of Student Financial Aid Administrators
+Figure 2: Federal Pell Grant Expenditures in Current and Inflation-Adjusted Dollars (in millions),
+2014-15 to 2023-24
+$39,419
+$40,000
+$36,715
+$35,641
+$34,143 $34,473 $33,869
+$35,000
+$31,159 $31,415
+$29,091
+$28,330
+$30,000
+$31,415
+$30,626
+$25,000
+$28,559 $28,672$28,409$28,417
+$27,210
+$26,894 $26,466
+$25,870
+$20,000
+Current
+$15,000 Inflation-adjusted
+$10,000
+$5,000
+$0
+Source: The College Board, Trends in Student Aid, 2024.
+Figure 3: Maximum Pell Grant Award in C urrent and Inflation-Adjusted Dollars, 2015-16 to
+2024-25
+$9,000
+$8,000 $7,603 $7,580 $7,593 $7,599 $7,599 $7,733 $7,510 $7,311 $7,615 $7,395
+$7,000
+$7,395 $7,395
+$6,000 $6,895
+$6,095 $6,195 $6,345 $6,495
+$5,000 $5,775 $5,815 $5,920
+$4,000
+Current
+$3,000
+Inflation-adjusted
+$2,000
+$1,000
+$0
+Source: U.S. Department of Education, Federal Pell Grant Program End-of-Year Report, 2022-2023; FSA data from website, 2025.
+Inflation-adjusted to 2024 dollars calculated by NASFAA, using the Consumer Price Index (CPI-U) for the July beginning of the
+academic year.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 5
+Campus-Based Aid Programs
+The U.S. Department of Education (ED) requires schools to contribute a portion of the funding for campus-based aid
+programs, but financial aid administrators at each participating postsecondary institution must use federal program
+guidelines to determine which students will receive awards and how much they will receive. These programs include the
+Federal Supplemental Educational Opportunity Grant program and the Federal Work-Study program.
+The Federal Supplemental Educational Opportunity Grant Program
+Program Description. The Federal Supplemental Educational Opportunity Grant (FSEOG) program provides grants to
+financially needy undergraduates at postsecondary institutions. Financial assistance from the FSEOG program generally
+supplements the aid students receive from other sources. Students must have “exceptional” financial need to receive
+FSEOG awards. Schools must give priority to students who receive federal Pell Grants, and awards must first be made to
+students with exceptional need. It should be noted that institutions may, but are not required to, treat all negative
+Student Aid Indexes (SAI) — the number used to calculate financial need for federal student aid — (down to -1500) as
+equal to an SAI of zero in their selection criteria. Alternatively, institutions may elect to use negative SAIs to further
+distinguish among students with the greatest financial need. The minimum FSEOG award is $100, and the maximum is
+$4,000. Institutions that participate in the program receive federal allocations to distribute awards. These institutions
+must match their federal allocations with funds from their own resources, so that no more than 75% of FSEOG awards
+represent the federal share. View the appendix to see data on the FSEOG program broken down by state.
+*Effective with the 2024-25 aid year, the Student Aid Index (SAI), replaced the Estimated Family Contribution (EFC). All
+2025 profile data reflecting aid years prior to the 2024-25 aid year use the EFC.
+Table 3a. Number of Dependent Undergraduates Who Received Federal Supplemental
+Educational Opportunity Grants by Family Income Level, Award Year 2022-23
+Recipients Total FSEOG Dollars Average
+Family Income Level Recipients Percentage Dollars * Percentage FSEOG Award
+Less than $6,000 140,037 15.3% $130,201,624 14.4% $930
+$6,000 to $11,999 73,637 8% $69,392,220 7.7% $942
+$12,000 to $23,999 234,734 25.6% $222,353,137 24.6% $947
+$24,000 to $29,999 123,265 13.5% $118,963,459 13.2% $965
+$30,000 to $41,999 169,149 18.5% $169,555,654 18.8% $1,002
+$42,000 to $59,999 118,422 12.9% $126,243,638 14% $1,066
+$60,000 and over 56,671 6.2% $66,193,953 7.3% $1,211
+Total* 915,915 100.0% $902,903,685 100.0% $1,009
+Table 3b. Number of Independent Undergraduates Who Received Federal Supplemental
+Educational Opportunity Grants by Family Income Level, Award Year 2022-23
+Recipients Total FSEOG Dollars Average FSEOG
+Family Income Level Recipients Percentage Dollars * Percentage Award
+Less than $2,000 193,099 24.1% $129,483,086 26.4% $671
+$2,000 to $3,999 46,251 5.8% $26,701,181 5.5% $577
+$4,000 to $7,999 76,241 9.5% $51,147,565 10.4% $671
+$8,000 to $11,999 87,468 10.9% $56,197,560 11.5% $642
+$12,000 to $15,999 56,378 7% $33,691,834 6.9% $598
+$16,000 to $19,999 53,047 6.6% $30,560,235 6.2% $576
+$20,000 and over 287,481 36% $161,996,831 33.1% $567
+Total* 799,965 100.0% $489,778,292 100.0% $612
+*Total dollar amounts include federal funds and institutional matching funds.
+Source for Tables 3a and 3b: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+6 © 2025 - National Association of Student Financial Aid Administrators
+Figure 4. Distribution of Federal Supplemental Educational Opportunity Grant Recipients by Type
+of Institution, Award Year 2022-23
+7.7%
+5.3%
+26.4%
+Public 2-year
+Public 4-year
+Private nonprofit 2-year
+22.6%
+Private nonprofit 4-year
+Proprietary 2-year
+Proprietary 4-year
+1.5%
+36.5%
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+Figure 5a. Federal Appropriations for the Federal Supplemental Ed ucational Opportunity Grant
+Program in Current and Inflation-Adjusted Dollars (in millions), 2016-17 to 2025-26
+$1,200
+$1,073 $1,054 $1,085 $1,051
+$1,100
+$981 $963 $984 $962 $931 $910
+$1,000
+$900
+$910 $910 $910
+$800
+$840 $840 $865 $880 $895
+$700
+$733 $733
+$600
+$500 Current
+$400
+Inflation-adjusted
+$300
+$200
+$100
+$0
+Note: Does not include institutional matching funds.
+Source: NASFAA, “National Student Aid Profile 2024”; Federal Student Aid, “2025-26 Final Funding Authorizations for the Campus-
+Based Programs (Updated April 10, 2025).”
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 7
+Figure 5b. Federal Supplemental Educational Opportunity Grant Program Volume in Current and
+Inflation-Adjusted Dollars (in millions), 2014-15 to 2023-24
+$2,000
+1,717
+$1,800
+1,626
+1,422 1,436
+$1,600
+1,374
+1,258 1,270 1,249 1,256 1,342
+$1,400
+1,451 1,448
+1,395
+$1,200
+1,342
+1,194
+$1,000 1,135
+Current
+$987 1,008
+$800 $983 $993 Inflation-adjusted
+$600
+$400
+$200
+$0
+Note: The HEA permits institutions to transfer up to 25% of its Federal Work-Study (FWS) funds to the FSEOG program. The CARES
+Act, The CRRSA Act and the ARP Act, the major legislations enacted during the COVID-19 national emergency that created the HEERF
+funding streams, all permitted institutions to transfer 100% of unexpended FWS to FSEOG during the pandemic. This impacted a
+portion of award year 2019-20, all of 2020-21 and 2021-22, as well as a portion of 2022-23, and likely caused the increase in FSEOG
+volume in those years.
+**Total dollar amounts include federal funds and institutional matching funds.
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+The Federal Work-Study Program
+Program Description. The Federal Work-Study (FWS) program provides part-time jobs to undergraduate, graduate, and
+professional students at postsecondary institutions. Generally, aid from the FWS program supplements the assistance
+students receive from federal Pell Grants and other sources. The FWS program is a need-based program; that is,
+recipients must have demonstrated financial need to be awarded FWS.
+For most FWS jobs, the federal program funds are used to pay 75% of th e students’ wages. The remaining 25% is
+provided by the institution or the students’ employers. (Private for-profit businesses that employ FWS recipients must
+pay at least 50% of students’ wages from their own resources.) A lower non-federal share is permitted under specific
+limited conditions. View the appendix to see data on the FWS program disaggregated by state.
+8 © 2025 - National Association of Student Financial Aid Administrators
+Table 4a. Number of Dependent Undergraduates Who Received Federal Work-Study Awards by
+Family Income Level, Award Year 2022-23
+Recipients Total FWS Dollars Average FWS
+Family Income Level Recipients Percentage Dollars* Percentage Award
+Less than $6,000 23,872 6.7% $47,932,242 6.8% $2,008
+$6,000 to $11,999 11,865 3.3% $26,101,436 3.7% $2,200
+$12,000 to $23,999
+37,586 10.5% $81,101,460 11.6% $2,158
+$24,000 to $29,999 22,994 6.4% $46,397,910 6.6% $2,018
+$30,000 to $41,999 44,783 12.5% $90,804,964 13% $2,028
+$42,000 to $59,999 58,922 16.4% $119,257,205 17.1% $2,024
+$60,000 and over 158,537 44.2% $286,973,432 41.1% $1,833
+Total* 358,559 100.0% $698,568,649 100.0% $2,038
+Table 4b. Number of Independent Undergraduates Who Received Federal Work-Study Awards by
+Family Income Level, Award Year 2022-23
+Recipients Total FWS Dollars Average FWS
+Family Income Level Recipients Percentage Dollars* Percentage Award
+Less than $2,000 15,400 27.5% $35,203,597 26.9% $2,286
+$2,000 to $3,999 3,687 6.6% $8,756,896 6.7% $2,375
+$4,000 to $7,999 6,778 12.1% $15,066,128 11.5% $2,223
+$8,000 to $11,999 6,304 11.3% $14,386,755 11% $2,282
+$12,000 to $15,999 5,446 9.7% $12,151,627 9.3% $2,231
+$16,000 to $19,999 3,629 6.5% $9,326,224 7.1% $2,570
+$20,000 and over 14,685 26.3% $35,858,606 27.4% $2,528
+Total* 55,929 100.0% $130,749,833 100.0% $2,338
+*Total dollar amounts include federal funds and institutional matching funds.
+Source for Tables 4a and 4b: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 9
+Figure 6. Distribution of Federal Work-Study Recipients by Type of Institution, Award Year 2022-23
+0.5% 1.1%
+14.0%
+Public 2-year
+Public 4-year
+47.4% Private nonprofit 2-year
+Private nonprofit 4-year
+34.0%
+Proprietary 2-year
+Proprietary 4-year
+2.9%
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+Figure 7a. Federal Appropriations for the Federal Work-Study Program in Current and Inflation-
+Adjusted Dollars (in millions), 2016-17 to 2025-26
+$1,600
+$1,479
+$1,444
+$1,418 $1,421
+$1,325 $1,331
+$1,400
+$1,300 $1,300 $1,259
+$1,230
+$1,200
+$1,180 $1,190 $1,210 $1,230 $1,230 $1,230
+$1,130 $1,130
+$1,000
+$990 $990
+$800
+Current
+$600 Inflation-adjusted
+$400
+$200
+$0
+Note: Does not include non-federal matching funds.
+Source: NASFAA, “National Student Aid Profile 2024”; Federal Student Aid, “2025-26 Final Funding Authorizations for the Campus-
+Based Programs (Updated April 10, 2025).”
+10 © 2025 - National Association of Student Financial Aid Administrators
+Figure 7b. Federal Work-Study Program Volume in Current and Inflation-Adjusted Dollars (in
+millions), 2014-15 to 2023-24
+$1,600
+$1,408 $1,401
+$1,375
+$1,350 $1,342
+$1,400
+$1,257
+$1,200
+$1,050
+$1,152 $961 $976
+$1,000 $1,086
+$1,100 $1,096 $1,127 $832 $1,050
+$1,009
+$948
+$800
+$856
+Current
+$600 $703 Inflation-adjusted
+$400
+$200
+$0
+Note: The HEA permits institutions to transfer up to 25% of its Federal Work-Study (FWS) funds to the FSEOG program. The CARES
+Act, the CRRSA Act, and the ARP Act, the major legislations enacted during the COVID-19 national emergency that created the HEERF
+funding streams, all permitted institutions to transfer 100% of unexpended FWS to FSEOG during the pandemic. This impacted a
+portion of award year 2019-20, all of 2020-21 and 2021-22, as well as a portion of 2022-23, and is likely responsible for the lower
+FWS volume in those years.
+**Total dollar amounts include federal funds and institutional matching funds.
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+The following table lists 2024-25 federal allocations for FSEOG and FWS by state. Approved allocations for FSEOG total
+$903,338,207 for 3,399 schools, with FWS obligated funds totaling $1,211,634,298 for 2,951 schools. These programs
+operate in all 50 states, the District of Columbia, and six U.S. territories. The five states with the largest total FSEOG and
+FWS award amounts include California, Texas, New York, Florida, and Pennsylvania.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 11
+Table 5. Supplemental Educational Opportunity Grant and Federal Work-Study Obligated Funds
+by State, Federal Award Year 2024-25
+FSEOG FWS
+Participating Participating
+State Allocation Allocation
+Institutions Institutions
+Alabama 54 $12,832,401 51 $17,159,259
+Alaska 8 $1,066,267 7 $750,270
+American Samoa 1 $100,091 1 $85,717
+Arizona 45 $33,327,791 33 $22,725,918
+Arkansas 46 $5,925,080 44 $7,961,715
+California 382 $115,554,504 323 $149,939,853
+Colorado 51 $14,217,906 46 $17,018,537
+Connecticut 29 $13,403,707 26 $16,792,081
+Delaware 8 $1,940,172 7 $1,968,798
+District Of Columbia 12 $8,235,093 10 $12,536,827
+Florida 145 $49,504,174 98 $60,787,442
+Georgia 88 $23,743,980 84 $30,566,530
+Guam 3 $218,388 3 $525,765
+Hawaii 15 $1,904,223 13 $2,561,367
+Idaho 11 $2,550,741 10 $3,221,680
+Illinois 131 $35,321,145 121 $51,849,834
+Indiana 60 $19,123,085 52 $23,153,048
+Iowa 59 $8,291,356 50 $11,703,197
+Kansas 52 $6,156,961 54 $9,669,470
+Kentucky 53 $11,057,039 49 $16,990,700
+Louisiana 51 $10,623,696 39 $17,305,720
+Maine 26 $7,176,715 24 $8,543,143
+Maryland 53 $14,398,715 46 $18,986,203
+Massachusetts 97 $28,356,401 88 $49,174,388
+Michigan 79 $24,013,473 73 $32,886,681
+Minnesota 70 $18,969,298 69 $21,508,088
+Mississippi 31 $8,965,982 30 $12,506,223
+Missouri 73 $13,270,699 67 $21,109,537
+Montana 21 $1,524,833 21 $3,159,034
+Nebraska 30 $5,102,932 28 $6,882,846
+12 © 2025 - National Association of Student Financial Aid Administrators
+FSEOG FWS
+Participating Participating
+State Allocation Allocation
+Institutions Institutions
+Nevada 11 $3,804,771 9 $5,619,968
+New Hampshire 18 $14,098,398 17 $7,512,253
+New Jersey 87 $19,863,172 51 $24,058,043
+New Mexico 24 $4,655,823 22 $7,065,787
+New York 253 $61,521,551 199 $109,258,737
+North Carolina 119 $23,211,165 117 $33,130,018
+North Dakota 18 $2,694,818 18 $3,200,297
+Northern Mariana Is. 1 $108,159 1 $88,787
+Ohio 125 $25,628,352 100 $36,657,372
+Oklahoma 53 $8,949,932 41 $13,529,454
+Oregon 47 $10,120,868 42 $14,054,053
+Palau 1 $38,222 1 $127,850
+Pennsylvania 158 $36,672,336 131 $59,043,631
+Puerto Rico 77 $14,148,511 67 $18,220,674
+Rhode Island 12 $5,286,886 12 $7,920,143
+South Carolina 58 $12,665,647 56 $15,216,678
+South Dakota 19 $2,668,372 17 $3,867,048
+Tennessee 83 $15,753,202 74 $23,593,116
+Texas 181 $65,458,532 164 $80,145,061
+Utah 17 $15,412,050 15 $6,897,448
+Vermont 12 $4,590,177 11 $5,177,646
+Virgin Islands 1 $69,191 1 $85,594
+Virginia 78 $21,860,463 69 $39,190,939
+Washington 64 $14,320,958 59 $19,794,163
+West Virginia 33 $4,346,243 29 $5,795,846
+Wisconsin 56 $17,565,116 52 $21,400,427
+Wyoming 9 $948,444 9 $953,394
+Totals 3,399 $903,338,207 2,951 $1,211,634,298
+Source: U.S. Department of Education, Notification of Campus-Based Funding for the 2024-25 Award Year.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 13
+The Federal Family Education Loan Program and
+the William D. Ford Direct Student Loan Program
+Program Description. Before July 1, 2010, Title IV of the Higher Education Act (HEA) authorized two programs for
+distributing loans to students and parents of dependent undergraduate students. While the terms of the loans ran
+parallel between the two programs, the difference was the funding source. The Federal Family Education Loan (FFEL)
+program, formerly known as the Guaranteed Student Loan program, utilized private and nonprofit sector funding under
+a system of federal guarantees and support. The FFEL program ceased operations in July 2010 (other than the collection
+and servicing of outstanding loans) in favor of maintaining just one loan program, the William D. Ford Direct Student
+Loan program, which is federally funded and administered by ED. The Direct Loan program continues to provide low-
+interest loans to undergraduate and graduate/professional students and parents of dependent undergraduate students
+to help pay the costs of attending postsecondary institutions. Loans are “entitlements,” which means that all eligible and
+qualified borrowers may receive the program funds and benefits, but borrowers are subject to annual and aggregate
+limits.
+The Di rect Loan program is an umbrella for four loans made for undergraduate and graduate study (as was the FFEL
+program):
+● Federal Direct Subsidized Loans (also referred to as Subsidized Stafford Loans)
+● Federal Direct Unsubsidized Loans (also referred to as Unsubsidized Stafford Loans)
+● Federal Direct PLUS Loans, which are made to parents of dependent students and to graduate and professional
+students
+● Consolidation Loans, a repayment option rather than a loan made for attendance at an institution
+Borrowers of Federal Direct Loans pay an origination fee on every new loan disbursed. Established in statute, for Federal
+Direct Subsidized and Unsubsidized Loans, the origination fee is 1%, and for Federal Direct PLUS Loans the fee is 4%.
+Under sequestration imposed in the Budget Control Act of 2011, origination fees are increased annually based on the
+mandatory adjustment percentage provided by the Office of Management and Budget. The sequester-required changes
+for fiscal year 2026 are equal to those of fiscal year 2025, resulting in the same origination fees for loans and grants
+disbursed between Oct. 1, 2024-Sept. 30, 2025, and Oct. 1, 2025-Sept. 30, 2026.
+Federal Direct Subsidized and
+Loans First Disbursed Federal Direct PLUS Loans
+Unsubsidized Loans
+Oct. 1, 2019 to Sept. 30, 2020 1.057% 1.059%
+Oct. 1, 2020 to Sept. 30, 2026 4.228% 4.236%
+Interest rate structures have varied greatly over the years — sometimes variable with a maximum cap, sometimes fixed.
+As written in the Bipartisan Student Loan Certainty Act of 2013, all Direct Loans, except for Direct Consolidation Loans,
+with a first disbursement date on or after July 1, 2013, have variable fixed, market-based interest rates. Interest rates for
+new Direct Loans will change every July 1 based on market rates and then remain fixed for the life of that loan. All
+interest rates will apply to loans disbursed on or after July 1 of a given year through June 30 of the following year only.
+This law also provides protection to consumers from market spikes by placing rate caps of:
+● 8.25% on Federal Direct Subsidized Loans and Federal Direct Unsubsidized Loans for undergraduate students
+● 9.5% for Federal Direct Unsubsidized Loans for graduate/professional students
+● 10.5% for Parent/Graduate Federal Direct PLUS Loans
+14 © 2025 - National Association of Student Financial Aid Administrators
+ED calculates the interest rates for these loans using a base 10-year Treasury Note Index, plus an add-on amount for
+each loan program. The following chart outlines the interest rates for the last three award years.
+Treasury Note Index Add-On Amount Interest Rate
+Federal Direct Subsidized and Unsubsidized Loans: Un dergraduate Students
+2023-24 3.448% 2.0 5% 5.50%
+2024-25 4.483% 2.05% 6.53%
+2025-26 4.342% 2.05% 6.39%
+Federal Direct Unsubsidized Loans: Graduate Students
+2023-24 3.448% 3.6% 7.05%
+2024-25 4.483% 3.6% 8.08%
+2025-26 4.342% 3.6% 7.94%
+Federal Direct PLUS Loans: Parents and Graduate/Professional Students
+2023-24 3.448% 4.6% 8.05%
+2024-25 4.483% 4.6% 9.08%
+2025-26 4.342% 4.6% 8.94%
+Federal Direct Subsidized Loans: Federal Direct Subsidized Loans are provided to undergraduate students based on their
+demonstrated financial need. Annual and aggregate limits apply to award amounts. Students do not have to pay the
+accrued interest on subsidized loans while enrolled at their institutions at least half-time. Interest on the loans begins to
+accrue as soon as borrowers receive the funds. However, a portion of the federal appropriation for subsidized loans is
+used to pay the accrued interest on the borrowers’ behalf. This provision in the subsidized loan program is commonly
+referred to as the “in-school interest subsidy” and was also available to needy graduate students prior to July 1, 2012.
+Repayment begins following a six-month “grace period” after the student is no longer enrolled at least half-time. The
+interest subsidy extends through the end of the grace period. Interest is also subsidized for some borrowers enrolled in
+certain Income Driven Repayment plans and during authorized periods of deferment. View the appendix to see data on
+Federal Direct Subsidized Loans disaggregated by state.
+Federal Direct Unsubsidized Loans: The second type of Direct Loan, the Federal Direct Unsubsidized Loan, works
+similarly to the Federal Direct Subsidized Loan, but borrowers are responsible for all interest that accrues. Eligibility for
+unsubsidized loans is not based on students’ financial need. That is, students may receive these loans regardless of their
+incomes or assets and may use them to replace their SAI*. Annual and aggregate limits apply to award amounts.
+Students who receive federal direct unsubsidized loans do not have an in-school interest subsidy. These borrowers are
+charged the accrued interest on these loans while they are enrolled. Accrued interest may be paid during periods of
+enrollment or may be capitalized (added to the principal balance of the loans). Interest on these loans must also be paid
+or capitalized during any deferment periods. Regulatory changes effective July 1, 2023, eliminated all non-statutory
+instances of interest capitalization, including upon entering repayment.
+Like Federal Direct Subsidized Loans, repayment begins following a six-month grace period after the student is no longer
+enrolled at least half-time. View the appendix to see data on Federal Direct Unsubsidized Loans disaggregated by state.
+*Effective with the 2024-25 aid year, the Student Aid Index (SAI) replaced the Expected Family Contribution (EFC). All 2025
+profile data reflecting aid years prior to the 2024-25 aid year use the EFC.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 15
+Loan Limits. The amount a student may borrow in a Federal Direct Subsidized Loan is the result of subtracting other aid
+and the SAI* from the cost of attendance (COA), or the applicable annual loan limit, whichever is less. The annual
+maximum amount of loans students may borrow varies by academic grade level. As of July 1, 2007, the annual loan
+limits are as follows:
+Independent Students
+Dependent Students
+(and students whose parents cannot obtain a PLUS Loan)
+First-Year Undergraduate $5,500 $9,500
+Students No more than $3,500 can be subsidized. No more than $3,500 can be subsidized.
+Second-Y ear Undergraduate $6,500 $10,500
+Students No more than $4,500 can be subsidized. No more than $4,500 can be subsidized.
+Third-Yea r and Beyond $7,500 $12,500
+Undergraduate Students No more than $5,500 can be subsidized. No more than $5,500 can be subsidized.
+Graduate/Professional $20,500
+N/A
+Students As of July 1, 2012, unsubsidized funds only.
+As of July 1, 2007, the aggregate loan limits are as follows:
+Independent Students
+Dependent Students
+(and students whose parents cannot obtain a PLUS Loan)
+$31,000 $57,500
+Undergraduate Students
+No more than $23,000 can be subsidized. No more than $23,000 can be subsidized.
+$138,500
+Graduate Students N/A No more than $65,500 can be subsidized. Undergraduate
+federal borrowing counts toward graduate aggregate limit.
+*E ffective with the 2024-25 aid year, the Studen t Aid Index (SAI) replaced the Estimated Family Contribution (EFC). All
+2025 profile data reflecting aid years prior to the 2024-25 aid year use the EFC.
+Federal Direct PLUS Loan: The Federal Direct PLUS Loan program provides loans to parents of dependent
+undergraduates and to students who are in graduate or professional programs (who are all, by federal definition,
+independent of their parents). Parents must use the loan funds to pay their children’s higher education costs. To qualify
+for a Federal Direct PLUS Loan, borrowers may not have an adverse credit history (credit history is not considered for
+Federal Direct Subsidized and Unsubsidized Loans). Borrowers with adverse credit history can obtain a loan if they
+provide an endorser or appeal the credit decision with ED.
+Federal Direct PLUS Loans are limited to the difference bet ween the student’s cost of attendance (COA) and other
+anticipated financial aid; there are no absolute annual or aggregate limits. Unlike Federal Direct Subsidized and
+Unsubsidized Loans, there is no six-month grace period; Federal Direct PLUS Loans enter repayment once they are fully
+disbursed but may be eligible for a deferment. View the appendix to see data on Federal Direct PLUS Loans broken down
+by state.
+16 © 2025 - National Association of Student Financial Aid Administrators
+Table 6. Undergraduates Who Received Federal Direct Subsidized Loans by Family Income Level,
+Award Year 2019-20
+Adjusted Gross Income (AGI) Recipients (estimated) Percent Average Award
+Less than $20,000 1,162,620 26.1% $3,678.62
+$20,000 to $39,999 1,187,051 26.6% $3,852.36
+$40,000 to $59,999 713,874 16.0% $3,866.13
+$60,000 to $79,999 474,812 10.6% $4,019.01
+$80,000 to $99,999 343,177 7.7% $3,880.18
+$100,000 and over 578,224 13.0% $3,797.07
+Total 4,459,758 100.0% $3,790.25
+Table 7. Undergraduates Who Received Federal Direct Unsubsidized Loans by Family Income
+Level, Award Year 2019-20
+Adjusted Gross Income (AGI) Recipients (estimated) Percent Average Award
+Less than $20,000 3,556,075 22.9% $4,278.24
+$20,000 to $39,999 3,560,275 22.9% $3,923.12
+$40,000 to $59,999 2,111,299 13.6% $3,373.10
+$60,000 to $79,999 1,495,711 9.6% $3,233.57
+$80,000 to $99,999 1,126,950 7.2% $3,280.13
+$100,000 and over 3,702,010 23.8% $4,501.38
+Total 15,552,320 100.0% $3,974.56
+Table 8. Undergraduates Whose Parents Received Federal Direct PLUS Loans by Family Income
+Level, Award Year 2019-20
+Adjusted Gross Income (AGI) Recipients (estimated) Percent Average Award
+Less than $20,000 3,556,075 22.9% $12,875.07
+$20,000 to $39,999 3,560,275 22.9% $12,161.67
+$40,000 to $59,999 2,111,299 13.6% $14,044.46
+$60,000 to $79,999 1,495,711 9.6% $14,992.63
+$80,000 to $99,999 1,126,950 7.2% $16,095.28
+$100,000 and over 3,702,010 23.8% $19,951.00
+Total 15,552,320 100.0% $16,272.91
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 17
+Table 9. Graduate/Professional Students Who Received Federal Direct PLUS Loans by Family
+Income Level, Award Year 2019-20
+Adjusted Gross Income (AGI) Recipients (estimated) Percent Average Award
+Less than $20,000 984,493 30.4% $24,180.21
+$20,000 to $39,999 697,231 21.6% $25,130.90
+$40,000 to $59,999 464,843 14.4% $25,654.68
+$60,000 to $79,999 316,112 9.8% $25,842.00
+$80,000 to $99,999 268,784 8.3% $26,488.65
+$100,000 and over 503,102 15.6% $30,512.32
+Total 3,234,565 100.0% $25,058.71
+Note: Estimates for the number of recipients calculated by NASFAA. Some students did not report income and were excluded from
+the calculation.
+Source for tables 6-9: U.S. Department of Education, National Center for Education Statistics, 2019-20 National Postsecondary
+Student Aid Study (NPSAS:20).
+Figure 8. Federal Direc t Student Loan Volume (Inflation-Adjusted Dollars, in millions), 2014-15
+to 2023-24
+$80,000
+$67,867
+$70,000
+$65,208 $63,373
+$60,625
+$58,146
+$60,000 $56,753
+$54,535
+$49,822
+$50,000
+$45,589 $43,783
+$40,000
+$31,742 Federal Direct Subsidized
+$29,510$28,200 $28,643 $28,549 $28,091
+$25,827 $26,299
+$30,000 Federal Direct Unsubsidized
+$25,660 $25,542
+$26,746 Federal Direct PLUS
+$24,541 $27,490 $25,989
+$20,000
+$24,045 $22,456
+$19,493
+$17,663
+$10,000 $16,068 $15,604
+$0
+Source: The College Board, Trends in Student Aid, 2024.
+Reconciliation Package: As part of the recent federal reconciliation package, titled the One Big Beautiful Bill Act, several
+significant changes were made to federal student loan programs. These include adjustments to loan forgiveness
+eligibility, the elimination of the Grad PLUS loan program, new loan limits for many of the loan programs, revised
+income-driven repayment plan terms, and expanded access to interest subsidies for certain borrowers. While the full
+impact of these changes is not yet known, future editions of the National Student Aid Profile will continue to track and
+analyze their effects as more data becomes available.
+18 © 2025 - National Association of Student Financial Aid Administrators
+Repayment, Loan, and Delinquency Status
+Repayment Status: The federal government offers an array of repayment options for student borrowers. Borrowers,
+based on a variety of eligibility factors, can elect repayment plans with fixed or graduated payments up to 10 or 25
+years, or choose to enroll in one of several income-driven repayment (IDR) plans. Income-contingent repayment (ICR),
+income-based repayment (IBR), income-sensitive repayment (ISR), Pay As You Earn (PAYE), and Saving on a Valuable
+Education (SAVE) are each IDR plans with differing eligibility, monthly payment, and income verification requirements.
+As of December 2024, outstanding dollars from Federal Direct Loans and ED-held FFEL in repayment totaled
+approximately $1.7 trillion. Outstanding dollars for the ED-held FFEL program totaled $43.6 billion in 2024 — 47.7%
+assigned to IDR plans and 46.9% assigned to 10-year fixed payment plans. Outstanding dollars from the Federal Direct
+Loan portfolio, totaling $1.23 trillion, were divided among a number of repayment plans. The 10-year fixed payment
+plan housed 28.3% of Federal Direct Loan dollars, followed by other plans holding 1.24% of outstanding dollars in
+repayment, and IDR plans holding 58.1% of outstanding dollars in repayment.
+Executive actions from both the Trump and Biden administrations and provisions in the Coronavirus Aid, Relief, and
+Economic Security (CARES) Act in response to the COVID-19 pandemic resulted in borrowers in repayment being moved
+into a forbearance status, unless they opted out. This temporarily halted payments and cured delinquencies. Monthly
+payments officially resumed in October 2023, marking a transition back to repayment, though the landscape remains
+atypical due to ongoing litigation related to the SAVE repayment plan and nearly 8 million borrowers still in forbearance.
+For the 2025 National Profile, NASFAA has updated Figures 9, 10, and 11 using the most recent data from the Federal
+Student Aid Data Center.
+Figure 9. Federal Direct Loan & ED-Held FFEL Dollars Outstanding (in billions), by Repayment
+Plan, as of Sept. 30, 2024
+Fixed Payments: 10 Yrs or Less
+Fixed payments: More Than 10 Yrs
+Graduated Payments: 10 Yrs or Less
+Graduated Payments: More Than 10 Yrs
+Income-Sensitive
+Income-Contingent
+Income-Based
+Pay As You Earn
+SAVE
+Alternative
+Other
+$0 $50 $100 $150 $200 $250 $300 $350 $400 $450 $500
+Federal Direct Loan Portfolio ED-Held FFEL Portfolio
+Note: Includes outstanding principal and interest balances of Federal Direct Loan borrowers in Repayment, Deferment, and
+Forbearance; excludes borrowers in Default, In-School, and Grace. Data is run at the end of each quarter, listed by federal fiscal year,
+in this case, FY24 Q4. This figure reflects repayment data for only the Federal Direct Loan and ED-held FFEL portfolios. Data on
+repayment plans was not available for the FFEL program.
+Source: National Student Loan Data System (NSLDS), available from FSA Data Center (https://studentaid.gov/data-
+center/student/portfolio).
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 19
+Figure 10. Percentage of Federal Direct Loan Dollars Outstanding by Loan Status, as of Dec. 1, 2024
+0.4% 2.6%
+12.9%
+27.8%
+Other
+6.0% Grace
+Repayment - Delinquent
+Cumulative in Default
+Forbearance
+Deferment
+7.5%
+In-School
+33.9% Repayment - Current
+8.9%
+Note: Includes outstanding principal and interest balances. Data is run at the end of each quarter, listed by federal fiscal year, in this
+case, FY24 Q4. Numbers for FSA tables on loan status and delinquency status may differ due to rounding and the timing of data runs.
+Calculation of repayment current and delinquent by NASFAA.
+Source: National Student Loan Data System (NSLDS), available from FSA Data Center (https://studentaid.gov/data-
+center/student/portfolio).
+Loan Status: In 2024, $599 billion (40.7%) of the total outstanding Federal Direct Loan dollars were in current
+repayment. The remaining $871.1 billion (59.25%) fell into several non-current repayment categories. Of the total non-
+current outstanding debt, 7.5% belonged to students still enrolled in school, and 2.6% was held by students in a six-
+month grace period. Loans in forbearance and deferment accounted for 33.9% and 8.9%, respectively, of uncollected
+dollars, and 6% of the dollars were in default. This data reflects the resumption of monthly payments as of Dec. 31,
+2024.
+20 © 2025 - National Association of Student Financial Aid Administrators
+Figure 11. Federal Direct Loan & ED-Held FFEL Dollars Outstanding (in billions), by Loan Status,
+as of Sept. 30, 2024
+$700
+$600
+$500
+Repayment - Current
+In-School
+$400
+Deferment
+Forbearance
+$300
+Cumulative in Default
+Repayment - Delinquent
+$200 Grace
+Other
+$100
+$0
+Direct Loan Portfolio ED-Held FFEL Portfolio
+Note: Includes outstanding principal and interest balances. Data is run at the end of each quarter, listed by federal fiscal year, in this
+case, FY24 Q4. Numbers for FSA tables on loan status and delinquency status may differ due to rounding and the timing of data runs.
+Calculation of repayment current and delinquent by NASFAA.
+Note: The significant increase in the dollar amount of loans in forbearance is likely due in part to the temporary forbearance granted
+to borrowers enrolled in the SAVE repayment plan, as it is subject to ongoing litigation. This context is important when interpreting
+trends in the forbearance category, as the data may not reflect long-term repayment behavior.
+Source: National Student Loan Data System (NSLDS), available from FSA Data Center (https://studentaid.gov/data-
+center/student/portfolio).
+Delinquency Status: Federal student loan borrowers' delinquency period begins the day after they miss a payment. The
+COVID-19 payment pause drastically reduced the number of borrowers in delinquent status. Following the restart of
+loan repayment on Oct. 1, 2023, the Department of Education instituted a 12-month on-ramp period through Sept. 30,
+2024. During this time, eligible borrowers were not reported to credit agencies as delinquent for a missed payment, and
+their loans were not placed into default.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 21
+Public Service Loan Forgiveness
+Program Description. Public Service Loan Forgiveness (PSLF) is a federal program that allows Federal Direct Loan
+borrowers who are working full-time in the public service sector to have the remainder of their Federal Direct Loan
+balances forgiven after making 120 qualifying payments. The program was created in 2007 under the College Cost
+Reduction and Access Act as a way to provide relief to professionals working in government, state, local, and not-for-
+profit sector jobs.
+Beyond having a qualifying employer, borrowers must also be enrolled in a qualified repayment plan and complete an
+Employment Certification Form (ECF) to be eligible for forgiveness. As only loan payments made after Oct. 1, 2007,
+qualify toward the 120 required payments, the first PSLF recipients received forgiveness in 2017. Submission of the ECF
+on an annual basis is voluntary, and the Department of Education (ED) tracks submission of ECFs as an indicator of
+interest in, and potential eligibility for, PSLF. Submission of one or more ECFs does not necessarily indicate that a
+borrower will ultimately receive forgiveness. As of Dec. 31, 2024, there were 340,0000 PSLF applications approved for
+loan discharge.1 In March 2018, the Consolidated Appropriations Act of 2018 provided limited, additional conditions
+under which borrowers may be eligible for PSLF if loan payments were made under a non-qualifying repayment plan.
+This reconsideration is called Temporary Expanded Public Service Loan Forgiveness (TEPSLF). As of Dec. 31, 2024, there
+were 7,000 applications for TEPSLF approved for loan discharge.1
+In response to the COVID-19 pandemic, in October 2021, the Department of Education announced a change to the PSLF
+rules for a limited time, allowing borrowers to receive credit for past periods of repayment that under the original rules
+would not have qualified as eligible payments. As long as the borrower was employed at a qualifying employer, any prior
+qualifying payment, regardless of the repayment plan or whether the payment was made in full or on time, counted as a
+qualifying payment. At its creation, ED estimated that the waiver would help over 550,000 borrowers gain an average of
+23 additional payments. Included in that number are an estimated 22,000 borrowers who were immediately eligible for
+forgiveness.2 As of Dec. 31, 2024, 759,900 borrowers had their loans discharged after waiver processing.1 The eligibility
+period to take advantage of the waiver ran through Oct. 31, 2022.
+In April 2022, the Department of Education announced a one-time account adjustment to count certain forbearances
+toward income-driven repayment (IDR). This initiative and other permanent fixes to how federal student loan servicers
+count borrower payments allowed more payments to count toward the 120 qualifying payments necessary for PSLF,
+likely resulting in more PSLF recipients.
+Regulatory changes to the PSLF program to improve the application process, expand what counts as an eligible monthly
+payment, and expand the definition of ‘‘full-time’’ employment became effective July 1, 2023. In Spring 2025, ED was
+instructed to revise the PSLF regulations by an executive order (EO) issued by President Donald Trump, ordering the
+Secretary of Education to “ensure the definition of ‘public service’ excludes organizations that engage in activities that
+have a substantial illegal purpose,” which the EO clarifies as: “aiding or abetting violations of immigration law,
+supporting terrorism, aiding or abetting illegal discrimination, providing gender-affirming treatments for transgender
+youth, and engaging in patterns of state tort laws such as vandalism, and trespassing, among other crimes.”3 To carry
+out the executive order, the Department held a negotiated rulemaking session for the PSLF program in early July 2025,
+which resulted in a no-consensus decision.4 A proposed rule is forthcoming; final rules are expected before Nov. 1, 2025.
+As of Dec. 31, 2024, a total of 1,077,400 borrowers have had their PSLF, TEPSLF, and waiver discharges processed,
+totaling just over $79 billion, with an average balance of $73,700.1
+Federal Student Aid Data Center March 31, 2024 PSLF Report https://studentaid.gov/data-center/student/loan-forgiveness/pslf-data
+1https://www.ed.gov/news/press- releases/fact-sheet-public-service-loan-forgiveness-pslf-program-overhaul
+23 https://www.whitehouse.gov/presidential-actions/2025/03/restoring-public-service-loan-forgiveness
+4 https://www.ed.gov/about/news/press-release/us-department-of-education-concludes-negotiated-rulemaking-session-restore-public-service-loan-
+forgiveness
+22 © 2025 - National Association of Student Financial Aid Administrators
+Reporting for the PSLF program has undergone a number of changes over the years, as several different administrations
+have overseen the program, leading to variations in how data was reported. These inconsistencies include differences in
+reporting frequency — some years saw monthly reporting, others quarterly, and in some cases, only annual reporting
+was provided. Additionally, the data points tracked and reported have varied from one administration to another,
+making it challenging to create a consistent historical record.
+In light of these discrepancies, NASFAA has removed historical graphs and charts that previously sought to illustrate
+trends in PSLF data. Removing this content reflects our commitment to providing accurate and reliable information.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 23
+Federal Need Analysis
+Description: The application for all Title IV programs is the Free Application for Federal Student Aid (FAFSA), which
+collects demographic, income, and asset information from aid applicants and their families. The U.S. Department of
+Education (ED) uses this information to confirm students’ general eligibility to receive Title IV funds and calculates the
+Student Aid Index (SAI), which replaced the expected family contribution (EFC) as of the 2024-25 aid year, that schools
+use as one of several factors to determine the amount of financial aid a student may receive during a given award year.
+The SAI is determined by a need analysis formula called the Federal Methodology (FM) established under Title IV of the
+Higher Education Act (HEA). Parents of dependent students are assumed to have a role in financing their child’s
+education and, as such, are expected to provide financial information on the FAFSA.
+Use: Financial aid administrators use the SAI and other information to determine which students will receive federal
+student aid authorized under Title IV of the HEA and the amounts they will receive from these programs. Students are
+eligible to receive need-based federal student aid (Federal Pell Grant, FWS, FSEOG, and Federal Direct Subsidized Loans)
+only if the sum of the SAI and other estimated financial assistance is less than the total cost of attendance (COA). The
+COA includes tuition and fees, estimated living expenses, books and educational supplies, transportation to and from the
+postsecondary institution, and other miscellaneous expenses.
+FAFSA Simplification: The FAFSA Simplification Act, signed into law in December 2020 as part of the Consolidated
+Appropriations Act of 2021, established changes to the HEA, the FAFSA, and the federal need analysis that became fully
+effective in the 2024-25 aid year. The bill included changes to the Federal Methodology and the creation of the Student
+Aid Index (SAI), which replaced the EFC. The name change was intended to better reflect the use of that figure as an aid
+eligibility index rather than an expectation of what a family will contribute to postsecondary expenses. It also codified in
+statute the use of prior-prior year (PPY) income data on the FAFSA, which had been done in practice via executive order
+since 2016.
+Significant changes to the Federal Methodology include the removal of state and other tax income exclusions and the
+family farm and small business asset exclusion, while adding back into the total income foreign income exempt from U.S.
+tax or for which a foreign tax credit was received. Additionally, the SAI calculation no longer considers multiple
+household members contemporaneously enrolled in college. The SAI determines the type and amount of federal
+student aid authorized under Title IV of the HEA that students will receive, excluding minimum and maximum Pell Grant
+eligibility determinations. Automatic maximum and automatic minimum Pell Grant eligibility is now determined by the
+number of parents in the household and family income as a percentage of the federal poverty line. Independent student
+tax nonfilers, dependent children of nonfiling parent(s), and students under age 33 whose parent(s) died serving in the
+armed forces or in the line of duty as a public safety officer are also eligible to receive the maximum Pell Grant.
+The SAI allows for further differentiation among the neediest students by reporting numbers as low as -1500, whereas
+the EFC calculation could not go below zero. This change allows schools to better target need-based aid. Other
+significant changes from the FAFSA Simplification Act include the removal of Selective Service and drug conviction
+questions, which were implemented during the 2021-22 award year. Finally, the FAFSA Simplification Act restored Pell
+Grant eligibility to incarcerated students enrolled in eligible Prison Education Programs as of July 1, 2023.
+Reconciliation Package: The One Big Beautiful Bill Act, which was signed into law on July 4, 2025, included several
+changes related to federal need analysis and Pell Grant eligibility determinations. The law reinstates the exemptions of
+family farm and family-owned small business assets from the SAI calculation and expands asset exemptions to family-
+owned commercial fisheries. The law also requires that foreign income be included in the adjusted gross income (AGI)
+when calculating Pell Grant eligibility. Students with an SAI that exceeds twice the maximum Pell Grant amount are not
+eligible to receive Pell, and students who receive grants or scholarships from non-federal sources covering their entire
+cost of attendance (COA) are ineligible to receive a Pell Grant. These provisions all have an effective date of July 1, 2026.
+24 © 2025 - National Association of Student Financial Aid Administrators
+Legislation Introduced in Congress in 2024 on Student Aid Topics
+In 2024, U.S. House of Representatives and the U.S. Senate members introduced 31 bills on student aid-related issues.
+When categorized by topic, Congress demonstrated a commitment to addressing quality and accountability, debt
+forgiveness programs and cancellation, and improving affordability (26%, 24%, and 15% of legislation introduced on
+student aid topics addressed these issues, respectively). Figure 15a presents the number of student-aid-related bills
+introduced in 2024.
+Figure 12. Bills Introduced in 2024, by Topic
+0.0% 0.0% Appropriations and Budget
+2.9% Campus-Based Programs
+2.9%
+Consumer Information and Transparency
+Debt Forgiveness Programs & Cancellation
+26.5%
+FAFSA Simplification
+23.5%
+Immigration
+Improving Affordability
+Institutional Grant & Incentive Programs
+2.9%
+0.0% Loan Program Reform
+0.0%
+Loan Repayment
+8.8%
+Military and Veterans Aid
+14.7%
+Pell Grants
+5.9%
+2.9% Quality and Accountability
+8.8%
+Tax Code Updates
+Source: NASFAA Legislative Tracker
+Figure 13. Total Bills Introduced in Previous Six Years
+180
+160
+160
+140
+120
+101
+100
+81
+74
+80
+60 47
+34
+40
+20
+0
+2019 2020 2021 2022 2023 2024
+Source: NASFAA Legislative Tracker
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 25
+Fiscal Year 2025 Budget and Appropriations Update
+Each year, Congress must determine funding levels for most federal student aid programs. Congress did not pass fiscal
+year (FY) 2025 funding spending bills, instead opting to pass a full-year continuing resolution that extended FY 2024
+funding levels through the duration of FY 2025. This means that funding for the student programs in FY 2025, which
+impacts the 2025-26 award year, is equal to the FY 2024 funding levels. The full-year funding extension was finalized by
+Congress and signed into law by President Trump in March 2025.
+Funding for the Pell Grant program comes from both discretionary (subject to the annual appropriations process) and
+mandatory (set in law) funding streams. Through the appropriations process, Congress has agreed to fund the
+discretionary base maximum Pell Grant award at the $4,860 level since 2009-10. However, because the mandatory
+annual inflation adjustment add-on to the maximum award expired after FY 2017, which would have left the add-on at
+$1,060 (resulting in a $5,920 total maximum grant), Congress opted to increase the discretionary base maximum to
+$5,285 in FY 2020, to $5,435 in FY 2021, to $5,835 in FY 2022, and to $6,335 in both FY 2023 and FY 2024, as well as for
+FY 2025 through the full-year continuing resolution. Combined with the $1,060 mandatory add-on, the total maximum
+Pell Grant award for FY 2025, or award year 2025-26, remains at $7,395, the same as FY 2024.
+The chart below highlights Pell Grant funding over the last three fiscal years.
+Change from FY 2024
+Program FY 2023 FY 2024 FY 2025
+to FY 2025
+Pell Grant (discretionary) $22,475,352,000 $22,475,352,000 $22,475,352,000 $0
+Pell Grant maximum
+$6,895 $7,395 $7,395 $0
+award
+In the final FY 2025 agreement, FSEOG and FWS were level-funded and stayed consistent with the FY 2024 funding
+levels. The funding for FSEOG and FWS are highlighted in the following chart.
+Change from FY 2024
+Program FY 2023 FY 2024 FY 2025
+to FY 2025
+FSEOG $895,000,000 $910,000,000 $910,000,000 $0
+FWS $1,210,000,000 1,230,000,000 $1,230,000,000 $0
+The Congressional Budget Office (CBO) in January 2025 released new projections for the Pell Grant program, which
+indicated a potential funding shortfall of about $2.7 billion for FY 2025 and nearly $10 billion by the end of FY 2026. This
+was a revision of CBO’s earlier estimate that indicated the shortfall wouldn’t happen until FY 2029. The revision was
+based on both greater eligibility for the Pell Grant as a result of the FAFSA Simplification Act and new enrollment figures
+for 2024-25, which did not ultimately decrease as much as originally estimated. The reconciliation bill that was signed
+into law by President Trump included a provision to address the shortfall by adding about $10 billion in mandatory
+funding for the program for FY 2026.
+26 © 2025 - National Association of Student Financial Aid Administrators
+Conclusion
+Since the enactment of the Higher Education Act (HEA) in 1965, federal financial aid has been a central and critical
+pathway for college access. Given the importance of federal financial aid, this report serves as a resource describing six
+prominent Title IV programs. While these financial aid programs may have changed over time, the general principles of
+each program have stayed the same.
+NASFAA hopes the information in this report is helpful to you. We have also produced other publications that help
+students and families find ways to pay for postsecondary education. Should you need any additional information, please
+contact us at policy@nasfaa.org.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 27
+Appendix: Federal Student Aid Program Data by State
+This appendix contains data on the Federal Student Aid programs disaggregated by state, where available. Please refer
+to the main text for additional information and national data on these programs.
+Pell Grant Recipients by State, Award Year 2022-23
+1,000,000
+900,000
+800,000
+700,000
+600,000
+500,000
+400,000
+300,000
+200,000
+100,000
+0
+Source: U.S. Department of Education, Federal Pell Grant Program End-of-year Report, 2022-23.
+Pell Grant Expenditures by State (in millions), Award Year 2022-23
+Source: U.S. Department of Education, Federal Pell Grant Program End-of-year Report, 2022-23.
+28 © 2025 - National Association of Student Financial Aid Administrators
+stneipiceR
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+$4,500,000,000
+$4,000,000,000
+$3,500,000,000
+$3,000,000,000
+$2,500,000,000
+$2,000,000,000
+$1,500,000,000
+$1,000,000,000
+$500,000,000
+$0
+serutidnepxE
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+Average Pell Grant Amount by State, Award Year 2022-23
+$6,000
+$5,500
+$5,000
+$4,500
+$4,000
+$3,500
+$3,000
+$2,500
+$2,000
+$1,500
+$1,000
+$500
+$0
+Source: U.S. Department of Education, Federal Pell Grant Program End-of-year Report, 2022-23.
+Federal Supplemental Educational Opportunity Grant Recipients by State, Award Year 2022-23
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 29
+lleP
+etatS
+egarevA
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+300,000
+250,000
+200,000
+150,000
+100,000
+50,000
+0
+stneipiceR
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+Federal Supplemental Educational Opportunity Grant Volume by State (in millions), Award Year
+2022-23
+$180,000,000
+$160,000,000
+$140,000,000
+$120,000,000
+$100,000,000
+$80,000,000
+$60,000,000
+$40,000,000
+$20,000,000
+$0
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+Average Federal Supplemental Educational Opportunity Grant Amount by State, Award Year
+2022-23
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+30 © 2025 - National Association of Student Financial Aid Administrators
+tnuomA
+drawA
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+$1,800
+$1,600
+$1,400
+$1,200
+$1,000
+$800
+$600
+$400
+$200
+$-
+tnarG
+egarevA
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+Federal Work-Study Recipients by State, Award Year 2022-23
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+Federal Work-Study Volume by State (in millions), Award Year 2022-23
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 31
+stneipiceR
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+$140,000,000
+$120,000,000
+$100,000,000
+$80,000,000
+$60,000,000
+$40,000,000
+$20,000,000
+$0
+denraE
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+Average Federal Work-Study Amount by State, Award Year 2022-23
+$4,000
+$3,500
+$3,000
+$2,500
+$2,000
+$1,500
+$1,000
+$500
+$0
+Source: U.S. Department of Education, Federal Campus-Based Programs Data Book, 2024.
+Federal Direct Subsidized Loan Recipients by State, Award Year 2 023-24
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+32 © 2025 - National Association of Student Financial Aid Administrators
+denraE
+tnuomA
+.gvA
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP ociR
+otreuP
+dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW ainigriV
+tseW
+nisnocsiW gnimoyW
+State
+80,000
+70,000
+60,000
+50,000
+40,000
+30,000
+20,000
+10,000
+0
+stneipiceR
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+Federal Direct Subsidized Loan Dollars Disbursed by State (in millions), Award Year 2023-24
+$350,000,000
+$300,000,000
+$250,000,000
+$200,000,000
+$150,000,000
+$100,000,000
+$50,000,000
+$0
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+Average Federal Direct Subsidized Loan Amount by State, Award Year 2023-24
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 33
+dersubsiD
+sralloD
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+$6,000
+$5,000
+$4,000
+$3,000
+$2,000
+$1,000
+$0
+tnuomA
+egarevA
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+Federal Direct Unsubsidized Loan Recipients by State, Award Year 2023-24
+120,000
+100,000
+80,000
+60,000
+40,000
+20,000
+0
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+Federal Direct Unsubsidized Loan Dollars Disbursed by State (in millions), Award Year 2023-24
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+34 © 2025 - National Association of Student Financial Aid Administrators
+stneipiceR
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+$1,200,000,000
+$1,000,000,000
+$800,000,000
+$600,000,000
+$400,000,000
+$200,000,000
+$0
+dersubsiD
+sralloD
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+Average Federal Direct Unsubsidized Loan Amount by State, Award Year 2023-24
+$18,000.00
+$16,000.00
+$14,000.00
+$12,000.00
+$10,000.00
+$8,000.00
+$6,000.00
+$4,000.00
+$2,000.00
+$0.00
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+Federal Direct PLUS Loan Recipients by State, Award Year 2023-24
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+© 2025 - National Student Aid Profile: Overview of 2025 Federal Programs 35
+tnuomA
+egarevA
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+30,000
+25,000
+20,000
+15,000
+10,000
+5,000
+0
+stneipiceR
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+Federal Direct PLUS Loan Dollars Disbursed by State (in millions), Award Year 2023-24
+$800,000,000
+$700,000,000
+$600,000,000
+$500,000,000
+$400,000,000
+$300,000,000
+$200,000,000
+$100,000,000
+$0
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+Average Federal Direct PLUS Loan Amount by State, Award Year 2023-24
+Source: Common Origination and Disbursement (COD) System, available from FSA Data Center.
+36 © 2025 - National Association of Student Financial Aid Administrators
+desrubsiD
+sralloD
+latoT
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+$40,000
+$35,000
+$30,000
+$25,000
+$20,000
+$15,000
+$10,000
+$5,000
+$0
+tnuomA
+egarevA
+amabalA aksalA anozirA sasnakrA ainrofilaC odaroloC tucitcennoC erawaleD aibmuloC
+fo
+tcirtsiD
+adirolF aigroeG iiawaH ohadI sionillI anaidnI awoI sasnaK ykcutneK anaisiuoL eniaM dnalyraM sttesuhcassaM nagihciM atosenniM ippississiM iruossiM anatnoM aksarbeN adaveN erihspmaH
+weN
+yesreJ
+weN
+ocixeM
+weN
+kroY
+weN
+aniloraC
+htroN
+atokaD
+htroN
+oihO amohalkO nogerO ainavlysnneP dnalsI
+edohR
+aniloraC
+htuoS
+atokaD
+htuoS
+eessenneT saxeT hatU tnomreV ainigriV notgnihsaW anigriV
+tseW
+nisnocsiW gnimoyW
+State
+The National Association of Student
+Financial Aid Administrators (NASFAA)
+provides professional development
+for financial aid administrators;
+advocates for public policies
+that increase student access and
+success; serves as a forum on
+student financial aid issues;
+and is committed to diversity
+throughout all activities.
+202.785.0453 FAX. 202.785.1487 WWW.NASFAA.ORG

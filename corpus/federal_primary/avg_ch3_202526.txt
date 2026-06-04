@@ -1,0 +1,541 @@
+Student Aid Index (SAI) and Pell Grant Eligibility | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 3
+
+Student Aid Index (SAI) and Pell Grant Eligibility
+
+A student may qualify for a Pell Grant in one of three ways:
+
+Maximum Pell Grant (Max Pell)
+
+Minimum Pell Grant (Min Pell)
+
+Calculated Pell Grant, based on SAI (Calculated Pell = Max Pell minus SAI)
+
+The first two paths to Pell Grant eligibility are briefly discussed below. See 
+Volume 7
+ of the 
+FSA Handbook
+ for additional information on Pell Grant eligibility. Most of this chapter is spent discussing how the SAI is calculated.
+
+General Information
+
+The FAFSA Processing System (FPS) uses data provided by the applicant and contributors on the FAFSA form to determine Max or Min Pell Grant eligibility and calculate the SAI.
+
+Maximum Pell Grant Eligibility Criteria
+
+A student is eligible for a Maximum Pell Grant if any of the following is true:
+
+Dependent Student
+
+The student’s parent(s) is not required to file a federal income tax return; or
+
+The student’s parent is a single parent and has an AGI greater than zero and less than or equal to 225% of the poverty guideline for the applicant’s family size and state of residence; or
+
+The student’s parent is not a single parent and has an AGI greater than zero and less than or equal to 175% of the poverty guideline for the applicant’s family size and state of residence.
+
+Independent Student
+
+The student (and spouse, if applicable) is not required to file a federal income tax return; or
+
+The student is a single parent and has an AGI greater than zero and less than or equal to 225% of the poverty guideline for the applicant’s family size and state of residence; or
+
+The student is not a single parent and has an AGI greater than zero and less than or equal to 175% of the poverty guideline for the applicant’s family size and state of residence.
+
+SAI for Maximum Pell Grant Recipients
+
+A dependent student whose parents are not required to file a federal income tax return OR an independent student (and spouse, if applicable) who is not required to file a federal income tax return for the prior-prior tax year is assigned an SAI equal to -1500. Other students eligible for a Maximum Pell Grant will be assigned an SAI equal to 0 or a calculated SAI, whichever is less.
+
+ Maximum Pell Grant Eligibility
+ 
+
+HEA Sec. 401(b)(1)(A)
+
+Minimum Pell Grant Eligibility Criteria
+
+A student who does not qualify for a Maximum Pell Grant or for a calculated Pell Grant because the SAI is too high can still be eligible for a Minimum Pell Grant if any of the following is true:
+
+Dependent Student
+
+The student’s parent is a single parent and has an AGI less than or equal to 325% of the poverty guideline for the applicant’s family size and state of residence; or
+
+The student’s parent is not a single parent and has an AGI less than or equal to 275% of the poverty guideline for the applicant’s family size and state of residence.
+
+Independent Student
+
+The student is a single parent, and the AGI is less than or equal to 400% of the poverty line; or
+
+The student is a parent and is not a single parent, and the AGI is less than or equal to 350% of the poverty guideline for the applicant’s family size and state of residence; or
+
+The student is not a parent, and the student’s (and spouse’s if applicable) AGI is less than or equal to 275% of the poverty guideline for the applicant’s family size and state of residence.
+
+SAI for Minimum Pell Grant Recipients
+
+Students eligible for a Minimum Pell Grant under this guidance retain their calculated SAI.
+
+ Minimum Pell Grant Eligibility
+ 
+
+HEA Sec. 401(b)(1)(C)
+
+Student Aid Index (SAI) Formulas
+
+The SAI formulas use income, assets, and the number of persons in the family size for the award year.
+
+The law gives three SAI formulas:
+
+Formula A – Dependent students,
+
+Formula B – Independent students without dependents other than a spouse, and
+
+Formula C – Independent students with dependents other than a spouse
+
+ SAI Formulas
+ 
+
+HEA Sec. 474-479
+
+Tables used in the computation of the SAI are updated annually and published on the 
+https://fsapartners.ed.gov/knowledge-center/library/resource-type/Federal
+ Registers">Knowledge Center
+ in a Federal Register. The Department’s 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ is also updated annually and available at 
+fsapartners.ed.gov/knowledge-center
+ in the Library section under Resource Type > Handbooks, Manuals, or Guides.
+
+The 
+FAFSA Simplification Act
+ eliminated the simplified needs test and automatic zero provisions. However, some applicants will be exempt from reporting assets and/or will have assets excluded from consideration in the SAI formula.
+
+Applicants Exempt From Asset Reporting
+
+A 
+dependent student
+ is exempt from asset reporting if they meet one of the following criteria.
+
+The applicant qualifies for a Maximum Pell Grant
+
+The applicant’s parents’ 2023 combined AGI is less than $60,000 and they do not file a Schedule A, B, D, E, F, or H, 
+AND
+
+They do not file a Schedule C, 
+OR
+
+They file a Schedule C with net business income of not more than a $10,000 loss or gain.
+
+The applicant or applicant’s parent received a benefit under a means-tested Federal benefit program during the 2023 or 2024 calendar year.
+
+Exception:
+ A dependent student is not exempt from asset reporting if their parents (1) live outside the U.S. 
+or
+ (2) do not file taxes in the U.S. or a U.S. territory, unless their nonfiling is due to having income below the filing threshold.
+
+An 
+independent student
+ is exempt from asset reporting if they meet one of the following criteria.
+
+The applicant qualifies for a Maximum Pell Grant
+
+The applicant’s (and applicant’s spouse, if applicable) 2023 combined AGI is less than $60,000 and they do not file a Schedule A, B, D, E, F, or H, 
+AND
+
+They do not file a Schedule C, 
+OR
+
+They file a Schedule C with net business income of not more than a $10,000 loss or gain.
+
+The applicant or applicant’s spouse received a benefit under a means-tested federal benefit program during the 2023 or 2024 calendar year.
+
+Means-Tested Federal Benefits Programs
+
+The means-tested federal benefit programs are listed in Chapter 2. A person need not have received the benefit for an entire year; receiving it at any time in the base or following year qualifies. Also, an FAA may use professional judgment (PJ) to count a benefit if a person did not receive it during those 24 months but is receiving it now.
+
+No Prorated SAIs
+
+The 
+FAFSA Simplification Act
+ does not allow schools to use alternate or prorated SAIs when packaging students for periods other than 9 months. Therefore, you should use the calculated SAI to package a student, regardless of the length of time of the student’s enrollment.
+
+The SAI Worksheets
+
+The 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ contains SAI worksheets and tables for each formula (A, B and C), which can be used to manually calculate an SAI or to see how the SAI is determined for each of the formulas.
+
+The following information provides additional insight into the SAI calculation process and may prove helpful when reviewing the SAI worksheets in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+.
+
+Formula A – Dependent Students
+
+The SAI for a dependent student is calculated using the FAFSA data for the student and their parents. The FPS calculates the parents’ contribution from income and assets, the student’s contribution from income, and the student’s contribution from assets; the SAI is the sum of these three values.
+
+Parents’ Contribution From Available Income and Assets
+
+Parents’ available income.
+ The parents’ available income is calculated by subtracting certain allowances from the parents’ total income. These allowances account for certain nondiscretionary expenses, such as taxes and basic living expenses. Once a minimum level of support has been offset for those expenses, the formula assumes that the remaining income is available for discretionary purposes, including paying for a postsecondary education. The available income can be a negative number.
+
+The total income is the sum of the taxable and untaxed income, minus amounts reported in the income but excluded from the formula.
+
+Parents’ taxed/untaxed income.
+ The sum of following items, reported on a U.S. tax return, increases the parents’ total income:
+
+Parents’ AGI
+
+Parents’ deductible payments to self-employed SEP, SIMPLE, Keogh, and other qualified retirement accounts
+
+Tax-exempt interest
+
+Untaxed IRA/pension distributions (excluding rollovers)
+
+Foreign income exclusion
+
+Parents’ income offsets.
+ The sum of the following items decreases the parents’ total income:
+
+Parents’ taxable college grant and scholarship aid (included as income).
+ This amount is self-reported on the FAFSA form.
+
+Parents’ education credits.
+ Use the amount reported on the FAFSA form.
+
+Parents’ Federal Work-Study (FWS).
+ Schools annually report FWS earnings by individual earners to the Department. ED will then use this information to report FWS on the individual earner’s FAFSA form.
+
+Parents’ income allowances.
+ The sum of the following allowances reduces the parents’ total income:
+
+U.S. income tax paid.
+ Use the amount reported on the FAFSA form.
+
+Parents’ payroll tax allowance.
+ Use “Table A1:Payroll Tax Allowance” in 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+. Apply the rates shown in each step of the table to the total income earned from work in 2023 for both parents (as reported on the FAFSA form). The total allowance for payroll taxes is never less than zero.
+
+Income protection allowance.
+ Use “Table A2: Income Protection Allowance” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+. This allowance is for the basic living expenses of a family. It varies according to the number in the parents’ family size, as reported on the FAFSA form. In general, a school can assume that 30% of the income protection allowance amount is for food, 22% for housing, 9% for transportation expenses, 16% for clothing and personal care, 11% for medical care, and 12% for other family consumption.
+
+Employment expense allowance.
+ This allowance recognizes extra expenses incurred by families with working parents. The maximum allowance is updated annually. See the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ for the current year allowance amount. The employment expense allowance is never less than zero.
+
+Parents’ contribution from assets.
+ The full formula uses the assets of parents of a dependent student and determines a “contribution from assets.” This amount is combined with available income to quantify the family’s financial strength.
+
+First, the parents’ 
+net worth
+ is calculated by adding the following assets reported on the FAFSA form.
+
+Cash, savings, checking, time deposits, and money market funds.
+ Use the amount reported on the FAFSA form.
+
+Net worth of investments.
+ Includes real estate (excluding primary residence), vacation homes, income producing property, trusts, stocks, bonds, derivatives, securities, mutual funds, tax shelters, and qualified education benefits.
+
+Adjusted net worth of business and/or investment farm.
+ Use “Table A3: Business/Farm Net Worth Adjustment” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ to adjust the total reported on the FAFSA.
+
+Child support received.
+ Use the amount reported on the FAFSA form. Child support received should be reported as the total amount received in the most recently completed calendar year. For example, if the FAFSA form is completed in January 2024, the amount of child support received should be the total for the 2023 calendar year.
+
+Second, the parents’ 
+discretionary net worth
+ is calculated by subtracting the asset protection allowance (“Table A4: Asset Protection Allowance” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide)
+ from the parents’ net worth. Discretionary net worth may be less than zero.
+
+Finally, the discretionary net worth is multiplied by the conversion rate of 12% to get the 
+parents’ contribution from assets
+, which represents the portion of parental assets considered available to help pay for the student’s college education. If the contribution from assets is negative, it is set to zero.
+
+Calculation of parents’ contribution.
+ This is the final step in determining the parents’ contribution. The parents’ available income and contribution from assets are added together to determine the parents’ adjusted available income, which can be a negative number. The total parents’ contribution from adjusted available income is calculated from the amounts and rates in “Table A5: Parents’ Contribution from Adjusted Available Income” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+. The rates in Table A5 increase from 22% to 47% as the adjusted available income increases. This is based on the principle that as income increases beyond the amount needed to maintain a basic standard of living, the portion used for family maintenance decreases and the portion available for discretionary purposes increases. Therefore, a progressively larger amount of income may be contributed toward postsecondary educational costs. The parents’ contribution from adjusted available income may be negative.
+
+Student’s Contribution From Income
+
+Student’s available income.
+ The student’s available income is calculated by subtracting certain allowances from the student’s total income. These allowances account for certain nondiscretionary expenses, such as taxes and basic living expenses. Once a minimum level of support has been offset for those expenses, the formula assumes that the remaining income is available for discretionary purposes, including paying for a postsecondary education.
+
+The student’s available income is the sum of the taxable and untaxed income, minus amounts reported in the income but excluded from the formula (offsets and allowances).
+
+Student’s taxed/untaxed income.
+ The sum of the following items, reported on a U.S. tax return, is the student’s total income:
+
+Student’s AGI
+
+Student’s deductible payments to self-employed SEP, SIMPLE, Keogh, and other qualified retirement accounts
+
+Student’s tax-exempt interest
+
+Student’s untaxed IRA/pension distributions (excluding rollovers)
+
+Student’s foreign income exclusion
+
+Student’s income offsets.
+ The sum of the following items decreases the student’s total income:
+
+Student’s taxable college grant and scholarship aid (included as income).
+ This amount is self-reported on the FAFSA form.
+
+Student’s education credits.
+ Use the amount reported on the FAFSA form.
+
+Student’s Federal Work-Study (FWS).
+ Schools annually report FWS earnings by individual earners to the Department. ED will then use this information to report FWS on the individual earner’s FAFSA form.
+
+Student’s income allowances.
+ The sum of the following allowances reduces the student’s total income:
+
+U.S. income tax paid.
+ Use the amount reported on the FAFSA form.
+
+Student’s payroll tax allowance.
+ Use “Table A1: Payroll Tax Allowance” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+. Apply the rates shown in each step of the table to the total income earned from work in 2023 for the student (as reported on the FAFSA form). The total allowance for payroll taxes is never less than zero.
+
+Income protection allowance.
+ This amount is set annually. See the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ for the current year allowance amount.
+
+Allowance for parents’ negative adjusted available income.
+ If the parents’ adjusted available income is negative, enter the amount as a positive amount in the calculation. If the value is positive, set this allowance to 0.
+
+Finally, the student’s available income is multiplied by the assessment rate of 50% to determine the student’s contribution from income, which may be a negative number (as low as -1,500).
+
+Student’s Contribution From Assets
+
+The full formula uses the student’s assets and determines a “contribution from assets.”
+
+First, the student’s 
+net worth
+ is calculated by adding the following assets reported on the FAFSA form.
+
+Cash, savings, checking, time deposits, and money market funds.
+ Use the amount reported on the FAFSA form.
+
+Net worth of investments.
+ Includes real estate (excluding primary residence), vacation homes, income producing property, trusts, stocks, bonds, derivatives, securities, mutual funds, tax shelters, and qualified education benefits.
+
+Adjusted net worth of business and/or farm.
+ Use “Table A3: Business/Farm Net Worth Adjustment” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ to adjust the total reported on the FAFSA form.
+
+Second, the student’s 
+net worth
+ is multiplied by the conversion rate of 20% to get the 
+student’s contribution from assets
+. If the contribution from assets is negative, it is set to zero.
+
+SAI Calculation – Dependent Student
+
+The student’s SAI is determined by adding the parents’ contribution, the student’s contribution from available income, and the student’s contribution from assets. The SAI may be negative (but not less than -1,500).
+
+Formula B—Independent Student Without Dependents Other Than a Spouse
+
+The SAI for an independent student without dependents other than a spouse is calculated using FAFSA data for the student and spouse. The FPS calculates a contribution from available income and a contribution from assets; the SAI is the sum of these two values.
+
+Contribution From Available Income
+
+Student’s (and Spouse’s) available income.
+ The student’s (and spouse’s) available income is calculated by subtracting certain allowances from the student’s (and spouse’s) total income. These allowances account for certain nondiscretionary expenses, such as taxes and basic living expenses. Once a minimum level of support has been offset for those expenses, the formula assumes that the remaining income is available for discretionary purposes, including paying for a postsecondary education. The available income can be a negative number.
+
+The student’s (and spouse’s) available income is the sum of the taxable and untaxed income minus amounts reported in the income but excluded from the formula (offsets and allowances).
+
+Student’s (and spouse’s) taxed/untaxed income.
+ The sum of the following items, reported on a U.S. tax return, is the student’s (and spouse’s) total income:
+
+Student’s (and spouse’s) AGI
+
+Student’s (and spouse’s) deductible payments to self-employed SEP, SIMPLE, Keogh, and other qualified retirement accounts
+
+Student’s (and spouse’s) tax-exempt interest
+
+Student’s (and spouse’s) untaxed IRA/pension distributions (excluding rollovers)
+
+Student’s (and spouse’s) foreign income exclusion
+
+Student’s (and spouse’s) income offsets.
+ The sum of the following items decreases the student’s (and spouse’s) total income:
+
+Student’s (and spouse’s) taxable college grant and scholarship aid (included as income).
+ This amount is self-reported on the FAFSA form.
+
+Student’s (and spouse’s) education credits.
+ Use the amount reported on the FAFSA form.
+
+Student’s (and spouse’s) Federal Work-Study (FWS).
+ Schools annually report FWS earnings by individual earners to the Department. ED will then use this information to report FWS on the individual earner’s FAFSA form.
+
+Student’s (and spouse’s) income allowances.
+ The sum of the following allowances reduces the student’s (and spouse’s) total income:
+
+U.S. income tax paid.
+ Use the amount reported on the FAFSA form.
+
+Student’s (and spouse’s) payroll tax allowance.
+ Use “Table B1: Payroll Tax Allowance” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+. Apply the rates shown in each step of the table to the total income earned from work in 2023 for the student (and spouse) as reported on the FAFSA form. The total allowance for payroll taxes is never less than zero.
+
+Income protection allowance.
+ This amount differs for unmarried students (single, separated, divorced, or widowed) and married students (married or remarried). See the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ for the current year allowance amount.
+
+Employment expense allowance.
+ If the student is not married (single, separated, divorced, or widowed) this allowance is $0. If the student is married (or remarried), this allowance is 35% of the student and spouse’s combined earned income or maximum allowance, whichever is less. The allowance is updated annually. See the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ for the current year allowance amount. The employment expense allowance is never less than zero.
+
+Finally, the student’s (and spouse’s) available income is multiplied by the assessment rate of 50% to determine the student’s contribution from income, which may be a negative number.
+
+Student’s (and Spouse’s) Contribution From Assets
+
+The full formula uses the student’s (and spouse’s) assets of the and determines a “contribution from assets.”
+
+First, the student’s (and spouse’s) 
+net worth
+ is calculated by adding the following assets reported on the FAFSA form:
+
+Cash, savings, checking, time deposits, and money market funds.
+ Use the amount reported on the FAFSA form.
+
+Net worth of investments.
+ Includes real estate (excluding primary residence), vacation homes, income producing property, trusts, stocks, bonds, derivatives, securities, mutual funds, tax shelters, and qualified education benefits.
+
+Adjusted net worth of business and/or investment farm.
+ Use “Table B2: Business/Farm Net Worth Adjustment” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ to adjust the total reported on the FAFSA form.
+
+Second, the student’s (and spouse’s) 
+discretionary net worth
+ is calculated by subtracting the asset protection allowance (“Table B3: Asset Protection Allowance” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide)
+ from the student’s (and spouse’s) net worth.
+
+Finally, the student’s (and spouse’s) 
+net worth
+ is multiplied by the conversion rate of 20% to determine the student’s contribution from assets. If the contribution from assets is negative, it is set to zero.
+
+SAI Calculation – Independent Student Without Dependents Other Than a Spouse
+
+The student’s SAI is determined by adding the student’s contribution from income and the student’s contribution from assets. The SAI may be negative (but not less than -1,500).
+
+Formula C—Independent Student With Dependents Other Than a Spouse
+
+The SAI for an independent student with dependents other than a spouse is calculated using FAFSA data for the student and spouse. The FPS calculates a contribution from available income and a contribution from assets; the SAI is the sum of these two values.
+
+Contribution Fom Available Income
+
+Student’s (and Spouse’s) available income.
+ The student’s (and spouse’s) available income is calculated by subtracting certain allowances from the student’s (and spouse’s) total income. These allowances account for certain nondiscretionary expenses, such as taxes and basic living expenses. Once a minimum level of support has been offset for those expenses, the formula assumes that the remaining income is available for discretionary purposes, including paying for a postsecondary education. The available income can be a negative number.
+
+The student’s (and spouse’s) available income is the sum of the taxable and untaxed income minus amounts reported in the income but excluded from the formula (offsets and allowances).
+
+Student’s (and spouse’s) taxed/untaxed income.
+ The sum of the following items, reported on a U.S. tax return, is the student’s (and spouse’s) total income:
+
+Student’s (and spouse’s) AGI
+
+Student’s (and spouse’s) deductible payments to self-employed SEP, SIMPLE, Keogh, and other qualified retirement accounts
+
+Student’s (and spouse’s) tax-exempt interest
+
+Student’s (and spouse’s) untaxed IRA/pension distributions (excluding rollovers)
+
+Student’s (and spouse’s) foreign income exclusion
+
+Student’s (and spouse’s) income offsets.
+ The sum of the following items decreases the student’s (and spouse’s) total income:
+
+Student’s (and spouse’s) taxable college grant and scholarship aid (included as income).
+ This amount is self-reported on the FAFSA form.
+
+Student’s (and spouse’s) education credits.
+ Use the amount reported on the FAFSA form.
+
+Student’s (and spouse’s) Federal Work-Study (FWS).
+ Schools annually report FWS earnings by individual earners to the Department. ED will then use this information to report FWS on the individual earner’s FAFSA form.
+
+Student’s (and spouse’s) income allowances.
+ The sum of the following allowances reduces the student’s (and spouse’s) total income:
+
+U.S. income tax paid.
+ Use the amount reported on the FAFSA form.
+
+Student’s (and spouse’s) payroll tax allowance.
+ Use “Table C1: Payroll Tax Allowance” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+. Apply the rates shown in each step of the table to the total income earned from work in 2022 for the student (and spouse) as reported on the FAFSA form. The total allowance for payroll taxes is never less than zero.
+
+Income protection allowance.
+ Use “Table C2: Income Protection Allowance – Married with Dependents” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ for married or remarried students. Use “Table C3: Income Protection Allowance – Single with Dependents” for unmarried students (single, separated, divorced, or widowed) and married students (married or remarried).
+
+Employment expense allowance.
+ The allowance is 35% of the student’s (and spouse’s) income earned from work or a maximum allowance, whichever is less. The maximum allowance is updated annually. See the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ for the current year allowance amount. The employment expense allowance is never less than zero.
+
+Student’s (and Spouse’s) Contribution From Assets
+
+The full formula uses the student’s (and spouse’s) assets and determines a “contribution from assets.”
+
+First, the student’s (and spouse’s) 
+net worth
+ is calculated by adding the following assets reported on the FAFSA form.
+
+Cash, savings, checking, time deposits, and money market funds.
+ Use the amount reported on the FAFSA form.
+
+Net worth of investments.
+ Includes real estate (excluding primary residence), vacation homes, income producing property, trusts, stocks, bonds, derivatives, securities, mutual funds, tax shelters, and qualified education benefits.
+
+Adjusted net worth of business and/or farm.
+ Use “Table C4: Business/Farm Net Worth Adjustment” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+ to adjust the total reported on the FAFSA form.
+
+Second, the student’s (and spouse’s) 
+discretionary net worth
+ is calculated by subtracting the asset protection allowance (“Table C5: Asset Protection Allowance” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide)
+ from the student’s (and spouse’s) net worth.
+
+Finally, the student’s (and spouse’s) 
+net worth
+ is multiplied by the conversion rate of 7% to get the 
+student’s contribution from assets
+. If the contribution from assets is negative, it is set to zero.
+
+SAI Calculation - Independent Student With Dependents Other Than a Spouse
+
+This is the final step in determining the student’s SAI. The student’s available income and contribution from assets are added together to determine the student’s adjusted available income, which can be a negative number. The total student’s contribution from adjusted available income is calculated from the amounts and rates in “Table C6: Assessment from Adjusted Available Income” in the 
+2025-26 Student Aid Index (SAI) and Pell Grant Eligibility Guide
+. The rates in Table C6 increase from 22% to 47% as the adjusted available income increases. This is based on the principle that as income increases beyond the amount needed to maintain a basic standard of living, the portion used for family maintenance decreases and the portion available for discretionary purposes increases. Therefore, a progressively larger amount of income may be contributed toward postsecondary educational costs. The number resulting from the assessment according to Table C6 is the student’s SAI and may be negative.
+
+Previous
+
+Next
+
+ Last Modified: 12/17/2024 • Published: 03/28/2021

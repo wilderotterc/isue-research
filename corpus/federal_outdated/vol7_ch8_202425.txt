@@ -1,0 +1,223 @@
+Pell Grant Lifetime Eligibility Used (LEU) | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 8
+
+Pell Grant Lifetime Eligibility Used (LEU)
+
+Duration of Eligibility
+
+Per the 
+Consolidated Appropriations Act, 2012
+, a student’s maximum duration of Pell eligibility is six Scheduled Awards, as measured by the percentage of “Lifetime Eligibility Used” (LEU) field in COD (one Scheduled Award equals 100% LEU). A student is ineligible to receive further Pell Grant funds if they have reached or exceeded the 600% limit. This limitation includes all grants disbursed since the beginning of the program (1973-74).
+
+ Pell Grant LEU
+ 
+
+34 CFR 690.6
+
+HEA Section 401(d)
+
+DCL GEN-12-01
+
+DCL GEN-13-14
+
+Electric Announcement April 18, 2014
+
+The Department provides weekly Pell LEU reports through the SAIG Mailbox under Message Class PGLEXXOP (where XX = the year) for your Pell-eligible students (and students who listed your school code on their FAFSA form) who have a Pell LEU greater than or equal to 450%. The COD website will show the current Pell LEU level for all aid recipients (updated as transactions are processed). COD also provides the LEU for the Pell Multiple Reporting Record (MRR), Pell Reconciliation Report, and Pell Year-to-Date file.
+
+Students will fall into one of the following categories, which will have various effects:
+
+Student not on report
+ (Code “N” on the student’s ISIR under Lifetime Limit Flag) Students in this category have LEU of less than 400%. These students’ Pell awards will be awarded as normal, since even if they receive a full Scheduled Award, they will not go over the 600% LEU maximum.
+
+LEU greater than 400% but less than or equal to 500%
+ (Code “H” on the student’s ISIR under Lifetime Limit Flag) Students in this category will likely have Scheduled Award eligibility for 2024-25. However, a student’s 2024-25 Pell eligibility may be reduced if, for example, another Pell disbursement is reported after a report has been created, putting the student’s 2024-25 baseline LEU over 500%.
+
+LEU greater than 500% but less than 600%
+ (Code “C” on the student’s ISIR under Lifetime Limit Flag) These students will not have full Pell eligibility for 2024-25 since their baseline LEU has less than 100% remaining.
+
+LEU 600% or higher
+ (Code “E” on the student’s ISIR under Lifetime Limit Flag) These students will have no Pell eligibility remaining, as they have already met or exceeded the maximum LEU amount.
+
+To aid in identifying students who are approaching their LEU limits, COD returns warning code 177 or 178 when a student’s Pell LEU is near or exceeds 600%. COD has a hard reject (Edit 201) for Pell Grant actual disbursements with a Pell Grant LEU greater than 600%. Also, you will be able to see this data in the Common Record Response, and LEU is also visible in the NSLDS system. The FAFSA Processing System (FPS) reports the Pell Grant LEU limit flags and percentages on FAFSA Submission Summaries and ISIRs. COD calculates a student’s LEU to three decimal places, and you may round awards as described in Chapter 4 of this volume. However, you may not round up if that would cause the student to exceed either their Scheduled Award or 600% LEU.
+
+To calculate an award for a student whose LEU level will reduce the student’s eligibility (i.e., an LEU greater than 450% but less than 600%), you must first check the most current LEU level in COD. Subtract the LEU percentage from 600%, then multiply the student’s Scheduled Award by the resulting percentage. For example, if a student has 533% LEU in COD, your school will subtract 533% from 600%, leaving the student with 67% of a Scheduled Award remaining. If the student’s Scheduled Award is $7,455, your school multiplies $7,455 by 0.67, which equals $4,994.85. This amount is then disbursed per the normal Pell formula and payment period rules. If your school only disburses funds in whole dollars, you will truncate the amount to $4,994 (rather than rounding up to $4,995, as this would put the student over 600% LEU).
+
+For students whose eligibility is less than a full Scheduled Award, you award the student a Pell Grant as you would for a transfer student who received Pell at another school during the same award year. That is, you determine the student’s remaining Pell Grant eligibility, as a percentage of LEU, and then award each payment until that eligibility is used (see the discussion in Chapter 6 of this volume).
+
+Pell Grant and Iraq and Afghanistan Service Grant LEU
+
+Prior to the 2024-25 award year, the Pell Grant and Iraq and Afghanistan Service Grant (IASG) were separate programs and LEUs were tracked independently for each program. In the Spring of 2024, any student who received IASG funds will have their IASG LEU percentage converted to and combined with a Pell Grant LEU percentage. A student whose newly combined Pell Grant LEU percentage reaches or exceeds the 600% limit will not be eligible for Pell Grant funds, beginning with the 2024-25 award year. However, a student whose newly combined Pell LEU exceeds 600% will not be considered to have received a Pell Grant overaward.
+
+ 
+
+Prior Pell LEU
+
+Prior IASG LEU
+
+Combined Pell LEU
+
+Remaining Eligibility?
+
+ 
+
+100%
+
+200%
+
+300%
+
+Yes – 300%
+
+ 
+
+300%
+
+300%
+
+600%
+
+No
+
+ 
+
+400%
+
+300%
+
+700%
+
+No
+
+See "Maximum Pell Grant Eligibility for Dependents of Certain Deceased Servicemembers and Public Safety Officers” in Chapter 1 for further discussion of Pell Grant eligibility under the Special Rule.
+
+ Pell Grants under the Special Rule
+ 
+
+HEA Section 401(c)
+
+Timely Pell Grant Reporting Requirements
+
+Because of Pell Grant Lifetime Eligibility Used (LEU) monitoring, it is particularly important to submit Pell Grant disbursement information in a timely manner. You must submit Pell Grant disbursement information to COD no later than 15 calendar days after making a disbursement or adjustment. To ensure you and other schools have the most accurate information available about students’ LEUs, you should submit information to COD as early as possible in the required 15-day time frame. Doing so may help prevent an overaward. Failure to submit the data within the 15 days could result in the Department disallowing the disbursement.
+
+ NSLDS reporting requirements for Pell
+ 
+
+GEN-14-07
+
+GEN-14-17
+
+Changes in LEU
+
+A student’s LEU changes whenever they receive a Pell Grant disbursement and may change any time a student’s Scheduled Award is adjusted (up or down). It may also change through an LEU adjustment made based on an LEU Dispute, Closed School Restoration, Restoration for Eligible Loan Discharge, or other adjustment type deemed necessary by the Department.
+
+A student’s Pell Grant LEU can limit the student’s Pell Grant eligibility for an award year. For example, since the maximum LEU is 600%, if a student’s Pell Grant award originally was calculated based on an LEU of 550%, then that student’s award would be limited to 50% of the Scheduled Award. A change to a disbursement in the current or previous award year may alter a student’s LEU. For details on LEU limitations, see the Pell Grant Lifetime Eligibility Used guidance earlier in this chapter.
+
+When a school becomes aware that a student’s LEU has been adjusted, it should determine whether the adjustment affects the student’s eligibility for a Pell Grant in the current or most recently completed award year.
+
+If the student becomes eligible for additional Pell Grant funds as a result of a change to the student’s LEU, the school must make a correction to the student’s award and make any disbursements of Pell Grant funds for which the student is now eligible and that the school is permitted to make under the late and retroactive disbursement requirements (for more detail on disbursement requirements and timing, see 
+Volume 4
+, Chapter 2). Note that, as with any retroactive payment or late disbursement of Pell Grant funds, the school should base its calculation of such disbursements on only the classes that the student completed for the earlier period.
+
+Minimum Pell Grant and LEU
+
+Under HEA section 401(a)(2)(F), the minimum award is set at 10% of the maximum award appropriated each year, rounded to the nearest $5. There is no de minimis award amount for purposes of determining a student’s award because of the 600% LEU limitation. Therefore, even a student with a very small remaining LEU is eligible to receive the calculated amount of the Pell Grant, if the LEU is not exceeded.
+
+Volume 7, Chapter 8, Example 1: Minimum Pell Grant and LEU
+
+A full-time student with a Scheduled Award equal to $7,500 with a LEU of 599.500% would be eligible for the remaining 0.500% which is $37.50 (if your school only disburses in whole dollars, this amount must be truncated to $37, because $38 would exceed the student’s LEU).
+
+Pell LEU Restoration
+
+In 2017, following several cases of closed schools, the Department began restoring Federal Pell Grant eligibility for Pell Grant recipients who were unable to complete their course of study due to the closing of a school. This process is known as “Pell LEU Restoration for Closed Schools”.
+
+ Pell LEU restoration for closed schools
+ 
+
+Electronic Announcements posted:
+
+December 21, 2016
+
+April 3, 2017
+
+October 4, 2017
+
+In 2021, the 
+FAFSA Simplification Act
+ codified Pell LEU Restoration for Closed Schools into law and expanded the restoration of Pell Grant eligibility to include students who received a closed school, false certification, identity theft, or borrower defense loan discharge. This expanded authority is known as “Pell LEU Restoration for Eligible Loan Discharge”. The Department implemented changes in the COD System to accommodate this new authority on July 30, 2023.
+
+ Pell LEU restoration for eligible loan discharge
+ 
+
+Electronic Announcement posted July 20, 2023
+
+A closed school may be considered for the Pell LEU Restoration for Closed Schools process if all the following are true:
+
+The school's main location is officially closed with the Department;
+
+The school closed after 1994 (i.e., 1995 to present);
+
+All final disbursements have been submitted to the COD system and accepted by the Department;
+
+All final enrollment data has been submitted to NSLDS so that the Department may determine if students are eligible for restoration; and
+
+The school has completed the close-out process with the Department.
+
+A student may be eligible for restoration under the Pell LEU Restoration for Closed Schools process if all the following are true:
+
+The student received a Pell Grant disbursement at an eligible closed school (see criteria for an eligible closed school above);
+
+The student did not complete their program at the closed school; and
+
+The student had a valid enrollment status at the closed school within two years of the school’s closure.
+
+A student may be eligible for restoration under the Pell LEU Restoration for Eligible Loan Discharge process if the following are true:
+
+The student received an eligible loan discharge on or after July 1, 2017; and
+
+The student received Pell Grant disbursement for the same OPEID and award year as the discharged loan.
+
+School Impact Due to Pell LEU Restorations
+
+Schools do not have to take any action related to either the Pell LEU Restoration for Closed Schools or the Pell LEU Restoration for Loan Discharge processing. The Department has modified the COD system to restore Pell Grant eligibility for eligible students.
+
+However, if a student’s eligibility for Pell in the current award year is impacted by an LEU adjustment, the school will be notified. Notifications of Pell eligibility restoration adjustments for students associated with their school are sent through a variety of sources:
+
+COD Warning Edits (#221 for Closed School adjustments; #229 for Loan Discharge adjustments);
+
+Targeted emails with instructions to download a list of affected students from the COD Web;
+
+NSLDS post screening;
+
+Updated LEU within response file; and
+
+Details of the LEU adjustment(s) displayed on the students’ Pell LEU History screen in COD Web.
+
+Student Impact and Eligibility for Pell LEU Restorations
+
+Neither the Pell LEU Restoration for Closed Schools nor the Pell LEU Restoration for Eligible Loan Discharge process requires student intervention. Students who are potentially eligible for additional Pell because some or all their Pell eligibility has been restored are sent a targeted email.
+
+Pell Grant LEU Disputes
+
+A school or student may dispute the accuracy of a student’s Pell Grant data which resulted in the student’s LEU percentage in COD. It is the student’s current school’s responsibility to coordinate the resolution of the dispute. You may create, view, and edit Pell LEU disputes (including uploading documentation) using the COD Web Portal.
+
+ Pell Grant LEU disputes
+ 
+
+Electronic Announcements posted:
+
+June 27, 2013
+
+April 18, 2014
+
+Previous
+
+Next
+
+ Last Modified: 02/28/2024 • Published: 08/25/2023

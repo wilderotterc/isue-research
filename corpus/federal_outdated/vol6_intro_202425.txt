@@ -1,0 +1,129 @@
+The Campus-Based Programs | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Volume 6
+
+The Campus-Based Programs
+
+Introduction
+
+The Campus-Based Programs include the Federal Work-Study Program (FWS), the Federal Supplemental Educational Grant Program (FSEOG), and the Federal Perkins Loan Program (Perkins Loans). This volume provides the information that schools need to administer those programs.
+
+Throughout the Federal Student Aid Handbook we use “college,” “school,” and “institution” interchangeably unless a more specific use is given. “You” refers to the primary audience of the Handbook: financial aid administrators at colleges. “We” indicates the U.S. Department of Education (the Department, ED), and “Federal Student Aid,” “FSA Programs,” and “
+Title IV
+ aid” are synonymous terms for the financial aid offered by the Department.
+
+Throughout the year, the Department of Education (The Department) provides updates for schools in the form of Dear Colleague Letters (DCLs). These and other releases, such as 
+Federal Register
+ notices and electronic announcements, contain system updates and technical guidance, and are available on the FSA Partner Connect website (
+fsapartners.ed.gov
+).
+
+The 
+FSA Handbook
+ does not cover the operation of software. For schools using software provided by the Department, there are technical references on FSA Partner Connect that explain how the software operates. Schools using third-party software should consult the vendor’s reference materials for technical guidance.
+
+Below, we provide a summary of the significant changes and clarifications presented in greater detail in the chapters that follow. 
+Alone the text herein does not provide schools with the guidance needed to satisfactorily administer the 
+Title IV
+ HEA programs.
+ For more complete guidance, you should refer to the text in the chapters cited, the Code of Federal Regulations (CFR), and the 
+Higher Education Act
+ (HEA) as amended.
+
+Recent Changes
+
+Here are some of the significant changes to 
+Volume 6
+ for 2024-2025:
+
+Chapter 1: Campus-Based Programs Common Elements
+
+Added and updated hyperlinks throughout chapter for regulatory citations and other references.
+
+Updated FISAP process deadline dates.
+
+Described COD XML Schema used for reporting 2023 Federal Work-Study program data to COD, beginning summer, 2024.
+
+Detailed sunset of 
+CARES Act
+ provisions for Emergency Aid Grants and Temporary Expansion of Federal Work Study Transfer Authority.
+
+Guidance added on the sunset of 
+CARES Act
+ waiver of nonfederal matching share requirements.
+
+Citizens of the Federated States of Micronesia and the Republic of the Marshall Islands have their eligibility reinstated for FSEOG & FWS for 2024-25, due to the elimination of the Supplemental Education Grants (SEG).
+
+Chapter 2: The Federal Work-Study Program
+
+FWS Community Service waiver procedures detailed for the 2024-25 award year.
+
+CARES Act
+ FWS flexibilities section updated for 2024-25 to reflect sunset provisions.
+
+Guidance on FWS work that is “in the public interest” updated, per Dear Colleague Letter 
+GEN-24-03
+.
+
+Added and updated hyperlinks throughout chapter for regulatory citations and other references.
+
+Chapter 3: Participating in the Perkins Loan Program
+
+The new G6 system (which will replace the G5 system) will be implemented during the 2024-25 award year. Further details will be released later in the year.
+
+Updated and clarified guidance on Calculating Distribution of Assets and Returning Funds to the Department.
+
+Description of the new Perkins Portfolio Report Extract File Layouts for Schools (aka the PRKPF1) added.
+
+Steps for Schools Ending Participation in the Federal Perkins Loan Program section updated.
+
+Added and updated hyperlinks throughout chapter for regulatory citations and other references.
+
+Chapter 4: Perkins Repayment Plans, Forbearance, Deferment, Discharge, and Cancellation
+
+Family size calculation changes updated for purposes of Determining Maximum Monthly Gross Income and 150% of Poverty Line for Economic Hardship Deferment.
+
+Added and updated hyperlinks throughout chapter for regulatory citations and other references.
+
+Chapter 5: Perkins Loan Billing, Collection, and Default
+
+Added guidance on Regaining Eligibility Through the Fresh Start Initiative.
+
+Added and updated hyperlinks throughout chapter for regulatory citations and other references.
+
+Updated and clarified guidance on If a School Cannot Use G5/G6 to Return Funds.
+
+Note on availability of 
+HEROES Act
+ waivers and the January 24, 2024 Federal Register added, applicable to “affected individuals” under the 
+HEROES Act
+.
+
+Chapter 6: The Federal Supplemental Educational Opportunity Grant Program
+
+New guidance for Selecting FSEOG Recipients and negative SAIs.
+
+Added and updated hyperlinks throughout chapter for regulatory citations and other references.
+
+ Comments? Questions?
+ 
+
+We appreciate any comments that you have on 
+Volume 6
+ of the 
+FSA Handbook
+. We revise the text based on questions and feedback from the financial aid community, so please reach out to us about how to improve the Handbook through the “Contact Customer Support” feature in our 
+Partner Connect
+’s Help Center, clicking on “FSA Handbook” under the Topic section.
+
+Previous
+
+Next
+
+ Last Modified: 06/20/2024 • Published: 03/28/2021

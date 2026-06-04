@@ -1,0 +1,133 @@
+Academic Calendars, Cost of Attendance, and Packaging | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Volume 3
+
+Academic Calendars, Cost of Attendance, and Packaging
+
+Introduction
+
+This volume of the 
+Federal Student Aid (FSA) Handbook
+ discusses the academic calendar, payment period, and disbursement requirements for awarding aid under the 
+Title IV
+ student financial aid programs, determining a student’s cost of attendance, and packaging 
+Title IV
+ aid.
+
+Throughout this volume of the 
+Handbook
+, the words "we," "our," and "us" refer to the United States Department of Education (the Department). The word "you" refers to the primary audience of the 
+Handbook
+, school financial aid administrators. In other volumes of the 
+Handbook
+ we use "institution," "school," and "college" interchangeably, unless a more specific meaning is provided. In this volume we consistently use the term "school." “HEA” refers to the Higher Education Act of 1965, as amended. 
+Title IV
+ refers to the student financial aid programs authorized under 
+Title IV
+ of the HEA.
+
+We appreciate any comments that you have on this volume as well as the other volumes of the 
+FSA Handbook
+. We revise the text based on questions and feedback from the financial aid community, so please reach out to us about how to improve the Handbook through the “
+Contact Customer Support
+” feature in our Partner Connect’s Help Center clicking on “FSA Handbook” under the Topic section.
+
+Sunset of COVID-19 Guidance and Waivers
+
+Although COVID-19 continues to affect the lives of many Americans, the urgent need for waivers and flexibilities has diminished. The Federal Government ended the national emergency and the public health emergency associated with the pandemic. The COVID-19 national emergency ended on April 10, 2023, through enactment of H.J. Res. 7, Public Law No. 118-3. The COVID-19 public health emergency ended on May 11, 2023. These actions triggered the sunset of many waivers and flexibilities for the federal student financial aid programs related to the COVID-19 pandemic.
+
+The Department of Education recognizes that the COVID-19 pandemic created many unique challenges for postsecondary institutions. The Department provided a variety of special guidance and regulatory flexibilities due to the President’s declaration of the COVID-19 national emergency on March 13, 2020. In addition, Congress passed legislation offering relief from certain statutory requirements related to the 
+Title IV
+, HEA programs.
+
+In general, the COVID-19 flexibilities and waivers remained in effect until the COVID-19 national emergency was declared over. For more details, see the 
+Electronic Announcement
+ published June 14, 2023, which describes the timeframes for the sunset of the COVID-19 waivers and flexibilities applicable to institutions and provides general guidance regarding the return to normal compliance with 
+Title IV
+, Higher Education Act (HEA) requirements.
+
+Changes for 2024-2025
+
+Throughout 
+Volume 3
+, we have made updates to reflect changes made by the 
+FAFSA Simplification Act
+. These include the following:
+
+Removal of guidance related to Iraq and Afghanistan Service Grants, Children of Fallen Heroes Awards, and the “Zero EFC treatment” for Pell Grant-eligible students who meet the Iraq and Afghanistan Service Grant eligibility criteria;
+
+Replacement of all references to “Expected Family Contribution (EFC)” with “Student Aid Index (SAI);” and
+
+Replacement of all references to “estimated financial assistance (EFA)” with “other financial assistance (OFA).”
+
+For more information on the changes made by the 
+FAFSA Simplification Act
+, see 
+Dear Colleague Letter GEN-23-11
+.
+
+For greater clarity, we have changed how examples and tables in 
+Volume 3
+ are numbered. In the 2023-2024 
+FSA Handbook
+, examples and tables were numbered sequentially throughout the entire volume. For instance, if the last example in a chapter was “Example 5,” the first example in the next chapter was numbered “Example 6.” Examples and tables are now numbered sequentially within each chapter or appendix, and the numbering then starts over when a new chapter or appendix begins. In addition, each example and table is now preceded by the volume and chapter in which it appears (for example, “Volume 3, Chapter 1, Example 1”).
+
+In 
+Chapter 1
+, under the heading “Standard Terms: Semesters, Trimesters, and Quarters,” we have added a second means by which a school may modify its academic calendar to meet the minimum requirement for 30 weeks of instruction time if the calendar consists of standard terms that would not otherwise meet the minimum 30-week standard. Under the heading “Nonstandard Terms,” we have added language to reflect our longstanding policy that nonstandard terms (like standard terms) may not overlap within a program.
+
+To reflect a change made by the 
+FAFSA Simplification Act
+, we have updated the guidance in 
+Chapter 2
+ on calculating cost of attendance for periods other than nine months to state that in all cases a student’s calculated 9-month SAI must be used. There are otherwise no significant changes to the content of 
+Chapter 2
+ for 2024-2025.
+
+To reflect changes made by the 
+FAFSA Simplification Act
+, we have made the following changes in 
+Chapter 3
+:
+
+Replaced guidance on the use of alternate EFCs when packaging aid for periods other than nine months with new guidance explaining that a student’s calculated 9-month SAI must be used in all cases when determining eligibility for need-based aid, even for periods other than nine months.
+
+Added guidance on the treatment of negative SAIs when determining need-based aid eligibility.
+
+Added an example showing how a student whose SAI is higher than the student’s cost of attendance may still be eligible to receive a Pell Grant.
+
+Replaced the guidance previously under the heading “Packaging Aid for Dependents of Deceased Iraq and Afghanistan Soldiers or Public Safety Officers” with new guidance (accompanied by a new example) on packaging aid for students who qualify for the maximum Pell Grant amount under the Pell Grant Special Rule criteria.
+
+Added new guidance on the exclusion of certain types of emergency financial assistance from OFA.
+
+In Table 1, added certain types of emergency financial assistance and foster care benefits to the listing of aid types that are not counted as OFA.
+
+In the appendix at the end of 
+Chapter 3
+, removed Veterans Retraining Assistance Program (VRAP) and Veterans Rapid Retraining Assistance Program (VRRAP) benefits from the list of veterans education benefits that are to be excluded from OFA.
+
+We have also made the following changes in 
+Chapter 3
+ to clarify existing guidance:
+
+Revised the guidance under the heading “Pell Grants as the First Source of Aid” to more clearly state our longstanding policy that when a student’s aid package includes both 
+Title IV
+ funds in an amount less than the cost of attendance, plus additional non-
+Title IV
+ funds, and the total aid amount exceeds the cost of attendance, schools may (but are not required to) adjust non-
+Title IV
+ aid over which they have control.
+
+Revised the guidance under “Recalculation” to more clearly state our longstanding policy that if a change in a student’s enrollment status results in a change in the cost of attendance, a school must recalculate a student’s Campus-Based aid eligibility based on the revised cost of attendance.
+
+Previous
+
+Next
+
+ Last Modified: 04/17/2024 • Published: 03/28/2021

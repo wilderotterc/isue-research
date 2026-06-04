@@ -1,0 +1,1327 @@
+Academic Years, Academic Calendars, Payment Periods, and Disbursements | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 1
+
+Academic Years, Academic Calendars, Payment Periods, and Disbursements
+
+Academic Year Requirements
+
+Every eligible program must have a defined academic year. A school may have different academic years for different academic programs. For example, a school may choose to define the academic year for a term-based program differently from a non-term program. In some cases, the academic year definition 
+must
+ be different for different programs, such as in the case of a clock-hour program and a credit-hour program. For 
+Title IV
+ purposes, the academic year is defined in weeks of instructional time and credit or clock hours. The program’s academic year does not have to coincide with the school’s academic calendar (see “Academic year definition and effect on awards” later in the chapter).
+
+A school may treat two versions of the same academic program (day and night, for example) as separate programs and define different academic years for each version. If a school establishes separate versions of a program, with different academic years, but allows individual students to take courses from both versions, it must be able to demonstrate which program the student is actually enrolled in. Generally, to be considered enrolled in a particular program or version of a program, a student must be taking most of their coursework in that program. Although a school may have different academic years for different programs, it must use the same academic year definition for 
+all
+ 
+Title IV
+ awards for students enrolled in a particular program, and for all other 
+Title IV
+ program purposes.
+
+ Regulatory Citations
+ 
+
+Regulatory citations
+
+Academic year minimums: 
+34 CFR 668.3(a)
+
+Weeks of instructional time: 
+34 CFR 668.3(b)
+
+Weeks of Instructional Time in an Academic Year
+
+For both undergraduate and graduate programs, the law and regulations require an academic year to include a minimum number of weeks of instructional time.
+
+For a program offered in 
+credit hours
+, the academic year must include at least 30 weeks of instructional time.
+
+For a program offered in 
+clock hours
+, the academic year must include at least 26 weeks of instructional time.
+
+Note:
+ See 
+Volume 2
+ for information about academic year requirements for direct assessment programs, which do not measure academic progress using credit or clock hours.
+
+The number of weeks of instructional time is based on the period that generally begins on the first day of classes in the academic year and ends on the last day of classes or the last day of examinations, whichever is later.
+
+Schools that provide 2- or 4-year associate or baccalaureate degree programs may apply to the Department if they want to request approval to establish a full academic year of less than 30 weeks of instructional time. The Department is permitted to grant a reduction for good cause to no less than 26 weeks of instructional time. These requests are handled on a case-by-case basis. To request approval, contact the School Participation Division that oversees your school (see 
+Volume 2
+).
+
+For all 
+Title IV
+ programs, a week of instructional time is any period of seven consecutive days in which –
+
+At least one day of regularly scheduled instruction or examinations occurs, or, after the last scheduled day of classes for a term or payment period, at least one scheduled day of study for examinations occurs;
+
+or
+
+In a program offered using asynchronous coursework through distance education or correspondence courses, the school makes available the instructional materials, other resources, and instructor support necessary for academic engagement and completion of course objectives; 
+and
+
+In a program using asynchronous coursework through distance education, the school expects enrolled students to perform educational activities demonstrating academic engagement during the week.
+
+The term "asynchronous coursework" refers to coursework that students generally complete on their own schedule, at any time. This contrasts with "synchronous coursework," in which students and their instructors are in communication at the same time. For information on distance education and correspondence coursework, see 
+Volume 2
+.
+
+Instructional time excludes scheduled breaks and activities that aren't included in the definition of "academic engagement" (see 
+Volume 5
+ for more information) or periods of orientation or counseling. Therefore, the weeks of instructional time may be less than the number of calendar weeks that elapse between the first day of classes and the last day of classes or examinations. Note that the Department has not set a regulatory standard for the number of hours of instructional time that make up one day of instruction. This has been left to the reasonable interpretation of schools and their accrediting agencies.
+
+Although most programs are at least one academic year in length, some eligible programs are shorter than an academic year. See 
+Volume 2, Chapter 2
+ for more detail on the requirements for such programs.
+
+Weeks of instructional time:
+
+Cannot overlap, and a school cannot use a single day of scheduled instruction, exams, or study time to create more than one week of instruction (for example, a school may not end a week of instructional time on one day and begin the next week of instructional time on the same day);
+
+May begin and end on a day other than Monday, provided that each week of instructional time comprises seven consecutive days (for example, a Wednesday through the following Tuesday) that include at least one day of scheduled instruction, exams, or study time, as required by the regulations; and
+
+May begin up to six days before the first day of scheduled instruction or exams in a payment period.
+
+Note:
+ All references to “weeks” in the examples that appear throughout this chapter mean weeks of instructional time as defined above.
+
+ Regulatory Citations
+ 
+
+Regulatory Citations
+
+Reductions in academic year length: HEA Sec. 481(a)(2)(B) and 
+34 CFR 668.3(c)
+
+Academic engagement: 
+34 CFR 600.2
+
+Distance education: 
+34 CFR 600.2
+
+Volume 3, Chapter 1: Example 1: Counting Weeks of Instructional Time
+
+The calendar graphic below illustrates how a school would count weeks of instructional time in a standard semester term during which classes are held Monday through Friday. In this hypothetical term (the example is not meant to illustrate any specific calendar year) classes begin on Monday, August 23rd, and end on Friday, December 10th, with examinations held December 13th-17th.
+
+The circles indicate the points at which each of the 17 weeks of instructional time begin.
+
+There are no classes on Labor Day (September 6th), Veterans Day (November 11th), or during Thanksgiving break (November 24th-26th), but each week that includes these dates still counts as a week of instructional time since each includes at least one day of regularly scheduled instruction. The week of exams that begins on December 13th also counts as a week of instructional time.
+
+If a week in the term has no days of instruction, examination, or (after the last day of classes) study for examination, that week does 
+not
+ count as a week of instructional time. For example, a week consisting only of vacation days is not a week of instructional time.
+
+ 
+
+ 
+
+Credit or Clock Hours in an Academic Year
+
+For 
+undergraduate
+ educational programs, the law and regulations set the following minimum standards for coursework earned by a full-time student in an academic year:
+
+For a program measured in credit hours, 24 semester or trimester credit hours or 36 quarter credit hours; or
+
+For a program measured in clock hours, 900 clock hours.
+
+For 
+graduate and professional
+ programs, there is no minimum number of hours in an academic year.
+
+Academic Year Definition and Effect on Awards
+
+The 
+Title IV
+ academic year that a school defines for a program must meet the regulatory minimums for both clock or credit hours 
+and
+ weeks of instructional time, as described above. In some instances, the defined academic year for a program may not coincide with the academic calendar of the school. For example, a school might define the academic year for a program as containing 24 semester hours and 30 weeks of instructional time but have an academic calendar consisting of four 8-week nonstandard terms (i.e., 32 weeks of instructional time). This would affect the calculation of Pell Grant awards, as explained in 
+Volume 7
+.
+
+As discussed later in this chapter and in 
+Volume 8
+, the timing of disbursements and, for the Direct Loan Program, annual loan limit progression will be affected if a program is an academic year in length in credit or clock hours but not in weeks of instructional time, or for a program longer than an academic year in length, if a student’s completion of the credit or clock hours in the program’s academic year does not coincide with completion of the weeks of instructional time in the academic year.
+
+Academic Calendars and Terms
+
+Schools offer programs with many kinds of academic calendars that differ from the traditional fall-spring school year. For the 
+Title IV
+ programs, academic calendars may be one of the following types:
+
+standard term,
+
+nonstandard term,
+
+non-term (includes clock-hour calendars), or
+
+subscription-based.
+
+In a 
+standard term or nonstandard term academic calendar
+, a term is generally a period in which all classes are scheduled to begin and end within a set time frame, and academic progress is measured in credit hours.
+
+In a 
+non-term academic calendar
+, classes do not begin and end within a set time frame, such as a term. Academic progress in a non-term program can be measured in either credit or clock hours. In some cases (as discussed below), a program with terms must be treated as a non-term program for 
+Title IV
+ purposes.
+
+A 
+subscription-based academic calendar
+ is used 
+only
+ by subscription-based programs. A subscription-based program is a term-based program in which the school charges a student for each term on a subscription basis with the expectation that the student will complete a specified number of credit hours (or the equivalent) during that term. However, classes in a subscription-based program are not required to begin or end within a specific timeframe in each term, as is the case in a term-based calendar that is not subscription-based. For more detail on subscription-based programs, see 
+Volume 2
+.
+
+A subscription-based academic calendar consists of "subscription periods" that are either standard terms or substantially equal nonstandard terms (for guidance on when terms are considered to be substantially equal in length, see “Payment periods for programs using standard terms or substantially equal nonstandard terms” later in this chapter). Substantially equal nonstandard terms may be of any length, but if they are not at least nine weeks in length, the program must use BBAY 3 for purposes of monitoring Direct Loan annual loan limit progression (see 
+Volume 8
+ for more information on BBAY 3). Nonstandard terms that are 
+not
+ substantially equal in length are not permissible in a subscription-based academic calendar.
+
+The term "subscription period" is synonymous with "term" and "payment period" (payment periods are covered later in this chapter). Except for the fact that classes are not required to start and end within a term, the rules and requirements for term-based programs that are not subscription-based also apply to subscription-based programs. These requirements include:
+
+minimum and maximum term length restrictions for standard terms (see the discussion in the next section of this chapter);
+
+requirements for determining full-time enrollment (see 
+Volume 1
+);
+
+use of a Scheduled Academic Year (SAY), BBAY 1, BBAY 2, or BBAY 3 for monitoring Direct Loan annual loan limit progression (see 
+Volume 8
+); and
+
+use of Pell Grant formulas 1, 2, or 3 to calculate Pell Grant awards (see 
+Volume 7
+).
+
+Whether an academic calendar is standard term, nonstandard term, non-term, or subscription-based has implications for how aid is awarded and disbursed under the 
+Title IV
+ programs.
+
+ Subscription-Based Program
+ 
+
+Subscription-based program
+
+34 CFR 668.2(b)
+
+Standard Terms: Semesters, Trimesters, and Quarters
+
+Semesters and trimesters contain between 14 and 21 weeks of instructional time. However, a summer term in a program using semesters or trimesters may contain fewer than 14 weeks. An academic calendar that uses semesters or trimesters traditionally has three terms, one each in the fall, spring, and summer, two of which comprise an academic year. For example, in a program using an SAY calendar, fall and spring would comprise an academic year. In a program using a BBAY calendar, an academic year could consist of any two consecutive terms such as spring-summer or summer-fall. Academic progress is measured in semester or trimester credit hours, and full time is at least 12 semester or trimester credits.
+
+Quarters contain between nine and 13 weeks of instructional time. As with programs using semesters or trimesters, a summer term in a quarterbased program may contain fewer than nine weeks. An academic calendar using quarters typically includes four terms in the fall, winter, spring, and summer, three of which comprise an academic year. For example, the fall, winter, and spring quarters would comprise an academic year in a program using an SAY calendar. In a program using a BBAY calendar, an academic year could be any three consecutive terms, such as spring-summer-fall, or summer-fall-winter. Academic progress is measured in quarter credit hours, and full time is at least 12 quarter credits.
+
+Semesters and quarters may contain as few as 14 and nine weeks, respectively. Therefore, a school that defines the academic year for a program as 24 semester hours or 36 quarter hours and 30 weeks of instructional time could have fall and spring semesters of 14 weeks each, resulting in 28 weeks of instruction, or fall, winter, and spring quarters of nine weeks each, resulting in 27 weeks of instructional time. However, because the academic year for a program that measures academic progress in credit hours must include a minimum of 30 weeks of instructional time, a school with such an academic calendar would be required to calculate Pell Grant awards using either Pell Grant Formula 2 or Pell Grant Formula 3 (see 
+Volume 7
+).
+
+For Direct Loan purposes, two 14-week semesters or three 9-week quarters could not constitute an SAY or BBAY, since the number of weeks of instructional time in an SAY or BBAY must generally meet the minimum 30-week statutory requirement (see 
+Volume 8
+). For its fall and spring semesters or fall, winter, and spring quarters to comprise an SAY or BBAY, the school would need to modify its calendar to ensure that there are at least 30 weeks of instruction in the fall and spring semesters or fall, winter, and spring quarters combined. For example, the school could have a 16-week fall semester and a 14-week spring semester. Another option would be for the school to extend the SAY or BBAY to include an additional term so that the total number of weeks of instructional time meets the 30-week minimum. For instance, the school could have an SAY consisting of 14-week fall and spring semesters and a 10-week summer term, or a BBAY consisting of any four consecutive 9-week quarters.
+
+Standard terms need not be of equal length. For example, a school could offer a program using semesters with the academic year consisting of a 14-week fall semester and a 20-week spring semester, or a program using quarters with the academic year consisting of a 13-week fall quarter, a 9-week winter quarter, and an 11-week spring quarter.
+
+In addition, the number of weeks in a standard term may vary from year to year over the course of a program. For example, a school could offer a two-year program with the first academic year consisting of two 15-week semesters, and the second academic year consisting of two 20-week semesters.
+
+In a standard term academic calendar, a term may contain an occasional class or classes that are longer than the normal term or that begin or end beyond the normal start or end date of the term, as long as the class or classes do not overlap another term (see below). However, if classes routinely extend a week or more beyond the normal term start or end dates, the school must revise the official length of the term.
+
+Generally, if the combined length of a term and an extended class or classes is greater than the maximum number of weeks allowed for a standard term, the program must be considered a nonstandard term program for 
+Title IV
+ program purposes. For example, if a 17-week semester contains a class that does not end until five weeks after the normal semester end date, the term must be considered nonstandard, because the combined length of the term and the extended class is 22 weeks, which exceeds the maximum 21 weeks permitted for a semester.
+
+There is an exception to this general rule for standard quarters that are 12 weeks in length. A 12-week quarter may still be considered a standard term if it contains a class or classes that begin not more than two weeks before the official beginning date of the term or that end not more than two weeks after the official ending date of the term (for a total period not to exceed two weeks). For example, a 12-week quarter containing a class that extends two weeks beyond the normal term ending date may still be considered a standard term, even though the combined length of the term and the extended class (14 weeks) exceeds the maximum 13 weeks allowed for a quarter.
+
+The limited exception for 12-week quarters preserves a flexibility that was allowed under the policy on standard term length that was in effect prior to the implementation of the changes described in the 
+November 5, 2019 Electronic Announcement
+. Under prior policy a quarter could not exceed 12 weeks, but a quarter with a class or classes that extended beyond the normal term beginning or ending dates by not more than two weeks could still be considered a standard term.
+
+Note that the requirements described above do not apply to standard terms in a subscription-based academic calendar. As explained earlier, classes in a subscription-based program are not required to begin and end within a term.
+
+Standard terms (including standard terms in a subscription-based program) may not overlap within a program. In addition, if an extended class overlaps another term in a program that is not a subscription-based program, the program’s academic calendar must be treated as non-term.
+
+ Standard Term Length
+ 
+
+Standard term length
+
+November 5, 2019 Electronic Announcement
+
+Combining Modules Into a Standard Term
+
+Except for subscription-based programs, in a program using a standard term academic calendar you may combine two or more consecutive shorter nonstandard terms (often called modules) and treat them as a single standard term such as a semester or quarter. For example, you might offer a program in a series of modules, each of which is six weeks in length, with students earning six quarter credits in each module. Although a single 6-week module could not constitute a quarter (because it contains fewer than the minimum nine weeks required for a quarter), you could choose to treat two consecutive 6-week modules as a single 12-week quarter.
+
+There are no modules in subscription-based programs for 
+Title IV
+ purposes.
+
+Volume 3, Chapter 1, Example 2: Combining Modules
+
+As shown below, a school could choose to group three 5-week modules together and treat them as a 15-week semester, or it could combine four 4-week modules into a 16-week semester:
+
+ 
+
+Module 1 (5 weeks) + Module 2 (5 weeks) + Module 3 (5 weeks) = 
+15-week semester
+
+ 
+
+or
+
+ 
+
+Module 1 (4 weeks) + Module 2 (4 weeks) + Module 3 (4 weeks) + Module 4 (4 weeks) = 
+16-week semester
+
+On the other hand, programs offered in modules may also be treated as nonstandard term or non-term programs. For instance, in the first of the two examples shown above the school could treat each 5-week module as a nonstandard term or could consider this to be a non-term program. Whatever academic calendar a school adopts for a program, it must apply the calendar to all students enrolled in that program and document the program’s treatment in its policies and procedures manual.
+
+Intersessions
+
+In certain limited cases for academic programs offered in standard terms, a short nonstandard term may be combined with a preceding or following standard term and treated as a single standard term. These short nonstandard terms are often called “intersessions.” For example, a program might be offered in an academic calendar consisting of two 15-week semesters, fall and spring, with a 4-week intersession between the two semesters. To consider the program as being offered in standard terms, you must combine the intersession with either the fall semester or the spring semester and treat the combined intersession and semester as a single term. If you choose to take this approach, the same treatment must be applied for all 
+Title IV
+ purposes to all students enrolled in the program. In addition, hours taken in the intersession must count toward a student’s enrollment status for the combined term, and costs for the intersession must be included in the cost of attendance.
+
+In some cases, an intersession may partially overlap one or more standard terms. If the intersession overlaps just one standard term, you may still consider the program to be offered in standard terms if you combine the overlapping intersession with the standard term and treat that combination as a single term, as described above.
+
+If you choose not to combine an intersession with a standard term as described above and instead treat the intersession as a standalone term, or if an intersession partially overlaps more than one standard term, the program must be treated as a non-term program for Direct Loans. For Pell Grants and Teacher Education Assistance for College and Higher Education (TEACH) Grants, you would be required to use Formula 3 if you treat the intersession as a standalone term, or Formula 4 if an intersession partially overlaps more than one standard term. Regardless of whether you treat an intersession as a standalone term or combine it with a standard term, you may not have a policy of prohibiting otherwise eligible students from receiving 
+Title IV
+ program funds to cover costs associated with enrollment in the intersession.
+
+Intersessions are not permitted in subscription-based programs.
+
+Volume 3, Chapter 1, Example 3, Combining an Intersession With a Standard Term
+
+A school offers a degree program in education with a 4-week intersession between two 15- week semesters:
+
+ 
+
+15-week semester
+
+4-week intersession
+
+15-week semester
+
+The terms don’t overlap. The academic year for this program is defined as 24 semester hours and 34 weeks of instructional time.
+
+The school may combine the intersession with one of the standard terms, and treat the program as being offered in two semesters:
+
+ 
+
+19-week semester
+
+(15-week fall semester + 4-week intersession)
+
+15-week semester
+
+or
+
+ 
+
+15-week semester
+
+19-week semester
+
+(4-week intersession + 15-week semester)
+
+The school could also choose not to combine the terms. In this case, the program would have a 4-week nonstandard term and two standard terms (semesters). As noted earlier, this means that the school would treat this as a non-term program for Direct Loan purposes and would use Formula 3 for calculating Pell Grant and TEACH Grant awards.
+
+Inclusion of Clinical Work in a Standard Term
+
+Periods of clinical work such as medical and education program work which is conducted outside the classroom may not be included in a standard term, unless 
+all
+ of the following apply:
+
+All students in the program must participate in the practicum or clinical experience, and they must be required to complete the practicum or clinical experience as a condition for applying for licensure or authorization to practice the occupation they intend to pursue;
+
+The school has little or no control over the length or start/end dates of the practicum or clinical experience. This may be due to constraints imposed by outside licensing bodies or the need to accommodate schedules of entities with which students are being placed (e.g., school districts or hospitals); and
+
+Credit hours associated with the practicum or clinical experience must be associated with the term in which most of the training occurs, even if the starting and ending dates do not exactly align with the term dates and/or overlap with another term.
+
+If the clinical work meets 
+all
+ the above criteria, terms which include such clinical work are not required to be considered nonstandard, nor are such programs required to be considered non-term, even if the clinical work overlaps another term. This flexibility is limited to required clinical periods associated with standard term programs in medicine (including, but not limited to, allopathic, osteopathic, nursing, veterinary, dentistry, pharmacy, and physical therapy), and student teaching required to obtain a state teaching certificate.
+
+See 
+Volume 8
+ for additional guidance on certain exceptions to the normal loan period and disbursement timing rules for Direct Loans when clinical work that meets the criteria described above is included in a standard term.
+
+Nonstandard Terms
+
+Generally, nonstandard terms are terms that are not semesters, trimesters, or quarters. For example, a 5-week term or a 23-week term would be considered a nonstandard term because no standard term can be fewer than nine weeks or greater than 21 weeks in length. Like standard terms, nonstandard terms may be equal in length or may be of different lengths. If a program is offered in a combination of standard terms and nonstandard terms, the program is considered to be offered in nonstandard terms. Also like standard terms, nonstandard terms may not overlap within a program.
+
+Even if a school calls its terms semesters, trimesters, or quarters, they are considered to be nonstandard terms if they do not comply with the policy on standard term length, as described earlier. For instance, a 22-week semester or an 8-week quarter must be treated as a nonstandard term, because a semester cannot contain more than 21 weeks and a quarter must include a minimum of nine weeks.
+
+Semesters, trimesters, or quarters are also considered to be nonstandard terms if academic progress is not measured in the manner normally associated with the type of term. For example, if a program is offered in 15-week semesters but measures academic progress in quarter credit hours, the semesters would be considered nonstandard terms.
+
+Non-Term Characteristics
+
+A program that measures progress in clock hours is always treated as a non-term program.
+
+Except for subscription-based programs, a program that measures progress in credit-hours is considered to have a non-term calendar if it has:
+
+Courses that do not begin and end within a set period of time such as a term;
+
+Courses that overlap terms;
+
+Self-paced and independent study courses that overlap terms; or
+
+Sequential courses that do not begin and end within a term.
+
+Payment Periods
+
+The payment period is applicable to all 
+Title IV
+ programs except the Federal Work-Study (FWS) Program. For example, 
+Title IV
+ program disbursements (except FWS payments) must be made on a payment period basis, as discussed in detail later in this chapter. Another example is that a student’s satisfactory academic progress (SAP) evaluation must correspond with the end of a payment period.
+
+The definition of a payment period depends on the kind of academic calendar your school uses and the 
+Title IV
+ program for which you are disbursing funds. For reference, the payment period definitions described in detail below are summarized in in the table titled “Payment Period Summary” at the end of this section.
+
+ Payment Periods
+ 
+
+34 CFR 668.4
+
+Payment Periods for Programs Using Standard Terms or Substantially Equal Nonstandard Terms
+
+For credit-hour programs with standard terms or with nonstandard terms that are substantially equal in length, the payment period is the term. Nonstandard terms are considered to be substantially equal in length if no term in a program is more than two weeks of instructional time longer than any other term in the program.
+
+ Substantially Equal in Length
+ 
+
+34 CFR 668.4(h)(1)
+
+Payment Periods for Programs with Nonstandard Terms Not Substantially Equal in Length
+
+Nonstandard terms are considered to be not substantially equal in length if any nonstandard term in a program is more than two weeks of instructional time longer than another term in the same program.
+
+For the Pell Grant, TEACH Grant, and Federal Supplemental Educational Opportunity Grant (FSEOG) programs, the payment period for a credit-hour program with nonstandard terms that are not substantially equal in length is the term.
+
+For the Direct Loan Program, if a program has nonstandard terms that are not substantially equal in length, the payment period is the same as described below for clock-hour and non-term programs.
+
+Volume 3, Chapter 1, Example 4: Payment Periods for Programs With Nonstandard Terms Not Substantially Equal in Length
+
+For a nonstandard term program, a school may have to use different payment periods for Direct Loans than the payment periods used for 
+Title IV
+ grants. In this example, we show how the payment periods for a Pell Grant and a Direct Loan can differ in a program with nonstandard terms that are not substantially equal in length. In this program, the payment periods for Pell Grants are the terms, while the payment periods for the Direct Loan are the non-term payment periods. This means that the Direct Loan payment periods will not match up with the payment periods used for the 
+Title IV
+ grant programs. For example, the first Direct Loan payment period shown below may not end until the end of the second Pell Grant payment period, depending on when the student successfully completes the credit hours and weeks of instructional time in the payment period.
+
+Academic Year = 24 Semester Hours and 30 Weeks of Instructional Time
+
+Pell Grant: Payment periods are the nonstandard terms (three disbursements)
+
+ 
+
+Nonstandard term #1: 12 weeks
+
+First payment period
+
+Nonstandard term #2: 6 weeks
+
+Second payment period
+
+Nonstandard term #3: 12 weeks
+
+Third payment period
+
+Direct Loan: Payment periods are determined by credit-hours and weeks (two disbursements)
+
+ 
+
+12 semester hours and 15 weeks
+
+First payment period
+
+12 semester hours and 15 weeks
+
+Second payment period
+
+Payment Periods for Clock-Hour and Non-Term Programs
+
+For all clock-hour programs and for credit-hour programs that do not have academic terms, payment periods are defined based on a student’s successful completion of clock or credit hours 
+and
+ weeks of instructional time, as described below. As noted earlier, these same payment period requirements also apply when disbursing Direct Loans to students enrolled in programs with nonstandard terms that are not substantially equal in length.
+
+A student successfully completes clock or credit hours if the school considers the student to have passed the coursework associated with those hours.
+
+Note:
+ If you are determining the payment periods for a program for which one of the measures (either clock or credit hours or weeks of instructional time) is less than an academic year and the other measurement is not , the program is considered less than an academic year in length, and you follow the payment period rules below for a program that is one academic year or less in length.
+
+ Successfully Completes
+ 
+
+34 CFR 668.4(h)(2)
+
+Clock-Hour/Non-Term Program Payment Periods for Programs One Academic Year or Less in Length
+
+The first payment period is the period in which the student successfully completes half of the credit or clock hours 
+and
+ half of the weeks of instructional time in the program.
+
+The second payment period is the period in which the student completes the remainder of the program.
+
+Clock-Hour/Non-Term Program Payment Periods for Programs More Than One Academic Year in Length
+
+For the first academic year of the program and for any subsequent full academic year, follow the payment period rules above for a program that is one academic year or less in length, substituting “academic year” for “program.”
+
+For any remaining portion of a program that is more than half of an academic year (as measured in both clock or credit hours and weeks of instructional time), but less than a full academic year—
+
+The first payment period is the period in which the student successfully completes half of the credit or clock hours 
+and
+ half of the weeks of instructional time in the remaining portion of the program; and
+
+The second payment period is the period of time in which the student successfully completes the remainder of the program.
+
+For any remaining portion of a program that is half of an academic year or less, the payment period is the remainder of the program.
+
+Volume 3, Chapter 1, Example 5: Payment Periods for Half-Time Student in a Non-Term Program
+
+The illustration below shows how Pell Grants and Direct Loans would be disbursed for a student enrolled half-time in a program of 48 semester credits that a full-time student completes in 60 weeks of instructional time. For this program, the school has defined the academic year as 24 semester credits and 30 weeks of instructional time.
+
+Under the regulations, this half-time student would receive second disbursements after completing half of the credit hours 
+and
+ half of the weeks of instructional time in the academic year. Because the student in the example is enrolled only half time, it takes the student 30 weeks of instructional time to successfully complete 12 credit hours, after which the second Pell and loan disbursements can be made. The student is eligible for a new loan and a new Pell Grant once the student has successfully completed 24 credit hours and 60 weeks.
+
+ 
+
+First academic year: 24 semester hours
+
+ 
+
+˄
+
+1st Pell Grant disbursement
+
+1st Direct Loan disbursement
+
+˄
+
+30 weeks elapsed
+
+Student has completed 12 credits
+
+2nd Pell Grant disbursement
+
+2nd Direct Loan disbursement
+
+˄
+
+60 weeks elapsed
+
+24 credits completed
+
+End of first academic year
+
+ 
+
+Second academic year: 24 semester hours
+
+ 
+
+˄
+
+New Pell Grant and loan award begin after student completes 24 semester hours and weeks in first academic year
+
+1st Pell Grant disbursement for 2nd year
+
+1st Direct Loan disbursement for 2nd year
+
+˄
+
+30 weeks elapsed in 2nd academic year
+
+Student has completed 36 credits
+
+2nd Pell Grant disbursement for 2nd year
+
+2nd Direct Loan disbursement for 2nd year
+
+˄
+
+60 weeks elapsed in 2nd year
+
+48 credits completed
+
+End of program
+
+Volume 3, Chapter 1, Example 6: Payment Periods for Non-Term Programs One Academic Year or Less in Length
+
+For both programs illustrated below, the school defines the academic year as 24 semester hours and 30 weeks of instructional time. The first program is less than an academic year; the second program is a full academic year.
+
+Academic year = 24 semester hours and 30 weeks
+
+ 
+
+Program 1: 16 semester hours and 20 weeks (less than an academic year)
+
+ 
+
+˄
+
+1st payment period:
+
+8 semester hours
+
+and
+ 10 weeks
+
+˄
+
+2nd payment period:
+
+8 semester hours
+
+and
+ 10 weeks
+
+ 
+
+Program 2: 24 semester hours and 30 weeks (one academic year)
+
+ 
+
+˄
+
+1st payment period:
+
+12 semester hours
+
+and
+ 15 weeks
+
+˄
+
+2nd payment period:
+
+12 semester hours
+
+and
+ 15 weeks
+
+Volume 3, Chapter 1, Example 7: Payment Periods for Non-Term Programs More Than One Academic Year in Length
+
+For both programs illustrated below, the school defines the academic year as 24 semester hours and 30 weeks of instructional time. The first program is an academic year with a remaining portion less than half of an academic year; the second program is an academic year with a remaining portion greater than half of an academic year.
+
+Academic year = 24 semester hours and 30 weeks
+
+ 
+
+Program 1: 30 semester hours and 36 weeks
+
+ 
+
+1st payment period
+
+12 semester hours
+
+and
+ 15 weeks
+
+2nd payment period
+
+12 semester hours
+
+and
+ 15 weeks
+
+3rd payment period
+
+6 semester hours
+
+and
+ 6 weeks
+
+ 
+
+one academic year
+
+remaining portion of program
+
+There is a single payment period for the remaining portion of the program, since at least one of the measures (hours and weeks) in the remaining portion is half of an academic year or less.
+
+ 
+
+Program 2: 40 semester hours and 50 weeks
+
+ 
+
+1st payment period
+
+12 semester hours
+
+and
+ 15 weeks
+
+2nd payment period
+
+12 semester hours
+
+and
+ 15 weeks
+
+3rd payment period
+
+8 semester hours
+
+and
+ 10 weeks
+
+4th payment period
+
+8 semester hours
+
+AND
+ 10 weeks
+
+ 
+
+one academic year
+
+remaining portion of program
+
+There are two payment periods for the remaining portion of the program because 
+both
+ the hours and weeks in the remaining portion are more than half of an academic year.
+
+Payment Periods for Clock-Hour Programs With Terms
+
+Although some schools offer clock-hour programs that are divided into terms for institutional purposes, for 
+Title IV
+ purposes all clock-hour programs are considered to be non-term programs. Therefore, the payment periods for clock-hour programs that a school divides into terms are determined in the same way as described above under “Payment periods for clock-hour and non-term programs.” Because a student enrolled in such a program must successfully complete all the clock hours in the payment period before the next payment period begins, the payment period starting dates may not coincide with the starting dates of the terms in the program.
+
+Counting Excused Absences in Clock-Hour Programs Toward Payment Period Completion
+
+In a clock-hour program, you are allowed to count a limited number of excused absences when deciding whether the student has completed the hours in a payment period. An excused absence may only be counted if the student is excused from hours that were actually scheduled but were missed and do not have to be made up for the student to receive the degree or certificate for the program.
+
+For instance, a student in a program that has 450-clock-hour payment periods might miss 20 clock hours and only have attended 430 clock hours at the point where other students who did not miss any clock hours have received 450 clock hours of instruction. If your school has an excused absences policy, the 20 missed clock hours are considered excused, and this student could be paid the next disbursement.
+
+To be counted for 
+Title IV
+ purposes, excused absences must be permitted in your school’s written policies, and the number of excused absences that may be counted when determining whether a student completed the hours in a payment period may not exceed 
+the lesser of—
+
+The policy on excused absences of your school’s accrediting agency or, if you have more than one accrediting agency, the policy of the agency that you designate to the Department as the agency whose accreditation will be used in determining your school’s eligibility to participate in the 
+Title IV
+ programs (see the guidance in 
+Volume 2
+ on “Dual accreditation” for more information);
+
+The policy on excused absences of any state agency that licenses your school or otherwise legally authorizes your school to operate in the state; or
+
+10% of the clock hours in the payment period.
+
+ Excused Absences in Clock-Hour Programs
+ 
+
+34 CFR 668.4(e)
+
+Payment Period Summary
+
+ 
+
+Program Type
+
+Direct Loan
+
+Pell, TEACH, and FSEOG
+
+ 
+
+Credit-hour programs offered in standard terms and nonstandard term programs offered in terms that are substantially equal in length.
+
+The payment period is the term.
+
+The payment period is the term.
+
+ 
+
+Credit-hour programs offered in nonstandard terms that are not substantially equal in length.
+
+The payment period is the period of time in which the student successfully completes:
+
+half of the weeks of instructional time in the academic year/program less than an academic year; and
+
+half of the credit hours in the academic year/ program less than an academic year.
+
+For the remainder of a program equal to or less than half of an academic year, the payment period is the remainder of the program.
+
+The payment period is the term.
+
+ 
+
+Clock-hour programs and non-term credit-hour programs.
+
+The payment period is the period of time in which the student successfully completes:
+
+half of the weeks of instructional time in the academic year/program less than an academic year; and
+
+half of the clock/credit hours in the academic year/program less than an academic year.
+
+For the remainder of a program equal to or less than half of an academic year, the payment period is the remainder of the program.
+
+The payment period is the period of time in which the student successfully completes:
+
+half of the weeks of instructional time in the academic year/program less than an academic year; and
+
+half of the clock/credit hours in the academic year/program less than an academic year.
+
+For the remainder of a program equal to or less than half of an academic year, the payment period is the remainder of the program.
+
+Timing of Disbursements
+
+Except for FWS wages, 
+Title IV
+ disbursements are made on a payment period basis as described below. Except when making late disbursements or retroactive payments for completed payment periods (as discussed in 
+Volume 4, Chapter 2
+), you must disburse the 
+Title IV
+ funds during the payment period to which they apply.
+
+Note:
+ We do not cover the requirements for reporting disbursements through the Common Origination and Disbursement (COD) System or the rules for making early disbursements, late disbursements, or retroactive payments in this section. For guidance on those topics, refer to 
+Volume 4, Chapter 2
+. We also do not cover certain disbursement requirements that are specific to the 
+Title IV
+ grant programs or the Direct Loan Program. For information on those requirements, see 
+Volumes 6, 7, 8,
+ and 
+9
+.
+
+ Disbursements by Payment Period
+ 
+
+Disbursements by payment period
+
+HEA Sec. 428G
+
+34 CFR 668.164(b)
+
+Disbursement Timing in Term-Based Programs Using Credit Hours (Except Subscription-Based Programs)
+
+As noted earlier in the chapter, for the Pell Grant, TEACH Grant, and FSEOG programs the payment period is the academic term for a student enrolled in a credit-hour program that uses any type of academic term (standard or nonstandard). For the Direct Loan Program, the payment period is the academic term only if the program uses standard terms or uses nonstandard terms that are substantially equal in length. If the program uses nonstandard terms that are not substantially equal in length, a school must use the non-term-based rules for Direct Loan disbursement timing, as discussed in the next section below.
+
+Except as noted above for the Direct Loan Program, there is no requirement for a student who is enrolled in a credit-hour term program that is not a subscription-based program to successfully complete a certain amount of coursework in a payment period before they can receive a disbursement of 
+Title IV
+ funds in the next payment period. For instance, a student could receive a Pell Grant or Direct Loan disbursement in the spring term after failing several courses in the fall term, provided that the student is still making satisfactory progress under the school’s policy.
+
+Disbursement Timing in Clock-Hour, Non-Term, and Certain Nonstandard Term Programs
+
+A student who is enrolled in a credit-hour program without terms or in a clock-hour program must successfully complete 
+both
+ the credit or clock hours 
+and
+ the weeks of instructional time in a payment period before receiving a disbursement of Pell Grant, FSEOG, TEACH Grant or Direct Loan funds for the next payment period. For the Direct Loan Program only, this same requirement applies to students who are enrolled in programs with nonstandard terms that are not substantially equal in length.
+
+Effect of Accelerated Progression on Disbursement Timing in a Clock-Hour or Non-Term Credit-Hour Program
+
+The Pell Grant or TEACH Grant amount that a student is eligible to receive for a payment period in a clock-hour or non-term credit-hour program is based on the number of hours and weeks in the scheduled payment periods for the program that are established at the beginning of the program based on the program length (as described earlier in this chapter). These scheduled payment periods do not change, regardless of a student’s rate of progression through a clock-hour or non-term credit-hour program. This means that if a student completes additional weeks of instructional time or hours while completing the other measure of a payment period, the actual number of weeks or hours that the student completes before a disbursement can be made for the next payment period may differ from the number of weeks or hours in the scheduled payment period used to determine the student’s grant amount for the payment period.
+
+Although a student’s completion of additional weeks or hours in a payment period has no effect on the scheduled payment periods for purposes of determining Pell Grant and TEACH Grant payment amounts, an undergraduate student who accelerates in a clock-hour or non-term credit-hour program may have reduced Direct Loan eligibility in the final academic year of a program. Specifically, if a student enrolled in a program that is greater than one academic year in length completes additional clock or credit hours prior to the final academic year of the program, this may result in a final period of study that contains fewer clock or credit hours than the number of hours in the program’s defined academic year. In this circumstance, the Direct Loan annual loan limit for an undergraduate student must be prorated (reduced).
+
+The principles described above are illustrated by the examples in 
+Appendix A
+ at the end of this chapter. For guidance on calculating Pell Grant and TEACH Grant awards for clock-hour and non-term credit-hour programs, see 
+Volume 7
+. For information on Direct Loan annual loan limit proration and annual loan limit progression in clock-hour and non-term credit-hour programs, see 
+Volume 8
+.
+
+If your school is unable to determine when a student has successfully completed half of the credit or clock hours in a program, academic year, or remainder of a program, the student is considered to have begun the second payment period of the program, academic year, or remainder of a program at the later of the date (identified by your school) that the student has successfully completed:
+
+half of the academic coursework in the program, academic year, or remainder of the program; or
+
+half of the number of weeks of instructional time in the program, academic year, or remainder of the program.
+
+Disbursement Timing in Subscription-Based Programs
+
+For the first two subscription periods (terms) that a student attends in a subscription-based program, there is no requirement for the student to have completed a certain amount of coursework before receiving a disbursement of 
+Title IV
+ funds (the same as in any other term-based program using credit hours). However, to receive a disbursement of 
+Title IV
+ aid for each subsequent subscription period in the program, the student must have completed a cumulative number of credit hours equal to the total of the number of hours for which the student was enrolled in all previously attended subscription periods in the program, excluding the number of hours for which the student was enrolled in the most recently attended subscription period. For more detailed guidance on the disbursement rules for subscription-based programs, including examples, refer to 
+Appendix B
+ at the end of this chapter.
+
+Multiple Disbursements Within a Payment Period
+
+The regulations governing the 
+Title IV
+ programs generally permit schools to pay 
+Title IV
+ funds at such times and in such installments 
+within
+ each payment period as will best meet students’ needs. This gives schools the ability to apportion the payment if doing so will be in the best interest of the student. For example, if a payment period is particularly long, a school might choose to pay in multiple installments to the extent program requirements permit to ensure that a student will have funds to pay rent later in the payment period. If a school chooses to schedule multiple Direct Loan disbursements within a single payment period, the disbursements must be substantially equal. Note also that if the loan period for a Direct Loan is a single payment period, the loan 
+must
+ be disbursed in at least two installments unless the school qualifies for an exception to the multiple disbursement requirement. See 
+Volume 8
+ for more information.
+
+Schools that use payment periods as the basis for their Return of 
+Title IV
+ Funds calculations should note that making multiple disbursements within a payment period does not create a new or additional payment period. See 
+Volume 5
+ of the FSA Handbook for information on how withdrawal calculations handle multiple disbursements.
+
+Disbursement Rules for Terms With Modules
+
+When a student is enrolled in a term-based program in which the terms are divided into two or more modules, but the student won’t attend the first module, the date when classes begin for making disbursements is the starting date of the first module that the student will attend.
+
+For example, the earliest the school can pay a student who is scheduled to begin attendance in the second of three 5-week modules that make up a semester is 10 days before the first day of the second module (or 30 days after the second module begins, if the student is a first-time, first-year borrower and the school does not meet the requirements for an exemption from the delayed disbursement requirement for such students, as described in 
+Volume 4
+).
+
+Volume 3, Chapter 1, Appendix A: Non-Term Examples
+
+Volume 3, Chapter 1, Appendix A, Example 1: Clock-Hour Program Payment Periods – Student Must Repeat Course
+
+A student enrolls in a 1-year clock-hour program with an academic year (AY) of 900 clock hours and 26 weeks of instructional time. The program consists of six successive graded courses, each of which has 150 clock hours. The scheduled payment periods are one-half of the length of the program in clock hours and weeks of instructional time: 450 clock hours and 13 weeks of instructional time.
+
+The student in this example fails the second course, but immediately repeats it and passes. The student successfully completes all other courses in the program.
+
+The school cannot make the second Pell and Direct Loan disbursements until the student has successfully completed both the clock hours and the weeks of instructional time in the first payment period. Because the student must repeat the second course of the program (taking an additional three weeks to do so), the school must reschedule the date of the second Pell and Direct Loan disbursements. The second disbursements will now be made after the student has successfully completed 450 clock hours and attended for 16 weeks of instructional time, and the school will need to report the rescheduled second disbursement dates to COD.
+
+Scheduled Payment Periods
+
+ 
+
+450 clock hours AND 13 weeks of instruction
+
+450 clock hours AND 13 weeks of instruction
+
+Progression through payment periods for disbursements (student cannot receive next disbursement until successful completion of BOTH hours and weeks in scheduled payment periods)
+
+ 
+
+ 
+
+Volume 3, Chapter 1, Appendix A, Example 2: Non-Term Credit-Hour Program Payment Periods – Additional Weeks Completed in First Academic Year
+
+A non-term, two-year program of 48 semester hours and 60 weeks of instructional time has an academic year of 24 semester hours and 30 weeks of instructional time. There are four scheduled payment periods, each of which is equal to one-half of the defined academic year: 12 semester hours and 15 weeks of instructional time.
+
+Students in the program are expected to complete the first 24 hours over 36 weeks of instructional time, and the final 24 semester hours in 24 weeks of instructional time. Students complete each of hours 1-12 and 13-24 in 18 weeks of instructional time and each of hours of 25-36 and 37-48 in 12 weeks of instructional time.
+
+Scheduled payment periods
+
+ 
+
+First year of program
+
+Second year of program
+
+ 
+
+12 semester hours AND 15 weeks of instruction
+
+12 semester hours AND 15 weeks of instruction
+
+12 semester hours AND 15 weeks of instruction
+
+12 semester hours AND 15 weeks of instruction
+
+Progression through payment periods for disbursements (student cannot receive next disbursement until successful completion of BOTH hours and weeks in scheduled payment periods)
+
+ 
+
+ 
+
+The scheduled payment periods are 12 semester hours and 15 weeks of instructional time, but the student in this example takes 18 weeks to complete the first 12 hours. Therefore, the second disbursements of the first Pell Grant award and the Direct Loan for the first academic year of the program cannot be made until the 19th week of instruction. This is because the next grant or loan disbursement cannot begin until the student successfully completes 
+both
+ the credit or clock-hours and the weeks of instruction in the previous scheduled payment period.
+
+It takes the student another 18 weeks to complete the second 12 hours in the program, meaning that the first disbursements of the second Pell Grant award and the Direct Loan for the second academic year of the program cannot be made until the 37th week of instruction (corresponds to when the student officially enters the 3rd scheduled payment period). Based on the scheduled payment periods a student cannot enter the 4th payment period until the student has completed at least 45 weeks and 36 semester hours (12 semester hours and 15 weeks within each payment period).
+
+After the student has successfully completed 36 weeks of instruction and 24 semester hours, there are 24 weeks and 24 hours remaining in the program. The second disbursements of the second Pell Grant award and the Direct Loan for the second academic year of the program cannot be made until the student officially enters the 4th scheduled payment period, which occurs after the student has cumulatively completed 36 semester hours and 48 weeks.
+
+Remember that the Pell Grant amount the student is eligible to receive in each of the four payment periods is always based on the scheduled payment periods of 12 semester hours and 15 weeks of instructional time.
+
+Although the academic year for the program is defined as 24 semester hours and 30 weeks of instructional time, students are expected to complete the first 24 hours over 36 weeks of instructional time. To ensure that the loan period for the student’s first Direct Loan covers both measures of the defined academic year, the school must originate a loan for a loan period covering 36 weeks of instructional time.
+
+The Direct Loan for the second academic year of the program will be originated for a loan period covering 24 weeks of instructional time. Although this is fewer weeks than the number of weeks in the program’s defined academic year, the number of semester hours remaining in the program (24) equals the number of hours in the academic year. Therefore, proration of the Direct Loan annual loan limit is not required.
+
+Volume 3, Chapter 1, Appendix A, Example 3: Non-Term Credit-Hour Program Payment Periods – More Hours Earned in the First Academic Year
+
+A school offers a non-term, two-year program of 48 semester hours and 60 weeks of instructional time, with the academic year defined as 24 semester hours and 30 weeks of instructional time. There are four scheduled payment periods, each of which is equal to one-half of the defined academic year: 12 semester hours and 15 weeks of instructional time.
+
+Students are expected to complete the first 30 semester hours over 30 weeks of instructional time in the first period of enrollment. They are then expected to complete 18 semester hours in the last 30 weeks of instructional time.
+
+Scheduled Payment Periods
+
+ 
+
+First year of program
+
+Second year of program
+
+ 
+
+12 semester hours AND 15 weeks of instruction
+
+12 semester hours AND 15 weeks of instruction
+
+12 semester hours AND 15 weeks of instruction
+
+12 semester hours AND 15 weeks of instruction
+
+Progression through payment periods for disbursements (student cannot receive next disbursement until successful completion of BOTH hours and weeks in scheduled payment periods)
+
+ 
+
+ 
+
+The scheduled payment periods are 12 semester hours and 15 weeks of instructional time. The second disbursements of the first Pell Grant award and the Direct Loan for the first academic year of the program are made after the student has successfully completed 
+both
+ the hours and weeks components of the first scheduled payment period. In this example, the student has earned 15 hours after completing the 15-weeks in the first scheduled payment period. The student then earns another 15 hours after completing the 15 weeks in the second scheduled payment period.
+
+After the student has successfully completed 30 weeks of instruction and 30 semester hours, there are 30 weeks and 18 hours remaining in the program. The first disbursements of the second Pell Grant award and the Direct Loan for the second academic year of the program cannot be made until the 31st week of instruction (corresponds to when the student officially enters the 3rd scheduled payment period).
+
+The second disbursements of the second Pell Grant award and the Direct Loan for the second academic year of the program cannot be made until the student officially enters the 4th scheduled payment period, which occurs after the student has cumulatively completed 39 semester hours and 45 weeks. Based on the scheduled payment periods a student cannot enter the 4th payment period until the student has completed at least 45 weeks and 36 semester hours (12 semester hours and 15 weeks within each payment period)
+
+As in Example 2, remember that the Pell Grant amount the student is eligible to receive in each of the four payment periods is always based on the scheduled payment periods of 12 semester hours and 15 weeks of instructional time.
+
+The student’s Direct Loan for the first academic year of the program will be originated for a loan period covering 30 weeks of instructional time, since a student will complete the hours in the defined academic year within that period.
+
+The student’s Direct Loan for the second academic year of the program will also be originated for a loan period covering 30 weeks of instructional time. However, because the number of semester hours remaining in the program (18) is less than the number of hours in the program’s defined academic year (24), the student is in a remaining period of study shorter than an academic year. Therefore, the Direct Loan annual loan limit for the second year of the program (the maximum Direct Loan amount the student may receive for the 3rd and 4th payment periods) must be prorated.
+
+Volume 3, Chapter 1, Appendix B: Coursework Completion Requirements to Receive Disbursements in Subscription-Based Programs
+
+As we explained under “Disbursement timing in subscription-based programs” earlier in this chapter, there is no requirement for a student to have completed a specified amount of coursework before receiving a disbursement of 
+Title IV
+ funds for the first two subscription periods (terms) in a subscription-based program. However, to receive a disbursement for the third subscription period and for each subsequent subscription period in the program, a student must have completed a cumulative number of credit hours equal to the total number of hours for which the student was enrolled in all previously attended subscription periods in the program, excluding the number of hours for which the student was enrolled in the most recently attended subscription period.
+
+The cumulative number of hours that a student must have completed to receive a disbursement for the third subscription period and for each subsequent subscription period is based on the student's enrollment status for the program. Each subscription period that a student attends is associated with a number of credit hours based on the student's enrollment status. For example, if the program is a full-time program and the school's full-time standard is 12 semester or quarter hours, each subscription period will be associated with 12 hours. As a student progresses through a subscription-based program, the number of hours associated with each term are added to the cumulative total needed for the student to receive a disbursement.
+
+For the first two terms in a subscription-based program, a school can make a disbursement of 
+Title IV
+ funds up to 10 days before the beginning of the subscription period. Beginning with the third subscription period, early disbursement 10 days before the beginning of the term is allowed only if at that point the student has completed the required number of credit hours to receive a disbursement for the term. Otherwise, the school cannot make a disbursement until the student has met the coursework completion requirement.
+
+Note that a student who has not begun attendance in any new coursework during a particular subscription period is ineligible to receive 
+Title IV
+ program funds for that period, even if the student would otherwise qualify to receive a disbursement based on coursework completion requirements. This means, for example, that although there is no coursework completion requirement for a student to receive a disbursement for the second term of a subscription-based program, the student would not be eligible for the disbursement if they simply continue attendance in coursework that they began during the first subscription period without having begun attendance in any new coursework during the second subscription period. If a disbursement is made to a student who did not begin attendance in any new coursework during a subscription period, the requirements described under "When a Student Fails to Begin Attendance" in 
+Volume 4, Chapter 3
+ of the 
+FSA Handbook
+ apply.
+
+Once the cumulative number of credit hours from earlier subscription periods that is required to receive a disbursement for a later subscription period equals or exceeds the total number of credit hours required to complete the program, a student 
+is no longer eligible to receive 
+Title IV
+ funds for the program.
+
+The principles described above are illustrated in the examples that follow.
+
+Volume 3, Chapter 1, Appendix B, Example 1: Subscription-Based Program Course Completion Requirement (Student Maintains Same Enrollment Status)
+
+A school offers a two-year subscription-based program of consisting of 48 semester hours, with the academic year defined as 24 semester hours and 30 weeks of instructional time.
+
+The academic year consists of fall and spring semesters, with an optional summer term. In this example, the student does not attend in the summer term.
+
+The school defines full-time as 12 semester hours per term. The student is enrolled in the full-time version of the program and does not change enrollment status.
+
+First Academic Year
+
+ 
+
+Subscription period 1: Fall
+
+Subscription period 2: Spring
+
+ 
+
+Credit hours associated with term: 12
+
+Cumulative hours required to receive disbursement: 0
+
+Credit hours associated with term: 12
+
+Cumulative hours required to receive disbursement: 0
+
+As shown above, there is no coursework completion requirement for the student to receive a 
+Title IV
+ disbursement for the first and second subscription periods in the program.
+
+Second Academic Year
+
+ 
+
+Subscription period 3: Fall
+
+Subscription period 4: Spring
+
+ 
+
+Credit hours associated with term: 12
+
+Cumulative hours required to receive disbursement: 12
+(= hrs. enrolled in subscription period 1)
+
+Credit hours associated with term: 12
+
+Cumulative hours required to receive disbursement: 24
+(= total hrs. enrolled in subscription periods 1 & 2)
+
+To receive a disbursement for subscription period 3, the student must have completed a cumulative number of credit hours equal to the total number of credit hours for which the student was enrolled in all previously attended terms, excluding the number of hours for which the student was enrolled in the most recently attended term. Thus, the student cannot receive a disbursement for subscription period 3 until they have completed a total of 12 credit hours, the number of hours enrolled in subscription period 1. The 12 hours for which the student was enrolled in the most recently attended term (subscription period 2) are not counted.
+
+To receive a disbursement for subscription period 4, the student must have completed 24 credit hours, the cumulative number of hours enrolled in subscription periods 1 and 2.
+
+If the student has not completed the 48 hours in the program by the end of subscription period 4, they could receive 
+Title IV
+ funds for one additional term, as shown below.
+
+Third Academic Year
+
+ 
+
+Subscription period 5: Fall
+
+Subscription period 6: Spring
+
+ 
+
+Credit hours associated with term: 12
+
+Cumulative hours required to receive disbursement: 36
+(= total hrs. enrolled in subscription periods 1, 2, & 3)
+
+Cumulative hours required to receive disbursement: 48
+(= total hrs. enrolled in subscription periods 1, 2, 3, & 4)
+
+NOT ELIGIBLE FOR 
+TITLE IV
+ FUNDS
+
+To receive a disbursement for subscription period 5, the student must have completed 36 credit hours, the cumulative number of hours enrolled in subscription periods 1, 2, and 3.
+
+The student is not eligible to receive any additional 
+Title IV
+ funds after subscription period 5, because the cumulative number of hours required to receive a disbursement for the next subscription period would be 48, which is the total number of hours in the program.
+
+Volume 3, Chapter 1, Appendix B, Example 2: Subscription-Based Program Course Completion Requirement (Student Changes Enrollment Status) 
+
+The scenario in this example is the same as in Example 1, except that the student changes to the half-time version of the program in the second academic year.
+
+First Academic Year – full-time program
+
+ 
+
+Subscription period 1: Fall
+
+Subscription period 2: Spring
+
+ 
+
+Credit hours associated with term: 12
+
+Cumulative hours required to receive disbursement: 0
+
+Credit hours associated with term: 12
+
+Cumulative hours required to receive disbursement: 0
+
+As in Example 1, there is no coursework completion requirement for the student to receive a 
+Title IV
+ disbursement for the first and second subscription periods in the program.
+
+Second Academic Year – half-time program
+
+ 
+
+Subscription period 3: Fall
+
+Subscription period 4: Spring
+
+ 
+
+Credit hours associated with term: 6
+
+Cumulative hours required to receive disbursement: 12
+(= hrs. enrolled in subscription period 1)
+
+Credit hours associated with term: 6
+
+Cumulative hours required to receive disbursement: 24
+(= total hrs. enrolled in subscription periods 1 & 2)
+
+The student changes to the half-time version of the program in the second academic year. However, because the course completion requirements to receive a disbursement for a subscription period are cumulative across multiple versions of the same program (full-time, half-time, etc.), the counting of the hours required for disbursement does not start over when a student changes to a different version of a program.
+
+As in Example 1, the student must have completed a cumulative total of 12 credit hours (the number of hours enrolled in subscription period 1) to receive a disbursement for subscription period 3, and a cumulative total of 24 hours (the total number of hours enrolled in subscription periods 1 and 2) to receive a disbursement for subscription period 4. The student's change to the half-time version of the program in the second academic year does not affect the cumulative number of hours required to receive disbursements for subscription periods 3 and 4, because that number is based on the number of hours enrolled in subscription periods 1 and 2, when the student was enrolled in the full-time version of the program.
+
+Third Academic Year – half-time program
+
+ 
+
+Subscription period 5: Fall
+
+Subscription period 6: Spring
+
+ 
+
+Credit hours associated with term: 6
+
+Cumulative hours required to receive disbursement: 30
+(= total hrs. enrolled in subscription periods 1, 2, & 3)
+
+Credit hours associated with term: 6
+
+Cumulative hours required to receive disbursement: 36
+(= total hrs. enrolled in subscription periods 1, 2, 3, & 4)
+
+To receive a disbursement for subscription period 5, the student must have completed 30 credit hours, the cumulative number of hours enrolled in subscription periods 1, 2, and 3. (Note that as a result of the student's change to the half-time version of the program in subscription period 3, this is 6 fewer hours than the number of hours required to receive a disbursement for subscription period 5 in Example 1.) The student must have completed a cumulative total of 36 hours to receive a disbursement for subscription period 6.
+
+If the student has not completed the 48 hours in the program by the end of subscription period 6, they would be eligible to receive aid for one additional subscription period, as shown below.
+
+Fourth Academic Year – half-time program
+
+ 
+
+Subscription period 7: Fall
+
+Subscription period 8: Spring
+
+ 
+
+Credit hours associated with term: 6
+
+Cumulative hours required to receive disbursement: 42
+(= total hrs. enrolled in subscription periods 1, 2, 3, 4 & 5)
+
+Cumulative hours required to receive disbursement: 48
+(= total hrs. enrolled in subscription periods 1, 2, 3, 4, 5, & 6)
+
+NOT ELIGIBLE FOR 
+TITLE IV
+ FUNDS
+
+To receive a disbursement for subscription period 7, the student must have completed 42 credit hours, the cumulative number of hours enrolled in subscription periods 1, 2, 3, 4, and 5.
+
+The student is not eligible to receive any additional 
+Title IV
+ funds after subscription period 7, because the cumulative number of hours required to receive a disbursement for the next subscription period would be 48, which is the total number of hours in the program.
+
+Volume 3, Chapter 1, Appendix B, Example 3: Subscription-Based Program Disbursement Timing
+
+A school offers a four-year subscription-based program of consisting of 96 semester hours, with the academic year defined as 24 semester hours and 30 weeks of instructional time. The school defines full-time as 12 hours.
+
+The student receives Pell Grants and Direct Loans.
+
+Pell Grants are calculated using Formula 1.
+
+For purposes of monitoring Direct Loan annual loan limit progression, the school uses a Scheduled Academic Year (SAY) consisting of fall and spring semesters, with the summer term treated as a trailer to the SAY (see 
+Volume 8
+ for more information on SAYs and monitoring Direct Loan annual loan progression). Attendance in the summer term is optional.
+
+ 
+
+ 
+
+For the first two subscription periods of the program, there is no coursework completion requirement for the student to receive a disbursement of 
+Title IV
+ funds. Disbursements are made at the beginning of each subscription period.
+
+ 
+
+ 
+
+To receive a disbursement for the third subscription period and for each subsequent subscription period in the program, the student must have completed a cumulative number of credit hours equal to the total number of hours for which the student was enrolled in all previously attended subscription periods in the program, excluding the number of hours for which the student was enrolled in the most recently attended subscription period.
+
+As shown above, for each of the three subscription periods in the second academic year of the program the student meets the course completion requirement to receive disbursements at the beginning of the term. For example, the student had completed a total of 21 credit hours by the end of subscription period #2, which exceeds the minimum 12 hours required to receive disbursements for subscription period #3.
+
+ 
+
+ 
+
+In the third academic year of the program, the student meets the course completion requirement to receive disbursements at the beginning of subscription period #6. However, the disbursements for subscription period #7 must be delayed until the student has completed an additional three credit hours. This is because the student must have completed a cumulative total of at least 60 credit hours to receive disbursements for subscription period #7, but at the end of subscription period #6 the student had earned only 57 hours.
+
+ 
+
+ 
+
+At the end of subscription period #7, the student has earned a cumulative total of 69 credit hours. Because 72 hours are required for the student to receive a disbursement in subscription period #8, the disbursements for that subscription period must be delayed until the student has completed an additional three hours. The student has earned a cumulative total of 84 hours at the end of subscription period #8, which is the number of hours required to receive a disbursement for subscription period #9. Therefore, the disbursements for the final subscription period in the program can be made at the beginning of the term.
+
+Volume 3, Chapter 1, Appendix B, Example 4: Subscription-Based Program Disbursement Timing
+
+A school offers a two-year subscription-based program of consisting of 48 semester hours, with the academic year defined as 24 semester hours and 30 weeks of instructional time. The school defines full-time as 12 hours.
+
+The student receives Pell Grants and Direct Loans.
+
+Pell Grants are calculated using Formula 1.
+
+For purposes of monitoring Direct Loan annual loan limit progression, the school uses Borrower-Based Academic Year 2 (BBAY 2) consisting of any two consecutive semesters (see 
+Volume 8
+ for more information on BBAYs and monitoring Direct Loan annual loan progression).
+
+The school does not meet the cohort default rate standard that allows Direct Loans for a single term loan period to be disbursed in one installment (see the discussion under "Direct Loan disbursements when the loan period is a single payment period" in 
+Volume 8
+).
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In Example 4, the student meets the course completion requirements to receive disbursements at the beginning of each subscription period.
+
+For Direct Loan purposes, the school originates a single-term loan for subscription period #5 (i.e., the loan period beginning and ending dates correspond to the beginning and ending dates of the subscription period). Because the school does not meet the cohort default rate standard that would allow for a single-term Direct Loan to be disbursed in one installment, the student's Direct Loans for subscription period #5 must be disbursed in two substantially equal installments, with the second disbursement made at the calendar midpoint of the loan period. (Note also that because this subscription period is a remaining period of study that is shorter than an academic year, the Direct Loan annual loan limit must be prorated based on the six hours remaining in the program at the end of subscription period #4. See 
+Volume 8
+ for information on Direct Loan annual loan limit proration).
+
+Because the student is enrolled in the full-time version of the program, the number of credit hours associated with subscription period #5 is 12. However, the student attends only six hours (the remaining number of hours in the program for 
+Title IV
+ purposes).
+
+The student's Pell Grant award for subscription period #5 is determined from the half-time schedule, and the student's enrollment status for that term is reported to NSLDS as half-time.
+
+Note that even if the student has not completed the remaining six hours in the program by the end of subscription period #5, there is no aid eligibility after that term, because the cumulative number of hours that would be required to receive a disbursement for the next term is 48, which is the total number of hours in the program.
+
+Volume 3, Chapter 1, Appendix B, Example 5: Subscription-Based Program Disbursement Timing
+
+The details of the program illustrated in Example 5 are the same as for the program described in Example 4.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In Example 5, the student meets the coursework completion requirements to receive disbursements at the beginning of the first three subscription periods. However, at the end of subscription period #3 the student has completed a cumulative total of 21 hours, and 24 hours are required to receive a disbursement for subscription period #4. The school makes the disbursements for subscription period #4 after the student has completed an additional three hours.
+
+As in Example 4, the school originates a single-term loan for subscription period #5, which is a remaining period of study that is shorter than an academic year. The Direct Loan annual loan limit must be prorated based on the 21 hours remaining in the program as of the end of subscription period #4.
+
+The student must have completed a cumulative total of 36 hours to receive a disbursement for subscription period #5. During subscription period #5 the student completes only an additional six hours, resulting in a cumulative total of 33 hours completed. Therefore, the school makes the disbursements for subscription period #5 as late disbursements after the student has completed an additional three hours. Because the loan period is equal to a single payment period and more than half of the payment period has elapsed, the school may disburse the student's Direct Loan for subscription period #5 in a single late disbursement.
+
+After the student has earned the additional three hours required to receive late disbursements for subscription period #5 (resulting in a cumulative total of 36 hours completed), there are 12 hours remaining in the program. Note that there is no aid eligibility for the remaining 12 hours, because the cumulative number of hours that would be required to receive a disbursement for the next term is 48, which is the total number of hours in the program.
+
+Previous
+
+Next
+
+ Last Modified: 04/17/2024 • Published: 03/28/2021

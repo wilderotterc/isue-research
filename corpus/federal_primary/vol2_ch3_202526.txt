@@ -1,0 +1,1494 @@
+Title IV Administrative and Related Requirements | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 3
+
+Title IV Administrative and Related Requirements
+
+This chapter describes aid-related requirements, many of which involve coordination with other school offices. For instance, the requirements for adequate staffing, the incentive compensation prohibition, and hiring restrictions related to the misuse of government funds might apply to the human resources office. Similarly, your school’s academic divisions and business office will need to be aware of the satisfactory academic progress standards, readmission of service members, and in-state tuition rates for service members, foreign service members and their families, and citizens of the three Freely Associated States.
+
+Administrative Requirements for the Financial Aid Office
+
+Consistency of Information and conflicting information
+
+To participate in the 
+Title IV
+ programs, a school must demonstrate that it is administratively capable of providing the education it promises and of properly managing the 
+Title IV
+ programs. It must have a system of identifying and resolving discrepancies in all 
+Title IV
+-related information received by any school office. It must resolve discrepancies for all students, not just those selected for verification. Resolution includes determining what information is correct and documenting the findings in the student’s file.
+
+ Administrative Capability and Resolving Conflicting Information
+ 
+
+Administrative capability and resolving conflicting information reference 
+
+34 CFR 668.16(f)
+
+Such a system must include a review of:
+
+All student aid applications, need analysis documents, Statements of Educational Purpose, and eligibility notification documents presented by or on behalf of each applicant.
+
+The FAFSA Submission Summary/ISIR for a student. Even if a school has already verified the information on a student’s FAFSA Submission Summary/ISIR, it must review all information on subsequent FAFSA Submission Summaries/ISIRs.
+
+Any documents, including copies of federal tax return and tax account transcripts, that are normally collected by the school to verify information received from the student or other sources.
+
+Any other information submitted or normally available to the school regarding a student’s citizenship, previous educational experience, or Social Security number, as well as other factors relating to the student’s eligibility for 
+Title IV
+ funds.
+
+For instance, if a student receives an academic scholarship through one school office, that office must notify the aid administrator of these benefits to ensure that the amounts are correctly reported on the student’s aid application and are counted as other financial assistance for the Campus-Based and Direct Loan programs.
+
+Another example is that a school’s admissions or registrar’s office must provide the aid office with any information it has that might affect a student’s eligibility, such as his enrollment in an ineligible program or in summer classes immediately preceding a fall term of enrollment.
+
+There is a distinction between how long you need to be alert for conflicting information and how long you have to actually resolve a conflict. Even if the processing year has ended, you must continue to resolve conflicting information unless:
+
+all aid for the period of enrollment has been disbursed,
+
+at the time of disbursement there was no conflicting information, and
+
+the student is no longer enrolled at the school (and is not intending to reenroll).
+
+You also are not required to resolve conflicting information if the student dies during the award year.
+
+You may not ignore a document in your files unless a student is no longer enrolled. If you have conflicting information in your files, you must resolve it as expeditiously as possible. If you become aware of conflicting information for a student who is no longer enrolled and there is aid to be disbursed, you must resolve the conflict before making the late or post-withdrawal disbursement.
+
+If aid that the school was unaware of is received after the end of a period of enrollment for a student who is intending to re-enroll, that aid must be treated as other financial assistance for either the period of enrollment just completed or for the subsequent period of enrollment. See the discussion of other financial assistance and packaging in 
+Volume 3
+.
+
+Remember, if any office at your school has information that might affect a student’s eligibility for 
+Title IV
+ funds, it must provide that information to the school’s designated coordinating official (described later). That person must forward it to the financial aid office, where procedures must be in place to ensure that any conflicting information is resolved and documented before the student receives any (or any additional) 
+Title IV
+ funds.
+
+See the guidance on conflicting information in Chapter 5 of the 
+Application and Verification Guide
+.
+
+Sources and Examples of Conflicting Information
+
+Sources of conflicting information include:
+
+tax returns or schedules;
+
+federal tax transcripts;
+
+other information provided by the student to the financial aid office;
+
+supplemental financial aid applications;
+
+other offices within the school;
+
+offices at other educational institutions (not just aid offices);
+
+the Department;
+
+scholarships and information from outside sources;
+
+state agencies such as scholarship and vocational rehabilitation agencies, Workforce Investment Act offices, etc.;
+
+tips from outside sources;
+
+transcripts from other colleges;
+
+FAFSA Submission Summaries or ISIRs;
+
+verification;
+
+C flags;
+
+reject codes; and
+
+comment codes.
+
+Examples of conflicting information include:
+
+citizenship status,
+
+accuracy of SSN,
+
+default or overpayment status,
+
+changes in student’s academic status (including grade level progression),
+
+elements considered in determining cost of attendance,
+
+other student financial assistance or resources, and
+
+inconsistent information used in calculating the student’s Student Aid Index (SAI).
+
+Conflicting information does not include such things as:
+
+a family size that differs from the number of exemptions on a tax return;
+
+dependency under IRS rules vs. ED definition of dependency;
+
+a roster of candidates for an outside scholarship, as opposed to a list of recipients;
+
+privacy-protected information, such as information from professional counselors, chaplains, doctors, etc.;
+
+assumptions made by the FAFSA Processing System; and
+
+a student who has an expired immigration document but whose secondary confirmation match is successful.
+
+Note: The Department anticipates a reduction in conflicting information related to tax and financial information due to the direct transfer of federal tax information via the Financial Aid Direct Data Exchange (FA-DDX).
+
+If your school has conflicting information for a student or has reason to believe his/her application is incorrect, it must resolve such discrepancies before disbursing 
+Title IV
+ funds.
+
+Students who Turn out to be Ineligible
+
+Sometimes resolving conflicting information will reveal that a previously eligible student who received 
+Title IV
+ aid was actually ineligible, for example, a student who indicated on their FAFSA that he had a high school diploma when he really did not. In such cases, the student must return all the 
+Title IV
+ aid received while ineligible (except earned FWS wages), even if it was in a previous award year. While the student is generally responsible for repaying aid in such cases, there might be situations where the school is responsible. Also, you are required to update COD data to reflect the adjustments. If you suspect that the student intended to deceive rather than made a mistake, see “OIG referrals” below.
+
+OIG Referrals
+
+A school must refer to the Department’s Office of Inspector General (OIG) any credible information indicating that an applicant for 
+Title IV
+ may have engaged in fraud or other criminal misconduct in connection with his or her application. Common misconduct includes false claims of independent student status, false claims of citizenship, use of false identities, forgery of signatures or certifications, and false statements of income. Remember that fraud is the intent to deceive as opposed to a mistake. If you suspect such intent on the part of a student, report it to the OIG by phoning 1-800-MISUSED.
+
+Schools must also refer to the OIG any third-party servicer who may have engaged in fraud, breach of fiduciary responsibility, or other illegal conduct involving the 
+Title IV
+ programs.
+
+It is always appropriate for a financial aid administrator to consult with a school’s legal counsel prior to referring suspected cases of fraud or misconduct to an agency outside of the school. Referrals to the OIG are also mentioned in the 
+Application and Verification Guide
+.
+
+ OIG Referrals
+ 
+
+OIG referrals reference
+
+34 CFR 668.16(g)
+
+The regulations provide the following examples of criminal misconduct:
+
+false claims by the school for 
+Title IV
+ program assistance;
+
+false claims of independent student status;
+
+false claims of citizenship;
+
+use of false identities;
+
+forgery of signatures or certifications;
+
+false statements of income; and
+
+any credible information indicating that any employee, third-party servicer, or other agent of the institution that acts in a capacity that involves the administration of the 
+Title IV
+ programs, or the receipt of funds under those programs, may have engaged in fraud, misrepresentation, conversion or breach of fiduciary responsibility, or other illegal conduct involving the 
+Title IV
+ programs. The type of information that an institution must refer is that which is relevant to the eligibility of funding of the institution and its students through the 
+Title IV
+ programs.
+
+Fraud Rings in Distance Education
+
+One area in which the Department has discovered significant fraud has been distance education. Typically in such cases, a ringleader gets the personal information from a group of people who agree to be straw students, enrolls in a distance education program on their behalf, and then participates in just enough online interaction under the school’s procedures to obtain 
+Title IV
+ disbursements. Rather than using the funds to complete the program, the people in the fraud ring keep it and give a portion of the money to the ringleader.
+
+In November of 2022, the OIG released 
+Updated Guidance
+ on how it receives and processes suspected fraud rings complaints as a follow up to Dear Colleague Letter 
+GEN-11-17
+. Institutions must now submit fraud ring complaints through the Department’s OIG encrypted complaint web portal at 
+https://oighotlineportal.ed.gov
+. The portal provides consistency and improves communication delivery. As the portal is encrypted, institutions no longer need to encrypt submitted documents. Guidance is given to schools about how to detect this kind of fraud and report it to help maintain the integrity of the 
+Title IV
+ programs.
+
+Coordinating Official
+
+A school must designate a capable individual to be the coordinating official. An individual is “capable” if he or she is certified by the state in which the school is located, if the state requires certification of financial aid administrators. Other factors that may be considered in determining whether an individual is capable include the individual’s successful completion of 
+Title IV
+ program training provided or approved by the Department and previous experience and documented success in 
+Title IV
+ program administration.
+
+ Coordinating Official
+ 
+
+34 CFR 668.16(b)(1)
+
+This person performs a key role in demonstrating the school’s administrative capability. The Coordinating Official administers 
+Title IV
+ programs and coordinates the aid from those programs with that from all other sources (federal, state, school, and private). As noted earlier, all of the information the school receives and any changes processed by an office of the school that might affect a student’s 
+Title IV
+ eligibility must be communicated to the financial aid office via the coordinating official.
+
+For example, when aid administrators create a student’s financial aid package, they must consider financial assistance (scholarships, grants, awards, etc.) the student is receiving from external and internal sources to ensure that he is not overawarded. Therefore, any information the school’s admissions office or an academic department obtains about financial assistance a student is receiving must be made available to the coordinating official. Another example is that the financial aid office must be informed of any changes in a student’s enrollment status. Therefore, whenever he adds or drops a class, changes from credit to audit, or withdraws from school, the change must be communicated to the coordinating official.
+
+Counseling
+
+Schools must provide adequate financial aid counseling with clear and accurate information to enrolled and prospective students and their families. This counseling must advise students and families to accept the most beneficial types of financial assistance available to them and include information about:
+
+the cost of attendance;
+
+sources and amounts of each type of aid separated by the type of aid and whether it must be earned or repaid;
+
+the net price; and
+
+instructions and applicable deadlines for accepting, declining, or adjusting award amounts.
+
+In addition, schools must also provide entrance and exit counseling for student borrowers in the Direct Loan programs and exit counseling for borrowers in the Perkins Loan program. For a complete discussion of Direct Loan counseling requirements, see 
+Volume 8
+. For a discussion of Perkins counseling and disclosure requirements, see 
+Volume 6
+.
+
+Adequate Staffing
+
+To manage a school’s aid programs effectively, the aid administrator must be supported by an adequate number of professional and clerical personnel. The number of staff that is adequate depends on the number of students aided, the number and types of programs in which the school participates, the number of applicants evaluated and processed, the amount of funds administered, and the type of financial aid delivery system the school uses. What may be adequate at one school may be insufficient at another. The Department will determine on a case-by-case basis whether a school has an adequate number of qualified persons, based on program reviews, audits, complaints, and information provided on the school’s 
+Application to Participate in the Federal Student Financial Aid Programs (E-App)
+.
+
+System of Checks and Balances
+
+In addition to having a well-organized financial aid office staffed by qualified personnel, a school must ensure that its administrative procedures for the 
+Title IV
+ programs include an adequate system of internal checks and balances. This system, at a minimum, must separate the functions of authorizing payment and disbursing or delivering funds so that no single person or office exercises both functions for any student receiving 
+Title IV
+ funds.
+
+Small schools are not exempt from this requirement even though they may have limited staff. Individuals working in either authorization or disbursement may perform other functions as well but not both authorization and disbursement. These two functions must be performed by individuals who are not members of the same family and who do not together exercise substantial control over the school. If a school performs any aspect of these functions via computer, no one person may have the ability to change data that affect both authorization and disbursement.
+
+While electronic processes enhance accuracy and efficiency, they also can blur separation of functions so the awarding and disbursement occur virtually simultaneously. Schools must set up controls that prevent an individual or an office from having the authority or the ability to perform both functions.
+
+In addition, your system also should have controls that prevent cross-functional tampering. For example, financial aid office employees should not be able to change data elements that are entered by the registrar’s office. Finally, your system should only allow individuals with special security classifications to make changes to the programs that determine student need and awards, and it should be able to identify the individuals who make such changes. For further guidance on the separation of functions, contact your School Participation Division. Contact information is available in the 
+Knowledge Center
+. (see 
+Volume 4
+, Appendix B for additional guidance on Administrative Requirements)
+
+Transcript Withholding
+
+Effective July 1, 2024, schools must certify that they will not withhold transcripts or take any other negative action against a student related to a balance owed by the student due to an error in the school's administration of the 
+Title IV
+ programs, or any fraud or misconduct by the institution or its personnel. 
+34 CFR 668.14(b)(33)
+.
+
+Additionally, schools are required to provide an official transcript that includes all the credit or clock hours for payment periods in which a student received 
+Title IV
+ funds and for which all institutional charges were paid or included in an agreement to repay at the time the request is made.
+
+For purposes of determining whether a student is entitled to an official transcript that includes credits earned for a particular payment period, a school must consider a student to have fully paid for a payment period if an institutional payment plan has been established by the student, or on the student’s behalf, to cover the charges and the responsible individual is current on the plan (i.e., has not missed any payments). An institution’s policy on payment plans must be consistent for all students, including a student who is interested in an agreement to pay their outstanding balance in return for their transcript. An institution is permitted to wait for the student to make their first payment from their agreement before providing them with their transcript. A school is not required to transcript credits for a payment period where institutional charges were paid with a payment plan but the student has missed a payment or is otherwise not meeting the requirements of the plan. Please review the Frequently Asked Questions 
+(FAQs)
+ related to these new requirements on the 
+Office of Postsecondary Education website
+.
+
+Career Services
+
+Schools must provide adequate career services to their students. In determining whether a school provides adequate career services, the Department considers the following:
+
+The share of students enrolled in programs designed to prepare students for gainful employment in a recognized occupation;
+
+The number and distribution of career services staff;
+
+The career services the school has promised to its students; and
+
+The presence of institutional partnerships with recruiters and employers who regularly hire graduates of the school.
+
+Timely Funds Disbursement
+
+Schools must disburse funds in a timely manner that best meets the students’ needs. The Department does not consider this requirement met if the school has:
+
+Multiple valid and relevant student complaints;
+
+High rates of withdrawals attributable to delays in disbursements;
+
+Delayed disbursements until after the point at which students have earned 100% of the Title IV eligibility in accordance with 
+34 CFR 668.22
+; or
+
+Delayed disbursements with the effect of ensuring the school passes the 90/10 ratio.
+
+Ownership, Employees, and Contractors
+
+Debarment and Suspension
+
+To protect the public interest, it is the policy of the federal government to conduct business only with responsible individuals. To implement this policy, the government takes debarment and suspension actions against individuals who it determines constitute a current risk to federal agencies. If any individual who exercises substantial control that engages in any crime/fraud involving Federal, State, Tribal, or local government , is prohibited from participating in any 
+Title IV
+ program as long as the agency’s procedures include due process protections that are equivalent to those provided by the Department.
+
+ Debarment and Suspension
+ 
+
+Debarment and suspension data
+
+Executive Order 12549
+
+Federal Acquisition Regulations
+
+48 CFR Part 9, Subpart 9.4
+
+34 CFR 668.16(k)
+
+34 CFR 668.82
+
+The principals of a school include its owners, directors, officers, partners, employees, and anyone else with management or supervisory responsibilities. A principal may also be someone who is not employed by the school but who has critical influence on or substantive influence over a covered transaction (such as the receipt of Pell Grant or Campus-Based funds). For example, a principal may be someone, employed by the school or not, who
+
+is in a position to handle federal funds,
+
+is in a position to influence or control the use of those funds, or
+
+occupies a technical or professional position capable of substantially influencing the development or outcome of an activity required to perform the covered transaction.
+
+For purposes of the debarment/suspension rules, covered transactions include:
+
+being convicted of or pleading nolo contendere or guilty to a crime involving governmental funds,
+
+disbursement of 
+Title IV
+ funds to a student or borrower,
+
+certification by an educational institution of eligibility for a 
+Title IV
+ loan, and
+
+acquisition or exercise of any servicing responsibility for a grant, loan, or work study assistance under a 
+Title IV
+ program.
+
+Schools participating in the 
+Title IV
+ programs have a fiduciary responsibility to safeguard 
+Title IV
+ funds and ensure those funds are used for the benefit of the students for whom they are intended. We expect participating institutions to thoroughly examine the background of individuals they employ (or are considering employing) in management or supervisory positions. If a school discovers that a person employed in a management or supervisory capacity has been suspended or debarred by a federal agency, the school must remove that person from such a position or risk losing its 
+Title IV
+ eligibility.
+
+Moreover, similar debarment and suspension limitations apply to lenders, third-party servicers, loan servicers, and any individuals who provide services described in 
+34 CFR 668.2
+ or 
+34 CFR 682.200
+ to a 
+Title IV
+ recipient whether or not they are employed by the school. A school may not enter into a relationship—or must terminate an ongoing relationship—with such a person or entity who the school determines has been debarred or suspended.
+
+You can check debarment/suspension status online by searching the entity registration and exclusion records on the 
+System for Award Management (SAM) website
+.
+
+Certifying Current or Prospective Employees or Contractors
+
+Before a school may receive 
+Title IV
+ funding, it must certify that neither the school nor its employees have been debarred or suspended by a federal agency. You can find this certification in the Program Participation Agreement (PPA).
+
+ Disqualified Individuals & PPA
+ 
+
+Disqualified individuals & PPA reference
+
+34 CFR 668.14(b)(18)(i)
+
+The certification provided by the school is a material representation of fact relied upon by the Department when it enters into a participation agreement with the school. Moreover, a school is expected to have knowledge and information normally possessed by a prudent person in the ordinary course of business dealings. Although the Department does not dictate how a school must ensure that its principals/employees have not been debarred or suspended by a federal agency, we do hold the school responsible for any information it could reasonably have been expected to know in the course of ordinary operations. In addition, we expect the school to expend a reasonable amount of effort ensuring that it and its employees are in compliance. If the Department learns that a prospective participant knowingly rendered an erroneous certification, in addition to other remedies available, the Department may terminate the participation of the institution.
+
+A school chooses the method and frequency for making a determination about the eligibility of its principals. This might include asking current and prospective employees and contractors, in person or in writing, about their debarment or suspension histories. In addition, a school might also examine the List of Parties Excluded from Federal Procurement and Nonprocurement Programs to find out if an individual or organization is debarred or suspended. A school should discuss with its attorney the procedures appropriate to its circumstances.
+
+The employees who award 
+Title IV
+ funds and those who disburse them should always be included in those whose backgrounds are examined. In addition, employees who participate in other transactions from which the regulations exclude individuals who have been debarred or suspended should be included. A school should consult with its attorney on the individuals it must certify.
+
+The debarment or suspension of a person who is not a principal of the school and who does not work in the financial aid office will not affect the school’s 
+Title IV
+ eligibility so long as that person is not involved in any covered transactions.
+
+Lower-Tier Covered Transactions
+
+A school must not enter into lower-tier covered transactions with a debarred or suspended individual or organization. A lower-tier covered transaction is any transaction between a participant in a covered transaction (such as the school) and another individual or organization, if that transaction stems from a covered transaction. Examples of common lower-tier covered transactions are a school’s contracts with a financial aid consultant service or with a loan collection or billing agency. A school must obtain a certification from any lower-tier organization if the amount of the lower-tier transaction is $25,000 or more. The lower-tier organization must inform the school in writing if the organization or its principals are debarred or suspended. Therefore, the certification does not need to be renewed from year to year.
+
+The Department disseminated the following language in April 1989 as a model that schools may use to obtain the required certification statement from a lower-tier organization:
+
+"The prospective lower tier participant certifies, by submission of this proposal, that neither it nor its principals is presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded from participating in this transaction by any federal department or agency.
+
+Where the prospective lower tier participant is unable to certify to any of the statements in this certification, such prospective participant shall attach an explanation to this proposal."
+
+ Lower-Tier Covered Transactions
+ 
+
+Federal Register
+, May 26, 1988, page 19211
+
+Dear Colleague Letter GEN-89-21.
+
+Crimes Involving 
+Title IV
+ Program Funds
+
+Schools are prohibited from having as principals those who have engaged in the misuse of government funds or from employing or contracting with other organizations that employ such persons. Specifically, a school must not knowingly
+
+employ, in a capacity that involves the administration of the 
+Title IV
+ programs or the receipt of funds under those programs, an individual who has been convicted of, or has pled 
+nolo contendere
+ or guilty to, a crime involving the acquisition, use, or expenditure of federal, state, or local government funds, or has been administratively or judicially determined to have committed fraud or any other material violation of law involving federal, state, or local government funds;
+
+contract with a school or third-party servicer that has been limited, suspended, or terminated by the Department within the preceding five years; or terminated from the 
+Title IV
+ programs for a reason involving the acquisition, use, or expenditure of federal, state, or local government funds or that has been administratively or judicially determined to have committed fraud or any other material violation of law involving federal, state, or local government funds;
+
+contract with a school or third-party servicer that has had, during the servicer’s two most recent audits, a finding that resulted in the servicer being required to repay an amount greater than five percent of the funds that the servicer administered under the 
+Title IV
+ programs for any year; or has been cited during the preceding five years for failure to submit audit reports required under 
+Title IV
+ in a timely fashion; or
+
+contract with or employ any individual, agency, or organization that has been, or whose officers or employees have been:
+(1) convicted of, or pled 
+nolo contendere
+ or guilty to, a crime involving the acquisition, use, or expenditure of federal, state, or local government funds; or (2) administratively or judicially determined to have committed fraud or any other material violation of law involving federal, state, or local government funds.
+
+Code of Conduct
+
+If a school participates in a Direct Loan program, it must publish and enforce a code of conduct that includes bans on the following:
+
+revenue-sharing arrangements with any lender,
+
+directing borrowers to particular lenders or delaying loan certifications, and
+
+offers of funds for private loans to students in exchange for providing concessions or promises to the lender for a specific number of 
+Title IV
+ loans or private education loans, a specified loan volume, or a preferred lender arrangement.
+
+The code of conduct applies to the officers, employees, and agents of the school and must also prohibit employees of the financial aid office from receiving gifts from a lender, guaranty agency, or loan servicer. This includes gifts given to their family members, or any other individual, if there is reason to believe the gift was knowingly given because of the official position of the agent.
+
+The code must also prohibit financial aid office staff (or other employees or agents with responsibilities with respect to education loans) from accepting compensation for
+
+any type of consulting arrangement or contract to provide services to or on behalf of a lender relating to education loans; and
+
+service on an advisory board, commission, or group established by lenders or guarantors, except for reimbursement for reasonable expenses.
+
+Compensation for Serving on an Advisory Board
+
+Any employee who is employed in the financial aid office of the institution, or who otherwise has responsibilities with respect to 
+Title IV
+ Program loans or private education loans or other student financial aid of the institution, and who serves on an advisory board, commission, or group established by a lender, guarantor, or group of lenders or guarantors, must not receive anything of value from the lender, guarantor, or group of lenders or guarantors, except that the employee may be reimbursed for reasonable expenses, as that term is defined in 
+§ 668.16(d)(2)(ii)
+, incurred in serving on such advisory board, commission, or group.
+
+A school must report annually to the Department any such reasonable expenses paid or provided to any employee who is employed in the financial aid office or who otherwise has responsibilities with respect to education loans or other financial aid of the institution.
+
+The report must include the following:
+
+the amount of each specific instance of reasonable expenses paid or provided;
+
+the name of the financial aid official, other employee, or agent to whom the expenses were paid or provided;
+
+the dates of the activity for which the expenses were paid or provided; and
+
+a brief description of that activity.
+
+ Advisory Board Compensation
+ 
+
+Advisory board compensation reference
+
+HEOA section 1011
+
+HEA section 485(m)
+
+15 USC 1650(d)
+
+Contracts With Third-Party Servicers
+
+Schools may contract with consultants to help with administering the 
+Title IV
+ programs. Such a consultant—aka a third-party servicer—is any individual or a state or a private, for-profit or nonprofit organization that enters into a contract with an eligible school to administer, through manual or automated processing, any aspect of the school’s participation in any 
+Title IV
+ program. Examples of functions that third-party servicers perform include the following:
+
+processing student financial aid applications, performing need analysis, and determining student eligibility or related activities;
+
+originating loans, servicing loans, or collecting loans;
+
+processing output documents for payment to students, and receiving, disbursing, or delivering 
+Title IV
+ funds;
+
+conducting required student consumer information services;
+
+preparing and certifying requests for cash monitoring or reimbursement funding;
+
+preparing and submitting notices and applications required of eligible and participating schools, or preparing the 
+Fiscal Operations Report and Application to Participate
+ (FISAP);
+
+performing default prevention/aversion activities, such as contacting student loan borrowers to discuss repayment options or borrower account history, assisting with completion and/or collection of borrower deferment or forbearance forms, doing entrance/exit loan counseling, implementation and oversight of a written default management plan, and /or accessing borrower information contained in Department systems;
+
+accessing Department systems (NSLDS, COD, FPS, etc.) that contain personally identifiable student information, and/or accessing personally identifiable student information downloaded from a Department system to perform any 
+Title IV
+ function or service on behalf of an eligible institution;
+
+determining student eligibility and related activities, such as completing verification, performing satisfactory academic progress evaluations, determining award amounts, performing Return of 
+Title IV
+ aid calculations, and/or reconciling 
+Title IV
+ program accounts; and
+
+processing enrollment verification for deferment forms or NSLDS enrollment reporting.
+
+Both the school and third-party servicer are liable for all 
+Title IV
+-related actions by the servicer on the school’s behalf. However, the school is ultimately responsible for the use of 
+Title IV
+ program funds and will be held accountable if the consultant mismanages the programs.
+
+Schools must notify the Department of new third-party servicer contracts as well as changes to and termination of existing contracts, as described in Chapter 5. No additional submission is required if a school has already submitted the same information as part of a recent application for certification or recertification.
+
+ Third-Party Servicer
+ 
+
+Third-party servicer reference
+
+34 CFR 668.2(b)
+ (definition) and 
+668.25
+
+DCL GEN-12-08 and GEN-15-01
+
+Requirements of a Third-Party Servicer Contract
+
+Under a contract with a school, a third-party servicer agrees to comply with all 
+Title IV
+ provisions, which includes those that refer solely to schools as well as to servicers, and to be jointly and severally liable with the school for a violation by the servicer of any of those provisions.
+
+A school must ensure that its contracts accurately and specifically detail the functions that the servicer (or its subcontractor(s), if applicable) performs on behalf of the institution, and those functions that are required to be completed by the institution. The contract must identify the third-party servicer by its legal name and include any other name the servicer does business as (d/b/a). The contract must provide the physical address and primary phone number of the servicer’s primary location, as well as the name, title, phone number, and e-mail address of the president or chief executive officer of the entity. If a third-party servicer subcontracts any of its contractual responsibilities, the contract must identify the subcontractor and clearly describe the functions performed on behalf of the servicer and institution by the subcontractor.
+
+The servicer agrees to use any 
+Title IV
+ funds (and interest or earnings on them) in accordance with the regulations and, if it disburses those funds, to confirm student eligibility and make the required returns to 
+Title IV
+ funds (see Volume 5) when a student withdraws.
+
+A third-party servicer must refer to the Department’s inspector general any suspicion of crime relating to 
+Title IV
+ program administration, including any information that there is reasonable cause to believe the school might have engaged in fraud or other criminal misconduct pertaining to the 
+Title IV
+ programs (see the examples under “OIG referrals” earlier in this chapter).
+
+If the contract is terminated or the servicer files for bankruptcy or ceases for any reason to perform any functions prescribed under the contract, the servicer must return to the school all unexpended 
+Title IV
+ funds and records related to the servicer’s administration of the school’s participation in the 
+Title IV
+ programs.
+
+All contracts between schools and their third-party servicers must contain specific language under which the servicer agrees to
+
+comply with all applicable statutory, regulatory, and other 
+Title IV
+ requirements;
+
+refer any suspicion of fraudulent or criminal conduct in relation to the school’s 
+Title IV
+ program administration to the Department’s Office of the Inspector General;
+
+return all records related to the servicer’s administration of the school’s participation in the 
+Title IV
+ programs to the school;
+
+confirm student eligibility and, if the servicer disburses funds, return 
+Title IV
+ funds (if required) when a student withdraws;
+
+if the servicer disburses or releases 
+Title IV
+ funds, return all unexpended 
+Title IV
+ funds to the institution if the contract with the school is terminated or the servicer ceases to perform any functions prescribed under the contract;
+
+be jointly and severally liable with the institution for any violation of 
+Title IV
+ requirements resulting from the functions performed by the servicer.
+
+Excluded Functions
+
+Examples of functions that are not considered administering the participation in a 
+Title IV
+ program include:
+
+performing lockbox processing of loan payments,
+
+performing normal electronic fund transfers (EFTs) after being initiated by the school,
+
+acting as a Multiple Data Entry Processor (MDE),
+
+required 
+Title IV
+ financial and compliance auditing,
+
+mailing documents prepared by a school or warehousing school records,
+
+participating in a written arrangement with other eligible schools to make eligibility determinations and 
+Title IV
+ awards for certain students (see 
+Chapter 2
+), and
+
+providing computer services or software.
+
+A person or organization performing these functions is not considered to be a third-party servicer and is not subject to third-party servicer requirements.
+
+Excluded Entities
+
+An employee of a school is not a third-party servicer. For this purpose, an employee is one who: is paid directly by the school; works full or part time or on a temporary basis; performs all duties under school supervision, whether on site or remotely; is not employed by or associated with a third-party servicer; and is not a third-party servicer for any other school.
+
+A school may not have as a third-party servicer one that
+
+has been limited, suspended, or terminated by the Department within the preceding five years;
+
+has had, during the servicer’s two most recent audits, a finding that resulted in the servicer being required to repay an amount greater than five percent of the funds that the servicer administered under the 
+Title IV
+ programs for any year; or
+
+has been cited during the preceding five years for failure to submit audit reports required under 
+Title IV
+ in a timely fashion.
+
+Servicer Reporting and Audits
+
+A servicer must update its Third-Party Servicer Data Form within 10 days of the date that the servicer
+
+changes its name,
+
+changes the address or contact information for its primary or additional location,
+
+adds or terminates a contract with an eligible 
+Title IV
+ school, or
+
+buys, sells, or merges with another third-party servicer.
+
+See 
+34 CFR 668.25(e)(1)(i)
+
+A third-party servicer must submit a compliance audit each year. If it contracts with several schools, a single audit can be submitted that covers its administrative services for all those schools. See 
+34 CFR 668.23
+ and the 
+OIG Title IV Audits
+ page for proprietary and foreign schools and third-party servicers.
+
+Servicer Security and Privacy
+
+Schools are subject to the information security requirements established by the Federal Trade Commission (FTC) for financial institutions. Third-party servicers must provide the same security. They must also comply with all aspects of the Family Educational Rights and Privacy Act (FERPA) with regard to the receipt and use of any education records provided by the school. (see Volume 4 for details regarding Tier One Arrangements)
+
+Incentive Compensation Prohibition
+
+Schools may not provide any commission, bonus, or other incentive payment based directly or indirectly upon success in securing enrollments or the award of financial aid to any individual or entity engaged in any recruiting or admission activities or in making decisions about awarding 
+Title IV
+ program funds. Only these two types of activities are subject to the incentive compensation ban: securing enrollment (recruitment) and securing financial aid. No other activities are subject to the ban.
+
+ Incentive compensation
+ 
+
+HEA section 487(a)(20)
+
+34 CFR 668.14(b)(22)
+
+This two-part test determines if a payment is incentive compensation:
+
+Is the payment a commission, bonus, or other incentive payment, defined as an award of a sum of money or something of value paid to or given to a person or entity for services rendered?
+
+Is the commission, bonus, or other incentive payment provided to any person based, in any part directly or indirectly, upon success in securing enrollments or the award of financial aid?
+
+If the answer to both questions is “yes,” the payment would be prohibited.
+
+The incentive compensation prohibition applies to all individuals with responsibility for recruitment or admission of students or making decisions about awarding 
+Title IV
+ funds, even if their work also includes other activities. This includes individuals employed with the institution’s third-party servicers or contractors (such as online program managers), and institutions must ensure that they retain adequate information about how staff employed by such entities to perform recruitment activities are compensated for program review and audit purposes. These materials should be provided to auditors during an institution’s annual non-federal audit. As shown in Table 1, the Department draws a distinction between recruitment activities that involve working with individual students and policy-level determinations that affect recruitment, admission, or the awarding of 
+Title IV
+ funds, even if their work also includes other activities. The Department expects that employees who have titles such as enrollment counselors, recruitment specialists, recruiters, and enrollment managers have sufficiently direct involvement in recruitment that the incentive compensation ban applies to them. Senior managers and executive level employees who are only involved in the development of policy and do not engage in individual student contact or the other covered activities listed in Table 1 will not generally be subject to the incentive compensation ban.
+
+When other activities are coupled with recruitment or securing financial aid, a school must consider how they compensate persons or entities to avoid payments that are prohibited. Table 1 illustrates how these principles would be applied to activities that schools carry out in support of recruitment and financial aid. Payments to persons or entities that undertake or have responsibility for recruitment and decisions related to securing financial aid are subject to the incentive compensation ban even if their work also includes other activities.
+
+Schools may use factors such as seniority or length of employment as a basis for compensating employees covered by the incentive compensation prohibition. Many other qualitative factors may also be used so long as they are not related to the employee’s success in securing student enrollments or the award of financial aid. These factors may include such things as job knowledge and professionalism; skills such as analytic ability, initiative in work improvement, clarity in communications, and use and understanding of technology; traits such as accuracy, thoroughness, dependability, punctuality, and adaptability; peer rankings; student evaluations; and interpersonal relations.
+
+The Department issued guidance on incentive compensation in 
+GEN-11-05
+. In addition to the tables included in this text, that DCL provided examples of how the incentive compensation rules are applied, as well as guidance on tuition sharing and profit sharing and other forms of compensation. Since that time, the Department posted additional 
+related questions and answers
+ to address study-abroad situations for 
+Title IV
+-eligible students and to clarify when bundled services provided by a third party are subject to the incentive compensation ban.
+
+Table 1: Activities Covered by Prohibition on Incentive Compensation
+
+ 
+
+Covered Activities
+
+Activities that are ALWAYS subject to the ban on incentive compensation
+
+Exempt Activities
+
+Activities NOT subject to the ban on incentive compensation include the follow- ing, unless the activities of the employee or entity also involve a covered activity
+
+ 
+
+Recruitment activities, including:
+
+Targeted information dissemination to individuals;
+
+Solicitations to individuals;
+
+Contacting potential enrollment applicants; and
+
+Aiding students in filling out enrollment application information
+
+Marketing activities, including:
+
+Broad information dissemination;
+
+Advertising programs that disseminate information to groups of potential students;
+
+Collecting contact information;
+
+Screening pre-enrollment information to determine whether a prospective student meets the requirements that an institution has established for enrollment in an academic program; and
+
+Determining whether an enrollment application is materially complete, as long as the enrollment decision remains with the institution
+
+ 
+
+Services related to securing financial aid, including completing financial aid applications on behalf of prospective applicants (including activities that are authorized by the Department, such as the 
+FAFSA Partner Portal
+, which can be used to enter, correct, verify, or analyze financial aid application data)
+
+Student support services offered after the point at which financial aid is allowed to be disbursed for a payment period, including:
+
+General student counseling;
+
+Career counseling;
+
+Financial aid counseling, including loan management;
+
+Online course support—both professional services and computer hardware and software;
+
+Academic support services, including tutoring, aimed at student retention, whether that support is provided prior to attendance in classes or after attendance has begun.
+
+ 
+
+Policy decisions made by senior executives and managers related to the manner in which recruitment, enrollment, or financial aid will be pursued or provided, such as decisions to admit only high school graduates.
+
+Table 2: Types of Payments Covered by Prohibition on Incentive Compensation
+
+ 
+
+Types of payments that are direct or indirect payment of incentive compensation
+
+Types of payments that are not direct or indirect payment of incentive compensation
+
+ 
+
+“Tuition sharing” as a measure of compensation when based on a formula that relates the amount payable to the entity to the number of students enrolled as a result of the activity of the entity.
+
+Tuition as a source of revenue from which compensation is paid to an unrelated third party for a variety of bundled services (Example 2-B in 
+GEN-11-05
+).
+
+ 
+
+Profit sharing plans from which distributions are made to individuals based on the number of students enrolled by virtue of covered activities by the recipient 
+34 CFR 668.14(b)(22)(ii)(B)
+.
+
+Profit sharing plans, including 401(k) type plans, from which distributions are made to individuals on a basis that is neutral with respect to the role the recipient plays in student recruitment or the securing of financial aid.
+
+ 
+
+Salary adjustments that take the form of incentive payments based directly or indirectly on success in securing enrollments or financial aid.
+
+Employee benefits plans offered to all employees on a basis that is neutral with respect to the role the recipient plays in student recruitment or the securing of financial aid.
+
+ 
+
+Payments based on the application of an admissions policy.
+
+Cost of living adjustments (COLAs).
+
+ 
+
+Bonus or other payments based on success in securing enrollments or financial aid.
+
+Compensation adjustments based upon seniority.
+
+ 
+
+Payments to faculty based upon student class size or academic achievement.
+
+ 
+
+Payments to senior executives with responsibility for the development of policies that affect recruitment, enrollment, or financial aid.
+
+ 
+
+Payments based upon securing student housing or other student services, including career counseling.
+
+ 
+
+Volume-driven arrangements based on services that are not recruitment or securing of financial aid.
+
+Table 3: Definitions
+
+ 
+
+Commission, bonus, or other incentive payment
+
+A sum of money or something of value, other than a fixed salary or wages, paid to or given to a person or an entity for services rendered.
+
+Securing enrollments or the award of financial aid
+
+Activities that a person or entity engages in at any point in time through completion of an educational program for the purpose of the admission or matriculation of students for any period of time or the award of financial aid to students.
+
+(1) These activities include contact in any form with a prospective student, such as, but not limited to, contact through preadmission or advising activities, scheduling an appointment to visit the enrollment office or any other office of the institution, attendance at such an appointment, or involvement in a prospective student’s signing of an enrollment agreement or financial aid application.
+
+(2) These activities do not include making a payment to a third party for the provision of student contact information for prospective students provided that such payment is not based on
+
+(i) Any additional conduct or action by the third party or the prospective students, such as participation in preadmission or advising activities, scheduling an appointment to visit the enrollment office or any other office of the institution or attendance at such an appointment, or the signing, or being involved in the signing, of a prospective student’s enrollment agreement or financial aid application; or
+
+(ii) The number of students (calculated at any point in time of an educational program) who apply for enrollment, are awarded financial aid, or are enrolled for any period of time, including through completion of an educational program.
+
+Entity or person engaged in any student recruitment or admission activity or in making decisions about the award of financial aid
+
+( 1 ) With respect to an entity engaged in any student recruitment or admission activity or in making decisions about the award of financial aid, any institution or organization that undertakes the recruiting or the admitting of students or that makes decisions about and awards 
+Title IV
+ funds; and
+
+( 2 ) With respect to a person engaged in any student recruitment or admission activity or in making decisions about the award of financial aid, any employee who undertakes recruiting or admitting of students or who makes decisions about and awards 
+Title IV
+ funds, and any higher level employee with responsibility for recruitment or admission of students, or making decisions about awarding 
+Title IV
+ funds.
+
+Enrollment
+
+The admission or matriculation of a student into an eligible institution.
+
+Student and Alumni Referral Programs
+
+Many colleges offer discounts or incentives to students or alumni who refer other students to the college. If the students enroll, incentives in the form of tuition discounts are offered to both students. It is important to note that the two-part test to determine if the payment is incentive compensation must be applied in these cases. The tuition discount provided to both students by the college is 
+something of value
+. In addition, the students in these situations are receiving something of value for 
+successfully securing enrollment
+, an activity that would be prohibited under the incentive compensation regulations under 
+34 CFR 668.14(b)(22)
+. The Department has consistently taken the position that the incentive compensation regulations extend to 
+any persons engaged in recruiting prospective students, including currently enrolled students.
+
+Required Electronic Processes
+
+Schools must be able to use Department electronic processes to be considered administratively capable of participating in 
+Title IV
+ programs. To exchange data with the 
+Title IV
+ systems, schools must have internet access through their network or an internet service provider. Schools need to enroll in the Student Aid Internet Gateway (SAIG) and establish a data mailbox. (Doing this and other tasks related to electronic processing is the most frequent duty for third-party servicers.) Most schools prepare student data records in a software package such as EDExpress and transmit the records as batch files to the SAIG mailbox. The Department’s systems send edited records back to that mailbox, and the school downloads the records and uses its software to update the records in its own database.
+
+ Electronic Processes
+ 
+
+Electronic processes references
+
+Federal Register
+, 9/14/04
+, 55418–55420
+
+34 CFR 668.16(o)
+
+Schools must use COD’s common record format, complying with the published schema for the corresponding award year, to send and receive origination and disbursement data for Pell Grants, TEACH Grants, Federal Work Study and Direct Loans. This format uses Extensible Markup Language (XML).
+
+To create and edit student records, your school may use the Department’s EDExpress software, develop its own software, or rely on a third-party software vendor. If you are not using EDExpress software to prepare your records, it is your responsibility to ensure that the software you use is capable of generating COD records in XML format. As an alternative, you can now create and edit student records directly on many of our websites, such as COD, FPS, and NSLDS. When creating and editing records on the Web, you do not use PC software and you do not have to transmit the changes through your SAIG mailbox.
+
+The 
+FSA Partner and School Relations Center
+ will make available COD testing to give schools, third-party servicers, and software providers an opportunity to test Pell Grants, TEACH Grants, Federal Work Study and Direct Loan business processes and system software with the COD System. This will allow for corrections or enhancements to those processes and software before the transmission of actual production data using the common record XML schema. See the 
+January 7, 2026 announcement
+ about COD testing for 2026–2027.
+
+See the 
+Software and Other Tools webpage
+ in the Knowledge Center for links to software, desk references, technical references for programmers, and other materials that pertain to SAIG, EDExpress, FPS, and other Department systems. For questions about specific systems, such as application processing and software (FPS/SAIG), COD, and NSLDS, see the 
+Help page
+ on the Knowledge Center site. Within the help page, the 
+FSA Customer Service Center
+ provides contact information for specific topics covering many areas of the 
+Title IV
+ program.
+
+Knowledge Center
+
+Important information is communicated through our 
+Knowledge Center
+ such as Electronic Announcements, Dear Colleague Letters, and Federal Register Notices. A useful feature of the site is its 
+subscription service
+, which sends daily or weekly emails that summarize recent publications.
+
+Even if you use a third-party servicer to manage your student aid activities, you are responsible for knowing about all new statutory, regulatory, and procedural requirements. The Knowledge Center is a comprehensive place to get that information. It also has links to all major FSA websites and services as well as contact information for 
+service centers for schools and FSA offices
+.
+
+Two-Factor Authentication (TFA)
+
+For greater security Department systems use two-factor authentication (TFA), which employs a token to generate single-use passwords. We encourage users to download the “soft” token, which is an application for their mobile device, but the “hard” token or key fob is also still available. For questions about TFA and tokens, you can contact the FPS/SAIG Technical Support and the TFA Support Center at (800) 330-5947 or by email at 
+TFASupport@ed.gov
+.
+
+Annual Validation of TG Numbers Required by December 7, 2023
+
+On October 2023, the Department initiated the annual active confirmation process that required every organization enrolled for a Student Aid Internet Gateway (SAIG) account to review and validate its assigned TG numbers by Dec. 7, 2023. This included TG numbers (SAIG mailboxes) with access to the 
+NSLDS Professional Access website
+, the 
+COD website
+, and all 
+FAFSA Partner Portal
+ and EDconnect user accounts. It also included TG numbers enrolled for SAIG batch services for the National Student Loan Data System (NSLDS®), the FAFSA Processing System (FPS), the Common Origination and Disbursement (COD) System, and the Financial Management System (FMS). An 
+Electronic Announcement posted on Oct. 16
+ to the Knowledge Center website, as well as reminder email notifications, provided detailed instructions for completing this confirmation process.
+
+Summary of Required Electronic Processes
+
+To comply with the administrative capability requirements of 
+34 CFR 668.16(o)
+, a school must
+
+use the E-App to submit and update the school’s eligibility information: 
+eligcert.ed.gov
+.
+
+use the Document Center to securely upload program compliance documentation via the 
+COD website
+
+enroll in the partner Portal: 
+fafsa.partnerportal-2627.ed.gov
+
+use FAFSA Partner Portal to exchange FAFSA or ISIR data with the Department’s FAFSA Processing System: 
+fafsa.partnerportal-2627.ed.gov
+
+use the COD website to exchange award and disbursement data for Pell Grants, TEACH grants, and Direct Loans: 
+cod.ed.gov/
+
+use the COD website at: 
+cod.ed.gov/
+ to file the 
+FISAP application and report
+, the Work Colleges application and report, and the report of disbursements made to students with intellectual disabilities in approved Comprehensive Transition and Postsecondary (CTP) programs (see 
+Volume 6
+).
+
+use the National Student Loan Data System (NSLDS) at 
+nsldsfap.ed.gov
+ to submit student enrollment records, FSA program overpayments, and NSLDS transfer student monitoring records.
+
+electronically submit the school’s annual compliance and financial statement audits and any other required audits: 
+ezaudit.ed.gov
+.
+
+use the Default Management website to receive its draft and official cohort default rate data electronically: 
+fsapartners.ed.gov/knowledge-center/topics/msursd-catalog-reference-documents/default-management-prevention
+.
+
+use the Knowledge Center website to review Dear Colleague Letters, announcements, or Federal Registers: 
+fsapartners.ed.gov/knowledge-center
+.
+
+The Access and Identity Management System (AIMS) provides the authentication process for several of Federal Student Aid’s systems—COD, eCDR Appeals, FAFSA Partner Portal, NSLDS Professional Access, SAIG Enrollment, and EDconnect software. Users (destination point administrators or DPAs) can log in once with an FSA User ID, password, and TFA token security code and access all of the above systems during a single session.
+
+However, when access is disabled due to inactivity, that only occurs on a per-system basis. After 90 days of inactivity (simply not logging in) on any of the above systems, the user loses access just to that system. To restore access the user must call the customer service center for that system. However, after 365 days of inactivity, the user’s access will be permanently deactivated. The school’s primary DPA will have to re-enroll the person via the SAIG Enrollment website to restore access.
+
+Primary DPAs receive monthly reports that list the activity status, “Active” or “Disabled,” for each of the school’s DPAs and all of the systems they are authorized to use. The report will allow primary DPAs to monitor the activity of the school’s other DPAs and help them avoid permanent deactivation. For more information about access to systems behind AIMS, see the 
+May 17, 2019, announcement (updated July 15, 2021)
+.
+
+Minimum System Requirements
+
+In the past ED has issued the minimum system requirements schools must meet to participate in the Department’s electronic processes. (The most recent issuance was for 2005–2006 and gave an optimal configuration of a 2.8 GHz/333 MHz processor and 80 GB hard drive with a high-speed Internet connection.) When reviewing your office’s computer needs, you should be aware that its system requirements (processor speed, RAM, hard-drive storage, etc.) will depend on which Department functions the school uses, the number of records processed, and school database interfaces.
+
+Sharing Information With NSLDS, Federal Loan Servicers, And Guarantors
+
+Reporting Student Enrollment Data to NSLDS
+
+Student enrollment information is important, and all schools participating or approved to participate in the 
+Title IV
+ programs must have online enrollment access and have some arrangement to report student enrollment data to the National Student Loan Data System (NSLDS) through an enrollment roster file. Enrollment information is used to determine if the student is still considered in school, must be moved into repayment, or is eligible for an in-school deferment. Program-level enrollment data is also used to determine a student’s eligibility for Direct Subsidized Loans. For students moving into repayment, the out-of-school status effective date determines when the grace period begins and how soon a student must begin repaying loan funds. You’re required to report changes in the student’s enrollment status, the effective date of the status, and an anticipated completion date.
+
+ Enrollment Reporting
+ 
+
+34 CFR 682.610(c)
+ FFEL
+
+34 CFR 685.309(b)
+ Direct Loans
+
+34 CFR 674.16(j)
+ Perkins
+
+You must report enrollment status at both the school and program level. For this purpose, an academic program is defined as the combination of your school’s Office of Postsecondary Education Identification (OPEID) number and the program’s Classification of Instructional Program (CIP) code, credential level, and published program length. When a student is enrolled in more than one major (or comparable designation under your school’s academic policies), each is considered an academic program and is reported separately whether the student receives separate degrees or certificates for each major or only receives one for completing the requirements for all majors. Enrollment in a minor is not a separate program and therefore would not be reported as such. Report a student’s “active enrollment status” (full-time, three-quarter time, half-time, and less than half-time) based on the total number of credit or clock hours in which he or she is enrolled at the institution, regardless of whether specific credits apply to the academic program being reported. See 
+DCL GEN-14-17
+ for examples and more information.
+
+A school or its servicer must sign up to receive roster files through the 
+fafsa.partnerportal-2526.ed.gov
+. NSLDS will send a roster file electronically to the school or its designated servicer every 60 days (or more frequently depending on your schedule) through its SAIG mailbox. The file includes all of the school’s students who are identified in NSLDS as Pell recipients, Direct and FFEL Loan borrowers or the beneficiaries of a PLUS loan. The file is not necessarily connected to loans made at your school— it may also report information for students who received some or all of their 
+Title IV
+ loans at other schools but are currently attending your school.
+
+Your school or servicer must certify the information and return the roster file within 15 days of receiving it. You may also go to 
+nsldsfap.ed.gov
+ and update information for students online. You must report enrollment changes within 30 days; however, if a roster file is expected within 60 days, you may provide the updated data on that file.
+
+If the roster file that you are returning contains records that don’t pass the NSLDS enrollment reporting edits, you will receive a response file with the records that didn’t pass. Within 10 days you’ll need to make the necessary corrections to these records and resubmit them. If you are using a servicer, you may need to assist the servicer in correcting these errors. Please remember that your school is ultimately responsible for notifying NSLDS of student enrollment changes.
+
+When your school reports enrollment data to NSLDS, it does not have to complete enrollment reporting rosters received directly from guaranty agencies. Additionally, your school may request that a lender confirm a borrower’s enrollment status using NSLDS rather than completing an in-school deferment form.
+
+For NSLDS newsletters, updates, and other information, go to Library > Publication by Resource Type > NSLDS User Resources on the Knowledge Center website. Click on the 
+NSLDS Enrollment Reporting Guide
+, which has more on reporting enrollment information to NSLDS, including record layouts, error codes, etc.
+
+Updating Enrollment Information on the Web
+
+As already noted, you can create or update student enrollment status on the 
+NSLDS Professional Access site
+; use the Enroll tab. Phone support is available at 1-800-999-8219.
+
+It is critical to completely and accurately report students’ program- level enrollment information to NSLDS. This information is used to determine whether the student is still in school, or if the student must be moved into repayment. The student’s out-of-school status effective date determines when the student’s grace period begins and how soon the student must begin repaying funds.
+
+These codes are used for enrollment reporting and are listed in the 
+NSLDS Reporting Guide
+:
+
+F = Full time
+
+Q = At least three-quarter time but less than full time
+
+H = At least half time but less than three-quarter time
+
+L = Less than half time
+
+G = Graduated
+
+W = Withdrawn (voluntary or involuntary)
+
+A = Approved leave of absence
+
+D = Deceased
+
+X = Never attended
+
+Z = No Record found
+
+Updating Borrower Information When Student’s Enrollment Status Changes
+
+If a student who received a Direct Loan disbursement either fails to begin attendance or drops to a less than half-time status, the school must report the change in the student’s enrollment status to the Department according to the NSLDS enrollment reporting process and time frames. Upon receiving the revised enrollment status from NSLDS, the student’s federal loan servicer will change the student’s loan status as follows:
+
+In-school status will change to grace period status.
+
+In-school deferment status will change to repayment status.
+
+ Reporting Enrollment Changes in NSLDS
+ 
+
+34 CFR 685.309(b)
+
+DCL GEN-13-02
+
+Updating Borrower Information at Separation
+
+Schools that conduct their own exit counseling rather than have students complete it on 
+StudentAid.gov
+ must, within 60 days after the exit counseling session, provide the appropriate federal loan servicer or the guaranty agency for FFEL Loans that is listed in the borrower’s student aid records any updated information about: the borrower's name, address, references, future permanent address, Social Security number, the identity and address of their expected employer, the address of their next of kin, and their driver’s license number and state of issuance. This information may be uploaded with the NSLDS Exit Counseling Submittal template. NSLDS will then provide the data to the appropriate loan holders.
+
+Enrollment Status During the Summer
+
+A student is considered to be continuously enrolled at least half time during the summer, or in another period in which students are not generally expected to attend classes, as long as
+
+there is no reason for the school to believe that the student will not enroll on an at least half time basis for the next regularly scheduled term; and
+
+the student was enrolled at least half time at the end of the previous regularly scheduled term.
+
+Therefore, a student should not be reported to NSLDS as withdrawn as of the end of the spring term if the student was enrolled at least half time during the spring term and is expected to enroll at least half time for the upcoming fall term.
+
+ Loan Information From the Guarantor
+ 
+
+Loan information from the guarantor references 1
+
+Information About Students in FFEL Default
+
+34 CFR 682.401(b)(15)
+
+Loan information from the guarantor references 2
+
+Lender Requests of Preclaims Assistance
+
+34 CFR 682.404(a)(4)
+
+Sec. 428(c)(2)(H) of the HEA
+
+Loan information from the guarantor references 3
+
+Notification of Loans That Are Transferred
+
+Sec. 428(b)(2)(F) of the HEA
+
+34 CFR 682.401(b)(16)
+
+Sharing Information About Delinquent and Defaulted Borrowers
+
+To promote loan repayment, schools are encouraged to notify the appropriate Direct Loan servicer with new information about a delinquent borrower’s location or employment and to work with defaulted borrowers to bring their loans out of default.
+
+The Direct Loan servicers send electronic reports to participating schools listing all delinquent and defaulted Direct Loan borrowers who took out loans while attending the school. The report, which contains the borrowers’ names, addresses, and phone numbers, is organized by the number of days past due so that schools can contact and counsel borrowers to avoid default. Schools can also request delinquency reports through NSLDS (viewable online or for delivery to their TG mailbox) for all their borrowers with any of the DL servicers.
+
+A former FFEL school may agree to provide the holders of delinquent loans information about delinquent borrowers’ location or employment. The school may also try to contact borrowers and counsel them to avoid default.
+
+Former FFEL schools may ask a guaranty agency to provide information about their previously enrolled students who have defaulted on their Stafford loans. The guarantor may not charge for this information. A school may also ask the guarantor to notify it whenever a lender requests default aversion assistance on a loan made at the school, and provide
+the borrower’s name, address, and Social Security number. The guaranty agency may charge a reasonable fee for this service. Schools may only use the information to remind the borrower to repay their loan(s).
+
+If you’ve requested it, the guaranty agency must also notify your school when loans to its students are sold, transferred, or assigned to another holder. The notification must include the address and telephone number of the new loan holder. This notification requirement only applies to loans that are in the grace period or repayment and only if your school was the last the borrower attended before the loan entered repayment. For instance, if a student received Stafford Loans earning a bachelor’s degree at your school but pursued a master’s degree at another school before those loans entered repayment, the guarantor is not required to notify you if the loans are sold.
+
+Financial Aid History and Transfer Monitoring
+
+A school must consider a student’s financial aid history in making 
+Title IV
+ program awards. The regulations require that schools use NSLDS data to obtain information about a student’s financial aid history.
+
+To receive a student’s financial aid history, your school must register for the Transfer Student Monitoring Process. Through this process, NSLDS will monitor a transfer student’s financial aid history and alert you to any relevant changes—other than the default and overpayment information reported in the post-screening process—that may affect the student’s current award(s). You may send information for students who have just expressed an interest in attending your school even if they have not yet formally applied for admission.
+
+ Financial Aid History
+ 
+
+Financial aid history reference
+
+34 CFR 668.19
+
+Transfer Student Monitoring
+
+DCL 
+GEN-01-09
+
+To verify the eligibility of transfer students for 
+Title IV
+ funds, you may either check the student’s financial aid history on the 
+NSLDS Professional Access site
+ or wait seven days after you’ve submitted the student’s information for monitoring to receive a response from NSLDS. To begin using the “inform” feature, you must designate a contact on the “School Transfer Profile” page on the NSLDS site.
+
+You can find a complete discussion of this requirement and the transfer student monitoring process in 
+Volume 1
+, Chapter 3.
+
+Satisfactory Academic Progress (SAP)
+
+To be considered administratively capable, a school must have a satisfactory academic progress policy for a 
+Title IV
+ recipient that is the same as or stricter than the school’s standards for a student enrolled in the same educational program who is not receiving 
+Title IV
+ funds.
+
+Because satisfactory academic progress issues are most often raised in specific student eligibility cases, we discuss the details of SAP standards in 
+Volume 1, Chapter 1
+, of the FSA Handbook. You should carefully review that discussion if your school is developing or amending its SAP policy.
+
+ Satisfactory Academic Progress
+ 
+
+Satisfactory academic progress reference 
+
+School Policy:
+
+34 CFR 668.16
+
+Student Eligibility:
+
+34 CFR 668.32(f)
+
+34 CFR 668.34
+
+Basic Elements of an SAP Policy
+
+As discussed in 
+Volume 1
+ of the 
+FSA Handbook
+, a school’s policy must include evaluations at least annually for programs longer than one year and every payment period for programs of one year or less. There must be a qualitative component consisting of a minimum grade point average or comparable factor that is measurable against a norm. For programs longer than two academic years, the policy must stipulate that a student must have at the end of the second year a GPA of at least a “C” or its equivalent or have an academic standing consistent with the school’s requirements for graduation. There must also be a quantitative component that consists of a maximum time frame in which a student must complete an educational program and a pace of completion that ensures the student will complete the program within the time frame. Nonterm credit, subscription-based, and clock-hour programs are exempt from the quantitative/pace evaluation. For these exempt programs, your school may, at its option, include the exempt programs/credits in an SAP calculation for the quantitative component of SAP.
+
+In addition, your school’s policy must explain
+
+the effect of ESL and remedial courses on progress,
+
+how progress is measured if a student changes majors or seeks to earn additional degrees,
+
+how course repetitions are handled,
+
+whether you have appeals for an adverse SAP determination and the procedures for any such appeals, and
+
+the procedures for otherwise re-establishing SAP.
+
+The policy must include provisions for consistent application of the standards to all students within categories (e.g., full-time, part-time, undergraduate, and graduate students) and educational programs established by the school. Generally, the quantitative and qualitative standards used to judge academic progress include all periods of the student’s enrollment. Even periods in which the student did not receive 
+Title IV
+ funds must be counted.
+
+Subscription-based programs follow general SAP requirements associated with term-based programs, except that an institution is not required to perform a quantitative/pace measurement for students in such programs. In addition, coursework completed in the middle of a subscription period (term) will be factored in the next SAP evaluation checkpoint. See 
+Volume 1, Chapter 1
+ for more detailed SAP information including SAP requirements for subscription-based programs.
+
+In-State Tuition and Title IV Eligibility for Citizens of the Freely Associated States
+
+In-state tuition
+
+Per section 209 (b)(1)(E) of 
+Title II
+ of 
+Division G
+ of 
+The Consolidated Appropriations Act of 2024
+ (Public Law 118-42), effective on July 1, 2024, for the 2024-25 award year and each award year thereafter, a public institution of higher education (IHE) (not a private IHE that offers in-state tuition) may not charge more than its in-state tuition rate to citizens of the three Freely Associated States, which are:
+
+the Federated States of Micronesia (FSM),
+
+the Republic of the Marshall Islands (RMI), and
+
+the Republic of Palau.
+
+This requirement applies to tuition charged to students on or after July 1, 2024.
+
+Title IV
+ Eligibility
+
+Citizens of all three Freely Associated States are eligible for the following three 
+Title IV
+, HEA programs:
+
+Pell Grants,
+
+Federal Work Study (FWS), and
+
+Federal Supplemental Educational Opportunity Grant (FSEOG). The law also provides that IHEs located in the Freely Associated States may participate in these three programs: Pell Grants, FWS, and FSEOG.
+
+Eligible students who are citizens of the Republic of Palau continue to remain eligible to receive awards under the FSEOG and FWS programs. Effective for the 2024-25 award year, citizens of FSM and RMI are newly eligible for awards under FSEOG and FWS. Students from the Freely Associated States remain ineligible for Direct Loan and TEACH Grant funds.
+
+Additionally, the Amended Compacts between the United States and FSM and RMI discontinue the Supplemental Education Grants (SEG) which were previously provided by the Department directly to the governments of FSM and RMI
+
+For additional information on this topic see 
+Electronic Announcement (GEN-24-50)
+.
+
+Provisions For U.S. Armed Forces Members and Family
+
+In-State Tuition For Members of the Armed Forces, Foreign Service, and Their Families
+
+A public postsecondary school may not charge a member of the armed forces, or foreign service, who is on active duty for a period of more than 30 days more than the school’s tuition rate for residents of the state. Similarly, the spouse and dependent children of both armed forces members and foreign service members, are entitled to the in-state tuition rate under the following two circumstances:
+
+When their permanent duty station is in the state, irrespective of how long they have been physically present at that location, or
+
+When that is their state of domicile, irrespective of how long it has been since they were last physically present in that state.
+
+In this section, the term "member of a qualifying federal service" means—
+
+a member of the armed forces (as defined in section 101 of title 10, United States Code) who is on active duty for a period of more than 30 days (as defined in section 101 of title 10, United States Code); or
+
+a member of the Foreign Service (as defined in section 103 of the Foreign Service Act of 1980 (22 U.S.C. 3903)) who is on active duty for a period of more than 30 days.
+
+In addition, if the service member, spouse, or dependent child pays the in-state tuition rate, the public institution must allow the person to continue to pay such a rate as long as the individual is continuously enrolled, even if there is a subsequent change in the permanent duty station of the service member to a location outside of the state.
+
+Readmission of Service Members
+
+A school must promptly readmit a service member with the same academic status the service member had when last attending the school or accepted for admission to the school. This requirement applies to any student who cannot attend school due to military service. Please reference the 
+Frequently Asked Questions: Institutional Readmission Requirements for Servicemembers
+ guidance available on the U.S. Department of Education’s website.
+
+Definitions
+
+Military service
+ (or service in the uniformed services)—Voluntary or involuntary service in the armed forces, including service by a member of the National Guard or Reserve on active duty, active duty for training, or full-time National Guard duty under federal authority, for a period of more than 30 consecutive days under a call or order to active duty of more than 30 consecutive days. This does not include National Guard service under state authority.
+
+Service member
+—someone who is a member of, applies to be a member of, performs, has performed, applies to perform, or has an obligation to perform, service in the uniformed services.
+
+Foreign service member
+—someone employed in one of several federal agencies: the Department of State, the U.S. Agency for International Development, the Foreign Commercial Service of the Department of Commerce, the Foreign Agricultural Service and the Animal and Plant Health Inspection Service of the Department of Agriculture, or the U.S. Agency for Global Media. These members possess, and must present, a U.S. government Official Form 126 “Foreign Service Residence and Dependency Report” issued by their agency as confirmation of the status.
+
+Appropriate officer
+—A warrant, commissioned, or noncommissioned officer authorized to give such notice by the military service concerned.
+
+Armed Forces
+—the U.S. Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard.
+
+Active duty
+—full-time duty in the active military service of the United States. Active duty includes full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. Active duty does not include full-time National Guard duty.
+
+The student must notify the school of his military service and intention to return to school as follows:
+
+Notification of military service
+. The student (or an appropriate officer of the armed forces or official of the Department of Defense) must give oral or written notice of such service to the school as far in advance as is reasonable under the circumstances. This notice does not have to indicate whether the student intends to return to the school and may not be subject to any rule of timeliness. (Timeliness must be determined by the facts in each case.) Alternatively, at the time of readmission, the student may submit an attestation of military service that necessitated his absence from school. No notice is required if precluded by military necessity, such as service in operations that are classified or would be compromised by such notice.
+
+Notification of intent to return to school
+. The student must also give oral or written notice of their intent to return to the school within three years after the completion of the period of service. A student who is hospitalized or convalescing due to an illness or injury incurred or aggravated during the performance of service must notify the school within two years after the end of the period needed for recovery from the illness or injury. A student who fails to apply for readmission within these periods does not automatically forfeit eligibility for readmission but is subject to the school’s established leave of absence policy and general practices.
+
+A school must designate one or more offices that a student may contact to provide notification of service and notification of intent to return. The school may not require that these notices follow a particular format.
+
+The school must promptly readmit the student into the next class or classes in the program beginning after he provides notice of intent to reenroll, unless he requests a later date or unusual circumstances require the school to admit him at a later date. This requirement supersedes state law—for example, a school must readmit a qualifying service member to the next class even if that class is at the maximum enrollment level set by the state.
+
+The school must admit the student with the same academic status, which means
+
+to the same program to which the student was last admitted or, if that exact program is no longer offered, the program that is most similar to that program, unless she chooses a different program;
+
+at the same enrollment status, unless the student wants to enroll at a different enrollment status;
+
+with the same number of credit hours or clock hours previously completed, unless the student is readmitted to a different program to which the completed credit hours or clock hours are not transferable, and
+
+with the same academic standing (e.g., with the same satisfactory academic progress status) the student previously had.
+
+If the student is readmitted to the same program, for the first academic year in which he returns, the school must assess the tuition and fee charges that he was or would have been assessed for the academic year during which he left the school. However, if his veterans education benefits or other service member education benefits will pay the higher tuition and fee charges that other students in the program are paying for the year, the school may assess those charges to the student as well.
+
+If the student is admitted to a different program, and for subsequent academic years for a student admitted to the same program, the school must assess no more than the tuition and fee charges that other students in the program are assessed for that academic year.
+
+The cumulative length of the absence and of all previous absences from the school for military service may not exceed five years. Only the time the student spends actually performing service is counted. See the following additional information section for more about cumulative length of absence.
+
+Helping Students to be Readmitted and When it Might Not Occur
+
+If the school determines that the student is not prepared to resume the program with the same academic status at the point where she left off or will not be able to complete the program, the school must make reasonable efforts at no extra cost to help her become prepared or to enable her to complete the program. This includes providing refresher courses and allowing the student to retake a pretest at no extra cost.
+
+The school is not required to readmit the student if it determines
+
+that there are no reasonable efforts it can take to prepare her to resume the program at the point where she left off or to enable her to complete the program, or
+
+that after it makes reasonable efforts (those that do not place an undue hardship on the institution), the student is not prepared to resume or complete the program.
+
+“Undue hardship” means an action requiring significant difficulty or expense considering the overall financial resources of the school and the impact of such action on its operation.
+
+The school has the burden to prove by a preponderance of the evidence that the student is not prepared to resume the program with the same academic status at the point where she left off or that she will not be able to complete the program.
+
+Finally, a student’s readmission rights terminate in the case of a dishonorable or bad conduct discharge, general court-martial, federal or state prison sentence, or other reasons as described in 
+34 CFR 668.18(h)
+.
+
+Readmission for Service Members—Additional Information
+
+34 CFR 668.18(a)
+ 
+General
+
+(3) This section applies to an institution that has continued in operation since the student ceased attending or was last admitted to the institution but did not begin attendance, notwithstanding any changes of ownership of the institution since the student ceased attendance.
+
+(4) The requirements of this section supersede any State law (including any local law or ordinance), contract, agreement, policy, plan, practice, or other matter that reduces, limits, or eliminates in any manner any right or benefit provided by this section for the period of enrollment during which the student resumes attendance, and continuing so long as the institution is unable to comply with such requirements through other means.
+
+34 CFR 668.18(e)
+ 
+Cumulative length of absence
+.
+
+For purposes of paragraph (c)(1)(ii) of this section, a student’s cumulative length of absence from an institution does not include any service—
+
+That is required, beyond five years, to complete an initial period of obligated service;
+
+During which the student was unable to obtain orders releasing the student from a period of service in the uniformed services before the expiration of the five-year period and such inability was through no fault of the student; or
+
+Performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
+
+(i) Ordered to or retained on active duty under -
+
+10 U.S.C. 688 (involuntary active duty by a military retiree);
+
+10 U.S.C. 12301(a) (involuntary active duty in wartime);
+
+10 U.S.C. 12301(g) (retention on active duty while in captive status);
+
+10 U.S.C. 12302 (involuntary active duty during a national emergency for up to 24 months);
+
+10 U.S.C. 12304 (involuntary active duty for an operational mission for up to 270 days);
+
+10 U.S.C. 12305 (involuntary retention on active duty of a critical person during time of crisis or other specific conditions);
+
+14 U.S.C. 331 (involuntary active duty by retired Coast Guard officer);
+
+14 U.S.C. 332 (voluntary active duty by retired Coast Guard officer);
+
+14 U.S.C. 359 (involuntary active duty by retired Coast Guard enlisted member);
+
+14 U.S.C. 360 (voluntary active duty by retired Coast Guard enlisted member);
+
+14 U.S.C. 367 (involuntary retention of Coast Guard enlisted member on active duty); or
+
+14 U.S.C. 712 (involuntary active duty by Coast Guard Reserve member for natural or man-made disasters);
+
+(ii) Ordered to or retained on active duty (other than for training) under any provision of law because of a war or national emergency declared by the President or the Congress, as determined by the Secretary concerned;
+
+(iii) Ordered to active duty (other than for training) in support, as determined by the Secretary concerned, of an operational mission for which personnel have been ordered to active duty under section 12304 of title 10, United States Code;
+
+(iv) Ordered to active duty in support, as determined by the Secretary concerned, of a critical mission or requirement of the Armed Forces (including the National Guard or Reserve); or
+
+(v) Called into Federal service as a member of the National Guard under chapter 15 of title 10, United States Code, or section 12406 of title 10, United States Code (i.e., called to respond to an invasion, danger of invasion, rebellion, danger of rebellion, insurrection, or the inability of the President with regular forces to execute the laws of the United States).
+
+34 CFR 668.18(g)
+ 
+Documentation.
+
+(1) A student who submits an application for readmission to an institution under paragraph (c)(1)(iii) of this section shall provide to the institution documentation to establish that—
+
+(i) The student has not exceeded the service limitation in paragraph 
+(c)(1)(ii)
+ of this section; and
+
+(ii) The student’s eligibility for readmission has not been terminated due to an exception in paragraph 
+(h)
+ of this section.
+
+(2)(i) Documents that satisfy the requirements of paragraph 
+(g)(1)
+ of this section include, but are not limited to, the following:
+
+(A) DD (Department of Defense) 214 Certificate of Release or Discharge from Active Duty.
+
+(B) Copy of duty orders prepared by the facility where the orders were fulfilled carrying an endorsement indicating completion of the described service.
+
+(C) Letter from the commanding officer of a Personnel Support Activity or someone of comparable authority.
+
+(D) Certificate of completion from military training school.
+
+(E) Discharge certificate showing character of service.
+
+(F) Copy of extracts from payroll documents showing periods of service.
+
+(G) Letter from National Disaster Medical System (NDMS) Team Leader or Administrative Officer verifying dates and times of NDMS training or Federal activations
+
+(ii) The types of documents that are necessary to establish eligibility for readmission will vary from case to case. Not all of these documents are available or necessary in every instance to establish readmission eligibility.
+
+(3) An institution may not delay or attempt to avoid a readmission of a student under this section by demanding documentation that does not exist, or is not readily available, at the time of readmission.
+
+Executive Order 13607: Principles of Excellence
+
+On April 27, 2012, the White House issued 
+EO 13607
+, which created the Principles of Excellence for Educational Institutions Serving Service Members, Veterans, Spouses, and Other Family Members. The principles apply to all postsecondary schools that receive funding from federal military and veterans educational benefits programs. They strengthen consumer protections for students who receive these benefits and provide access to information to help them make informed choices about their college education. Adoption of the principles is voluntary but encouraged.
+
+The principles describe requirements in the following key areas: (1) providing a standardized cost form, (2) providing federal aid information, (3) aggressive and fraudulent recruiting, (4) state authorization, (5) misrepresentation, (6) incentive compensation, (7) accreditation, (8) readmission, (9) refunds, (10) individual education plans, and (11) academic and financial counseling points of contact.
+
+Title IV
+ schools are likely already complying with many of the principles through their participation in the 
+Title IV
+ programs (for example, the refund requirement). One principle requires institutions to provide affected students with a personalized and standardized form describing the students’ educational costs and how those may be covered by financial aid. The College Financing Plan (see the relevant section under “General Student Disclosures” in 
+Chapter 6
+) helps schools satisfy that principle.
+
+Previous
+
+Next
+
+ Last Modified: 04/10/2026 • Published: 03/28/2021

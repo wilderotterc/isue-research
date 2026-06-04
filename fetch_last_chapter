@@ -1,0 +1,18 @@
+import re, requests
+from bs4 import BeautifulSoup
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"}
+
+url = "https://fsapartners.ed.gov/knowledge-center/fsa-handbook/2024-2025/vol2/ch3-fsa-administrative-and-related-requirements"
+print(f"Fetching: {url}")
+r = requests.get(url, headers=HEADERS, timeout=30)
+r.raise_for_status()
+soup = BeautifulSoup(r.text, "html.parser")
+for tag in soup(["nav", "footer", "script", "style", "header"]):
+    tag.decompose()
+text = soup.get_text(separator="\n")
+text = re.sub(r'\n{3,}', '\n\n', text)
+text = re.sub(r'[ \t]{2,}', ' ', text).strip()
+with open("corpus/federal_outdated/vol2_ch3_202425.txt", "w", encoding="utf-8") as f:
+    f.write(text)
+print(f"Saved: {len(text):,} chars")

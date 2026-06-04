@@ -1,0 +1,197 @@
+School Eligibility and Operations | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Volume 2
+
+School Eligibility and Operations
+
+Introduction
+
+This volume of the 
+Federal Student Aid Handbook
+ comprises topics pertaining to colleges’ general obligations in administering the 
+Title IV
+ student aid programs: institutional and program eligibility, administrative requirements, audits, record keeping, program reviews, and providing information to the public are all explained.
+
+Throughout the Handbook we use “college,” “school,” and “institution” interchangeably unless some more specific use is given. Similarly, “student,” “applicant,” and “aid recipient” are synonyms. “Parents” in this volume refers to the parents of dependent students, and “you” refers to the primary audience of the 
+Handbook
+: financial aid administrators at colleges. “We” indicates the United States Department of Education (Department, ED), and “HEA” refers to the 
+Higher Education Act of 1965
+, as amended. “
+Title IV
+” refers to the student financial aid programs authorized under 
+Title IV
+ of the HEA.
+
+We appreciate any comments that you have regarding the 
+Federal Student Aid Handbook
+. We revise and clarify the text in response to questions and feedback from the financial aid community, so please reach out to us about how to improve the 
+Handbook
+ through the “
+Contact Customer Support
+” feature in our Partner Connect Help Center clicking on “FSA Handbook” under the Topic section.
+
+This introduction only summarizes the changes and clarifications presented in more detail in the chapters. For more complete guidance, refer to the text in the chapters cited and the pertinent regulations and statutes.
+
+Sunset of COVID-19 Guidance and Waivers
+
+The Federal Government has ended the national emergency and the public health emergency associated with the COVID-19 pandemic. The COVID-19 national emergency ended on April 10, 2023, through enactment of 
+H.J. Res. 7, Public Law No. 118-3
+. The COVID-19 public health emergency ended on May 11, 2023. These actions triggered the sunset of many waivers and flexibilities for the federal student financial aid programs related to the COVID-19 pandemic.
+
+The Department of Education recognizes that the COVID-19 pandemic created many unique challenges for postsecondary institutions. The Department provided a variety of special guidance and regulatory flexibilities due to the President’s declaration of the COVID-19 national emergency on March 13, 2020. In addition, Congress passed legislation offering relief from certain statutory requirements related to the 
+Title IV
+, HEA programs.
+
+In general, the COVID-19 flexibilities and waivers remained in effect until the COVID-19 national emergency was declared over. For more details, see the 
+Electronic Announcement
+ published June 14, 2023, which describes the timeframes for the sunset of the COVID-19 waivers and flexibilities applicable to institutions and provides general guidance regarding the return to normal compliance with 
+Title IV
+, Higher Education Act (HEA) requirements.
+
+Noteworthy Changes
+
+Throughout this volume, we have added and updated links for easy access to regulations and other supporting guidance.
+
+Other significant changes to Volume 2 for 2024 – 2025 include:
+
+Throughout Volume 2, we have made updates to reflect changes made by the 
+FAFSA Simplification Act
+. These include the following:
+
+Removal of guidance related to Iraq and Afghanistan Service Grants, Children of Fallen Heroes Awards, and the “Zero EFC treatment” for Pell Grant-eligible students who meet the Iraq and Afghanistan Service Grant eligibility criteria;
+
+Replacement of all references to “Expected Family Contribution (EFC)” with “Student Aid Index (SAI);” and
+
+Replacement of all references to “estimated financial assistance (EFA)” with “other financial assistance (OFA).”
+
+For more information on the changes made by the 
+FAFSA Simplification Act
+, see 
+Dear Colleague Letter GEN-23-11
+.
+
+Additional Updates by Chapter
+
+Chapter 1:
+
+Updated the process of validating high school diplomas (see 
+34 CFR 668.16(p)
+).
+
+Added a new definition of an “eligible career pathway program” as defined in 
+34 CFR 668.2
+.
+
+Provided guidance on the new documentation and approval process for Eligible Career Pathway Programs as identified in 
+34 CFR 668.157
+.
+
+Updated the “Selected Provisions of the PPA” section to comply with several new requirements in 34 CFR 668.14 that are effective on July 1, 2024.
+
+Chapter 2:
+
+Updated the State requirements and program length information section to comply with the amended regulations related to program length restrictions at 
+34 CFR 668.14(b)(26)
+ effective July 1, 2024. The revised regulations rescind the 150 percent rule that existed prior to this date and set limitations on the length of GE programs.
+
+Updated the Gainful Employment requirements based on the Financial Value Transparency and Gainful Employment Final Rule, published on October 10, 2023. The requirements will take effect on a phased implementation schedule, with the majority taking effect on July 1, 2024.
+
+Updated the definition of a “direct assessment program.” In addition, updated the procedures and requirements for an institution that offers such a program to apply for the program to be determined an eligible program, and specify limitations on the use of 
+Title IV
+ program funds. These changes were outlined in 
+DCL GEN-24-02
+.
+
+Updated additional program eligibility requirements for programs offered via distance education or correspondence to comply with the new requirements in 
+34 CFR 668.14(b)(32)(i)
+ and 
+(ii)
+. These requirements are effective July 1, 2024.
+
+Updated the clock to credit hour conversion examples based on updates made to the minimum state requirements for programs leading to Gainful Employment.
+
+Chapter 3:
+
+Strengthened institutional requirements to improve the administration of the 
+Title IV
+ programs and addressed areas of concern that were previously unregulated. We amended three of the existing administrative capability standards (Financial Aid Communications, Debarment or Suspension, and High School Diploma) and added six new standards (Negative Actions, Career Services, Externships, Disbursing Funds, Gainful Employment, and Misrepresentation)
+
+Added a new requirement effective July 1, 2024, related to transcript withholding. Schools may not withhold transcripts or take any other negative action against a student related to a balance owed by the student due to an error in the school’s administration of the 
+Title IV
+, HEA programs, or any fraud or misconduct by the school or its personnel. In addition, school are required to provide an official transcript that includes all the credit or clock hours for payment periods in which a student received 
+Title IV
+ funds for which all institutional charges were paid or included in a agreement to repay at the time the request is made.
+
+Added a requirement that schools must disburse funds in a timely manner that best meets the students’ needs.
+
+Clarified incentive compensation guidance pertaining to student and alumni referral programs.
+
+Provided clarification as it related to in-state tuition rates for foreign service members, their families and citizens of the three Freely Associated States.
+
+Provided a definition for a foreign service member.
+
+Chapter 4:
+
+Updated the 
+Single Audit Act
+ guidelines. Institutions under the 
+Single Audit Act
+ have an audit submission deadline of the earlier of 30 calendar days after receipt of the audit report, or nine months after the end of the audit period.
+
+Clarified information pertaining to waivers and exemptions for audits. Specifically, the Office of Management and Budget increased the Single Audit threshold from $750,000 to $1,000,000 with an effective date of October 1, 2024.
+
+Updated the submission dates for FSA audits. Specifically, a school’s or servicer’s compliance and financial statement audits performed under the Office of Inspector General’s (OIG)’s Audit Guide must be submitted to the Department by the date that is the earlier of thirty days after the later of the date of the auditor’s report for the compliance audit and the date of the auditor’s report for the audited financial statements; or six months after the last day of the institution’s fiscal year.
+
+Clarified that for fiscal years beginning on or after July 1, 2024, financial statements submitted to the Department must match the fiscal year end of the entity’s annual return(s) filed with the IRS.
+
+Provided updates to the “Financial responsibility for public schools” and the “Financial responsibility for proprietary and private nonprofit schools” sections based on regulatory changes effective July 1, 2024.
+
+Provided updated mandatory and discretionary triggers as outlined in 
+34 CFR 668.171(c)
+ and 
+(d)
+.
+
+Chapter 5:
+
+Updated the links to the Electronic Application to Participate in the Federal Student Financial Aid Programs (
+E-App
+).
+
+Provided a reminder that effective July 1, 2024, schools are required to comply with all applicable State laws related to closure, including teach-out plans and agreements, tuition recovery funds, surety bonds, and record retention policies.
+
+Clarified that schools must seek approval for the addition of the first Prison Education Program (PEP) at the first two additional locations.
+
+Chapter 6:
+
+Clarified that for programs that lead to licensure or certification schools must, as part of 34 CFR 668.43, provide a list of all States where it has determined, including as part of its obligation under 
+34 CFR 668.14(b)(32)
+, that the program does and does not meet requirements.
+
+Added a requirement that effective July 1, 2024, if a student is considered a distance education student, the institution is required to make a determination of the State in which the student is located at the time of initial enrollment in accordance with 
+34 CFR 600.9(c)(2)
+. If such determination is not made or if the institution has determined the program does not meet such requirements, then the student would not be permitted to enroll.
+
+Chapter 7:
+
+Updated Higher education Act and Internal Revenue Code Data Use Limitations based on the 
+FAFSA Simplification Act
+ and the 
+Future Act
+.
+
+Chapter 8:
+
+No major updates.
+
+Previous
+
+Next
+
+ Last Modified: 08/01/2024 • Published: 03/28/2021

@@ -1,0 +1,508 @@
+Special Cases | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 5
+
+Special Cases
+
+There are unique situations where you will need to exercise your discretion as a financial aid administrator: when modifying data used to calculate the Student Aid Index (SAI), adjusting a student’s cost of attendance (COA), performing dependency overrides, resolving conflicting information, reporting cases of fraud, and determining a student to be an unaccompanied homeless youth.
+
+The following special cases are discussed in further detail in this chapter:
+
+You may choose to exercise professional judgment (PJ) to adjust components of a student’s COA or the data that determine a student’s SAI to account for a student’s 
+special circumstances
+.
+
+You might also choose to exercise PJ to account for a student’s 
+unusual circumstances
+ that warrant making a dependent student an independent student.
+
+You may need to determine if a student should be classified as an 
+unaccompanied homeless youth
+.
+
+You may need to resolve a discrepancy after receiving 
+conflicting information
+ for a student.
+
+In some cases, you may suspect that a student or employee has 
+fraudulently
+ obtained federal funds and you must report them to the Department.
+
+Professional Judgment
+
+The 
+FAFSA Simplification Act
+ (the Act) distinguishes between different categories of professional judgment by amending section 479A of the HEA.
+
+Special Circumstances
+ refer to the financial situations (loss of a job, etc.) that justify an aid administrator adjusting data elements in the COA or in the SAI calculation.
+
+Unusual Circumstances
+ refer to the conditions that justify an aid administrator making an adjustment to a student’s dependency status based on a unique situation (e.g., human trafficking, refugee or asylee status, parental abuse or abandonment, incarceration), more commonly referred to as a dependency override.
+
+A student may have both a special circumstance and an unusual circumstance. Financial aid administrators (FAAs) may make adjustments that are appropriate to each student’s situation with appropriate documentation. See 
+Dear Colleague Letter GEN-22-15
+ for additional guidance and discussion of the changes made by the 
+FAFSA Simplification Act
+.
+
+Special Circumstances
+
+An FAA may use PJ on a case-by-case basis to adjust the components of a student’s cost of attendance or the data used to calculate their SAI. This adjustment is valid only at the school making the change.
+
+The law gives some examples of special circumstances that 
+may
+ be considered (HEA Sec. 479A):
+
+Change in employment status, income, or assets;
+
+Change in housing status (e.g., homelessness);
+
+Tuition expenses at an elementary or secondary school;
+
+Additional family members enrolled in college;
+
+Medical, dental, or nursing home expenses not covered by insurance;
+
+Child or dependent care expenses;
+
+Severe disability of the student or other member of the student’s household; and
+
+Other changes or adjustments that impact the student’s costs or ability to pay for college.
+
+This is not an exhaustive list. You may use your discretion to make appropriate, reasonable adjustments to reflect a student’s situation more accurately. You may also use your discretion to deny a student’s request for adjustment. However, you may not maintain a policy to deny all requests for special circumstance adjustments. Your institution must develop policies and a process for reviewing requests for professional judgment. Additionally, your institution must publicly disclose that students may request an adjustment based on special circumstances. This could include (but is not limited to) posting what may be considered a special circumstance on your website, including such information in communications to students, or adding language on award notifications.
+
+The reason for your decision to approve or deny a request for professional judgment and any subsequent adjustments 
+must be documented
+. The documentation must substantiate the special circumstances that differentiate the student—not conditions that exist for a whole class of students. Documentation can include a documented interview between the student and the financial aid administrator and supplementary information, as necessary, about the student’s financial status relating to the special circumstances for which the student is requesting an adjustment. You must resolve any inconsistent or conflicting information before making any adjustments. An FAA’s decision regarding adjustments is final and cannot be appealed to the Department.
+
+The law 
+doesn’t allow you to modify either the formula or the tables used in the SAI calculation
+; you can only change the cost of attendance components, or the values of specific data elements used in the SAI calculation. In addition, you cannot adjust data elements or the cost of attendance solely because you believe the tables and formula are not adequate or appropriate. The data elements that are adjusted must relate to the student’s special circumstances. For example, if a family member is ill, you might modify the AGI to allow for lower earnings in the coming year or might adjust assets to indicate that family savings will be spent on medical expenses.
+
+You also cannot use PJ to waive general student eligibility requirements or to circumvent the intent of the law or regulations. For instance, you cannot use PJ to change FSEOG selection criteria.
+
+Occasionally FAAs have made decisions contrary to the professional judgment provision’s intent. These “unreasonable” judgments have included, for example, the reduction of income or AGI based on recurring costs such as vacation expenses, tithing expenses, and standard living expenses (e.g. utilities, credit card expenses, children’s allowances, etc.). FAAs must make “reasonable” decisions that support the intent of the law. Your school is accountable for all professional judgment decisions and for fully documenting each decision.
+
+When considering using PJ, an FAA should keep in mind that an income protection allowance (IPA) is included in the SAI calculation to account for modest living expenses. Before adjusting for an unusual expense, consider whether it is already covered by the IPA. It is reasonable to assume that approximately 30% of the IPA is for food, 22% for housing, 9% for transportation expenses, 16% for clothing and personal care, 11% for medical care, and 12% for other family consumption. The income protection allowance is one of the intermediate values in the FAA Information section of the output document (labeled as “IPA”). See Chapter 3 for the IPA values and how they impact the student’s SAI calculation.
+
+If you use professional judgment to adjust a data element, you must use the resulting SAI consistently for all 
+Title IV
+ aid awarded to that student. For example, if for awarding the student’s Pell Grant you adjust a data element that affects the SAI, that new SAI must also be used to determine the student’s eligibility for aid from the Campus-Based and Direct Loan programs.
+
+If you make a PJ adjustment, you must set the FAA Adjustment flag
+. You submit a PJ change electronically, via the FAFSA Partner Portal or third-party software and may do so without a signature from the student or parent. In the FAFSA Partner Portal or Electronic Data Exchange (EDE), you must select “ yes” for the professional judgment field. The next ISIR will indicate “Professional judgment processed.”
+
+Note:
+ You must set the FAA Adjustment flag (sometimes called the “PJ Flag”) even in some situations when you have not exercised professional judgment. Certain FPS requirements, new for the 2024-25 processing cycle and continuing in the 2025-26 cycle, require you to set the PJ Flag to override FTI received directly from the IRS. The Department released the following guidance on these unique situations:
+
+Resolving Conflicting Information (
+Electronic Announcement GENERAL-24-71
+)
+
+Puerto Rico and other U.S. Territories Dual Tax Filers (
+Electronic Announcement GENERAL-23-118
+)
+
+If additional unique situations arise, the Department will post additional guidance in the Knowledge Center.
+
+If you exercise PJ for a student who was selected for verification (by you or the Department), you must complete verification first. This is to ensure that you have correct information before considering a PJ adjustment. You may, however, complete verification and then make the PJ adjustment on the same transaction.
+
+You do not have to verify information that you will entirely remove due to PJ. For example, if a dependent student’s parents have separated after completion of the FAFSA form and one parent is no longer in the family size, you may decide to use PJ to remove that parent’s income from the FAFSA form. You do not have to verify that parent’s income prior to removing it. 
+Also, using PJ does not require you to verify a student’s application if they were not already selected for verification by the Department or your school.
+
+Finally, a school is not permitted to make a professional judgement for a student after that student has ceased to be eligible, including when a student is no longer enrolled.
+
+The 
+verification page on the FSA Assessments site
+ has guidance to help you review your PJ and dependency override procedures; see Activity 2.
+
+PJ Examples
+
+AVG, Chapter 5, Example 1:
+ A student’s parent had income earned from work of $50,000 in 2023 but is no longer employed. After receiving documentation confirming this, the FAA at the student’s college decides to adjust the AGI reported on the student’s FAFSA form for the student’s parents to account for their reduced income. The FAA also reduces the income earned from work for the student’s parent to zero.
+
+AVG, Chapter 5, Example 2:
+ In 2023, a student had $4,500 in medical expenses that were out-of-pocket costs. The student is married and has two children, so their IPA is $69,670. Because the student’s expenses were less than the amount for medical expenses already provided for in the IPA (11% of $69,670 is $7,664), the aid administrator chose not to adjust the student’s FAFSA form.
+
+AVG, Chapter 5, Example 3:
+ A student’s parents were married when they completed the FAFSA form but have now divorced. The parents filed their taxes jointly in 2023 but separately in 2024. The student receives more than 50% of their financial support from their mother, even though they do not live with their mother due to college enrollment. The FAA at the student’s college determines that the mother’s income and asset information should be reported on the FAFSA form. The FAA decides to collect the mother’s 2024 tax return, since it only contains the mother’s income information, and use it to update the 2025-26 FAFSA form. The FAA also updates the parent’s marital status to “Divorced”, family size to reflect that the second parent is no longer in the family, and tax filing status to accurately reflect the mother’s 2024 tax return.
+
+Professional Judgment During a Disaster, Emergency, or Economic Downturn
+
+The 
+FAFSA Simplification Act
+ codified previous guidance from the Department (as issued in earlier Dear Colleague Letters) to use statutory authority to exercise professional judgment during a disaster, emergency, or economic downturn.
+
+During a qualifying emergency, financial aid administrators may:
+
+determine that the income earned from work for an applicant is zero, if the applicant can provide paper or electronic documentation of receipt of unemployment benefits or confirmation that an application for unemployment benefits was submitted; and
+
+make additional appropriate adjustments to the income earned from work for a student, parent, or spouse, as applicable, based on the totality of the family's situation, including consideration of unemployment benefits.
+
+Acceptable documentation of unemployment should be submitted not more than 90 days from the date it was issued. However, institutions may use discretion to accept documentation older than 90 days under their general professional judgment authority if they do not have reason to believe there is conflicting information.
+
+Further, the Department will adjust the program review selection model to account for an increase in the use of professional judgment by schools during the award years applicable to the qualifying emergency.
+
+The Foreign Earned Income Exclusion, Maximum Pell Grant, and PJ
+
+The amount a taxpayer claims as the foreign earned income exclusion counts as untaxed income on the FAFSA form. Because this appears in untaxed income rather than the AGI, it will not be counted when determining students’ eligibility for a maximum Pell Grant. As we noted in 
+Dear Colleague Letter GEN-23-11
+, there will be a C flag on the ISIR that indicates to schools to review how the amount impacts a student’s eligibility for the maximum Pell Grant prior to awarding aid. As we instructed in our online 
+Q & As (SAI-Q5 and SAI-Q6)
+ FAAs must review eligibility for applicants (and their spouse or parent) who reported receiving a foreign earned income exclusion and are eligible for the maximum Pell Grant award. If an ISIR contains both a Maximum Pell indicator flag and a valid value in the “Foreign Earned Income Exclusion” data field, we will flag the ISIR for the FAA to review.
+
+The FAA will determine—via manual or estimated SAI calculation—if adding the exempted foreign income to the adjusted gross income (AGI) would make the student ineligible to receive the maximum Pell Grant award. If that would occur, the FAA must determine whether it is appropriate to use PJ to account for the foreign income in determining the student’s eligibility for the maximum Pell Grant. If the FAA decides that it is appropriate, the FAA may move the foreign earned income amount from untaxed income to AGI or request additional documentation of the foreign income prior to performing the adjustment. If the FAA decides to add the untaxed foreign earned income to the AGI, the FAA must check the PJ flag on the ISIR before submitting the correction.
+
+Foreign Earned Income Exclusion PJ Example
+
+AVG, Chapter 5, Example 4:
+ A dependent student’s parent has an overseas business that earns income for which the parent claims the foreign earned income exclusion on Schedule 1 of their IRS Form 1040. The FAA notices this amount on the ISIR and that the Maximum Pell indicator flag has been set, which means that the FAA is required to review the case. The FAA does a manual calculation of the student’s SAI with the amount of the exclusion included as AGI rather than as untaxed income. Because the amount is the maximum that could be claimed ($120,000 for tax year 2023, transferring the amount from untaxed income to AGI makes the student ineligible for an automatic maximum Pell Grant. The FAA decides to use PJ to move the amount of the foreign earned income exclusion to the parent’s AGI.
+
+Refusing or Reducing a Loan
+
+FAAs may also use their discretion to refuse or reduce Direct Loan funds if they document the reason, make the determination on a case-by-case basis, notify the student in writing, and ensure the decision is not due to discrimination based on race, national origin, religion, sex, income, age, or disability.
+
+ Refusing or Reducing a Loan
+ 
+
+34 CFR 685.301(a)(8)
+
+Unusual Circumstances
+
+The 
+FAFSA Simplification Act
+ provides a clearer directive for FAAs to assist applicants with unusual circumstances to adjust dependency status on the FAFSA form to reflect students’ situations more accurately (dependency overrides). Like other types of professional judgments, institutions must make students aware of their ability to request an adjustment for unusual circumstances by publicly posting the option on their website.
+
+An FAA may conduct dependency overrides on a 
+case-by-case
+ basis for students with unusual circumstances. An aid administrator may override only from dependent to independent. If the FAA determines that an override is appropriate, they must maintain the determination with any supporting documentation.
+
+ Dependency Overrides
+ 
+
+HEA Sec. 479A(c) and 480(d)(9)
+
+GEN-22-15
+.
+
+Under HEA Sec. 480(d)(9), the 
+FAFSA Simplification Act
+ incorporated additional unusual circumstances to consider when a student is unable to contact a parent or where contact with parents poses a risk to such student.
+
+Unusual circumstances do include (but are not limited to):
+
+Human trafficking, as described in the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7101 et seq.);
+
+Legally granted refugee or asylum status;
+
+Parental abandonment or estrangement; or
+
+Student or parental incarceration.
+
+In such cases an override might be warranted based upon the student’s individual circumstances. These conditions would also not disqualify a student from being a homeless unaccompanied youth or self-supporting and at risk of homelessness.
+
+However, none of the conditions listed below, singly or in combination, qualify as unusual circumstances meriting a dependency override.
+
+Unusual circumstances do not include:
+
+Parents refuse to contribute to the student’s education.
+
+Parents will not provide information for the FAFSA or verification.
+
+Parents do not claim the student as a dependent for income tax purposes.
+
+Student demonstrates total self-sufficiency.
+
+Additionally, the 
+FAFSA Simplification Act
+ introduced new requirements for processing and communicating with students who request an adjustment for unusual circumstances. Schools and financial aid administrators must:
+
+Notify students of the school’s process, requirements, and reasonable timeline to review adjustment requests after their FAFSA form is submitted;
+
+Provide students with a final determination of their dependency status and financial aid offer as soon as practicable after reviewing all requested documentation;
+
+Retain all documentation, including documented interviews, related to the adjustment for at least three years after the student’s last term of enrollment; and
+
+Presume that any student who has obtained an adjustment for unusual circumstances and a final determination of independence to be independent for each subsequent award year at the same institution unless--
+
+The student informs the institution that their circumstances have changed; or
+
+The institution has conflicting information about the student’s independence.
+
+Documentation is critical – schools must ensure that any supporting documentation they collect is adequate to substantiate the student’s circumstances. Documentation may include (but is not limited to) the following:
+
+a documented interview between the student and the financial aid administrator;
+
+submission of a court order or official federal or state documentation that the student or student’s parents or legal guardians are incarcerated;
+
+a documented phone call or written statement, which confirms the unusual circumstances with:
+
+a state, county or tribal welfare agency;
+
+an independent living case worker who supports current and former foster youth with the transition to adulthood; or
+
+a public or private agency, facility, or program servicing the victims of abuse, neglect, assault, or violence.
+
+a documented phone call or written statement from an attorney, guardian ad litem, a court-appointed special advocate (or similar), or a representative of a TRIO or GEAR UP program which confirms the circumstances and the person’s relationship to the student;
+
+a documented determination of independence made by a financial aid administrator at another institution in the same or a prior award year; or
+
+utility bills, health insurance, or other documents that demonstrate a separation from parents or legal guardians.
+
+FAAs may use a dependency override made in a prior award year at the same institution. In fact, the Department encourages you to use the flexibility in the law to presume a student with a dependency override is independent in subsequent years unless the student tells you their situation has changed, or you have conflicting information. Though institutions can ask students if their unusual circumstances or homeless situation has changed each year, they should not maintain a practice that delays or hinders financial aid for such a student, nor may they require the student to answer prior to packaging or disbursing aid or require the student to submit additional documentation unless there is conflicting information that the institution needs to resolve.
+
+To override the student’s dependent status on an initial application through the FAFSA Partner Portal, the FAA should use the Dependency Override code of “1” (see 
+Volume 4A
+ of the 
+2025-26 FAFSA Specifications Guide
+ for more information).
+
+To authorize a dependency override on a paper FAFSA form, the FAA marks the bubble for an override, labeled “D/O,” in the “College Use Only” area, fills in the school’s federal code, and signs. A separate letter attached to the application in lieu of making the override is 
+not
+ acceptable.
+
+ 
+
+ 
+
+If the student has already submitted a FAFSA form, you can use the FAFSA Partner Portal to authorize or cancel an override; overrides cannot be done on the FAFSA Submission Summary. If a student had an override done at another school in the current year, that will be noted with the school’s federal code on the FAFSA Partner Portal. Only the school performing the override will receive that transaction. If the student adds your school to the transaction or gives you their data release number (DRN), you can access the record.
+
+Dependency Override Example
+
+AVG, Chapter 5, Example 5:
+ A student is a refugee from Ukraine who qualifies for federal student aid as an eligible noncitizen. The student’s FAFSA form was rejected because the student is a dependent student and did not provide data for their parents. When the aid administrator asks the student for their parents’ information, the student says their parents are in Ukraine and have been displaced due to the upheaval there. The student doesn’t know how to contact them. The FAA asks the student for documentation and the student says they have a relative living in the U.S. who can confirm the situation. The FAA, per institutional policy, asks for the relative to either appear in person and sign a statement confirming the student’s account or to send the aid office a notarized statement. The relative, who works not far from the school, comes to the aid office, signs the statement, and the FAA grants the student a dependency override.
+
+Provisionally Independent Status
+
+Students can indicate on the FAFSA form that they believe they have unusual circumstances that prevent them from providing parental data. Messaging on the FAFSA form thoroughly informs the student about what warrants a dependency override and what the results will be for their application. If they complete the screening steps and do not include parental data, they will receive a provisional status as an independent student and a provisional SAI calculation. The record will be rejected, pending further action from the student’s FAA. You will have to review the student’s situation and determine if the student:
+
+Is unaccompanied and homeless;
+
+Merits a dependency override;
+
+Must instead provide parental data; or
+
+Should be permitted to borrow only unsubsidized loans because they can document that their parents have refused to support them or to provide parental information on the student’s FAFSA.
+
+Dependent Students Without Parent Support
+
+Dependent students whose parents refuse to support them are not eligible for a dependency override, but they may be able to receive a dependent level Direct Unsubsidized Loan only. For a student to be eligible for this provision you must document the following:
+
+The student’s parents refuse to complete the FAFSA; 
+or
+
+The student’s parents do not and will not provide any financial support to the student (include the date support ended).
+
+If the parents refuse to sign and date a statement to this effect, you must get documentation from a third party (the student is not sufficient), such as a teacher, counselor, cleric, or court.
+
+This situation does not on its own justify a dependency override. However, resolving the situation is at your discretion. If you decide that a student’s situation does not warrant a dependency override, you must document your decision and ensure that the student submits a FAFSA form and passes all the eligibility matches. The result will be a rejected application with no SAI. You can then award the student a Direct Unsubsidized Loan up to the maximum the student would normally be eligible for depending on his or her grade level (but not the amount a student can get when their parent is unable to get a Direct PLUS Loan).
+
+Unaccompanied Homeless Youth Determinations
+
+If a student does not have and cannot get documentation from any of the authorities listed under the “Unaccompanied homeless youth” section in Chapter 2 of this volume, you (the FAA) must document and determine if they are an unaccompanied youth who is homeless or is self-supporting and at risk of being homeless. Any student who is not yet 24 may qualify for a homeless youth determination. It is important to make homeless youth determinations on a case-by-case basis.
+
+A student is considered homeless if they lack fixed, regular, and adequate housing. This is broader than just living “on the street.” It includes but is not limited to:
+
+youth sharing housing with other people temporarily because they had nowhere else to go;
+
+youth living in emergency or transitional shelters, for example, trailers provided by the Federal Emergency Management Agency after disasters;
+
+youth living in motels, campgrounds, cars, parks, abandoned buildings, bus or train stations, substandard housing, or any public or private place not designed for humans to live in;
+
+youth living in the school dormitory if they would otherwise be homeless; and
+
+youth who are migrants and who qualify as experiencing homeless because they are living in circumstances described above.
+
+The documentation for an FAA’s evaluation of the living arrangements of a student must demonstrate that they meet the definition of this category of independent student. The determination may be based upon a written statement from, or a documented interview with, the student that confirms that they are an unaccompanied homeless youth, or unaccompanied, at risk of homelessness, and self-supporting. Such determination should be made without regard to the reasons that the student is unaccompanied and/or homeless.
+
+Homeless Youth Determination Example
+
+AVG, Chapter 5, Example 6:
+ A student came out to their parents as transgender when they were 14. The student’s relationship with their parents deteriorated and they told the student to move out. The student reached out to their high school counselor for help, who asked if the student had some place to go. The parents of the student's good friend said that the student could stay with them. Though the friend’s family is providing the student with a place to stay, this is 
+not
+ considered fixed, regular, and adequate nighttime residence as the friend’s family may revoke their offer for shelter at any time. The student would be considered an unaccompanied youth who is self-supporting and at risk of homelessness.
+
+The student's relationship with their parents did not improve, and over the next several years the student had almost no contact with them. When the student completed their FAFSA for the first time, they were unable to provide parental information but indicated on the form that they have an unusual circumstance. Their FAFSA was processed with the student as provisionally independent. The FAA at the student’s school spoke to the student and requested an explanation of their circumstance. The student told the FAA about their situation, and the FAA asked them to provide documentation. The student was unable to obtain documentation of their homeless youth determination from their high school counselor. The FAA conducted and documented an interview with the student to confirm that they are still experiencing homelessness and are self-supporting. The FAA helped the student correct their FAFSA to indicate that they are a homeless youth with a determination by a Financial Aid Administrator. A dependency override is unnecessary because the student is considered an independent student on their FAFSA form due to homelessness.
+
+Remember the following when you are making a homeless youth determination:
+
+Ask for help with determining eligibility from local school district homeless liaisons, state homeless education coordinators, the National Center for Homeless Education (
+https://nche.ed.gov/higher-education/
+), or the National Association for the Education of Homeless Children and Youth (
+https://naehcy.org/higher-education/
+). Search for “Making Student Status Determinations for Unaccompanied Homeless Youth” to find worksheets and tools to help make your determination.
+
+Relevant information can come from recognized third parties such as private or publicly funded homeless shelters and service providers, financial aid administrators from another college, college access programs such as TRIO and GEAR UP, college or high school counselors, other mental health professionals, social workers, mentors, doctors, and clergy.
+
+Use discretion when gathering information and respect the student’s privacy. Some information, such as that protected by doctor-patient privilege, is confidential. Also, documents such as police or Child Protective Services reports are not necessary. 
+Don’t focus on why the student is homeless or unaccompanied but on whether the evidence shows they are an unaccompanied homeless youth.
+
+Determine eligibility based on the legal definitions provided (see “Homeless youth definitions” below).
+
+Unaccompanied homeless youth may use the address of your school as their own on the FAFSA form.
+
+For students you determine to be unaccompanied homeless youths or unaccompanied, self-supporting youths at risk of being homeless, update the answer to the “Student Homelessness” question on the FAFSA form to “yes” and select “Financial aid administrator” as the determiner in the FAFSA Partner Portal or EDE. You may also instruct the student to make this correction on their own form.
+
+Finally, you should also presume that a student for whom your institution has made a determination of homelessness continues to be independent in each subsequent year at your institution unless the student tells you their circumstances have changed or you have conflicting information. You should also consider documentation from an FAA at another institution that made a documented determination that a student was an unaccompanied homeless youth in the same or prior award year to be adequate documentation to make such a determination at your institution.
+
+Homeless Youth Definitions
+
+At risk of being homeless
+—when a student’s housing may cease to be fixed, regular, and adequate, for example, a student who is being evicted and has been unable to find fixed, regular, and adequate housing.
+
+Homeless
+—lacking fixed, regular, and adequate housing.
+
+Self-supporting
+—when a student pays for his or her own living expenses, including fixed, regular, and adequate housing.
+
+Unaccompanied
+—when a student is not living in the physical custody of a parent or guardian.
+
+Housing Status Definitions
+
+Fixed
+—stationary, permanent, and not subject to change.
+
+Regular
+—used on a predictable, routine, or consistent basis.
+
+Adequate
+—sufficient for meeting both the physical and psychological needs typically met in the home.
+
+Timing of Determinations of Independence
+
+The 
+FAFSA Simplification Act
+ provides additional guidance on the timing of determinations of independence for certain student populations (HEA 479D(c)). These include unaccompanied homeless youth or at-risk homeless youth, foster care youth, orphans, wards of the court, and students with unusual circumstances.
+
+Institutions must review all requests for a determination of independence as quickly as practicable, but no later than 60 days after the student enrolls.
+
+Note that the timeframe in the law is intended to encourage FAAs to make determinations as quickly as practicable. It is not intended to inhibit FAAs from making such a determination when a student requests one later in an award year. We encourage you to act on a request for a determination of independence within 60 days of the student making such a request. Further, you may deny such requests if a student does not provide requested documentation within the 60-day timeframe.
+
+Conflicting Information
+
+In addition to reviewing application and data match information from the FPS, a school must have an adequate internal system to identify conflicting information—regardless of the source and regardless of whether the student is selected for verification—that would affect a student’s eligibility, such as information from the admissions office as to whether the student has a high school diploma or information from other offices regarding academic progress and enrollment status. The school must resolve all such conflicting information, except when the student dies during the award year or when they are no longer enrolled and will not re-enroll; if the student later enrolls, you are again obligated to resolve the conflicting information.
+
+ Requirement to Identify and Resolve Discrepant Information
+ 
+
+34 CFR 668.16(f)
+
+If your school has conflicting information concerning a student’s eligibility or you have any reason to believe his or her application information is incorrect, you must resolve the discrepancies before disbursing 
+Title IV
+ funds and, as with verification, before making any PJ adjustment. If you discover discrepancies after disbursing 
+Title IV
+ funds, you must still reconcile the conflicting information and take appropriate action under the specific program requirements (depending on the outcome, funds may have to be returned).
+
+ Requirement to Verify Questionable Data
+ 
+
+34 CFR 668.54(a)(2)
+
+Subsequent ISIRs
+
+You are generally required to review all subsequent transactions for a student for the entire processing year even if you verified an earlier transaction. An exception to this requirement is if a later transaction comes in after the student is no longer enrolled at your institution. Review the SAI, C flag, or verification tracking group for changes. Review new comments or NSLDS information that impacts eligibility for aid. Check any updates or corrections. If the SAI has not changed and there are no changes in the C flag, verification tracking group, or NSLDS information, no action is generally required. If the SAI does change but it either doesn’t affect the amount and type of aid received or the data elements that changed were already verified, no action is required. But if the SAI changes and the pertinent data elements were not verified, then you must investigate. Of course, any time the C flag changes or NSLDS data have been modified, you must resolve any conflicts.
+
+Discrepant Tax Data
+
+Financial aid administrators do not need to be tax experts, but there are some issues that even a layperson with basic tax law information can evaluate. Because conflicting data often involve such information, FAAs must have a fundamental understanding of relevant tax issues that can impact the need analysis. You are obligated to know (1) whether a person was required to file a tax return and (2) what the correct filing status for a person should be. The IRS’s online 
+Interactive Tax Assistant
+ can help with these and other issues by walking the user through a series of questions. 
+IRS Publication 17
+ is also a useful resource.
+
+Discrepant Tax Data Example
+
+AVG, Chapter 5, Example 7:
+ An FAA notices that a dependent student’s parents, who are married and live together, have each filed as head of household (which offers a greater tax deduction than filing as single or married). The FAA must ask if that is the right status. Resolution of the conflict could be the parents refiling and submitting a copy of the amended return or a reasonable explanation of why there is no conflict under IRS rules.
+
+Resolution of Conflicting Information
+
+You must resolve conflicting information prior to disbursing aid to a student enrolled at your school. 
+Even if the conflict concerns a previous award year, you must still investigate it.
+ You have resolved the matter when you have determined which data are correct; this might simply be confirming that an earlier determination was the right one. You must document your findings and include an explanation that justifies your decision.
+
+The 
+verification page on the FSA Assessments site
+ has guidance to help you review your conflicting information procedures; see Activity 1.
+
+Referral of Fraud Cases
+
+If you suspect that a student, employee, or other individual has misreported information or altered documentation to fraudulently obtain federal funds, you must report your suspicions and provide any evidence to the Office of Inspector General (OIG). See also 
+Volume 2
+ of the 
+FSA Handbook
+.
+
+OIG Contact Information
+
+Address:
+ OIG Headquarters, U.S. Department of Education, 400 Maryland Avenue, SW, Washington, DC 20202-1500
+
+Web:
+ 
+https://oig.ed.gov/contact-us
+
+Hotline:
+ 
+https://oig.ed.gov/oig-hotline
+
+Phone:
+ 1-800-MIS-USED (1-800-647-8733)
+
+Hours:
+ M, W 9–11 a.m. T, Th 1–3 p.m.
+
+Regional Offices:
+ An updated listing of regional offices and contact information is available at 
+https://oig.ed.gov/contact-us
+.
+
+ OIG Referrals
+ 
+
+34 CFR 668.16(g)
+
+Reporting Fraud Rings (Distance Education)
+
+Institutions now submit fraud ring complaints through the Department’s OIG encrypted complaint web portal at the URL address 
+https://oighotlineportal.ed.gov
+. The portal provides consistency and improves communication delivery. Because the portal is encrypted, institutions no longer need to encrypt submitted documents.
+
+Additionally, institutions will submit a Fraud Ring Reporting Spreadsheet through the OIG’s complaint process. For more information on how to report fraud rings or for a copy of the Fraud Ring Reporting Spreadsheet, please review the 
+August 21, 2020 Electronic Announcement
+, which was updated in November, 2022, to reflect a change in the process.
+
+FSA Feedback Center
+
+Through the 
+FSA Feedback Center
+, students, parents, and others can submit the following feedback to the Department:
+
+Compliments about a positive experience they have had with the Department, a school, or a federal loan servicer; or
+
+Allegations of suspicious activity by a school or person.
+
+Individuals can also submit complaints about the following to the Department:
+
+Applying for and receiving federal loans, grants, and work study;
+
+Experiences with federal loan servicers, collection agencies, or the Department; and
+
+Schools—their administration of the 
+Title IV
+ programs, marketing and recruitment practices, or misrepresentations of facts.
+
+Previous
+
+Next
+
+ Last Modified: 12/17/2024 • Published: 03/28/2021

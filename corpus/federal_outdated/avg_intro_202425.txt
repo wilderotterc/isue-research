@@ -1,0 +1,133 @@
+Application and Verification Guide | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Application and Verification Guide
+
+Introduction
+
+This guide is intended for college financial aid administrators and counselors who help students with the financial aid process—completing the Free Application for Federal Student Aid (FAFSA
+®
+) form, verifying information, and making corrections and other changes to the information reported on the FAFSA form.
+
+Throughout the 
+Federal Student Aid Handbook
+, we use “college,” “school,” and “institution” interchangeably unless a more specific use is given. Similarly, “student,” “applicant,” and “aid recipient” are synonyms. “Parents” in this volume refers to the legal parents of dependent students, and “you” refers to the primary audience of the 
+Handbook
+: financial aid administrators at colleges. “We” indicates the U.S. Department of Education (the Department, ED), and “federal student aid” and “
+Title IV
+ aid” are synonymous terms for the financial aid offered by the Department.
+
+We appreciate any comments that you have on the 
+Application and Verification Guide
+ (AVG), as well as all the volumes of the FSA Handbook. We revise the text based on questions and feedback from the financial aid community, so please reach out to us about how to improve the 
+Handbook
+ through the “
+Contact Customer Support
+” feature in our 
+Partner Connect Help Center
+ clicking on “FSA Handbook” under the Topic section.
+
+Sunset of COVID-19 Guidance and Waivers
+
+Although COVID-19 continues to affect the lives of many Americans, the urgent need for waivers and flexibilities has diminished. The Federal Government ended the national emergency and the public health emergency associated with the pandemic. The COVID-19 national emergency ended on April 10, 2023, through enactment of H.J. Res. 7, Public Law No. 118-3. The COVID-19 public health emergency ended on May 11, 2023. These actions triggered the sunset of many waivers and flexibilities for the federal student financial aid programs related to the COVID-19 pandemic.
+
+The Department of Education recognizes that the COVID-19 pandemic created many unique challenges for postsecondary institutions. The Department provided a variety of special guidance and regulatory flexibilities due to the President’s declaration of the COVID-19 national emergency on March 13, 2020. In addition, Congress passed legislation offering relief from certain statutory requirements related to the 
+Title IV
+, HEA programs.
+
+In general, the COVID-19 flexibilities and waivers remained in effect until the COVID-19 national emergency was declared over. For more details, see the 
+Electronic Announcement
+ published June 14, 2023, which describes the timeframes for the sunset of the COVID-19 waivers and flexibilities applicable to institutions and provides general guidance regarding the return to normal compliance with 
+Title IV, Higher Education Act
+ (
+HEA
+) requirements.
+
+FAFSA Simplification Act
+
+The 
+FAFSA Simplification Act
+, passed on Dec. 27, 2020, as part of the 
+Consolidated Appropriations Act, 2021
+, represents a significant overhaul of federal student aid, including the 
+Free Application for Federal Student Aid
+ (FAFSA
+®
+) form, need analysis, and many policies and procedures for schools that participate in the 
+Title IV
+ programs. FSA has implemented the 
+FAFSA Simplification Act
+ alongside the 
+FAFSA portion of the Fostering Undergraduate Talent by Unlocking Resources for Education (FUTURE) Act
+ to streamline the FAFSA application process.
+
+Changes from the FUTURE Act
+
+The 
+FUTURE Act
+ authorizes a direct data exchange – the FUTURE Act Direct Data Exchange (FA-DDX) – with the Internal Revenue Service (IRS) to facilitate completing the FAFSA form. The previous tool to transfer U.S. income and tax information from the IRS – the IRS Data Retrieval Tool (DRT) – where applicants initiated the electronic transfer of U.S. federal tax return information into their FAFSA form, will no longer be used. Implementation of the FA-DDX eliminates the need for most applicants (and their spouse or parents) to self-report their income and tax information reported to the IRS. Also, federal tax information (FTI) that is transferred via the FA-DDX to the FAFSA form is considered verified for 
+Title IV
+ purposes.
+
+Unlike with the IRS-DRT, which allowed applicants to opt in, the FA-DDX 
+requires
+ applicants to provide consent for the Department to obtain FTI via the FA-DDX. Spouses and parents, as appropriate, will also be 
+required
+ to consent to the new data transfer for federal student aid eligibility.
+
+Other Changes
+
+Throughout the AVG, all dates, pertinent tax return and schedule information, along with various resources and references have been updated to support the requirements associated with the 2024-25 processing year and the 2022 base tax year. Also, where appropriate, links and publications associated with FSA’s Partner Connect and Knowledge Center have been properly updated.
+
+Some sections were moved to better align topics and assist with narrative flow. Use the search feature to find sections that may have been relocated.
+
+Chapter 1: The Application Process
+
+Chapter 1 outlines the changes to the FAFSA form mandated by the implementation of the 
+FAFSA Simplification Act
+ and the 
+FUTURE Act
+. It includes an introduction to the new FAFSA Partner Portal (which replaces FAA Access to CPS Online). It also provides a brief explanation of the new requirements for StudentAid.gov accounts and the alternative identity verification process for individuals without Social Security numbers (SSNs). Chapter 1 also introduces the FAFSA Submission Summary, which replaces the Student Aid Report.
+
+Chapter 2: Filling Out the FAFSA
+
+Chapter 2 of the AVG has been completely redesigned to include all changes to the new FAFSA form. This chapter introduces the FA-DDX. It explains how a student or contributor may experience the new FAFSA form and provides updated guidance on how questions should be answered. Chapter 2 follows the order of the paper (PDF) FAFSA form, but the guidance provided includes information about completing the application electronically.
+
+Notable changes
+
+The definition of family size (formerly household size) more closely aligns with who can be claimed as a dependent on a U.S. federal tax return.
+
+Number in college is no longer a factor in the need analysis formula but is still a required question on the FAFSA form.
+
+The definition of a veteran now aligns with the definition used by the Department of Veterans Affairs.
+
+Child support received is now considered an asset of the recipient in the needs analysis calculation.
+
+Parent killed in the line of duty is a new question and serves to identify students who may be eligible for a maximum Pell Grant award based on the death of a parent during military service or service as a public safety officer.
+
+Chapter 3: Student Aid Index (SAI) and Pell Grant Eligibility
+
+Similarly, Chapter 3 was completely redesigned to provide a robust explanation of the new need analysis formula, which produces the Student Aid Index (SAI). It also explains eligibility criteria for maximum and minimum Pell Grant awards.
+
+Chapter 4: Verification, Updates, and Corrections
+
+While verification remains largely unchanged, federal tax information (FTI) that is transferred via the FA-DDX to the FAFSA form is considered verified for Title IV purposes. Chapter 4 has been updated to reflect the implementation of the FA-DDX and the resulting changes to acceptable documentation.
+
+Chapter 5: Special Cases
+
+The 
+FAFSA Simplification Act
+ made significant changes to the 
+Higher Education Act (HEA)
+ regarding special and unusual circumstances. Most of these changes were introduced and effective beginning with the 2023-24 award year.
+
+Previous
+
+Next
+
+ Last Modified: 01/05/2024 • Published: 03/28/2021

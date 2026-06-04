@@ -1,0 +1,149 @@
+Social Security Number | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 4
+
+Social Security Number
+
+To be eligible to receive FSA funds, each student must provide a correct Social Security number (SSN). To confirm the student’s SSN for schools, the Department conducts a match with the Social Security Administration. In this chapter, we discuss the SSN requirement and the match process.
+
+The FAFSA form collects the student’s and other contributors’ (parent, parent's spouse, or student's spouse) Social Security numbers (SSNs) so that the FAFSA Processing System (FPS) can validate the numbers through a match with the Social Security Administration (SSA). The FPS verifies that the name and date of birth associated with the SSN match the name and date of birth on the application. For the full list of SSN match results, see the 
+2025-26 FAFSA Specifications Guide
+.
+
+The FPS won’t process an application without a valid SSN as this is a basic requirement of federal student aid eligibility. There is one exception to the SSN requirement for citizens of the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau (collectively known as the Freely Associated States), as they typically are not issued an SSN. Students from the Freely Associated States and other contributors who do not have an SSN will have their identity verified through the TransUnion Knowledge-Based Identity Verification process. Contributors who are not verified by TransUnion will be directed to the Federal Student Aid Information Center (FSAIC) to send individual identification documents and be verified through an alternative process.
+
+A student who doesn’t have an SSN or doesn’t remember it must contact their local Social Security office for help. The SSN is a key identifier for the student’s records and must be listed correctly on the application. We discuss correcting SSN errors later in this chapter.
+
+Social Security Number (SSN) Match
+
+The FPS prints the SSN match result in the “FAA Information” section of the output document as the SSN Match Flag. If the match is successful, the FPS doesn’t match the student’s data against the Social Security database on subsequent transactions. However, the FPS will attempt the match again if the student makes corrections to the name, date of birth, or SSN. The FAFSA form will not be processed without a valid SSN for the aid applicant.
+
+Successful Match
+
+If the FPS match with the SSA confirms the name, SSN, and date of birth as reported on the FAFSA form, you may disburse aid to the otherwise eligible student. No comment is provided on the output document when the SSN match is successful. Of course, if you have any conflicting information about the SSN, you must resolve the conflict before disbursing FSA funds to the student. Once a student’s SSN is successfully matched with the SSA, the student can’t change the SSN.
+
+If a student whose data was successfully matched with the SSA subsequently tries to change their SSN, the FPS won’t accept the change. Instead, the student’s FAFSA Submission Summary will have a comment telling the student to contact the FAA at their school for help.
+
+No Match on the Social Security Number
+
+You must resolve any problems with the SSA match before disbursing aid. If the SSN is not found in the SSA database, the student’s application will be rejected. The student will also receive a comment instructing them to correct their SSN or contact the SSA if they believe the number reported is correct. If it is wrong on the application, the student will have to correct it with the FPS and get a successful match result before they can receive aid. The following are some common reasons why there might not be a match on the SSN:
+
+Student reported wrong SSN on the FAFSA form
+. If the student’s application is rejected because they reported an SSN that is not in the SSA’s database, the student must provide the correct SSN to the FPS. To do this, the student should update their FSA ID and then make a correction to the FAFSA. FPS will then update per the new SSN. The student may also update the SSN on the paper FAFSA submission summary.
+
+FAFSA data entry error
+. If a student provided the correct SSN on the paper FAFSA form, but the SSN on the output document is wrong, the student can contact the Federal Student Aid Information Center (FSAIC) at 1-800-4-FED-AID (1-800-433-3243). If the FSAIC confirms that there was a data entry error, the Department will correct the error – the student does not need to submit a correction. After the data entry error is corrected, the FPS will produce new output documents. See the 
+Application and Verification Guide
+, Chapter 5 for general information on data entry error corrections.
+
+Error in Social Security database
+. If the SSN on the FAFSA form is correct but isn’t in the Social Security database, the student must contact a local or regional SSA office to correct the database, which is updated daily with information from local and regional offices. The student must report the correct SSN and provide supporting documentation and report the SSN directly to the SSA office—the Department cannot correct SSA records (Call 1-800-772-1213 or visit SSA.gov; see the FAFSA submission summary for more details). Once the database is updated, the student can contact FSAIC at 1-800-433-3243 and ask them to manually sync their data with SS. The FPS will then do another SSN match and update the transaction. The contributor can’t simply verify that the SSN is correct; the application will be rejected until the SSA database is updated.
+
+No Match on Name or Date of Birth
+
+The student’s application will be rejected if any associated SSN subject to a match for 
+Title IV
+ eligibility purposes is in the Social Security database, but the name or date of birth in the database differs from the information provided. Misspellings or name changes due to marriage are common reasons for an unsuccessful match. The student should make sure that the name and date of birth on the application matches their Social Security card.
+
+The student can eliminate the reject by entering the right name. If the name or date of birth is incorrect, the student can correct it by logging in to StudentAid.gov and updating their information under their Account Settings. Once SSA returns a successful match and verifies the student’s account, the student can then update the information on the FAFSA form by selecting “Make a Correction” and resubmitting.
+
+If the name was correct on the application, the student should contact the SSA to update its records. After the student confirms that the SSA has corrected its records, the student must contact FSAIC (at 1-800-4-FED-AID) and ask them to manually sync their data with SSA. The student can also notify their school to force the update. An FAA may update the Resend to Matches field to “Y” in the FAFSA Partner Portal and submit it as a correction so the transaction can go back to SSA for an updated match flag. If the student’s name is incorrect in the SSA database, we strongly recommend that they contact the SSA to correct it.
+
+If the student’s (or parent’s or spouse’s) name and SSN match the SSA’s database but the date of birth does not, the application will also be rejected, and the student must correct the application using the same process described above for correcting the name. If there is still a disagreement with the SSA record, the student will need to provide the aid office with documentation of their date of birth.
+
+If the student reported the current or a later year as their date of birth, the will fail the SSA match and their FAFSA application will be rejected. The student must correct the error.
+
+Incorrect Name on Application (Volume 1, Chapter 4, Example 1)
+
+The school receives the student’s ISIR, and the SSN match shows that the name on the application isn’t the one associated with the SSN in the database. The FAA asks the student to bring in documentation showing their correct name and SSN. The student brings in their Social Security card, and the first name on the card is Jose, not Miguel. The student also has a driver’s license showing his first name is Jose. The FAA tells Miguel to correct his name on the FAFSA form to Jose.
+
+Mandatory Name Changes on the SSA Website
+
+If a student legally changes their name because of marriage, divorce, court order or any other reason, they should notify SSA so they can get a corrected Social Security card and the FAFSA Processing System (FPS) can resubmit the match to SSA. You should direct students to the 
+SSA name change webpage
+ for instructions on how to update their name.
+
+Contributors with No Social Security Number
+
+The Department has implemented changes to their electronic systems to allow applicants and contributors without an SSN to immediately access the online FAFSA form after creating a StudentAid.gov account. The Department is currently building the longer-term solution for accepting and reviewing identity documents. As we continue this work to improve our process, we are pausing the acceptance of new identity documents to the email inbox for manual identity review and validation.
+
+If the contributor has an Individual Taxpayer Identification Number (ITIN), they should add it to the FAFSA form. If they don’t have an ITIN, they should leave that question blank. Contributors without an SSN can create a StudentAid.gov account to access and sign the FAFSA form by following the instructions in 
+Electronic Announcement GEN-23-123
+. On the paper form, the parent or spouse should enter all zeros (000-00-000) in place of an SSN.
+
+If a student is a resident of the Freely Associated States (Republic of Palau, Republic of the Marshall Islands, or Federated States of Micronesia) and a first-time applicant, they should enter “000” in the first three boxes of the field and leave the remaining six positions blank; FSA will create an identification number to be used for federal student aid purposes. If the student was issued an identification number beginning with “666” when previously submitting a FAFSA form, they should enter that number in the Social Security number field. If the student has a pseudo-SSN from a prior year but does not remember the number, ED will associate it with their FAFSA form when they log in with their FSA ID.
+
+Undocumented students and students who have DACA status remain ineligible for 
+Title IV
+ aid. To be 
+Title IV
+ eligible, a student must be a U.S. citizen or U.S. national, a citizen of the Freely Associated States, or a Lawful Permanent Resident or other eligible noncitizen, as described in chapter two of this volume. For more detail on identity validation and accessing the FAFSA form for individuals without an SSN, see Electronic Announcements 
+GEN-24-52
+ and 
+GEN-24-140
+.
+
+Missing Information on the FAFSA Form
+
+No match is performed if the student doesn’t sign the FAFSA form or provide a last name or date of birth. The student’s FAFSA form will be rejected, and the student must submit the missing information.
+
+Although the FPS doesn’t conduct the match, the student will receive a comment explaining that the match could not be conducted without the name, date of birth, or signature. The student must submit a correction providing the missing information. When the correction is sent, the information will be sent to the SSA for matching, and you should check the new output document for match results.
+
+Correct Name not in Database (Volume 1, Ch 4, Example 2)
+
+The student’s ISIR shows that their name doesn’t match the one the SSA has on file for their SSN. When the FAA talks to the student, the student explains that they recently got married and changed their last name. The student gives the FAA a copy of their marriage certificate. The administrator plans to disburse aid to the student and tells the student to reenter their current name and advises the student to contact SSA to have its database updated to prevent future problems.
+
+SSA Death Indicator Check
+
+If the SSA’s database shows a death indicator associated with the SSN the student reported, the student’s application will be rejected. Students resolve this problem in the same way as problems matching the SSN or date of birth: by contacting the SSA to update their records, then requesting FSAIC or an FAA manually send their record through the SSA match again.
+
+ SSN requirement
+ 
+
+HEA Sec. 484(p)
+
+34 CFR 668.32(i)
+
+34 CFR 668.36
+
+ Contributors with No SSN
+ 
+
+Electronic Announcement GEN-23-123
+
+Electronic Announcement GEN-24-52
+
+Electronic Announcement GEN-24-140
+
+ Contacting the SSA
+ 
+
+For more information (in English and Spanish), students should call the SSA at 1-800-772-1213 or go to go to the 
+Social Security Administration’s website
+.
+
+Check to See if a Student Has Died (Master Death File)
+
+The FPS will verify that student SSNs do not appear on a master death file the Department obtains from the SSA. This will be in addition to the date of death match. The FPS will regularly compare its records with those in the master death file. If a match is found, the FPS will resend the student record to SSA. If the SSA does not confirm a date of death for the applicant, the FPS will do nothing further. If the SSA does confirm a date of death, the FPS will send an ISIR to the schools listed on that transaction but will not send a FAFSA Submission Summary to the student.
+
+For full discussion of how to handle 
+Title IV
+ aid when a student dies, see 
+FSA Handbook Appendix B, Required Actions When a Student Dies
+.
+
+Students Using the Same SSN (Volume 1, Chapter 4 Example 3)
+
+A student completes an application in January, but uses their brother’s SSN instead of their own SSN. When they get their FAFSA Submission Summary, the student realizes that they used the wrong SSN, corrects the FAFSA Submission Summary, and mails it back to the processor. The student can now use their own SSN.
+
+Previous
+
+Next
+
+ Last Modified: 12/10/2025 • Published: 03/28/2021

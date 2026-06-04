@@ -1,0 +1,1282 @@
+School-Determined Requirements | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 1
+
+School-Determined Requirements
+
+In this chapter, we discuss student eligibility requirements that don’t require information from the Department’s systems. Based on the requirements described in the regulations and the FSA Handbook, your school determines whether the student meets these eligibility requirements. In some cases, the financial aid office will need to get information from other school offices, such as the admissions office or the registrar, or from other organizations, such as high schools or testing agencies.
+
+Regular Student in an Eligible Program
+
+A person must be enrolled as a 
+regular student
+ in an eligible program to receive Federal Student Aid (FSA) funds (exceptions are discussed later in this chapter). A regular student is someone enrolled or accepted for enrollment in an eligible institution for the purpose of obtaining a degree or certificate offered by the school. The requirements for an eligible program are discussed in 
+Volume 2, Chapter 2
+.
+
+A school must document a student’s enrollment in an eligible program at the time of admission, and it must have a system to notify the financial aid office if the student leaves the program. It must also document that an aid recipient is a regular student.
+
+Regular Student (Vol. 1, Chapter 1, Example 1)
+
+A school allows anyone with a high school diploma or the equivalent to enroll in any course. Many of the school’s students do not intend to receive a degree or certificate; they are not regular students. The school requires those who want to receive a degree or certificate to complete a form stating the degree or certificate for which they are studying and to meet periodically with an academic advisor. The school considers them to be regular students.
+
+Conditional acceptance.
+ Some schools admit students conditionally, for example, until they provide further documentation, such as academic transcripts or test scores, or demonstrate an ability to succeed in the program by receiving acceptable grades in program coursework. Typically, the school will limit these students’ enrollment in terms of number of courses or enrollment status until they meet the necessary conditions.
+
+Students admitted under such types of conditional acceptance are regular students only if the school officially accepts them into the eligible degree or certificate program. The Department does not define official acceptance or admission. A student who is merely allowed to take some courses before being officially admitted to the program is not considered a regular student and is not eligible for 
+Title IV
+ funds until they are officially admitted.
+
+Schools may offer a trial or conditional period during which a student attends a program without incurring program charges or receiving 
+Title IV
+ funds. There are no restrictions as to program type (undergraduate vs. graduate level, program structure or academic level, etc.) for such students. If the student continues beyond the trial period and enrolls as a regular student, the school can pay the student FSA grants for the entire payment period and loans for the period of enrollment. See 
+Dear Colleague Letter GEN-11-12
+ for more information.
+
+Conditional Acceptance (Vol. 1, Chapter 1, Examples 2-3)
+
+A school allows students to take graduate courses before they have taken the GRE, but it limits them to no more than three courses and does not admit them into its graduate programs until they have submitted acceptable GRE scores. These aren’t regular students, and because the school hasn’t admitted them, they aren’t eligible for 
+Title IV
+ funds.
+
+When a school accepts students into its graduate programs, it requires that the students receive no grade lower than a “B” in the first three courses. During this time, the school considers students to be admitted into the program, so they are eligible for 
+Title IV
+ aid. If, however, students receive a grade lower than a B in any of the first three classes, their admittance will be withdrawn, and they then will be ineligible for further 
+Title IV
+ funds.
+
+ Regular Students
+ 
+
+HEA Sec. 101(a)(1), (b)(2)(A)
+
+HEA Sec. 484(a)(1), (b)(3), (4)
+
+34 CFR 668.32(a)(1)
+
+34 CFR 600.2
+
+Eligibility for Continuing Education Coursework
+
+Regular students may receive aid for classes they take in a school’s continuing education department as long as the classes apply to their degree or certificate program.
+
+Continuing Education (Vol. 1, Chapter 1, Example 4)
+
+School A has a continuing education department that offers many online courses that students enrolled in other programs at the school may take and that apply to the degree or certificate program in which the students are enrolled as regular students. School B has a continuing education department that offers many courses. Some students enroll in these courses without being admitted to the university. These students are not regular students and are not eligible for 
+Title IV
+ funds.
+
+Treatment of Remedial Coursework
+
+Remedial coursework prepares a student for study at the postsecondary level in general (as opposed to preparatory coursework, which prepares a student for a given specific eligible program, see below). A student enrolled solely in a remedial program is not considered to be in an eligible program. If acceptance into an eligible program is contingent on completing remedial work, a student cannot be considered enrolled in that program until they complete the remedial work.
+
+However, if the student is admitted into an eligible program and takes remedial coursework within that program, they can be considered a regular student, even if they are taking all remedial courses before taking any regular courses. You may count up to one academic year’s worth of remedial courses in the student’s enrollment status for 
+Title IV
+ funds. For the purpose of this limit, that is 30 semester or trimester hours, 45 quarter hours, or 900 clock hours. If the remedial classes are noncredit or reduced credit, you must determine how many credit hours they are worth to count toward the student’s enrollment status (see “Enrollment Status” section in this chapter).
+
+After one year, a remedial course must be at least the educational level needed for a student to successfully pursue their eligible program in order for the course to count toward a student's enrollment status for 
+Title IV
+ purposes. Also, remedial courses must be at least at the high school level, as determined by the institution (i.e. your school), its state legal authority, its accrediting agency, or the state agency recognized for approving public postsecondary vocational education. If any of those parties determine that a remedial class is below the secondary level, the school must abide by that determination, and the class cannot be included for FSA purposes. Additionally, 
+Title IV
+ funds cannot be used for any remedial course that uses direct assessment of student learning instead of credit or clock hours.
+
+You cannot use non-credit remedial hours to determine a student’s enrollment status if the course is part of a program that leads to a high school diploma or its recognized equivalent. A student is never permitted to receive funds for training or for coursework prior to the completion of high school, even if the high school equivalency training is offered at postsecondary schools or is required for the postsecondary program.
+
+Similar to other remedial coursework, a student may receive Title IV funds for English as a second language (ESL) courses that are part of a larger eligible program. There are two differences though:
+
+ESL courses don’t count against the one-year limitation on remedial coursework, and
+
+They need not be at the secondary school level.
+
+If your school permits a student to enroll in ESL or other remedial courses that don’t apply to the student’s degree or certificate, be aware that awarding Direct Loans or Pell Grants over a series of semesters for such work can exhaust the student’s eligibility for Pell Grants and/or Direct Loans before they complete their program.
+
+Prerequisite courses that do not advance a student toward the completion of a program or fall into the category of preparatory coursework could be considered remedial coursework under 
+34 CFR 668.20
+, as such courses meet the definition of coursework which is “designed to increase the ability of a student to pursue a course of study leading to a certificate or degree” and which either leads to reduced credit or is one for which “no credit is given toward a certificate or degree.”
+
+A prerequisite is a course a student must complete before taking a course that is a required part of the student’s program of study. The same limitations that apply to all remedial coursework would also apply to such prerequisite courses, including that a school may not provide aid for more than 30 semester or 45 quarter hours of coursework in a single program.
+
+ Remedial coursework
+ 
+
+34 CFR 668.20
+
+Eligibility for Preparatory Coursework
+
+A student not enrolled in a degree or certificate program is eligible for Direct Subsidized/Unsubsidized Loans (and a parent may receive Direct PLUS Loans on behalf of a dependent student) for up to one consecutive 12-month period if the student is taking coursework which is 
+not
+ necessary for enrollment at the postsecondary level generally, but 
+is
+ necessary for enrollment in a specific eligible program.
+
+FWS and Direct Loans for Teacher Certification Coursework
+
+A student may receive Federal Work-Study (FWS), as well as Direct Subsidized/Unsubsidized Loans (and a parent may receive Direct PLUS Loans on behalf of a dependent student) if they are enrolled at least half-time in required teacher certification coursework, even if it does not lead to a degree or certificate awarded by the school. For more details on Direct Loan eligibility criteria, see 
+Volume 8
+. And for more details on FWS, see 
+Volume 6
+.
+
+To qualify, the coursework must be required for elementary or secondary teacher certification, or recertification, in the state where the student plans to teach and must be offered in credit or clock hours. Courses using direct assessment in lieu of credit or clock hours are not eligible. Optional courses that the student elects to take for professional recognition or advancement, and courses recommended by your school but not required for certification, do not qualify. You should document that the courses are required by the state for teacher certification.
+
+A student with a bachelor’s degree who is enrolled in a post-baccalaureate teacher certification program can receive a Pell Grant or TEACH Grant in limited situations. See 
+Volumes 7
+ and 
+Volume 9
+ for more details.
+
+ Teacher certification coursework
+ 
+
+34 CFR 668.32(a)(1)(iii)
+
+DCL GEN-16-10
+
+HEA Sec. 484(b)(4)
+
+HEA Sec. 401(c)(4)(B)
+
+Undergraduate and Graduate or Professional Student Definition
+
+The regulations define "undergraduate student," in part, as a student "who is enrolled in an undergraduate course of study that usually does not exceed four years, or is enrolled in a longer program designed to lead to a degree at the baccalaureate level." The regulations further specify that for purposes of dual degree programs (see below), a student is considered to be an undergraduate for at least the first three years of the program.
+
+The regulations define a graduate or professional student as a student who is enrolled in a program or course above the baccalaureate level or in a professional program and has completed the equivalent of three academic years of full-time study, either prior to entering the program or as part of the program itself. Also, a student who is receiving 
+Title IV
+ aid as an undergraduate student cannot be considered a graduate/professional student for that same period of enrollment.
+
+To satisfy the requirement that a graduate or professional student has completed three academic years of full-time study, a student must have successfully completed a minimum of at least 72 credit/semester hours, or the equivalent number of quarter hours (at least 108). You may also assign a higher number of credits required to satisfy the credit requirement component to be considered a graduate or professional student at your school, for example, 90 credit/semester hours (which may match your school’s grade level progression standard for Direct Loans). Note that these three academic years worth of credits may be taken over a longer or shorter period of time than three calendar years in the program.
+
+Some programs combine undergraduate and graduate study and allow a student to complete both a bachelor's degree and a graduate or professional degree within the same program. These are referred to as "dual degree programs." For instance, a school could offer a 5-year dual degree program leading to both a bachelor's degree and a graduate or professional degree and define the first three or four years of study as being at the undergraduate level and the remaining year(s) of study as being at the graduate or professional level. A student may receive 
+Title IV
+ aid at the undergraduate level during the undergraduate portion of such a program.
+
+Other programs lead 
+only
+ to a graduate or professional degree but may admit students who do not yet meet the regulatory requirements to be considered graduate or professional degree students. A student who is enrolled in this type of program but who does not yet qualify as a graduate or professional student per our definition, is not considered to be enrolled in an undergraduate program of study. Therefore, such a student 
+is ineligible to receive any type of 
+Title IV
+ aid
+ until they have completed at least three years of full-time study, which may be part of the graduate or professional degree program. Once the student has completed at least three years of full-time study, they are eligible to receive graduate-level Title IV aid.
+
+ Undergraduate and Graduate or Professional Student Definition
+ 
+
+34 CFR 668.2(b)
+
+Pell, FSEOG, and FWS for Students with Intellectual Disabilities
+
+Students with an intellectual disability (see definition below) can receive funds from the Pell Grant, Federal Supplemental Educational Opportunity Grant (FSEOG), and Federal Work-Study (FWS) programs. They must be enrolled or accepted for enrollment in a Comprehensive Transition and Postsecondary (CTP) program for students with intellectual disabilities. The requirements for establishing a CTP program are described in 
+Volume 2
+. They must also maintain satisfactory academic progress (SAP) as determined by the school for this program. A school may develop a separate SAP policy for CTP students. This program must contain all of the required SAP elements; see the SAP section later in this chapter. Additionally, these students:
+
+do not have to be enrolled for the purpose of obtaining a degree or certificate, and
+
+are not required to have a high school diploma or its recognized equivalent.
+
+Students may be considered students with intellectual disabilities for 
+Title IV
+ purposes if they:
+
+have a cognitive impairment characterized by significant limitations in intellectual and cognitive functioning and adaptive behavior as expressed in conceptual, social, and practical adaptive skills; and
+
+are currently, or were formerly, eligible for special education and related services under the Individuals with Disabilities Education Act (IDEA), including students who were determined eligible for special education or related services under the IDEA but were homeschooled or attended private school.
+
+Except for the provisions governing need analysis, the Secretary has the authority to waive any Pell Grant, FSEOG, FWS, or institutional eligibility provisions necessary to ensure that programs enrolling students with intellectual disabilities are eligible for these three types of federal student aid and that eligible students receive those funds.
+
+ Students with intellectual disabilities
+ 
+
+Definition: 34 CFR 668.231
+
+HEA Sec. 484(g)
+
+HEA Sec. 767
+
+34 CFR 668.230–233
+
+20 U.S.C. 1401
+
+Individuals with Disabilities Education Act (IDEA)
+
+Elementary or Secondary Enrollment Prohibition
+
+A student enrolled in elementary or secondary school is not eligible for aid from the 
+Title IV
+ programs, even if they are simultaneously enrolled in an eligible college program. A student is considered to be enrolled in secondary school if they are pursuing a high school diploma or if they have completed the requirements for a diploma, but have not yet received it, and are either taking college coursework for which the student's high school gives credit or the high school still considers the student to be enrolled there.
+
+An adult pursuing a high school equivalency certificate (not a high school diploma) is not considered to be enrolled in secondary school but cannot receive 
+Title IV
+ aid for such training. Also, an adult can take a course offered by a high school, such as a driver’s education course, without being considered enrolled there.
+
+Secondary School Enrollment Prohibition (Volume 1, Chapter 1, Example 5)
+
+A junior in high school enrolls in an electronics technician program at a community college. The student is above the age of compulsory school attendance for the state where the school is located, so they can be admitted as a regular student. The coursework is offered evenings and weekends, so the student can still attend high school classes. The electronics technician program is an eligible postsecondary program, and the student will receive a certificate from the community college upon completion of the program. However, the student is not eligible for Title IV aid because they are still enrolled in high school.
+
+ Elementary/secondary enrollment
+ 
+
+HEA Sec. 484(a)(1)
+
+34 CFR 668.32(b)
+
+Academic Qualifications
+
+Students are considered qualified to study at the postsecondary level if they:
+
+have a high school diploma (this can be from a foreign school if it is equivalent to a U.S. high school diploma);
+
+have the recognized equivalent of a high school diploma, such as a General Educational Development (GED), HiSET, or other state-sanctioned test or diploma-equivalency certificate;
+
+have completed homeschooling at the secondary level as defined by state law;
+
+have completed secondary school education in a homeschool setting which qualifies for an exemption from compulsory attendance requirements under state law, if state law does not require a homeschooled student to receive a credential for their education; or
+
+have completed one of the ability-to-benefit (ATB) alternatives and are either currently enrolled in an eligible career pathway program or first enrolled in an eligible postsecondary program prior to July 1, 2012.
+
+A student may self-certify on the FAFSA form that they have received a high school diploma or high school equivalency certificate or that they have completed secondary school through homeschooling as defined by state law. If a student indicates that they have a diploma or high school equivalency certificate, your school isn’t required to ask for a copy (except as noted below), but if your school requires a diploma for admission, then you must rely on that copy of the diploma or high school equivalency certificate and not on the student’s certification alone.
+
+Awards submitted to the Common Origination and Disbursement (COD) system for all students require a Student Eligibility Code (previously Ability to Benefit Code) to report how the student (including graduate and professional students) is qualified to study at the postsecondary level (e.g. by obtaining a high school diploma or its recognized equivalent). For more detail on submitting the appropriate Student Eligibility Code, see the 
+COD Technical Reference
+ in the Knowledge Center.
+
+ Academic qualifications
+ 
+
+HEA Sec. 484(d)
+
+34 CFR 668.32(e)
+
+COD Technical Reference
+
+Checking the Validity of a High School Diploma
+
+If your school or the Department has reason to believe that a student’s high school diploma is not valid or was not obtained from an entity that provides secondary school education, you must develop and follow adequate procedures to evaluate the validity of the student’s high school diploma. To satisfy this requirement, your school must:
+
+Obtain documentation from the high school that confirms the validity of the high school diploma, including transcripts or other written descriptions of course requirements, or written and signed statements by principals or executive officers at the high school attesting to the rigor and quality of the coursework at the high school;
+
+If the high school is regulated or overseen by a state agency, Tribal agency, or Bureau of Indian Education, confirm with or receive documentation from that agency that the high school is recognized or meets requirements established by that agency; and
+
+If the Secretary publishes a list of high schools that issue invalid high school diplomas, confirm that the high school does not appear on that list. 
+At this time, the Department has not developed such a list.
+
+A high school diploma is not valid if it:
+
+Does not meet the applicable requirements established by the appropriate state or tribal agency in the state where the high school is located;
+
+Has been determined to be invalid by the Department, the appropriate state agency in the state where the high school was located, or through a court proceeding; or
+
+Was obtained from an entity that requires little or no secondary instruction or coursework to obtain a high school diploma, including through a test that does not meet the requirements for a recognized equivalent of a high school diploma under 34 CFR 600.2.
+
+Students who indicate on their FAFSA form that they graduated high school must give the name, city, and state of the high school. The FAFSA form on the Web will not allow students to skip these items, and it will have a drop-down list of both public and private high schools populated by the National Center for Education Statistics (NCES). Inclusion on the list does not mean that a diploma from the school is valid, nor does exclusion from the list mean that the diploma is invalid. Acceptable documentation for checking the validity of a student’s high school diploma is listed above.
+
+A student’s self-certification is not sufficient to validate a high school diploma that is in question. If there is conflicting information between the student’s certification on the FAFSA form and other documentation or information obtained from the student, the school must resolve this conflict. For an institution to be a 
+Title IV
+ eligible institution, it must admit as regular students only those with a high school diploma or the recognized equivalent, and/or those who are beyond the age of compulsory school attendance in the state where the institution is located. As in other areas of FSA administration, schools have final authority in meeting this requirement. The Department does have an appeal process and does not intervene in reasonable determinations made by school administrators, such as a decision to move a high school from a college’s acceptable to unacceptable list or a case where one school has different lists than another.
+
+ Checking the validity of high school completion
+ 
+
+34 CFR 668.16(p)
+
+Evaluating Foreign High School Diplomas
+
+High school diplomas or transcripts from other countries are acceptable toward the student eligibility general requirement, if the diploma is equivalent to a U.S. high school diploma. For students who completed their secondary schooling outside the United States, comparable documents can help, as can the services of companies that determine the validity of foreign secondary school credentials.
+
+A school that is qualified to evaluate the credential may do so. A school that is not qualified or chooses not to evaluate the credential can instead require students to have their credential evaluated by a company that offers such a service. The school may pay for the evaluation. Schools may only require students to pay for the evaluations themselves, pay the school for the evaluations and/or reimburse the school for the evaluations if the school requires the evaluation as part of its admission process for all students who have a foreign credential. You may not require only students who are applying for federal student aid to pay the school for their credential evaluation because that would amount to the school charging a fee to complete the FAFSA form, which is prohibited under HEA 483(d)(3). In such cases, because the cost of evaluating a foreign credential is incurred as a charge of admission prior to enrollment in an eligible program, it cannot be included in students’ cost of attendance (COA).
+
+You may accept self-certification that a student has completed a foreign high school (or equivalent) education if it is impossible for a refugee, asylee, or victim of human trafficking to obtain documentation of their completion of a secondary school education in a foreign country.
+
+In this case, the applicant must:
+
+present their entry status documentation that demonstrates their current or prior status as a refugee, asylee, or victim of human trafficking who entered the U.S. after the age of 15; and
+
+provide proof of their attempt to obtain documentation of their completion of a secondary school education in a foreign country, i.e. a copy of an e-mail or letter (including proof of mailing) (see 
+item FHD-Q2/A2
+ in the linked Q&A).
+
+Recognized Equivalents of a High School Diploma
+
+The Department recognizes several equivalents to a high school diploma:
+
+A GED certificate.
+
+A certificate or other official completion documentation demonstrating that the student has passed a state-authorized examination (such as the Test Assessing Secondary Completion (TASC) the High School Equivalency Test (HiSET), or, in California, the California High School Proficiency Exam) that the state recognizes as the equivalent of a high school diploma (certificates of attendance and/or completion are not included in this qualifying category).
+
+An associate’s degree.
+
+The successful completion of at least 60 semester or trimester credit hours or 72 quarter credit hours that does not result in the awarding of an associate’s degree, but that is acceptable for full credit toward a bachelor’s degree at any institution.
+
+Enrollment in a bachelor’s degree program where at least 60 semester or trimester credit hours or 72 quarter credit hours have been successfully completed, including credit hours transferred into the bachelor’s degree program.
+
+A high school transcript for a student who enrolls without completing high school. The transcript must indicate the student has excelled in high school. The student must no longer be enrolled in high school, must satisfy your school’s written policy for admitting such students, and must be starting a program that leads at least to an associate’s degree or its equivalent.
+
+Note that merely possessing a certificate of attendance and/or high school completion is 
+not
+ sufficient for a student to be eligible for 
+Title IV
+ aid. Such a certificate may be issued without a student having completed all of the academic graduation requirements, including passing any required examinations. A state must consider a certificate or high-school-completion-equivalency test as equivalent to a high school diploma in that state for it to be considered equivalent to a high school diploma for 
+Title IV
+ aid eligibility purposes.
+
+High School Documentation Not Yet Received (Vol. 1, Ch 1, Example 6)
+
+A student enrolls in the bachelor’s degree program at a university. The student completes their high school requirements early, but the high school does not formally issue the high school diploma until a later time. The university can award the student 
+Title IV
+ funds if it obtains a statement signed by an official from the high school attesting that the student has completed all of the required coursework and has successfully passed any required proficiency examinations for the high school diploma. The statement must include the date when the actual high school diploma will be issued. For more detail, see 
+34 CFR 600.2
+, and 
+Program Integrity Questions and Answers - High School Diploma | U.S. Department of Education
+.
+
+When a Student Gives Conflicting Statements Regarding Diploma Status
+
+When a student gives conflicting statements regarding their diploma status, for example, stating one year that they had a high school diploma, and in a subsequent year either notifying you that the previous submission was a mistake, or simply answering “no” to the high school diploma question, then the student was ineligible for all 
+TitIe IV
+ aid in the prior award year, and is ineligible for all 
+Title IV
+ aid going forward. Before removing all aid, you should verify their answer.
+
+In this case, the student is responsible for any overpayment they received when ineligible, including aid received for completed award years. You (the school) must communicate to the student that they have the responsibility for repaying the overpayment(s). You may also be required to report the overpayment to the National Student Loan Data System (NSLDS); for more details, see 
+Volume 4
+, Chapter 3. You may refer the case to the Department for collection if the student does not repay the overpayment(s). See 
+Volume 4
+, Chapter 3 for a sample report form.
+
+Title IV Eligibility for Homeschooled Students
+
+Though homeschooled students are not considered to have a high school diploma or equivalent, they are eligible to receive 
+Title IV
+ funds if their secondary school education was in a homeschool that state law treats as a home or private school (see 
+https://hslda.org/legal
+ for requirements for each state).
+
+Some states issue a secondary school completion credential to homeschoolers. If this is the case in the state where the student was homeschooled, and the state requires receipt of the credential, the student must obtain it to be eligible for 
+Title IV
+ funds. You may rely on a homeschooled student’s self-certification that they completed secondary school in a homeschool setting. The student can include in their homeschooling self-certification that they received this state credential.
+
+An eligible 
+institution
+ is defined in part as one that admits as regular students only those who have a high school diploma or equivalent, are beyond the compulsory age of attendance for the school’s state, or are dually enrolled at the college and a secondary school. For students who finish homeschooling at a younger age, the Department considers them to be beyond the age of compulsory attendance if:
+
+your school’s state would not require them to obtain a secondary completion credential as provided under state law; or
+
+the student has completed a secondary school education in a homeschool setting that qualifies as an exemption from compulsory attendance under state law.
+
+See also 
+Volume 2
+, Chapter 1.
+
+ Homeschooled students and institutional eligibility
+ 
+
+HEA Sec. 102(a)(b)(c)
+
+ Homeschooled student eligibility
+ 
+
+HEA Sec. 484(d)(1)(B)
+
+34 CFR 668.32(e)(4)
+
+ State regulations (for home-schooling and other purposes)
+ 
+
+https://www.ed.gov/birth-grade-12-education/school-choice/state-regulation-of-p…
+
+Ability-To-Benefit (ATB) Alternatives
+
+Students may become eligible for Title IV aid through the ATB alternatives in one of two ways:
+
+If a student first enrolled in an eligible postsecondary program 
+prior to July 1, 2012
+ (regardless of receipt of any 
+Title IV
+ aid), the student may enroll in any eligible program and can become eligible through one of the ATB alternatives.
+
+If a student first enrolled in an eligible postsecondary program 
+on or after July 1, 2012
+, the student may only become eligible through one of the ATB alternatives if the student is enrolled in an “eligible career pathway program”. See below for more details about eligible career pathway programs.
+
+An ATB student need not be enrolled concurrently in both the eligible postsecondary program and the component for attaining a high school diploma or its recognized equivalent.
+
+The ATB alternatives include:
+
+Passing an independently administered ATB test approved by the Department (see chart at the end of this section).
+
+Completing at least six credit hours, or 225 clock hours that are applicable toward a Title IV-eligible degree or certificate offered by the postsecondary institution. Neither remedial nor developmental coursework may count toward this requirement. The coursework must demonstrate that the student has the ability to benefit from the postsecondary program in which the student is enrolled – or intends to enroll – but need not be applicable to the specific degree or program in which the student is enrolled.
+
+Completing a state process approved by the Secretary of Education. Note: To date, state processes have been approved by the Secretary for the states of Illinois, Minnesota, California, Washington, and Wisconsin.
+
+Eligible Career Pathway Programs (ECPP)
+
+An Eligible Career Pathway Program is a program that combines rigorous and high-quality education, training, and other services. Schools demonstrate to the Department that a student is enrolled in an eligible career pathway program by documenting that:
+
+The student has enrolled in or is receiving all three of the following elements simultaneously—(i) An eligible postsecondary program as defined in 
+§ 668.8
+; (ii) Adult education and literacy activities under the Workforce Innovation and Opportunity Act as described in 
+34 CFR 463.30
+ that assist adults in attaining a secondary school diploma or its recognized equivalent and in the transition to postsecondary education and training; and (iii) Workforce preparation activities as described in 
+34 CFR 463.34
+;
+
+The program aligns with the skill needs of industries in the State or regional labor market in which the institution is located, based on research the institution has conducted, including—(i) Government reports identifying in-demand occupations in the State or regional labor market; (ii) Surveys, interviews, meetings, or other information obtained by the institution regarding the hiring needs of employers in the State or regional labor market; and (iii) Documentation that demonstrates direct engagement with industry;
+
+The skill needs described in 
+paragraph (a)(2)
+ of this section align with the specific coursework and postsecondary credential provided by the postsecondary program or other required training;
+
+The program provides academic and career counseling services that assist students in pursuing their credential and obtaining jobs aligned with skill needs described in 
+paragraph (a)(2)
+ of this section, and identifies the individuals providing the career counseling services;
+
+The appropriate education is offered, concurrently with and in the same context as workforce preparation activities and training for a specific occupation or occupational cluster through an agreement, memorandum of understanding, or some other evidence of alignment of postsecondary and adult education providers that ensures the education is aligned with the students' career objectives; and
+
+The program is designed to lead to a valid high school diploma as defined in 
+§ 668.16(p)
+ or its recognized equivalent
+
+Under the regulations effective July 1, 2024, schools will need to demonstrate that the ECPP meets the documentation standards (outlined in 
+34 CFR 668.157(b)
+). A school that does not yet offer an ECPP will need to have the first ECPP it offers approved by the Department before offering any other ECPP. A school that already offers an ECPP will need to have one of its ECPPs approved by the Department. All schools will need to also attest that all of the ECPPs they offer beyond the ECPP approved by the Department meet the documentation standards outlined in regulation. For more details on defining and certifying ECPPs, see 
+DCL GEN-24-151
+ and 
+DCL GEN-24-08
+.
+
+ATB Grandfathering Test for Students Enrolled Before July 1, 2012
+
+As discussed in 
+Dear Colleague Letter GEN-12-09
+, students who were enrolled in an eligible program of study prior to July 1, 2012, may continue to establish 
+Title IV
+ eligibility in any eligible program under one of the ATB alternatives by using the following grandfathering test:
+
+Question 1:
+ Did the student attend an eligible program at any 
+Title IV
+ institution prior to July 1, 2012? If yes, the student may use any of the ATB alternatives (as described above) to become eligible for 
+Title IV
+ funds. If no, continue to Question 2.
+
+Question 2:
+ Did the student, prior to July 1, 2012, officially register at a 
+Title IV
+ institution, and was the student scheduled to attend an eligible program? If yes, the student may use any of the ATB alternatives (as described above) to become eligible for 
+Title IV
+, HEA student assistance. If no, the student may not use the ATB alternatives to become eligible for 
+Title IV
+, HEA student assistance, unless the student is enrolled in an eligible career pathway program.
+
+For a student who qualifies to use one of the ATB alternatives through enrollment in an eligible program prior to July 1, 2012, you must document that the student successfully completed one of the approved ATB alternatives described above. Such documentation could include documentation from NSLDS that shows a student’s prior receipt of 
+Title IV
+ funds, or a transcript or other receipt that demonstrates enrollment in an eligible program.
+
+ATB and ECPP Gaining Title IV Eligibility
+
+When a student becomes eligible through enrollment in an ECPP or by completing at least 6 credit hours or 225 clock hours that are applicable to a degree or certificate offered by your school, as an ATB alternative, the student does not gain eligibility during the period in which they are completing those hours. The student only becomes eligible for Pell Grants and Campus-Based aid in payment periods following the period in which the hours were completed, and a school may only originate a Direct Loan for a period which follows the period in which the hours were completed.
+
+Ceasing to Be an ATB Student
+
+A student who gained 
+Title IV
+ eligibility under one of the ATB alternatives ceases to be an ATB student when they obtain a high school diploma or its recognized equivalent. At that point, the student is no longer subject to the restrictions on ATB students, including that the student be enrolled in an ECPP to be (potentially) 
+Title IV
+-eligible.
+
+ ATB options & Eligible Career Pathway Programs
+ 
+
+ATB Options: 
+34 CFR 668.32(e)
+(2,3,5)
+
+Eligible Career Pathway Programs:
+
+DCL GEN-24-151
+
+DCL GEN-24-08
+
+34 CFR 668.2(b) (definition)
+
+34 CFR 668.157(a),(b)
+
+Consolidated Appropriations Act of 2016 (Public Law 114-113), HEA Sec. 484(d)
+
+Workforce Innovation and Opportunity Act (29 U.S.C. 3102(7))
+
+ ATB tests
+ 
+
+34 CFR Part 668 Subpart J
+ (Sections 141–156)
+
+11/09/20 Federal Register
+
+DCL GEN-12-09
+
+Approved ATB Tests
+
+ 
+
+Approved ATB Tests
+
+Publishers & Passing Scores
+
+ 
+
+Combined English Language Skills Assessment (CELSA), Forms 1 and 2.
+
+Association of Classroom Teacher Testers (ACTT), 1187 Coast Village Road, Suite 1,
+378 Montecito, CA 93108
+Contact: Pablo Buckelew, 805-965-5704
+Passing Scores: CELSA Form 1: 97, Form 2: 97.
+
+ 
+
+ACCUPLACER Computer-adaptive tests and Companion ACCUPLACER Forms J & K: Reading, Writing, Arithmetic
+
+College Board, 250 Vesey Street, New York, NY 10281
+Contact: The ACCUPLACER Program, 800-607-5223
+Passing Scores: Reading 233, Writing 235, and Arithmetic 230.
+
+ 
+
+Texas Success Initiative (TSI) Assessment
+Computer-adaptive tests and COMPANION TSI Forms T and V:
+Reading Placement Test, Writing Placement Test, Mathematics
+Placement Test
+
+College Board, 250 Vesey Street, New York, NY 10281
+Contact: The TSI Assessment, 800-607-5223
+Passing Scores: Reading Placement Test 336, Writing
+Placement Test 345, Mathematics Placement Test 326
+
+To refer to ATB tests which were approved in the past, see the 
+June 24, 2015 Electronic Announcement
+ and the 
+May 27, 2025 Federal Register Notice
+.
+
+Satisfactory Academic Progress (SAP)
+
+To be eligible for 
+Title IV
+ funds, a student must make satisfactory academic progress, and your school must have a reasonable policy for monitoring that progress. The Department considers a satisfactory academic progress policy to be reasonable if it meets both the qualitative and quantitative criteria explained in this section.
+
+Your SAP policy must be at least as strict as your SAP policy for students enrolled in the same program of study who are not receiving 
+Title IV
+ funds at your school in terms of the qualitative and quantitative standards discussed below, not the frequency with which these are checked. A school may create different SAP policies for different categories or groups of students, e.g. full-time vs. part-time, undergraduate vs. graduate students, and students enrolled in different academic programs; however those policies must apply equally to all students within each category.
+
+You may use standard rounding rules on any SAP measurements for both qualitative and quantitative components such as rounding up X.5 and higher and rounding down if below X.5. If you choose to round any SAP measurements, your policy for doing so must be included in your school’s general SAP policy. A student is either making SAP for all 
+Title IV
+ programs or is not. You cannot say a student is making SAP for Pell Grants but not for Direct Loans.
+
+Your SAP policy or policies must include an academic progress evaluation at the end of each payment period for students in programs lasting one year or less. For all other programs, the policy must include annual reviews which must correspond with the end of a payment period. For programs greater than one year, your policy may also call for progress reviews after each payment period. If you review at each payment period, you must review SAP after every term, (including any summer terms) the student was enrolled. You may have reasonable rules for students who initially enroll in specific courses but modify that enrollment within a limited time.
+
+Quantitative and Qualitative SAP Standards
+
+Your school’s policy must specify that both the 
+quantitative (pace)
+ and 
+qualitative (grade-based)
+ standards are reviewed at each evaluation point, if required for that program. Non-term credit, subscription-based, and clock-hour programs are exempt from the quantitative/pace evaluation; see the discussion of the quantitative standard below. Each component 
+may
+ include a payment period-based standard but 
+must
+ include a cumulative standard. You may review SAP via satisfactory progress checks more frequently, (for example, monthly), but the more frequent reviews are considered informal checks and cannot replace the review that is required to be conducted at the end of the payment period.
+
+Your policy must specify the qualitative standard
+ (grade point average or GPA) that a student must have at each evaluation or, if GPA is not an appropriate qualitative measure, a comparable measure against a norm. In addition, the 
+HEA
+ requires a specific qualitative review at the end of the student’s second academic year. Students enrolled in a program of more than two academic years must have a GPA of at least a “C” or its equivalent, or must have an academic standing consistent with your school’s graduation requirements.
+
+Having a standing consistent with the requirement for graduation means you could use an escalating GPA instead of a fixed one. For example, if your school uses a 4-point scale, it could require students to have a 2.0 average by graduation but allow their average to be lower earlier in their program. If your policy permits such a progression and a student falls below a C average, you must be able to document that their average is consistent with the academic standard required for graduation.
+
+Remedial coursework 
+must
+ be included in the qualitative assessment of SAP. The courses need not be included in the student’s GPA; however, your school must have some means of assessing a student’s qualitative academic progress in remedial coursework. Similarly, you must have a means of assessing student progress in programs comprised entirely of pass/fail coursework.
+
+Courses attempted on a pass/fail basis count as attempts for SAP purposes (see the guidance below on pace) but are not factored into a student’s GPA for SAP purposes. When there are just a few pass/fail courses in the overall program, such courses do not have to be included in the qualitative/grades SAP component if they are counted in the quantitative/pace component. However, a program comprised primarily or 100% of pass/fail coursework must be counted in both qualitative and quantitative components.
+
+Your SAP policy must also specify the quantitative standard
+ (pace) at which students must progress through their program to ensure that they will graduate within the maximum timeframe (see below for full definition of maximum timeframe), and each satisfactory progress check must measure this. Non-term credit, subscription-based, and clock-hour programs are now exempt from the quantitative/pace evaluation. For these exempt programs, your school may, at its option, include the exempt programs/credits in an SAP calculation for the quantitative component of SAP.
+
+For credit-hour programs using standard or nonstandard terms that are not subscription-based programs, you calculate the pace at which a student is progressing with one of two methods:
+
+by dividing the total number of hours the student has successfully completed by the total number they have attempted; or
+
+by determining the number of hours that the student should have completed by the evaluation point in order to complete the program within the maximum timeframe.
+
+You may include (but aren’t required to include) remedial courses when making the assessment of the quantitative component of SAP.
+
+As noted above, subscription-based programs are exempt from including a quantitative component as part of SAP. However, a student enrolled in a subscription-based program must meet certain coursework completion requirements to receive a disbursement of 
+Title IV
+ funds. For more detail on the coursework completion requirements to receive disbursements in subscription-based programs, see 
+Volume 3
+, Chapter 1, and Appendix B.
+
+Checking a student’s pace of completion allows for variations of enrollment status since you look at the percentage of classes successfully completed rather than a timeframe in which courses are taken. Also, you can use a graduated completion percentage for each year of a program. For instance, your policy can permit students to complete a lower percentage of their classes in the first academic year but require them to complete an increasing percentage in subsequent years so that they finish their program in time.
+
+A student becomes ineligible (via the maximum timeframe element) at the point at which it becomes mathematically impossible for them to complete the program within 150% of its length if it is an undergraduate program, or within the maximum timeframe established by the school if it is a graduate program (for more on maximum timeframe, see the maximum timeframe definition below). In this situation, an appeal would be possible if your school allows appeals.
+
+Your policy must explain how GPA and pace of completion are affected by incomplete courses, withdrawals, repetitions, and by transfer credits from other schools. Generally, all periods of the student’s enrollment count when assessing progress, even periods in which the student did not receive 
+Title IV
+ funds. However, only transfer credits that count toward the student’s current program must be counted as both attempted and completed hours. Credits that are not counted toward the student’s program may also be counted, at your school’s discretion, as described in your SAP policy. Your policy may permit that for students who change majors, credits and grades that do not count toward the new major will not be included in the SAP determination. You may limit how many times a student can change majors for the purposes of your SAP policy.
+
+Your SAP policy cannot exclude from the satisfactory progress check courses in which a student remained past the add/drop period and earned a grade of “W” (or its equivalent), nor can it exclude a specific type of hours attempted, such as those taken during a summer session. A review of SAP is not complete until both the qualitative and quantitative measures have been reviewed, if applicable (you may exclude non-term credit, subscription-based and clock-hour programs from the quantitative/pace evaluation). If a satisfactory progress check shows that a student does not have the required GPA or is not maintaining the required pace, the student becomes ineligible for 
+Title IV
+ funds unless your school reviews SAP after every payment period or permits SAP appeals, as explained below.
+
+You may monitor SAP throughout the payment period, for example, at the end of each month, but an official review (i.e., for 
+Title IV
+ eligibility purposes) may only occur at the end of a payment period. A monthly evaluation that contains the end of a payment period (such as hour 450) cannot count as the official evaluation for the entire payment period. After an official evaluation, a student not meeting SAP standards must be placed on termination (i.e., immediate loss of 
+Title IV
+ eligibility), warning, or probation (if the student submits a successful appeal) status. You may not put a student on warning or probation for less than a payment period.
+
+SAP Matching Progress and Published Length of Program
+
+A school’s attendance policy may be stricter than the school's quantitative standard for SAP. However, if the standards do not match, a student may continue to meet SAP requirements for one standard and not for the other, which can result in the student being charged overtime charges due to failing to meet the stricter standard. If, in a program to which these standards apply, a substantial majority of students graduate after the published length of the program while retaining 
+Title IV
+ eligibility and incurring overtime charges, the Department would expect the school to revise the published length of the program.
+
+Maximum Timeframe Measure for SAP
+
+At each official SAP evaluation point, (at the end of a payment period) you must evaluate whether it is possible for students to complete their program within the maximum timeframe. 
+Students fail the maximum timeframe measure at the point at which it is determined that it is not possible for them to complete their program within the maximum timeframe, not at the point they actually reach the maximum timeframe.
+
+For the following program types, the maximum time frame is:
+
+For an undergraduate program measured in credit hours, a period no longer than 150 percent of the published length of the program, as measured in credit hours, or expressed in calendar time. If your school chooses to use calendar time to measure maximum timeframe, you evaluate a student’s pace by determining the number of hours that the student should have completed at the evaluation point to complete the program within the maximum timeframe. Measuring credits completed over calendar time may be considered a stricter method of evaluation, as it holds a student to the same pace regardless of the student’s enrollment status in any given payment period. Note that evaluating SAP via calendar time for credit hour programs is optional; you may still evaluate progress for these programs by measuring credit hours.
+
+For an undergraduate program measured in clock hours, a period no longer than 150 percent of the published length of the program as measured by the cumulative number of clock hours the student is required to complete and expressed in calendar time. (Note that a student in a clock hour program cannot receive aid for hours beyond those in the program; the maximum timeframe applies to the amount of calendar time the student takes to complete those hours.)
+
+For a graduate program, a period the school defines that is based on the length of the program. Credit hour graduate programs may also measure maximum timeframes either in credit hours or calendar time.
+
+SAP New and Conflicting Information Requirements
+
+SAP calculations must be performed at established intervals which must coincide with the end of a payment period as prescribed in 
+34 CFR 668.34(a)(3)
+. You are not required to recheck SAP and/or recalculate as the result of grade changes that occur between formal SAP evaluations.
+
+However, a school may have a policy of recalculating to account for subsequent grade changes. If your school has a policy to recalculate, you may make disbursements of 
+Title IV
+ aid for which the student becomes eligible as a result of the grade changes. However, there are limitations on when a school can make a disbursement in these circumstances:
+
+For Pell Grants and TEACH Grants, you may only make a disbursement based on a grade change during the payment period immediately following the SAP evaluation that was affected by the change.
+
+For all other types of 
+Title IV
+ aid, you may only make a disbursement based on a grade change during the academic year in which the SAP evaluation takes place, or, if the evaluation takes place at the end of an academic year, during the academic year following that SAP evaluation.
+
+For example, consider a student who was deemed ineligible for 
+Title IV
+ aid in the spring term due to failing an SAP evaluation at the end of the fall. If the school changes the student’s grades during the spring term, it could disburse the student’s Pell Grant or TEACH Grant funds for the spring. However, if the school decided to change the student’s grades after the spring term ended, it could not disburse Pell Grants or TEACH Grants to the student for the spring term.
+
+Schools should 
+not
+ alter aid already disbursed to students based on SAP evaluations that were accurate at the time they were performed. For example, consider a student who was deemed eligible for 
+Title IV
+ aid in the spring term after passing an SAP evaluation that included incomplete classes, but the school changes those incomplete grades to failing grades during the spring term. Had the student failed those courses prior to the SAP evaluation, they would have failed the evaluation and been ineligible for aid during the spring term. However, in this situation, the school should not return the student’s 
+Title IV
+ aid for the spring term because the student was eligible based on an SAP evaluation that was accurate at the time it was performed.
+
+Whether or not your school has a policy of rechecking SAP between evaluation points, any grade changes must be accounted for in the next scheduled SAP evaluation. Although schools have the option of recalculating SAP due to grade changes, these changes should be a rare occurrence. If changes to student eligibility based on grade changes occur on a regular, consistent basis, the Department may investigate further.
+
+Financial Aid Warning Status
+
+Financial aid warning is a status a school assigns to a student who is failing to make SAP. The school reinstates eligibility for aid for one payment period and may do so without a student appeal. This status may only be used by schools that check SAP at the end of each payment period and only for students who were making SAP in the prior payment period for which they were enrolled or who were in the first payment period of their program.
+
+A school may use this status without appeal or any other action by the student. Warning status lasts for one payment period only, during which the student may continue to receive 
+Title IV
+ funds. Students who fail to make satisfactory progress after the warning period lose their aid eligibility unless they successfully appeal and are placed on probation. Schools do not need to use the warning status; they can instead require students to immediately appeal to be placed on probation.
+
+SAP Appeals, Financial Aid Probation, and Academic Plans
+
+If the school permits appeals, a student who loses 
+Title IV
+ eligibility because they failed to make satisfactory progress may appeal that result based on the student’s injury or illness, the death of a relative, or other special circumstances. The appeal is a process by which a student who is not meeting SAP standards petitions the school for reconsideration of their eligibility for 
+Title IV
+ funds. The appeal must explain why the student failed to make satisfactory progress and what has changed in their situation that will allow them to make satisfactory progress at the next evaluation.
+
+All schools may use financial aid probation as part of their SAP policy. Probation is a status a school assigns to a student who is failing to make SAP and who successfully appeals. Eligibility for aid may be reinstated for one payment period. If you determine, based on the appeal, that the student should be able to meet the SAP standards by the end of the subsequent payment period, you may place the student on probation without an academic plan.
+
+You must review the student’s progress at the end of that one payment period, as probation status is for one payment period only. If you determine, based on the appeal, that the student will require more than one payment period to meet progress standards, you may place them on probation and develop an academic plan for the student. You must review the student’s progress at the end of one payment period as is required of a student on probation status, to determine if the student is meeting the requirements of the academic plan.
+
+If the student is meeting the requirements of the academic plan or the generally applicable SAP requirements which apply to all students, the student is eligible to receive 
+Title IV
+ aid as long as they continue to meet those requirements and are reviewed according to the requirements specified in the plan.
+
+Your school determines the process and documentation required for an appeal. It may decide to require more extensive information on an initial appeal and some type of an update statement on a subsequent appeal. The regulations do not specify what must be included in an academic plan. The school and the student must develop a plan that ensures that the student is able to meet the school’s SAP standards by a specific time, though an academic plan could instead take the student to successful program completion. Students must also appeal to change their plan. They must explain what has happened to make the change necessary and how they will be able to make academic progress.
+
+Reestablishing Aid Eligibility
+
+Your SAP policy, even if it does not permit appeals, must explain how students who are not making SAP can restore their eligibility for 
+Title IV
+ funds. Other than when a student is placed on financial aid warning, probation, or has agreed to an academic plan as outlined above, they can regain eligibility only by taking action that brings them into compliance with your school’s SAP standards. The requirement that a student complete a number of credits or enroll for a number of academic periods without receiving 
+Title IV
+ funds, or that they interrupt their attendance for one or more academic periods, may be part of your SAP policy. However, paying for one’s classes without 
+Title IV
+ funds or sitting out for a term does not affect a student’s academic progress status, so neither is sufficient to reestablish aid eligibility.
+
+Grades and SAP: Academic Amnesty or Renewal
+
+Some schools have academic amnesty or renewal procedures through which a student can apply to have credits attempted and grades earned in previous semesters excluded from the calculation of the student’s grade point average. The regulations make no provision for the concept of academic amnesty or academic renewal. Therefore, a school must always include courses applicable to a student’s major or program (whenever taken) in evaluating a student’s SAP (both quantitative and qualitative components) except as permitted under their SAP policy for handling repeat coursework. However, a student may be able to appeal loss of eligibility due to special circumstances.
+
+SAP for Test-Based Credits
+
+Some schools have developed tests in accord with their academic standards, such as language proficiency tests, which students can receive course credit for taking. Such credits must be counted towards SAP for quantitative/pace purposes, and may, at the school’s discretion and according to the school’s written policy, be counted towards the student’s qualitative/grades SAP measurement.
+
+ Satisfactory Academic Progress
+ 
+
+HEA Sec. 484(c)
+
+34 CFR 668.16(e)
+
+34 CFR 668.32(f)
+
+34 CFR 668.34
+
+Q&A: 
+Program Integrity Questions and Answers - Satisfactory Academic Progress | U.S. Department of Education
+
+Satisfactory Academic Progress: Four-Year Programs (Vol. 1, Chapter 1, Examples 7-8)
+
+Example 7: Four-year credit-hour program with appeal
+
+Students in a bachelor’s degree program at School A must complete 120 credits and may attempt up to 180 credits (120 x 150%). School A reviews a student’s academic progress once per year and has a pace of completion of 2/3 or 66.67% of the classes students attempt; it requires a cumulative GPA of 1.50 after the first year, 1.75 after the second year, and 2.0 after the third year and beyond.
+
+In their first semester, a student fails one course and withdraws (late in the term) from one of their five courses (15 credits). The student takes four courses in their second semester and again fails one and withdraws from one. Though the student’s GPA is 1.71, they aren’t making SAP by the end of the first year because they completed only 15 credits out of the 27 they attempted, and two-thirds (2/3) of 27 is 18. The student appeals, but because their only reason for not making SAP is that they weren’t able to concentrate on college after being in high school, and because they don’t offer evidence showing what has changed, the aid administrator at School A denies the student’s appeal, and the student is ineligible for aid in their second year.
+
+Even if the student had a better reason for failing at SAP, such as being injured and rendered unable to participate effectively in normal activities, the school might still have denied their appeal because they saw little improvement or variation in the student’s pace of completion and did not determine that they would likely be making SAP a year later. If the student’s academic performance improves by the end of their second year so that they are meeting the SAP criteria, the student can again receive 
+Title IV
+ funds.
+
+Example 8: Four-year credit-hour program with warning and appeal
+
+School K checks SAP every quarter, which permits it to use financial aid warnings. Students must complete 144 credit hours to receive a BA or BS degree, and they may attempt up to 216 credit hours to complete a program. Students must complete at least half of the credits they attempt in their first year and 75% of their credits in each year after that. They must always have no less than a 2.0 GPA.
+
+A student finishes their first year at School K with a 2.25 GPA and completes all of the credits that they attempt, so they are making SAP. After the first quarter in their second year, the student again completes all of their classes, but poor grades leave the student with a 1.94 GPA. The aid administrator places the student on financial aid warning for one quarter and informs the student that they are not meeting the SAP standards. The student does poorly in the next quarter as well, and the student’s GPA drops to 1.85. The aid administrator informs the student that they can’t continue on warning status and needs to submit an appeal explaining why they are failing to make SAP and why the administrator thinks that will change and allow the student to again make SAP.
+
+The student brings the administrator an obituary showing that their mother died recently, which required that the student help with family affairs and caused them to lose their focus at school. The student asserts that is over now. The administrator places the student on probation and suggests that the student might take fewer courses. But the student enrolls full-time and again receives poor grades, causing their GPA to drop to 1.80. The administrator informs the student that they have become ineligible for 
+Title IV
+ funds but that they can become eligible again if the student raises their GPA to 2.0 or that they can submit another appeal (the latter appeal must be based on a reason different from the first appeal) and this time request to be placed on an academic plan.
+
+Satisfactory Academic Progress: One-Year Programs (Volume 1, Chapter 1, Examples 9-10)
+
+Example 9: 1-year credit-hour program with financial aid warning
+
+School C has a program that a full-time student can complete in 24 semester hours. Because this is a one-year program, School C must check SAP every payment period. Their policy is that students must complete the program by the time they have attempted 36 (150% of 24) hours, and the pace of completion is 2/3 or 66.6 7%. They always require a 2.0 GPA.
+
+A student plans to take two classes (eight hours) each semester. In the first term, they fail one class and get a B in the other. The student’s GPA is 1.5 and their pace of completion is 50%, so School C automatically places the student on financial aid warning and informs the student of this. In the student’s second semester, they get a C (in the class she failed in the first semester) and an A, raising their GPA to 2.25 (School C counts all grades for retaken classes), and the student has completed 75% of their classes, so the administrator restores their aid eligibility.
+
+Example 10: Clock-hour program with appeal
+
+School F has a 900-clock-hour program that normally takes eight months to complete. School F allows a maximum timeframe of 12 months to complete the program, and students must complete at least 300 clock hours out of the 450 clock hours of each payment period (four months) and maintain a 2.0 GPA. Because the program is so short and financial aid warnings would delay a rigorous review of students’ academic performance until late in (or the end of) the program, the school decides not to use warnings. Instead, it requires students to submit an appeal when they are not meeting SAP standards.
+
+After the first four months, a student’s GPA is 3.0, but they complete only 250 of the 300 clock hours that were required for the payment period. School F informs the student that he must submit an appeal to continue to receive 
+Title IV
+ funds. The student tells the administrator that they were diagnosed with depression, which prevents the student from doing as much as they’d like. The student provides a note from their psychiatrist and affirms that they are doing better since they have received regular treatment. The administrator grants the student’s appeal and puts them on financial aid probation since they determine that the student can finish the program in the remainder of the year (12 months having been determined the maximum timeframe for the program). The administrator drafts a plan that allows the student some flexibility in their pace of completion and that requires the student to check with the administrator once a month to inform them of the student’s progress in their classes.
+
+After four more months, the student’s GPA is 3.3, and they have completed 580 hours out of the 600 required under School F’s published SAP policy, which would normally make the student ineligible for 
+Title IV
+ funds. But because the student is progressing according to their personal SAP plan and is predicted to complete the program within the maximum timeframe, they may continue to receive aid.
+
+SAP Practices FAQ
+
+SAP Practice FAQ 1
+
+Q.
+ If a student fails SAP at the end of a payment period and becomes ineligible for aid in the next payment period, can the school still provide a late disbursement of aid for eligible coursework associated with the previous payment period?
+
+A.
+ Yes, if the student meets all the late disbursement requirements and was in all other ways eligible at the time. SAP is forward looking and impacts student eligibility in subsequent payment periods.
+
+SAP Practice FAQ 2
+
+Q.
+ After my school makes an SAP evaluation, can a student be placed on warning or probation status if their appeal is successful for a period that is shorter than a payment period?
+
+A.
+ No. The warning or probation period must last for at least one payment period.
+
+SAP Practice FAQ 3
+
+Q.
+ When determining SAP, is it permissible to only include coursework applicable to the student’s program in the qualitative calculation, while including all coursework in the quantitative calculation?
+
+A.
+ Normally, coursework assessed must be the same for both qualitative and quantitative measures.
+
+However, in the case of a transfer student, all of a student’s credits accepted towards the new program must be counted in the quantitative measurement, but transfer credits are optional in the qualitative measurement. You are not required, for instance, to factor in grades from other institutions into students’ GPA at your school.
+
+SAP Practice FAQ 4
+
+Q.
+ May we have a policy in our SAP policy that when a student changes majors or program, only the credits still applicable to the student’s new major count towards SAP?
+
+A.
+ Yes. The treatment of a student who changes majors is determined by the school.
+
+You must specify in your SAP policy whether you will include all coursework taken by a student, or only the coursework acceptable towards the student’s current program/major.
+
+Enrollment Status
+
+A student must be enrolled at least half-time to receive aid from the Direct Subsidized/Unsubsidized and Direct PLUS Loan programs. Pell Grants, TEACH Grants, and Campus-Based Programs don’t require half-time enrollment, with two exceptions:
+
+Students must be enrolled at least half-time in a teaching credential program to be eligible for Federal Work Study (FWS).
+
+For Pell Grants and FWS, but not TEACH Grants, students must be enrolled at least half-time in a post-baccalaureate program for teacher education.
+
+Students are no longer required to be enrolled at least half-time to be potentially eligible for additional Pell Grant funds in excess of 100 percent of the student’s Pell Grant Scheduled Award (also known as Year-Round Pell).
+
+For Pell Grants, enrollment status is referred to as enrollment intensity and is prorated vs. the full-time standard for the student’s program. For example, if full-time enrollment for a student’s program is 12 hours, and the student is enrolled for seven hours, their enrollment intensity would be 58%. See 
+Volume 7
+ for more detail on enrollment intensity for Pell and calculating Pell Grants. Students in non-term programs are always considered full-time for Pell Grant purposes.
+
+Full-time status
+ - Your school defines a full-time workload, but that definition must meet the minimum standards in the regulations (see 
+Minimum Standards for Full-Time Enrollment
+, below). The definition of full-time enrollment status for purposes of federal student aid can differ from that used for other purposes at your school, such as the definition used by the registrar’s office. Your school's definition of a full-time workload for a program must be used for all students in that program and must be the same for all federal student aid-related purposes, including loan deferments. You can’t accommodate a student with a learning disability or other handicap by allowing a full-time enrollment status lower than the minimum standard laid out for 
+Title IV
+ eligibility. See this section earlier in this chapter on students with intellectual disabilities for more information. Note that the scope of activity that may be counted for full-time status is broader for students in Comprehensive Transition and Postsecondary (CTP) programs than it is for students in traditional programs.
+
+Half-time status
+ - To be enrolled half-time, a student must be taking at least half of the course load of a full-time student. A school may choose to define half-time as half of the minimum full-time regulatory standard even if this is less than half the full-time standard established by the school. For example, if a school sets 14 semester hours as full-time, it could use 6 semester hours (one-half of the regulatory full-time minimum of 12) as half-time instead of 7.
+
+Minimum Standards for Full-Time Enrollment
+
+A student’s workload may include any combination of courses, work, research, or special studies that your school considers sufficient to classify them as full-time. This includes, for a term-based program that is not subscription-based, no more than one repetition of a previously passed course that is not due to the student failing other coursework.
+
+The regulations specify a minimum standard for undergraduate students but not for graduate students, however, a program’s enrollment status standard for full-time must be the same for all students enrolled in a particular program. There are three additional standards for enrollment status purposes to consider in graduate programs:
+
+Although there is no regulatory minimum for graduate students to be considered full-time in general, there are standards for comparisons between terms—for a summer term, the Department allows a different number of credits for a graduate student to be considered full-time (vs. a term in fall or spring). However, if the summer term differs significantly from the other terms, the Department expects the standard for summer to be a reasonable reflection of the extent to which that term differs in length from the fall and spring semesters. For example, it would not be acceptable for a summer term which is half the length of a spring semester (which has as its standard 12 hours for full-time) to have 1 or 2 hours as its minimum for full-time for graduate students; the minimum could be 6 hours.
+
+Notwithstanding a different standard for summer, the Department doesn’t allow a different graduate enrollment status standard between normal fall and spring terms. For example, a school cannot have a full-time requirement of 9 credits in the fall but only 6 credits for full-time in the spring (or vice-versa) for terms in a graduate student program. Full-time requirements in regular terms that make up an academic year must contain the same full-time definition.
+
+Doctoral dissertation research courses must award some course credit to count toward enrollment status for 
+Title IV
+ eligibility.
+
+For undergraduates, full-time status must be at least the following:
+
+Twelve semester hours or 12 quarter hours per academic term in an educational program using a semester, trimester, or quarter system.
+
+Twenty-four semester hours or 36 quarter hours per academic year for an educational program using credit hours but not using terms, or the prorated equivalent for a program of less than one academic year; (see example below).
+
+Twenty-four clock hours per week for an educational program using clock hours.
+
+A series of courses or seminars equaling 12 semester or quarter-hours over a maximum of 18 weeks.
+
+For a program that measures credit hours and uses nonstandard terms, the number of credits determined by dividing the number of weeks of instructional time in the term by the number of weeks of instructional time in the program’s academic year, multiplied by the number of credit hours in the program's academic year.
+
+The work portion of a cooperative education program in which the amount of work performed is equivalent to the academic workload of a full-time student.
+
+For correspondence coursework, a courseload commensurate with the full-time definitions listed here, and at least half of that load must be non-correspondence coursework that meets half of the school’s requirement for full-time students.
+
+For subscription-based programs, a full-time course load commensurate with the full-time definitions for standard and nonstandard term programs listed here. For a full discussion of subscription-based programs and terms, see 
+Volume 3
+, Chapter 1.
+
+ Full-time enrollment status
+ 
+
+Full-time enrollment status definition: 34 CFR 668.2(b)
+
+ Half-time enrollment status
+ 
+
+Half-time enrollment status definition: 34 CFR 668.2(b)
+
+Full-time Enrollment Status (Vol. 1, Chapter 1, Example 11)
+
+For the prorated equivalent for a program of less than one academic year, such as in the second bullet above, the objective is to determine if the student is attending at a full-time pace. For an academic year of 24 semester hours and 30 weeks of instructional time in a non-term setting, full-time is determined by taking an average of .8 hours per week (24/30 = .8). If the student is in a 20-semester hour program over 25 weeks, take the number of weeks in the program and multiply by .8. 25 x .8 equals 20 semester hours. Therefore, the student in the 20-hour, 25-week program is attending full-time.
+
+The definition of full-time student, upon which all enrollment statuses are based, is located in 
+34 CFR 668.2(b)
+. The regulatory definitions of credit-hour, clock hour and academic year are located in Volume 2, Chapter 2 (clock hour and credit hour), 
+Volume 3
+, Chapter 1 (academic year), and 
+34 CFR 600.2
+.
+
+Your school must have a written policy stating what enrollment status the work portion of a co-op program is equivalent to. If it equals or exceeds a full-time academic load, the co-op student is considered full-time regardless of how many credits are earned for the co-op work. A student taking only correspondence courses is never considered to be enrolled more than half-time. See 
+Volume 7
+ for more on Pell Grant requirements for enrollment intensity and correspondence courses.
+
+Eligibility and Enrollment Status for Retaking Coursework
+
+The regulatory definition for full-time students allows a student in a term-based program only (except for a subscription-based program) to retake any previously passed course a maximum of once per course. For this purpose, “passed” means any grade higher than an “F,” regardless of any school or program policy requiring a higher qualitative grade or measure to have been considered to have passed the course. This retaken course may be included in the student’s enrollment status and would count toward the student’s eligibility for 
+Title IV
+ aid.
+
+SAP regulations allow a student to receive Title IV funds for retaking a course they failed. If a student is receiving 
+Title IV
+ funds to retake a class they withdrew from before completing, that is not counted as the student’s one allowed retake for that course. However, if a student passed a class once; uses 
+Title IV
+ funds to retake it and fails the second time, that failure counts as their retake. The student may not receive 
+Title IV
+ funds to retake the class a third time.
+
+If your school has a policy that requires students to retake all the coursework for a term in which a student fails a course, only the first retake of any previously passed course is eligible for 
+Title IV
+ aid. A student is considered withdrawn for 
+Title IV
+ purposes if they withdraw from all 
+Title IV
+ eligible courses in the payment period or period of enrollment and continue to attend only a course or courses that are not eligible for 
+Title IV
+ aid. This is because a student is considered to be attending a 
+Title IV
+ eligible program only if they are attending one or more courses in that program for which they are receiving 
+Title IV
+ funds.
+
+If a student who received an incomplete in a course in the prior term is completing the coursework in the subsequent term to erase the incomplete in the prior term, the student is not considered to be enrolled in the course for the subsequent term. Therefore, the hours in the course do not count toward the student’s enrollment status for the subsequent term, and the student may not receive 
+Title IV
+ funds for completing the course. However, if a student who received an incomplete in a course in the prior term is retaking the entire course for credit in the subsequent term, the hours in the course count toward the student’s enrollment status, and the student may receive 
+Title IV
+ funds for retaking the course.
+
+In any case, remember that retaken classes may count against SAP, and the student’s eligibility is still constrained by all SAP requirements, as discussed earlier in this chapter. Also, the one-year academic limitation on noncredit and reduced credit remedial coursework still applies. So, for example, a student repeating a remedial course that exceeds the one-year limitation could not have the class included in their enrollment status.
+
+Counting Remedial Coursework in Enrollment Status
+
+A student may receive aid for a limited amount of remedial coursework included as part of a regular program. If the student qualifies for aid for remedial courses, you must include the remedial courses in the student’s enrollment status.
+
+Some schools give no credit or reduced credit for remedial classes. In such a case, to determine enrollment status, credit hours for the remedial class should be the same as for the comparable full-credit class. If you’re using credit hours, you can compare the number of classroom and homework hours of study that the remedial course requires with the hours required for similar courses offered for full credit. Clock-hour schools should use the number of classroom hours attended in the remedial program.
+
+School Policy and Operations for Retaking Coursework
+
+Your school may establish a policy that permits or bars a student from retaking previously passed coursework for reasons such as improving their grade point average. All applicable guidance in the FSA Handbook and regulations must be used to determine how to award 
+Title IV
+ aid in these situations.
+
+You may wish to consult with your school’s registrar to ensure that your school’s class repetition policy is properly coordinated and implemented by both offices, including any changes that need to be made to the registrar’s policies and operations for enrolling students or reporting enrollment to NSLDS.
+
+Eligibility for Repeating Coursework After Non-Term Credit-Hour or Clock-Hour Program Completion
+
+Any student who successfully completes an entire non-term credit-hour or clock-hour program, and later re-enrolls, either to take that same program again or to take another program, may receive 
+Title IV
+ funds for repeating coursework regardless of the amount of time between successful completion of the first program and beginning the program or another program again.
+
+Enrollment Status for Students with Intellectual Disabilities
+
+Because a comprehensive transition and postsecondary program for students with intellectual disabilities can include work for which the school awards no credit, such as audited courses, the school must develop equivalencies in credit hours for such work, just as it must do with non-credit remedial coursework. This will allow the school to determine the enrollment status for students in these programs.
+
+Restriction on Coursework Which is not Title IV-Eligible
+
+Courses that do not count toward a student’s degree, certificate, or other recognized credential cannot count toward enrollment status unless they are eligible remedial courses. 
+This means you cannot award 
+Title IV
+ aid for classes that do not count toward a student’s degree, certificate, or credential
+.
+
+Similarly, a student who completes the academic requirements for a program but does not yet have the degree or certificate may not receive additional 
+Title IV
+ funds for that program.
+
+Finally, federal student aid can be awarded only for learning that results from instruction provided or overseen by the school. It cannot be awarded for any portion of a program based on study or life experience prior to enrollment in the program or based on tests of learning that are not associated with educational activities overseen by the school.
+
+ Retaking coursework and remedial coursework provisions
+ 
+
+34 CFR 668.2(b) “Full-time student definition”
+
+34 CFR 668.20(d),(f)
+
+ Retaking Coursework FAQs:
+ 
+
+Program Integrity Questions and Answers - Retaking Coursework | U.S. Department…
+
+Transition from EFC to SAI
+
+To be eligible for certain types of 
+Title IV
+ aid, students must have a sufficiently low Student Aid Index or “SAI.” The 
+FAFSA Simplification Act
+ replaced the Expected Family Contribution (EFC), with the SAI. You will see the SAI displayed on the output documents that result from the processing of the FAFSA form—the FAFSA Submission Summary, which replaces the Student Aid Report (SAR), and Institutional Student Information Record (ISIR).
+
+Like the EFC, the SAI is an evaluation of the financial resources that may be available to contribute toward a student's education expenses. The EFC was calculated according to a formula specified in the law, and the SAI is likewise calculated according to formulas laid out in the 
+FAFSA Simplification Act
+. These formulas use information that applicants provide on their FAFSA form, and, in most cases, federal tax information (FTI) that is retrieved directly from the IRS.
+
+A few of the most significant differences between the SAI and EFC include:
+
+the removal of the number of family members in college from the eligibility calculation;
+
+the possibility for the SAI to be a negative number, going as low as negative 1,500 (in contrast to the previous limit of zero for EFC);
+
+the elimination of alternate EFCs for enrollment for a period other than nine months;
+
+the elimination of the existing simplified needs test and auto-zero EFC calculations. Note that some applicants will still qualify for a maximum Pell Grant based on similar new criteria (see 
+Volume 7
+, Chapter 1
+ for more on Pell-specific student eligibility);
+
+the income and asset components, as well as the allowances against those components, used in the SAI calculation have been updated significantly; and
+
+the implementation of separate Pell Grant eligibility criteria means that while the SAI may contribute to determining a student's Pell Grant eligibility, it is no longer the sole determining factor.
+
+These and other issues in the calculation and use of the SAI are discussed more fully in the 
+Application and Verification Guide
+, the 
+SAI and Pell Grant Eligibility Guide
+, and Dear Colleague Letter 
+GEN-23-11
+.
+
+Transition from EFA to OFA
+
+In order to be eligible for need-based 
+Title IV
+ aid, a school must determine that a student has financial need. The 
+FAFSA Simplification Act
+ replaced the term “Estimated Financial Assistance” (EFA) with “Other Financial Assistance” (OFA). As with EFA, OFA refers to the scholarships, grants, loans, and other assistance known to your school at the time that the student’s aid was packaged.
+
+EFA was used as part of the formula for calculating need for 
+Title IV
+ aid by subtracting it from their cost of attendance. Under the 
+FAFSA Simplification Act
+, EFC has been replaced by SAI and EFA has been replaced with OFA:
+
+Need = Cost of Attendance (COA), minus SAI, minus OFA
+
+Need = Cost of Attendance (COA), minus SAI, minus OFA
+.
+
+The new list of items excluded from OFA added the following benefits:
+
+Some (but not all) foster care benefits.
+*
+
+Emergency financial assistance provided to the student for unexpected expenses that are a component of the student’s COA and are not otherwise considered when determining the student’s need.
+
+*
+Payments made and services provided under Title IV-E of the Social Security Act to a child or youth in foster care, or formerly in foster care are excluded from OFA. This includes the value of a Title IV-E foster care maintenance payment, Educational and Training Vouchers (ETVs), or any other services or assistance provided to the youth under Title IV-E, including the Chafee Foster Care Independence Program for Successful Transition to Adulthood.
+
+For more details on calculating and using OFA, see Dear Colleague Letter 
+GEN-23-11
+ and the 2024-25 edition of 
+Volume 3
+ of the FSA Handbook.
+
+Veterans Education Benefits Exclusions from OFA
+
+The HEA lists veterans’ education benefit programs that are excluded from consideration as OFA in Section 480(c). The FAFSA Simplification Act did not change the veterans’ education benefit programs listed in Sec 480(c), but it did remove the phrasing “including but not limited to” when describing what constitutes veterans’ education benefits. Therefore, veterans’ education benefits not expressly listed in Section 480(c) are not excluded from OFA. This means financial assistance under programs such as the Veterans Retraining Assistance Program (VRAP) and the Veterans Rapid Retraining Assistance Program (VRRAP) are no longer excluded from OFA.
+
+For more details on OFA, and calculating and packaging aid, see Dear Colleague Letter 
+GEN-23-11
+ and 
+Volume 3
+ of the FSA Handbook.
+
+Students Convicted of Possession or Sale of Drugs
+
+The 
+FAFSA Simplification Act
+ amended Section 484 of the 
+Higher Education Act of 1965 (HEA)
+, making several important changes to student eligibility criteria. One of these is the elimination of the prohibition on receiving 
+Title IV
+ aid for students with most drug-related convictions.
+
+Having a drug conviction while receiving 
+Title IV
+ aid no longer impacts a student’s 
+Title IV
+ aid eligibility, and a student who has a drug conviction may be eligible to receive 
+Title IV
+ aid if they meet all other eligibility criteria.
+
+The Department removed the drug convictions questions from the FAFSA form. Students with drug convictions are eligible for 
+Title IV
+ aid if they meet all other eligibility requirements, unless they are subject to a federal drug abuse hold on receiving certain federal benefits. The eligibility criterion related to the 
+Anti-Drug Abuse Act
+ is unaffected by the removal of the drug conviction question from the FAFSA form. See the drug abuse hold information below.
+
+ Drug convictions
+ 
+
+HEA Section 484
+
+DCL GEN-21-04
+
+Federal Register Notice June 17, 2021
+
+Drug abuse hold
+
+The 
+Anti-Drug Abuse Act
+ of 1988 includes provisions that authorize federal and state judges to deny certain federal benefits, including federal student aid, to persons convicted of drug trafficking or possession. The FAFSA Processing System (FPS) maintains a hold file of individuals who have received such a judgment. All applicants are checked against this file to determine if they should be denied aid. Records matching the drug abuse hold file receive a rejected application (reject 19 and comments 009 or 055 on the FAFSA Submission Summary). See the 
+25-26 FAFSA Specifications Guide
+ for more information.
+
+Confined or Incarcerated Individuals and Prison Education Programs
+
+A confined or incarcerated individual is a person serving a criminal sentence in a federal, state, or local penitentiary, prison, jail, reformatory, work farm, juvenile justice facility, or similar correctional institution (operated by either the government or a contractor). A juvenile justice facility is a public or private residential facility that is operated primarily for the care and rehabilitation of youth who, under state juvenile justice laws, are accused of committing a delinquent act; have been adjudicated delinquent; or are determined to need supervision. A student is not considered to be incarcerated if they are subject to or serving an involuntary civil commitment, in a half-way house or home detention, or are sentenced to serve only weekends.
+
+The 
+FAFSA Simplification Act
+ made many important amendments to the 
+HEA
+. One important amendment was to allow students who are incarcerated in federal or state correctional facilities to access Pell Grants when they enrolled in an eligible prison education program (PEP). As part of implementing this new access to Pell Grants for confined or incarcerated individuals, the Department published a final rule in the 
+Federal Register
+ (
+87 FR 65426
+) on October 28, 2022, to implement the statutory requirements for confined or incarcerated individuals enrolling in an eligible prison education program (PEP). A confined or incarcerated individual is eligible to receive a Pell Grant if that individual enrolls in an eligible PEP at a public, private nonprofit, or vocational school (but not at a proprietary school).
+
+The cost of attendance (COA) for 
+confined or incarcerated students
+ is limited to tuition and fees; books, course materials, supplies, and equipment; and the cost of obtaining a license, certification or a first professional credential (See 
+Volume 3
+, Chapter 2 for more on COA). The specific requirements of an eligible PEP are outlined in the regulations at 34 CFR 668.236. For more information about these requirements, please review 
+Volume 2
+, Chapter 2 of the FSA Handbook. There is also a 
+Prison Education Program Q&A
+, and a 
+Topics Page on PEP on the Knowledge Center
+ which includes links to fact sheets, Dear Colleague Letters, and application materials.
+
+Students who are confined or incarcerated remain ineligible for Direct Loans during the period of their incarceration. Although there are no statutory or regulatory limitations on eligibility for TEACH Grants, Federal Supplemental Education Opportunity Grants (FSEOG), or Federal Work Study (FWS) for confined or incarcerated individuals, they may not qualify for these types of assistance due to other program eligibility requirements. However, schools that enroll confined or incarcerated individuals must consider whether they would qualify for assistance under these programs when awarding aid.
+
+For more details on Pell Grant eligibility of confined or incarcerated individuals, see 
+Volume 7
+ of the 
+FSA Handbook
+ and Dear Colleague Letter 
+GEN-23-05
+. For more details on verification requirements for incarcerated students, see the 
+Application and Verification Guide
+ and Dear Colleague Letter 
+GEN-24-10
+.
+
+ Confined or incarcerated individual
+ 
+
+HEA Sec. 483(t)(1)(A), 483(t)(3), 484(b)(5)
+
+Final Regulations 10/28/22
+
+34 CFR 600.2
+, 
+34 CFR 668.236
+, 
+668.32(c)(2)(ii)
+, 
+34 CFR 668 Subpart P
+
+DCL GEN-22-15
+
+ Prison Education Programs
+ 
+
+Prison Education Program (PEP) information
+
+DCL GEN-23-05
+
+Prison Education Programs Q&As
+
+Conflicting Information
+
+In addition to reviewing data provided by the Department’s application system and NSLDS, your school must have an internal system to share information relevant to the student’s eligibility, such as their academic standing. Regulations require a school to develop an adequate system to ensure the consistency of any data related to a student’s application or eligibility for federal student aid regardless of the source of that data.
+
+If your school has conflicting information for a student or you have any reason to believe the student’s application is incorrect, you 
+must
+ resolve such discrepancies before disbursing 
+Title IV
+ funds. If you discover a discrepancy after disbursing 
+Title IV
+ funds, you 
+must
+ reconcile the conflicting information and require the student to repay any aid for which they weren’t eligible, unless they are no longer enrolled for the award year and will not re-enroll. Your school is responsible for reconciling all inconsistencies that it receives with one exception: if the student dies during the award year, you aren’t required to resolve conflicting information.
+
+If you are unable to resolve the conflicting information, you must consider the student to be in overaward status for any need-based aid that was disbursed. Federal Work Study (FWS) funds do not need to be repaid, but you must immediately cease paying any further unearned FWS funds.
+
+For more information on conflicting information, please refer to the 
+Application and Verification Guide
+ and 
+Volume 2
+.
+
+ Resolving FAFSA Submission Summary comment codes
+ 
+
+Resolving FAFSA Submission Summary comment codes
+
+FAFSA Specification Guide
+
+ Conflicting information
+ 
+
+34 CFR 668.16(b)(3)
+ and 
+(f)
+
+34 CFR 668.54(b)(1)
+
+Changes in Eligibility Status
+
+A student’s eligibility status can change during the award year, which almost always affects whether they can be paid. The special rules for changes in satisfactory academic progress status were discussed in the SAP section. For more details on Pell Grant status changes within and between terms, see 
+Volume 7
+.
+
+Gaining Eligibility
+
+A student who 
+gains eligibility
+ is one who was previously ineligible for some reason. In general, a student who gains eligibility may receive Pell Grant, TEACH Grant, and Campus-Based program funds for the entire payment period and Direct Loan funds for the period of enrollment in which they become eligible (unless they have regained eligibility through satisfying the requirements of SAP, in which case eligibility is only regained from the beginning of the payment period).
+
+A student is eligible for Pell Grant, TEACH Grant, and Campus-Based aid for the entire award year, not just the payment period, in which they become eligible by meeting the requirements for citizenship, including becoming an eligible noncitizen, or having a valid Social Security number. For more details, see chapter 2 of this Volume.
+
+Normally, when a student regains 
+Title IV
+ eligibility after a loan default, the borrower regains 
+Title IV
+ grant eligibility beginning with the payment period in which the default was resolved and regains Direct Loan eligibility beginning with the period of enrollment in which the default was resolved.
+
+To illustrate how students can gain eligibility, we can look at two hypothetical students, Student 1 and Student 2. Student 1 enrolls in a one-year certificate program. The school won’t officially admit Student 1 before he provides an academic transcript from his previous school, but it lets him start classes in the fall. The school receives Student 1 transcript after he’s attended for a month and officially admits him. Student 1 is still in his first payment period when admitted, so they can receive Pell Grants and Campus-Based funds for their entire period of enrollment. The school can also use the program length of one year as the period of enrollment for which Student 1 can receive a loan.
+
+Student 2 is finishing his senior year in high school; his classes end June 4. He decides to start classes in the winter term at college on January 11. The second payment period begins on May 17. Student 2 isn’t eligible for aid when they first start classes. However, when they become eligible after June 4, the school can disburse Pell Grants and Campus-Based funds to Student 2 retroactively for the current payment period that started on May 17 (but not for the payment period that started in January) and a Direct Loan for the current period of enrollment, which does include the payment period that began in January.
+
+Losing Eligibility
+
+A student cannot receive any 
+Title IV
+ aid after losing eligibility unless they qualify for a late disbursement.
+
+Religious Order Student Eligibility
+
+Previous regulations, which considered students attending religious orders to have no need for 
+Title IV
+ aid, have been eliminated. Such students may now be considered to have financial need, in accordance with Part F of 
+Title IV
+ of the HEA, and are eligible to receive Pell Grant, Direct Loan, FWS, and FSEOG funds, if they meet all other eligibility criteria.
+
+Selective Service Requirement Removed for Title IV Eligibility
+
+The 
+FAFSA Simplification Act
+ amended Section 484 of the 
+HEA
+ to remove the requirement, for 
+Title IV
+ eligibility purposes, for male students to register with the Selective Service before the age of 26 to be eligible for 
+Title IV
+ aid. This question has been removed from the FAFSA form, and there will no longer be any associated comment codes or messaging that indicates that a resolution is necessary. Note that the Selective Service registration requirement itself (for purposes outside of Title IV eligibility) remains unchanged. For additional details about this change and its implementation, see Dear Colleague Letter 
+GEN-21-04
+ on the Knowledge Center.
+
+Previous
+
+Next
+
+ Last Modified: 12/10/2025 • Published: 03/28/2021

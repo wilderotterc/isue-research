@@ -1,0 +1,45 @@
+{
+  "model": {
+    "name": "gpt-4o-mini",
+    "version_string": "gpt-4o-mini-2024-07-18",
+    "provider": "OpenAI",
+    "temperature": 0,
+    "max_tokens": 400,
+    "context_window": 128000,
+    "cost_per_million_input_tokens_usd": 0.15,
+    "cost_per_million_output_tokens_usd": 0.60,
+    "date_selected": "2026-05-12",
+    "selection_rationale": "Lowest available cost per token at time of selection with chat completion API support, deterministic output at temperature=0, and context window >= 4000 tokens."
+  },
+  "tokenizer": {
+    "name": "o200k_base",
+    "tiktoken_call": "tiktoken.encoding_for_model('gpt-4o-mini')",
+    "note": "Correct tokenizer for gpt-4o-mini. cl100k_base (GPT-4/3.5) was used in error during initial chunking and corrected before Week 3."
+  },
+  "embedding_model": {
+    "name": "all-MiniLM-L6-v2",
+    "provider": "HuggingFace / sentence-transformers",
+    "dimensions": 384,
+    "date_selected": "2026-05-12"
+  },
+  "retrieval": {
+    "top_k": 5,
+    "similarity_metric": "cosine",
+    "vector_store": "ChromaDB"
+  },
+  "experiment": {
+    "conditions": ["Baseline-LLM", "RAG-Standard", "RAG-AuthAware"],
+    "question_categories": ["S", "M2", "M3", "C", "T"],
+    "total_questions": 55,
+    "total_runs": 165,
+    "award_year_current": "2025-26",
+    "award_year_temporal_corpus": "2024-25"
+  },
+  "source_priority": {
+    "1_federal_primary": "FSA Handbook 2025-26",
+    "1_federal_outdated": "FSA Handbook 2024-25",
+    "2_federal_consumer": "studentaid.gov",
+    "3_professional": "NASFAA",
+    "4_institutional": ["College Board CSS Profile", "University of Washington", "Pace University", "University of Michigan"]
+  }
+}

@@ -1,0 +1,875 @@
+Packaging Aid | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 3
+
+Packaging Aid
+
+In this chapter we explain how to package a student’s aid once you’ve received the student’s FAFSA form information, including the student aid index (SAI), and have calculated the student’s aid eligibility. The general rule in packaging is that the student’s need-based aid must not exceed the student’s financial need, and total financial aid and other financial assistance (OFA) must not exceed the student’s cost of attendance (COA). If you discover that a student’s aid package exceeds the student’s financial need or COA, you must attempt to adjust the aid package to eliminate the overaward. See 
+Volume 4
+, Chapter 3 for guidance on handling overawards and overpayments.
+
+Packaging Overview
+
+For some 
+Title IV
+ programs, eligibility is limited to students who have financial need. Students are considered to have financial need if their COA exceeds their SAI. These “need-based” programs include the Federal Pell Grant, Federal Supplemental Educational Opportunity Grant (FSEOG), Federal Work-Study (FWS), and Direct Subsidized Loan programs. The total aid that a student receives from need-based programs may not exceed the student’s financial need. Pell Grants are the first source of aid for students with financial need. A student’s eligibility for aid from the other need-based programs is then determined by subtracting the student’s SAI and OFA (including the student’s Pell Grant) from the COA (see “Treatment of Negative SAIs” later in the chapter for guidance on packaging need-based aid for students with negative SAIs):
+
+COA – SAI – OFA = remaining need
+
+For other 
+Title IV
+ programs, eligibility is not based on the student’s financial need. These “non-need-based” programs include the Teacher Education Assistance for College and Higher Education (TEACH) Grant, Direct Unsubsidized Loan, and Direct PLUS Loan programs. A student’s eligibility for non-need-based aid is determined by subtracting OFA (including any need-based aid) from the COA:
+
+COA – OFA = eligibility for non-need-based aid
+
+As explained later in this chapter, non-need-based aid may be used to replace the SAI.
+
+Depending on individual circumstances, students may receive only need-based aid, only non-need-based aid, or a combination of both types of aid. In general, the total amount of need-based aid cannot exceed the student’s financial need and the total amount of all aid cannot exceed the student’s COA. However, there are some exceptions to the normal packaging process under certain circumstances or for certain 
+Title IV
+ programs, as we explain later in this chapter.
+
+The COA for the Campus-Based, TEACH Grant, and Direct Loan programs is based on the student’s enrollment status and costs for the period for which the aid is intended. The COA used for the Pell Grant Program is always the full-year costs for a full-time student, so you may have to prorate actual or average costs up for students who are attending less than an academic year (or who are part-time in a term-based program) or prorate down for students who are attending for periods longer than an academic year (see 
+Volume 7
+ for more information).
+
+The process of awarding aid without exceeding the student’s financial need (for need-based aid) or COA (for total aid received) is traditionally called packaging. Packaging is a process that varies from school to school, depending on the types of scholarship and other aid available at the school, and the characteristics of the student population. Schools may have different packaging philosophies, but they generally try to find the best combination of aid to meet the financial need of their students.
+
+To help you package federal student aid with your other aid awards, EDExpress includes a packaging module. You can enter information about your school’s student aid programs and set up factors to be considered in packaging, and then use the software to automate the packaging process. Most schools use some form of packaging software, whether EDExpress or software from a commercial vendor. You are not required to use EDExpress to package 
+Title IV
+ awards, and you do not have to report the student’s aid package to the Common Origination and Disbursement (COD) system.
+
+No Alternate SAIs for Periods Other Than Nine Months
+
+Prior to the 2024-2025 award year, the HEA allowed schools to use alternate expected family contributions (EFCs) when packaging aid for periods other than nine months. The 
+FAFSA Simplification Act
+ eliminated this provision. Beginning with the 2024-2025 award year, when packaging aid for any period that is not nine months, schools must use a student’s calculated 9-month SAI in the formula to determine eligibility for need-based aid, as described above (that is, COA – SAI – OFA = need). As a result of this change, students who are enrolled for periods shorter than nine months will have less financial need than would have been the case in the past when using an alternate (smaller) EFC for such periods. See 
+Volume 8
+, Chapter 3 for more information on how this change may affect Direct Subsidized Loan eligibility for students receiving loans for periods of enrollment (loan periods) shorter than nine months.
+
+Treatment of Negative SAIs
+
+A student may have a calculated SAI that is a negative number as low as -1,500. Also, as explained in Chapter 3 of the 
+Application and Verification Guide
+, certain students will automatically receive a -1,500 SAI. When packaging need-based aid for students with negative SAIs, schools must convert any negative SAIs to zero for awarding purposes. This means that a negative SAI will not increase the amount of need-based aid a student can receive. Note that a negative SAI also does not increase the amount of non-need-based aid that a student may receive because the SAI is not a factor in determining eligibility for aid that isn’t based on financial need.
+
+ No Alternate SAIs and Treatment of Negative SAIs
+ 
+
+DCL GEN-23-11
+
+DCL GEN-24-05
+
+Packaging Rules
+
+Pell Grants as the First Source of Aid
+
+Pell Grants are the first source of aid for a student, and packaging 
+Title IV
+ funds begins with determining a student’s Pell Grant eligibility, as described in 
+Volume 7
+. A correctly determined Pell Grant is never adjusted to take into account other forms of aid. When awarding aid from the other 
+Title IV
+ programs, you must ensure that the student’s need or COA is not exceeded.
+
+In some cases, a student’s aid package may include a Pell Grant and non-
+Title IV
+ aid (for example, institutional aid or private education loans), but no other types of 
+Title IV
+ aid, and the combination of the Pell Grant and the other aid may be large enough to exceed the student’s COA. For instance, the National Collegiate Athletic Association’s (NCAA's) rules for athletic aid may permit a school to award athletic aid that covers a student’s full COA (see “NCAA Considerations” in Chapter 2 of this volume for more information). In this case, the student is still eligible for the full amount of the Pell Grant. However, you can’t award any 
+Title IV
+ funds other than the Pell Grant.
+
+Note that in some cases a student’s SAI may be higher than the COA, resulting in no financial need, but the student may still qualify for a calculated Pell Grant or a minimum Pell Grant (see 
+Volume 7
+, Chapter 2 for more information on Pell Grant eligibility criteria). As an example, consider a student with an SAI of 6,650, a COA of $5,500, and a calculated Pell Grant amount of $745. In this circumstance the student is still eligible for the full Pell Grant amount (as long as it doesn’t exceed the COA), but you may not award any other types of need-based 
+Title IV
+ aid.
+
+If a student’s aid package includes a Pell Grant, other types of 
+Title IV
+ aid, and non-
+Title IV
+ aid, and the total aid amount exceeds the student’s COA, the student still qualifies for the full Pell Grant amount, but you must adjust the other 
+Title IV
+ aid to ensure that the COA is not exceeded.
+
+In the circumstances described above you may (but are not required to) adjust non-
+Title IV
+ aid over which you have control in accordance with your school’s policies.
+
+Pell Grant Lifetime Eligibility Used
+
+Before awarding a Pell Grant, you must check the COD common record or COD website to make sure students close to the 600% Pell Grant lifetime limit are not packaged in such a way as to exceed 600% of the LEU; to do so would be to overaward the student. The Department will also provide weekly reports in the SAIG mailbox (message class PGLEXXOP, where XX=year) for your school’s Pell-eligible students that have a Pell LEU greater than or equal to 450%. See 
+Volume 7
+, Chapter 8 for more detail on the effects of various levels of Pell Grant LEU.
+
+Considering Grants and Subsidized Loans First
+
+The law requires aid administrators to determine whether a student is eligible for aid from certain other 
+Title IV
+ programs that would reduce the need for borrowing. If your school participates in the Federal Pell Grant Program, you must include the student’s estimated Pell Grant eligibility as OFA when making Campus-Based awards, whether or not the student has received the Pell Grant at the time you make your Campus-Based award.
+
+Similarly, you must determine an undergraduate student’s Pell Grant eligibility before originating a Direct Subsidized or Unsubsidized Loan for that student, and you must package Campus-Based funds and Direct Subsidized Loans before Direct Unsubsidized Loans. In addition, you must determine an undergraduate student’s maximum Direct Subsidized Loan eligibility before originating a Direct Unsubsidized Loan for the student (see 
+Volume 8
+, Chapter 1 for an explanation of the difference between Direct Subsidized Loans and Direct Unsubsidized Loans). However, if a student has received a determination of need for a Direct Subsidized Loan that is $200 or less, you have the option of including that amount as part of a Direct Unsubsidized Loan and are not required to originate a separate Direct Subsidized Loan for the student.
+
+For a dependent student, you may originate and disburse a parent Direct PLUS Loan without determining the student’s Pell Grant and Direct Subsidized Loan eligibility. However, if the student on whose behalf the parent is borrowing receives Pell Grant funds and/or other types of aid for the same period of enrollment, that other aid must be considered when determining the Direct PLUS Loan amount that the parent is eligible to borrow. The amount of a parent Direct PLUS Loan cannot exceed the student’s COA minus other financial assistance that the student has received.
+
+Determining Pell Grant eligibility is not relevant when awarding Direct PLUS Loans to graduate or professional students, but you must determine a graduate or professional student’s maximum Direct Unsubsidized Loan eligibility before you originate a Direct PLUS Loan for the student.
+
+ Requirement to Consider Federal Pell Grants First
+ 
+
+34 CFR 685.200(a)(1)(iii)
+
+Volume 3, Chapter 3, Example 1: Basic Packaging
+
+A dependent second-year undergraduate student has a COA of $12,500 and an SAI of 2,500 for the current year. The SAI is subtracted from the COA, leaving the student with $10,000 in unmet need:
+
+$12,500 COA
+
+- 2,500 SAI
+
+$10,000 need
+
+The aid administrator begins by awarding a Pell Grant and applying an outside scholarship before awarding Campus-Based aid. The student’s OFA is a $5,500 Pell Grant and a $400 outside scholarship:
+
+$12,500 COA
+
+- 2,500 SAI
+
+- 5,500 Pell Grant*
+
+- 400 Scholarship
+
+$4,100 remaining need
+
+*The $5,500 Pell Grant amount shown in this example is for illustrative purposes only and is not intended to represent the actual Pell Grant amount that a student would be eligible to receive. See 
+Volume 7
+ for guidance on the determination of Pell Grant awards.
+
+Subtracting the SAI and OFA from the COA leaves $4,100 in remaining need. The student has sufficient need for the maximum awards that the aid administrator can make under the school's policy for Campus-Based funds: $800 FSEOG, and $1,800 in FWS employment:
+
+$12,500 COA
+
+- 2,500 SAI
+
+- 5,500 Pell Grant
+
+- 400 Scholarship
+
+- 800 FSEOG
+
+- 1800 FWS
+
+$1,500 remaining need
+
+The aid administrator finishes the packaging process by awarding a Direct Subsidized Loan in the amount of $1,500 to fully meet the student’s financial need. As a dependent second-year student, the student’s combined Direct Subsidized Loan and Direct Unsubsidized Loan limit is $6,500 (maximum of $4,500 subsidized). The financial aid package now fully covers the student’s financial need of $10,000. However, the student could also receive up to $2,500 in Direct Unsubsidized Loan funds to replace the SAI and completely cover the COA.
+
+$12,500 COA
+
+- 5,500 Pell Grant
+
+- 400 scholarship
+
+- 800 FSEOG
+
+- 1,800 FWS
+
+- 1,500 Direct Subsidized Loan
+
+- $2,500 Direct Unsubsidized Loan
+
+$0 remaining need
+
+As noted earlier in the chapter a negative SAI is converted to zero for packaging purposes. For instance, if a student with $15,000 COA and a -500 SAI receives a $7,500* Pell Grant, remaining need for other need-based programs will be $7,500:
+
+$15,000
+
+- 0
+
+- $7,500
+
+$7,500 remaining need
+
+*Note:
+ The $7,500 maximum Pell Grant award is a fictitious amount used for illustrative purposes only. It is not intended to represent the actual maximum Pell Grant award for any particular award year.
+
+Campus-Based Aid
+
+You should consider several things when developing a packaging policy. For instance, some schools give more grant assistance to beginning students, who may have more difficulty adjusting to campus life, increasing the proportion of loans and work-study in subsequent years. For the Campus-Based Programs and other programs where the available funds may not be sufficient to meet every eligible student’s need, some schools decide to give a higher proportion of aid to the neediest students. Other schools award funds as an equal proportion of each student’s need.
+
+Many schools use software, such as the Packaging module in EDExpress, that can be configured to implement the school’s packaging philosophy. For instance, EDExpress allows you to specify the order in which aid sources are to be applied to the student’s unmet need, and to set overall percentage limits on the amount of gift (grants and scholarships) and self-help aid that will be included in the aid package.
+
+Use Net FWS Earnings When Packaging
+
+To determine the net amount of a student’s FWS earnings that will be available to help pay for the student’s costs, you must subtract estimated taxes and job-related costs from the student’s gross FWS earnings (see 
+Volume 6
+, Chapter 2).
+
+FSEOG and Pell Grant LEU
+
+A student who receives a Pell Grant at any time in the award year may be awarded an FSEOG for that award year; the student does not have to receive a Pell Grant in the same payment period as the FSEOG. For example, in the case of a student who receives a Pell Grant only for the fall semester due to reaching their lifetime eligibility used (LEU), the student may be awarded an FSEOG for both the fall semester and subsequent spring semester.
+
+Students who have reached or exceeded 600% of their Pell Grant LEU may still be eligible to receive FSEOG. However, they must be considered in the second selection group (see “Selecting FSEOG recipients” in 
+Volume 6
+, Chapter 6).
+
+You must keep documentation of the eligible SAI that was calculated for the student, and you must confirm Pell Grant eligibility prior to disbursement of the FSEOG. For more details on Pell Grant LEU, see 
+Volume 7
+, Chapter 8.
+
+Packaging TEACH Grants
+
+TEACH Grants are not considered to be need-based aid. The amount of a student’s TEACH Grant, in combination with the student’s OFA from all other 
+Title IV
+ programs, may not exceed the COA. You may optionally use a TEACH Grant to replace the SAI (see the “Substituting for the SAI” section later in this chapter).
+
+Direct Loan Packaging Considerations
+
+Before you originate a Direct Subsidized Loan or Direct Unsubsidized Loan for an undergraduate student, you must determine the student’s eligibility for a Pell Grant.
+
+Before you originate a Direct Unsubsidized Loan for an undergraduate student, you must determine the student’s maximum Direct Subsidized Loan eligibility.
+
+You may originate a Direct Subsidized Loan only for the amount of the student’s financial need (that is, the student’s COA minus the student’s SAI and OFA).
+
+A student may qualify for a combination of both Direct Subsidized Loans and Direct Unsubsidized Loans.
+
+The parent of a dependent student can take out a Direct PLUS Loan to pay for the student’s COA (assuming that the parent meets the Direct PLUS Loan eligibility requirements). There is no fixed loan limit for Direct PLUS Loans, but Direct PLUS Loans cannot be made for an amount that exceeds the student's COA, less other financial aid received.
+
+If the student is independent, or if a dependent student’s parent is ineligible for a Direct PLUS Loan, the student is eligible for additional Direct Unsubsidized amounts.
+
+Direct Unsubsidized Loans and Direct PLUS Loans can be used to replace the SAI, as well as to cover the student’s unmet need.
+
+Direct Subsidized Loans are available only to undergraduate students.
+
+Direct PLUS Loans are available to parents of dependent undergraduate students and to graduate and professional students. Note that a Direct PLUS Loan does not count against a graduate/professional student’s Direct Unsubsidized Loan annual or aggregate loan limits.
+
+You may not limit Direct Loan borrowing by students or parents on an across-the-board or categorical basis (for more information, see “Refusing to Originate a Loan or Originating for Less Than Maximum Eligibility” in 
+Volume 8
+, Chapter 1).
+
+Volume 3, Chapter 3, Example 2: Graduate/Professional PLUS Packaging
+
+A student enrolls in a graduate-level program with a total COA of $31,000. The student has an annual loan limit of $20,500 for Direct Unsubsidized Loans and is also eligible for Direct PLUS Loans.
+
+Eligibility for Direct Unsubsidized Loans is determined by subtracting OFA from the COA. The SAI is not taken into consideration. The student has already been awarded a graduate scholarship of $5,000. Subtracting this OFA from the COA leaves $26,000 in unmet costs that the school partially covers by awarding the student a $20,500 Direct Unsubsidized Loan. The student now has $5,500 in remaining costs.
+
+$31,000 COA
+
+- 5,000 scholarship
+
+- 20,500 Direct Unsubsidized Loan
+
+$5,500 remaining costs
+
+As with Direct Unsubsidized Loans, eligibility for Direct PLUS Loans is determined by subtracting OFA from the COA. Subtracting the scholarship and Direct Unsubsidized Loan from the COA allows the student to receive a Direct PLUS Loan for $5,500 to fully cover the COA.
+
+$31,000 COA
+
+-5,000 scholarship
+
+-20,500 Direct Unsubsidized Loan
+
+-5,500 Direct PLUS Loan
+
+$0 remaining costs
+
+Packaging When a Student Chooses Not To Borrow Direct Subsidized Loans or Direct Unsubsidized Loans
+
+If a graduate Direct PLUS Loan borrower has not requested the maximum Direct Unsubsidized Loan amount for which they are eligible, you must:
+
+Notify the borrower of their maximum Direct Unsubsidized Loan eligibility;
+
+Provide the borrower with a comparison of the maximum interest rates for Direct Unsubsidized Loans and Direct PLUS Loans;
+
+Explain when a Direct Unsubsidized Loan enters repayment and when a Direct PLUS Loan enters repayment; and
+
+Give the borrower the opportunity to request the maximum Direct Unsubsidized Loan for which they are eligible.
+
+If a dependent student for whom a parent is borrowing a Direct PLUS Loan chooses not to apply for a Direct Subsidized or Unsubsidized Loan, the Direct Subsidized/Unsubsidized Loan amount that the student would have been eligible to receive is 
+not
+ counted as OFA when determining the amount of the Direct PLUS Loan. The same principle applies when a graduate or professional student is eligible for a Direct Unsubsidized Loan but chooses to borrow only a Direct PLUS Loan.
+
+Packaging Aid for Certain Dependents of Deceased Servicemembers or Public Safety Officers (Pell Grant Special Rule)
+
+The Special Rule in Section 401(c) of the HEA allows certain students whose parents or guardians died while serving on active duty in the U.S. Armed Forces or while serving as public safety officers to receive the maximum Pell Grant award, regardless of their calculated SAI. However, all other 
+Title IV
+ aid for these students must be based on their calculated SAI. See 
+Volume 7
+, Chapter 1 for the specific eligibility requirements that must be met for a student to receive the maximum Pell Grant amount under the Special Rule, and guidance on identifying eligible students.
+
+Volume 3, Chapter 3, Example 3: Pell Grant Special Rule Packaging
+
+A full-time independent third-year undergraduate student meets the eligibility criteria under the Special Rule (as described in 
+Volume 7
+, Chapter 1) to receive the maximum Pell Grant award. The student has a COA of $15,000 and an SAI of 9,000 for the award year. The packaging process begins with the maximum Pell Grant award of $7,500*. Although the Pell Grant amount exceeds the student’s financial need of $6,000 (as determined by subtracting the SAI of 9,000 from the $15,000 COA), no overaward is created because the student qualifies for the maximum Pell Grant award under the Special Rule.
+
+The student has no eligibility for additional need-based aid, but the school awards a Direct Unsubsidized Loan in the amount of $7,500 to fully cover the student’s COA:
+
+$15,000 COA
+
+-7,500 Pell Grant
+
+-7,500 Direct Unsubsidized Loan
+
+$0 remaining costs
+
+*The $7,500 maximum Pell Grant award is a fictitious amount used for illustrative purposes only. It is not intended to represent the actual maximum Pell Grant award for any particular award year.
+
+Substituting for the SAI
+
+A school may substitute certain types of aid for the student’s SAI. Forms of aid that may replace the student’s SAI include Direct Unsubsidized Loans, TEACH Grants, Direct PLUS Loans, state loans, private education loans, or any other non-need-based loans. Note that annual loan limits for Direct Unsubsidized Loans still apply, and the total aid received (including amounts used to replace the SAI) cannot exceed the COA.
+
+ Regulatory Citations
+ 
+
+Substituting for the SAI reference
+
+34 CFR 685.200(e)
+
+34 CFR 686.21(d)
+
+Note:
+ Although the cited regulations refer to the expected family contribution, these provisions continue to apply for purposes of substituting certain types of aid for the SAI.
+
+Volume 3, Chapter 3, Example 4: Replacing the SAI With Unsubsidized Loan Funds: Dependent Student
+
+A first-year dependent student has a COA of $10,800 and an SAI of 8,000, so the student’s financial need is $2,800:
+
+$10,800 COA - 8,000 SAI = $2,800 financial need
+
+The student is not eligible for a Pell Grant, and the school does not participate in the Campus-Based Programs. The combined Direct Subsidized Loan and Direct Unsubsidized Loan annual loan limit for a first-year dependent student is $5,500 (maximum $3,500 subsidized). The student qualifies for a $2,800 Direct Subsidized Loan to fully cover their financial need.
+
+Eligibility for a Direct Unsubsidized Loan is determined by subtracting OFA from the COA (the SAI is not taken into consideration):
+
+$10,800 COA - $2,800 Direct Subsidized Loan = $8,000 Direct Unsubsidized Loan eligibility
+
+This full amount cannot be covered with a Direct Unsubsidized Loan because of the $5,500 combined Direct Subsidized Loan/Direct Unsubsidized Loan annual loan limit. However, the student is eligible to borrow an additional $2,700 in the form of a Direct Unsubsidized Loan to cover part of the SAI:
+
+$5,500 combined subsidized/unsubsidized annual loan limit - $2,800 Direct Subsidized Loan = $2,700 in remaining Direct Unsubsidized Loan eligibility under the annual loan limit
+
+The student’s parents could then borrow a Direct PLUS Loan. As with Direct Unsubsidized Loans, eligibility for Direct PLUS Loans is determined by subtracting OFA from the COA:
+
+$10,800 COA - $2,800 Direct Subsidized Loan - $2,700 Direct Unsubsidized Loan = $5,300 in Direct PLUS Loan eligibility
+
+The Direct PLUS Loan would cover the remaining portion of the SAI and fully cover the COA:
+
+$10,800 COA - $2,800 Direct Subsidized Loan - $2,700 Direct Unsubsidized Loan - $5,300 Direct PLUS Loan = $0 unmet cost
+
+As an alternative to the student taking out the $2,700 Direct Unsubsidized Loan, the student’s parent could borrow up to $8,000 in the form of a Direct PLUS Loan to replace the SAI and fully cover the COA:
+
+$10,800 COA - $2,800 Direct Subsidized Loan = $8,000 in Direct PLUS Loan eligibility
+
+Another option (to eliminate the need for the student to incur any student loan debt at all) would be for the student’s parent to take out a Direct PLUS Loan in the amount of $10,800 to cover the full COA.
+
+Volume 3, Chapter 3, Example 5: Replacing the SAI With Unsubsidized Loan Funds: Independent Student
+
+A first-year independent student has a COA of $9,000 and an SAI of 2,050, resulting in financial need of $6,950:
+
+$9,000 COA – 2,050 SAI = $6,950 financial need
+
+The student is eligible for a $5,450 Pell Grant
+*
+, and the school also awards a $1,000 FSEOG. This leaves the student with remaining need of $600, which can be covered with a Direct Subsidized Loan:
+
+$9,000 COA – 2,050 SAI - $5,450 Pell Grant - $1,000 FSEOG = $500 Direct Subsidized Loan eligibility
+
+The student’s financial need is now fully covered by the Pell Grant, FSEOG, and Direct Subsidized Loan.
+
+The combined Direct Subsidized Loan and Direct Unsubsidized Loan annual loan limit for a first-year independent student is $9,500 (maximum $3,500 subsidized).
+
+The student can also receive a Direct Unsubsidized Loan in the amount of $2,050 to replace the SAI and fully cover the COA:
+
+$9,000 COA - $5,450 Pell - $1,000 FSEOG - $500 Direct Subsidized Loan = $2,050 Direct Unsubsidized Loan eligibility
+
+The aid package now fully covers the student’s COA:
+
+$9,000 COA - $5,450 Pell - $1,000 FSEOG - $500 Direct Subsidized Loan - $2,050 Direct Unsubsidized Loan = $0 unmet cost
+
+*
+The $5,450 Pell Grant amount shown in this example is for illustrative purposes only and is not intended to represent the actual Pell Grant amount that a student would be eligible to receive. See 
+Volume 7
+ for guidance on the determination of Pell Grant awards.
+
+Other Financial Assistance (OFA)
+
+In contrast to Pell Grants, you must take other aid into account when awarding TEACH Grants, Campus-Based aid, or Direct Loans. As noted earlier, the other aid that must be considered is called “other financial assistance” (OFA). OFA is generally used in the same way for the Direct Loan Program as for the TEACH Grant and Campus-Based programs. However, there are differences in the treatment of AmeriCorps benefits, as discussed later in this chapter.
+
+In general, OFA as defined for the Direct Loan, Campus-Based, and TEACH Grant programs refers to aid from the 
+Title IV
+ programs, as well as other grants, scholarships, loans, and wages from need-based employment that you can reasonably anticipate at the time you award aid to the student, whether the assistance is awarded by the school or by an individual or organization outside the school.
+
+If aid is excluded from either OFA or COA, that amount must be excluded from both OFA and COA. For Direct Loans, the regulations specify that OFA is aid that the student will receive for the same period of enrollment as the loan. As noted in Chapter 1, it’s usually best to originate a loan for a period that matches the academic year or other period that you’re using to award funds from other 
+Title IV
+ programs. The amount of a private education loan which exceeds the SAI when substituting for the SAI is considered OFA.
+
+When classifying non-
+Title IV
+ sources of aid, if a student receives the award because of postsecondary enrollment (for example, a scholarship from a local social club that requires a student to be attending a postsecondary school), it counts as OFA if it is not considered wages for employment according to federal or state rules, or if it is considered wages and is based on need. Any amount that appears as income on the tax return will also be included on the appropriate line on the FAFSA form in the section for student income. If the award is considered wages for employment but is not based on need, then it is not OFA and it remains in income.
+
+Compensation that a student athlete receives under a name, image, and likeness (NIL) contract is a non-need-based source of income and therefore is not considered OFA.
+
+Table 1 at the end of this section provides examples of what is and is not considered OFA.
+
+ Estimated Financial Assistance
+ 
+
+Estimated Financial Assistance Data
+
+Campus-Based: 
+34 CFR 673.5(c)
+
+Direct Loans: 
+34 CFR 685.102(b)
+
+HEA: Sec. 428(a)(2)(C)(ii)
+
+Treatment of NIL compensation in awarding 
+Title IV
+ assistance: 
+GEN-21-08
+
+Prepaid Tuition Plans
+
+Prepaid tuition plans are not considered OFA. Instead, they are treated the same as Coverdell education and 529 savings accounts. For more detail see the discussion of qualified education benefits or education savings accounts under the heading “Student Assets (22)” in the 
+Application and Verification Guide
+, Chapter 2.
+
+OFA Provided by a State
+
+If the assistance provided by a state is not considered 
+Title IV
+ assistance and is designated by the state to offset a specific component of the student’s COA, the amount of that assistance may be excluded from both COA and OFA. You may exclude such assistance on a student-by-student basis, but if it is excluded, it must be excluded for both COA and OFA. If the amount excluded is less than the allowance provided in the student’s COA, you must exclude the lesser amount.
+
+ Exclusion of State-Provided Assistance
+ 
+
+Exclusion of state-provided assistance
+
+HEA Sec. 480(j)
+
+Counting Need-Based Earnings as OFA
+
+For students who have jobs, only net earnings from 
+need-based employment
+ are considered OFA. “Need- based employment” means employment that is awarded by the school itself or by another organization to a student based on financial need to meet educational expenses for the award year.
+
+A Federal Work-Study job is clearly a form of need-based student aid. Employment with a state is considered OFA if that employment is based on the student’s financial need for assistance to pay for educational expenses.
+
+Non-need-based earnings
+ are not to be considered as OFA for the current award year because they will be reported as income on the FAFSA form for a subsequent award year and will be used in calculating the future SAI. An example of non-need-based employment would be a student's job with a private employer such as a local grocery store. Another example would be a job cleaning the labs in the chemistry department on campus, if the chemistry department hired the student using non-need-based criteria and funds.
+
+Exclusion of Emergency Financial Assistance From OFA
+
+Under the 
+FAFSA Simplification Act
+, emergency financial assistance provided to a student is excluded from OFA when awarding 
+Title IV
+ funds. For this purpose, emergency financial assistance includes any grant or loan aid (whether institutional funds or aid from some other non-
+Title IV
+ source) paid to a student for unexpected expenses, if those expenses are associated with one of the allowable COA components as described in Chapter 2 of this volume. This could include, for example, unexpected expenses for food; housing; course materials or equipment; or transportation (for instance, transportation between campus and home for a death or family emergency), since those expense categories are allowable COA components. The school is responsible for determining whether an unexpected expense is associated with a COA component. In addition, the expenses must not already be included in one of the student’s COA components. Note also that the determination as to whether emergency financial assistance is warranted is made by the school based on an individual student’s circumstances and need not be tied to a state or federal declaration of a disaster or emergency.
+
+Before providing aid to a student who has requested emergency financial assistance, a school must document the request, including the unexpected expense that prompted the request, and should retain the documentation in the student’s file for the normal record retention period (see 
+Volume 2
+, Chapter 7 for information on record retention requirements).
+
+Exclusion of Federal Veterans Education Benefits From OFA
+
+Chapter 103 of 
+Title 10, United States Code
+ (Senior Reserve Officers’ Training Corps)
+
+Chapter 106A of 
+Title 10, United States Code
+ (Educational Assistance for Persons Enlisting for Active Duty)
+
+Chapter 1606 of 
+Title 10, United States Code
+ (Selected Reserve Educational Assistance Program)
+
+Chapter 1607 of 
+Title 10, United States Code
+ (Educational Assistance Program for Reserve Component Members Supporting Contingency Operations and Certain Other Operations)
+
+Chapter 30 of 
+Title 38, United States Code
+ (All-Volunteer Force Educational Assistance Program, also known as the “Montgomery GI Bill—active duty”)
+
+Chapter 31 of 
+Title 38, United States Code
+ (Training and Rehabilitation for Veterans with Service-Connected Disabilities)
+
+Chapter 32 of 
+Title 38, United States Code
+ (Post-Vietnam Era Veterans Educational Assistance Program)
+
+Chapter 33 of 
+Title 38, United States Code
+ (Post-9/11 Educational Assistance)
+
+Chapter 35 of 
+Title 38, United States Code
+ (Survivors’ and Dependents’ Educational Assistance Program)
+
+Section 903 of the 
+Department of Defense Authorization Act, 1981
+ (10 U.S.C. 2141 note) (Educational Assistance Pilot Program)
+
+Section 156(b) of the “Joint Resolution making further continuing appropriations and providing for productive employment for the fiscal year 1983, and for other purposes” (42 U.S.C. 402 note) (Restored Entitlement Program for Survivors, also known as “Quayle benefits”)
+
+The provisions of Chapter 3 of 
+Title 37, United States Code
+, related to subsistence allowances for members of the Reserve Officers Training Corps
+
+Note:
+ The above list of federal veterans education benefits to be excluded from OFA previously included benefits received under the Veterans Retraining Assistance Program (VRAP) and the Veterans Rapid Retraining Assistance Program (VRRAP). As a result of a change made by the 
+FAFSA Simplification Act
+, only federal veterans education benefits that are specifically listed in the HEA may be excluded from OFA. Because benefits received under the VRAP and VRRAP programs are not included in the statutory list of federal veterans education benefits to be excluded from OFA, they have been removed from this list.
+
+Volume 3, Chapter 3, Table 1: Examples of Other Financial Assistance
+
+Counted as OFA
+
+Any educational benefits paid because of enrollment in postsecondary education, such as:
+
+Pell Grants;
+
+Direct Subsidized Loans (gross amount, including origination fees);
+
+Direct Unsubsidized and PLUS Loans (gross amount, including origination fees), except amounts used to replace the SAI (see below);
+
+Long-term need-based loans, including loans made by the school (but not short-term emergency loans – see “Not counted as OFA”);
+
+Grants, including FSEOG and state grants;
+
+Scholarships, including athletic scholarships and scholarships that require future employment but are given in the current year;
+
+Employer reimbursement of employee’s tuition;
+
+Waivers of tuition and fees;
+
+Fellowships or assistantships, except non-need-based employment portions of such awards;
+
+Income from insurance programs that pay for the student’s education;
+
+Net income from need-based employment such as FWS;
+
+AmeriCorps awards or post-service benefits (except when determining eligibility for Direct Subsidized Loans);
+
+McNair Postbaccalaureate Achievement Program;
+
+TEACH Grants (except amounts used to replace the SAI - see “Not counted as OFA”);
+
+Private education loans (except amounts used to replace the SAI - see “Not counted as OFA”); and
+
+Funds received through income share agreements (see the Note below) that are used to finance a student’s expenses for postsecondary education.
+
+Not Counted as OFA
+
+Wages from non-need-based employment (including compensation received by student athletes under NIL contracts);
+
+Veterans education benefits listed in the 
+Appendix
+ at the end of this chapter;
+
+When awarding Campus-Based or TEACH Grant funds, the amount of any Direct Subsidized Loan that is equal to or less than the amount of the student’s AmeriCorps national service education awards or post-service benefits paid for the student’s COA;
+
+When determining eligibility for Direct Subsidized Loans, AmeriCorps national service education awards or post-service benefits;
+
+The amounts of any TEACH Grants, Direct Unsubsidized Loans, Direct PLUS Loans, and non-federal non-need-based loans, including private, state-sponsored, and institutional loans, that are used to replace the SAI (amounts that exceed the SAI must be treated as OFA);
+
+Foster care benefits received under 
+Title IV
+, Part E, of the Social Security Act, including education and training vouchers and room and board that students receive as extended foster care benefits under Section 477 of the Social Security Act; and
+
+Emergency financial assistance provided to a student (for example, emergency grants or short-term emergency loans) for expenses that are associated with an allowable COA component and not otherwise included in the student’s COA.
+
+Note:
+ A student loan originator's income share agreement (ISA) that is used to finance a student's postsecondary education expenses is considered to be a private education loan. For more information see the 
+March 2, 2022 Electronic Announcement
+ posted in the Knowledge Center.
+
+Recalculation
+
+Any time a student begins attendance in at least one course but does not begin attendance in all the courses they were scheduled to attend and on which eligibility for 
+Title IV
+ Aid was based, the school must recalculate the student’s eligibility for Pell Grants and TEACH Grants, based on the revised enrollment intensity (for Pell Grants) or enrollment status (for TEACH Grants) and COA. For the Campus-Based programs, if a change in a student’s enrollment status results in a change in the student’s COA, the school must recalculate the student’s eligibility based on the revised COA. In this circumstance, the $300 overaward tolerance under the Campus-Based programs does not apply (see “Campus-Based Overaward Threshold” later in this chapter for more information).
+
+A school may adopt a recalculation policy that is stricter than what the regulations require (for example, a policy that requires recalculation up to a census date or any time within a term or period of enrollment). If a school adopts a policy of recalculating Pell Grants and TEACH Grants when a student’s enrollment intensity or status changes within a term or period of enrollment, the policy must be applied consistently to all students. Therefore, if your school chooses to recalculate Pell Grants and TEACH Grants for a student whose enrollment intensity or enrollment status in a program increases (for example, from half-time to full-time), it must also recalculate for a student whose enrollment intensity or status decreases.
+
+Once you have recalculated a student’s eligibility, 
+Title IV
+ funds in excess of the amount the student is eligible to receive must be returned or re-awarded, as applicable. For guidance on handling excess cash resulting from recalculations of aid eligibility due to enrollment intensity or status changes, see 
+Volume 4
+, Chapter 1.
+
+Recalculation and Direct Loans
+
+If a student’s enrollment status changes after the student has already received one or more Direct Loan disbursements, no recalculation of the previously disbursed Direct Loan amount is required. For information on how changes in enrollment status may affect a student’s eligibility to receive pending Direct Loan disbursements, see 
+Volume 8
+, Chapter 1.
+
+Recalculation and Pell Grants
+
+Since Pell Grants are always based on the full-time COA, recalculation means that you are looking at the student’s revised enrollment intensity. For more detail on recalculating Pell Grants, see 
+Volume 7
+, Chapter 7.
+
+Recalculating COA
+
+When performing a recalculation a school may not include in the COA costs associated with any classes the student failed to begin. In addition, in determining a student’s COA a school may not include any costs for a period when the student was not enrolled in and attending any 
+Title IV
+ eligible classes (other than costs for a brief period between regularly scheduled terms or semesters). Note that some components of COA are not included if a student is enrolled less than half time (see Chapter 2 of this volume).
+
+A school that performs a Return of 
+Title IV
+ Funds calculation on a period of enrollment basis for a student enrolled in a program offered in modules may not include in the recalculated COA any costs associated with a future payment period for which the student has not confirmed attendance at the time of withdrawal and that does not start within 45 days.
+
+COA Changes Between or Within Payment Periods
+
+A school may have a policy of recalculating awards only when the COA changes from one payment period to the next, and not when the COA changes within a payment period. For example, a school could recalculate awards because of changes to a student’s tuition and fee costs or living situation (e.g., when a student moves off campus) between payment periods.
+
+However, schools also have the option to establish a policy of recalculating financial aid awards when a student’s costs change within a payment period. For instance, if a student with no dependents moves from a dormitory to off-campus housing at midterm, a school could choose to recalculate the student’s award for that payment period. For Pell Grant purposes, such a policy is acceptable if it’s carried out for all students whose costs change within the payment period.
+
+Note that schools are not limited to one or the other of the policies described above. Schools may have a policy of recalculating awards when there is a change in costs at any time during an award year (whether within a payment period or between payment periods), as long as the recalculation policy is carried out for all students whose costs change.
+
+Schools may not recalculate the payment for a payment period that took place 
+before
+ the cost change. For instance, if a student lives in the dormitory during the first quarter and then moves off campus for the second and third quarters, the recalculation would only affect the payments for the second and third quarters.
+
+Crossover Periods
+
+Crossover periods are payment, award, or loan periods that overlap two award years. With one exception, you may choose which award year SAI to use for a student. The exception is that when awarding FWS to a student not attending classes, the SAI for the next period of enrollment must be used.
+
+Table 2 at the end of this section summarizes the options for handling crossover payment periods in the 
+Title IV
+ programs. Note that for the award year selected, the student must have an official SAI calculated by the FAFSA Processing System (FPS), and for a Pell Grant the FPS must also have processed a valid 
+Institutional Student Information Record
+ (ISIR) or 
+FAFSA Submission Summary
+.
+
+Pell Crossover Issues
+
+For Pell Grant purposes, you may assign crossover payment periods to the award year that best meets the needs of your students and maximizes a student’s eligibility over the two award years in which the crossover payment period occurs. You may assign the Pell Grant award to a different award year than the award year used for awarding the rest of the student’s 
+Title IV
+ aid. For more detail on calculating Pell Grant awards in crossover, summer, mini-session, and transfer situations, see 
+Volume 7
+, Chapter 5.
+
+Crossover Period SAIs and 
+Title IV
+ Aid
+
+In a crossover payment period, when using Pell Grant funds from a different award year than the award year used to award other 
+Title IV
+ aid, you must use the same SAI, COA, and need for all programs except the Pell Grant Program. For Pell Grants, you use the SAI, COA, and need for the award year from which the student will be paid, and use the amount of Pell Grant funds received in determining remaining need when packaging aid from other 
+Title IV
+ programs.
+
+Volume 3, Chapter 3, Table 2: Awarding Title IV Aid for Crossover Periods
+
+Title IV
+ Program
+
+Applicable crossover period
+
+Choice of award year SAI?
+
+Use same award year SAI for all students in crossover period?
+
+Use same award year, SAI, COA, and need to award student other 
+Title IV
+ aid?
+
+Use funds from the same award year as SAI?
+
+Choice of academic year for annual loan limit regardless of award year SAI used?
+
+Pell Grant
+
+Payment period
+
+Yes
+
+No
+
+Not applicable
+
+Yes
+
+Not applicable
+
+FWS
+
+Award period
+
+Yes, if student is attending classes. (If student is not attending, you must use SAI for next period of enrollment)
+
+No
+
+Yes, except for Pell Grant
+
+No, disbursement from award year in which hours were worked
+
+Not applicable
+
+FSEOG
+
+Payment period
+
+Yes
+
+No
+
+Yes, except for Pell Grant
+
+No
+
+Not applicable
+
+Direct Loans
+
+Loan period
+
+Yes
+
+No
+
+Yes, except for Pell Grant
+
+Not applicable
+
+Yes, for term-based credit-hour programs using SAY. Not relevant for BBAY.
+
+Packaging Veterans Benefits, AmeriCorps, Vocational Rehabilitation Funds, and BIA Grants
+
+Veterans Education Benefits
+
+For 
+Title IV
+ purposes, federal veterans education benefits, as defined under Section 480(c) of the HEA, are not treated as OFA. You can ask the student to identify the specific program under which they are receiving their veterans education benefits. Veterans education benefits are also not to be counted as income, and therefore are not reported as income on the FAFSA form. For a list of federal veterans education benefits that are to be excluded from OFA, see the 
+Appendix
+ at the end of this chapter.
+
+Noneducational veterans benefits
+ are also not counted as OFA. Noneducational veterans benefits include Death Pension and Dependency and Indemnity Compensation (DIC) benefits, and income from the Veteran’s Affairs Student Work-Study Allowance Program (VASWSAP). The student must report these noneducational benefits as nontaxable income on the FAFSA form.
+
+ Veterans Benefits Not OFA
+ 
+
+Veterans benefits not OFA reference 
+
+August 13, 2009 Electronic Announcement
+
+HEA 480(c)
+
+AmeriCorps Benefits
+
+AmeriCorps benefits are not included as OFA when determining eligibility for Direct Subsidized Loans, but they are counted as OFA when determining eligibility for Direct Unsubsidized Loans.
+
+When packaging Campus-Based or TEACH Grant awards, you may exclude from the OFA any portion of a Direct Subsidized Loan that is equal to or less than the amount of the student’s AmeriCorps benefits.
+
+Volume 3, Chapter 3, Example 6: Packaging When a Student Receives AmeriCorps Benefits
+
+A third-year dependent student has a COA of $15,000 and an SAI of 2,400, and is receiving a $5,100 Pell Grant*, $3,000 in AmeriCorps benefits and $1,000 in FSEOG. Because AmeriCorps benefits are not counted as OFA when determining eligibility for Direct Subsidized Loan, you may award the student $5,500 in Direct Subsidized Loan funds:
+
+$15,000 COA – 2,400 SAI – $5,100 Pell Grant* – $1,000 FSEOG = $6,500 Direct Subsidized Loan eligibility (limited to $5,500 because of the annual loan limit)
+
+In contrast, AmeriCorps benefits are considered OFA when determining eligibility for Direct Unsubsidized Loans. Therefore, the student may receive an additional $455 in Direct Unsubsidized Loan funds to replace part of the SAI and fully cover the COA:
+
+$15,000 COA – $5,100 Pell Grant* – $1,000 FSEOG – $3,000 AmeriCorps benefits – $5,500 Direct Unsubsidized Loan = $400 Direct Unsubsidized Loan eligibility
+
+*The $5,100 Pell Grant amount shown in this example is for illustrative purposes only and is not intended to represent the actual Pell Grant amount that a student would be eligible to receive. See 
+Volume 7
+ for guidance on the determination of Pell Grant awards.
+
+Vocational Rehabilitation Funds
+
+If you have a student who qualifies for both 
+Title IV
+ funds and for vocational rehabilitation assistance funds, you should determine the student’s aid package without including costs related to the student’s disability in the student’s COA, and without including anticipated vocational rehabilitation assistance as OFA. In this way, a student with disabilities will be offered the same aid package as a student who is in the same financial situation but who doesn’t have disabilities; the student with disabilities will also receive the maximum amount of vocational rehabilitation aid to which they are entitled. If the vocational rehabilitation agency doesn’t fully meet the student’s disability costs, you may wish to include the unmet disability expenses in the student’s COA and increase the aid award.
+
+Vocational Rehabilitation Agreements with State Agencies
+
+Some state vocational rehabilitation agencies have established agreements with schools that specify how vocational rehabilitation assistance will be coordinated with other forms of financial aid. Check with your school’s vocational rehabilitation coordinator to see if it has such an agreement.
+
+Although vocational rehabilitation funds shouldn’t be considered OFA when you initially package aid for a student, you must coordinate funds available from the vocational rehabilitation agency and from institutional, state, and federal student financial assistance programs to prevent an overaward. The amount of assistance from the vocational rehabilitation agency must be documented in the student’s file.
+
+Coordination With Bureau of Indian Affairs Grants
+
+When packaging Campus-Based aid for a student who is or may be eligible for a Bureau of Indian Affairs (BIA) grant, you must first develop a financial aid package without considering any BIA funds. If the total aid package—after BIA funds are added—does not exceed the student’s need, no adjustment may be made to the aid package. If the total package plus the BIA grant does exceed need, you must eliminate the excess in the following sequence: loans, work-study awards, and grants other than Pell Grants (you may not reduce a Pell Grant or BIA grant). You may alter this sequence of reductions upon the student’s request if you believe it would benefit the student. We encourage you to consult with area officials in charge of BIA postsecondary financial aid when packaging 
+Title IV
+ funds with BIA grants.
+
+ Coordination of BIA Grants With Campus-Based Aid
+ 
+
+Coordination of BIA grants with Campus-Based aid
+
+34 CFR 673.6
+
+Volume 3, Chapter 3, Example 7: Vocational Rehabilitation Packaging
+
+A third-year dependent undergraduate with no financial need will receive $4,000 in vocational rehabilitation aid for the academic year. The original COA at the student’s school is $5,000. In determining the original COA, the school coordinates funding with the vocational rehabilitation agency and chooses to exclude all disability-related expenses that will be covered by the vocational rehabilitation aid. However, the student has $2,000 in additional disability-related expenses that the vocational rehabilitation aid will not cover, so the school increases the COA to $7,000 and awards the student a Direct Unsubsidized Loan for that amount.
+
+Although the combined amount of the $7,000 Direct Loan and the $4,000 in vocational rehabilitation aid exceeds the COA, there is no overaward. This is because the $7,000 COA does not include $4,000 in disability-related expenses that are covered by the student’s vocational rehabilitation aid. Since the $4,000 in vocational rehabilitation aid is not covering any component of the COA, it must also not be counted as OFA. However, if the school had not initially excluded from the COA all the disability-related expenses that were covered by the $4,000 in vocational rehabilitation aid, the amount of the vocational rehabilitation aid that exceeded the excluded disability expenses would have to be counted as OFA.
+
+Treatment of Overawards
+
+If, 
+at any time during the award period
+, a student receives additional OFA that was not considered in calculating the student’s eligibility for Campus-Based aid, and if the OFA combined with the expected financial aid will exceed the student’s need, the amount in excess of the student’s need is considered an overaward.
+
+The treatment of overawards in the Direct Loan Program depends on whether the loan has been fully disbursed. If you discover that there will be an overaward before Direct Loan funds are disbursed, you must eliminate the overaward through the packaging process by canceling or reducing the amount of the Direct Loan, or by canceling or reducing other aid over which you have direct institutional control.
+
+If the overaward occurs after Direct Loan funds have been disbursed to the borrower, there is no Direct Loan overaward that needs to be addressed; however, you might need to adjust the student’s aid package to prevent an overaward of Campus-Based funds.
+
+See 
+Volume 4
+, Chapter 3, for a full discussion of overawards for all programs.
+
+Campus-Based Overaward Threshold
+
+Campus-Based aid need not be reduced if the overaward doesn’t exceed $300, which is the overaward threshold for all Campus-Based programs. Note that the $300 threshold is allowed only if an overaward occurs after Campus-Based aid has been packaged and the school was unaware the student would receive additional funds. The threshold does not allow a school to deliberately award Campus-Based aid that, in combination with other resources, exceeds the student’s financial need.
+
+Prohibition on Using Pell To Pay Loans
+
+If a Pell Grant recipient’s aid package includes a loan and the package must be adjusted to prevent an overaward, the Pell Grant funds can’t be used to pay back the loan. A payment on a student loan isn’t an educational expense.
+
+Other Packaging Considerations
+
+Initially Ineligible Programs That Gain Eligibility
+
+If a previously ineligible program later gains 
+Title IV
+ eligibility, you may award non-loan 
+Title IV
+ aid to students who are already enrolled in the program retroactive to the beginning of the payment period in which the program becomes eligible, and you may award Direct Loans retroactive to the beginning of the period of enrollment (usually the academic year) in which the program becomes eligible, assuming that all other student, program, and school eligibility requirements are met. You may not award 
+Title IV
+ aid for payment periods (non-loan programs) or periods of enrollment (Direct Loans) that a student has already completed at the time the program gains eligibility.
+
+Financial Aid Offers and Notification Requirements
+
+Many schools use a financial aid offer, in either paper or electronic format, to notify students of their proposed aid package. Whether you use a paper letter or other electronic means such as email, you must fulfill the consumer information requirements, as described in 
+Volume 2
+, Chapter 6. You are also responsible for certain notifications and authorizations at the time of disbursement, as described in 
+Volume 4
+, Chapter 2.
+
+Schools may choose to use the 
+College Financing Plan
+, developed by the Department as a standardized form to simplify cost and financial aid information provided to prospective students.
+
+Previous
+
+Next
+
+ Last Modified: 08/22/2025 • Published: 03/28/2021

@@ -1,0 +1,117 @@
+Application and Verification Guide | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Application and Verification Guide
+
+Introduction
+
+This guide is intended for college financial aid administrators and counselors who help students with the financial aid process—completing the Free Application for Federal Student Aid (FAFSA
+®
+) form, verifying information, and making corrections and other changes to the information reported on the FAFSA form.
+
+Throughout the 
+Federal Student Aid Handbook
+, we use “college,” “school,” and “institution” interchangeably unless a more specific use is given. Similarly, “student,” “applicant,” and “aid recipient” are synonyms. “Parents” in this volume refers to the legal parents of dependent students, and “you” refers to the primary audience of the 
+Handbook
+: financial aid administrators at colleges. “We” indicates the U.S. Department of Education (the Department, ED), and “federal student aid” and “
+Title IV
+ aid” are synonymous terms for the financial aid offered by the Department.
+
+We appreciate any comments that you have on the 
+Application and Verification Guide
+ (AVG), as well as all the volumes of the FSA Handbook. We revise the text based on questions and feedback from the financial aid community, so please reach out to us about how to improve the 
+FSA Handbook
+ through the “
+Contact Customer Support
+” feature in our 
+Partner Connect Help Center
+ clicking on “FSA Handbook” under the Topic section.
+
+FAFSA Simplification Act
+
+The 
+FAFSA Simplification Act
+, passed on Dec. 27, 2020, as part of the 
+Consolidated Appropriations Act, 2021
+, mandated a significant overhaul of federal student aid, including the 
+Free Application for Federal Student Aid
+ (FAFSA
+®
+) form, need analysis, and many policies and procedures for schools that participate in the 
+Title IV
+ programs. FSA implemented the 
+FAFSA Simplification Act
+ alongside the 
+FAFSA portion of the Fostering Undergraduate Talent by Unlocking Resources for Education (FUTURE) Act
+ to streamline the FAFSA application process.
+
+Changes From the FUTURE Act
+
+The 
+Fostering Undergraduate Talent by Unlocking Resources for Education (FUTURE) Act
+ authorized a direct data exchange – the FUTURE Act Direct Data Exchange (FA-DDX) – with the Internal Revenue Service (IRS) to facilitate completing the FAFSA form. The previous tool to transfer U.S. income and tax information from the IRS – the IRS Data Retrieval Tool (DRT) – was retired after the close of the 2023-24 application cycle. Implementation of the FA-DDX eliminated the need for most applicants (and their spouse or parents) to self-report their income and tax information reported to the IRS. Also, federal tax information (FTI) that is transferred via the FA-DDX to the FAFSA form is considered verified for 
+Title IV
+ purposes.
+
+Unlike with the IRS-DRT, which allowed applicants to opt in, the FA-DDX 
+requires
+ applicants and contributors (student’s spouse and/or parents, as appropriate) to provide consent and approval for the Department to obtain FTI from the IRS via the FA-DDX and use it to determine the student’s eligibility for federal student aid.
+
+Other Changes
+
+Throughout the AVG, all dates, pertinent tax return and schedule information, along with various resources and references have been updated to support the requirements associated with the 2025-26 processing year and the 2023 base tax year. Where appropriate, links and publications associated with FSA’s Partner Connect and Knowledge Center have been properly updated. We also removed references to COVID-19 guidance and waivers.
+
+Some sections were moved to better align topics and assist with narrative flow. Use the search feature to find sections that may have been relocated. The following describes changes made in each chapter.
+
+Chapter 1: The Application Process
+
+We removed the “Returning FAFSA Filers” section as FAFSA renewal functionality has been deferred for future cycles.
+
+Chapter 2: Filling Out the FAFSA
+
+We added a section on signatures which describes the appropriate use of the signature page from the FAFSA Partner Portal (FPP).
+
+We expanded the “Student Tax Filing Status (19)” section to include subsections on (1) nontax filers, foreign countries, and international organizations and (2) fiscal year tax returns.
+
+We updated the tax line number used for education credits to IRS Form 1040: line 29 + IRS Form 1040 Schedule 3: line 3.
+
+We moved the section on foreign earned income exclusion to Chapter 5.
+
+We expanded “Parent Tax Filing Status (37)” section to explain the six answer options on the FAFSA form and when each answer should be selected. This section also explains when an answer to this question might be conflicting information that requires resolution (comment code 303).
+
+Chapter 3: Student Aid Index (SAI) and Pell Grant Eligibility
+
+Edits to this chapter include general changes and updated links, but no significant changes or reorganization.
+
+Chapter 4: Verification, Updates, and Corrections
+
+We added a note regarding the unavailability of the 
+Verification of Identity
+ functionality in the FPP and the flexibility the Department provided around reporting timeframes.
+
+We added a note to the “Using the Tax Return” section regarding the treatment negative values when calculating Income Earned from Work.
+
+We renamed the “Special Cases” section to “Unique Situations and Exceptions” and moved “Verification for Confined or Incarcerated Individuals” to a subsection under this renamed section.
+
+Under “Filers of Amended Returns”, we removed the exception to not update tax information for certain amended tax return filers. This exception was outlined in 
+Electronic Announcement GEN-24-29
+ and was limited to the 2024-25 application cycle.
+
+We updated acceptable documentation guidance for individuals who are victims of tax-related identity theft.
+
+We added subsection “Birth of a Child” under the “Updating Information” section.
+
+Chapter 5: Special Cases
+
+We moved the section on foreign earned income exclusion from Chapter 2.
+
+Previous
+
+Next
+
+ Last Modified: 12/17/2024 • Published: 03/28/2021

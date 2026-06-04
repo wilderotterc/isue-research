@@ -1,0 +1,1248 @@
+Campus-Based Programs Common Elements | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 1
+
+Campus-Based Programs Common Elements
+
+Campus-Based Programs Overview
+
+Before a school can participate and make awards of 
+Title IV
+ funds in the Campus-Based Programs, it must first enter into a Program Participation Agreement (PPA) with the Department of Education (the Department/ED).
+
+Federal Perkins Loan Program
+
+The term Perkins Loans includes Federal Perkins Loans, National Direct Student Loans (NDSL Loans), and National Defense Student Loans. The authority to make new Perkins Loans provided under the Perkins Loan Extension Act of 2015 has expired. No Perkins disbursements of any type are permitted under any circumstance after June 30, 2018. For more on administering the Perkins wind-down, see 
+Chapter 3
+ of this volume.
+
+Federal Supplemental Educational Opportunity Grant (FSEOG) Program
+
+The Federal Supplemental Educational Opportunity Grant (FSEOG) Program provides assistance to exceptionally needy undergraduate students. Students are considered exceptionally needy if they have among the lowest Student Aid Indexes (SAIs). For FSEOG, first awarding priority must be given to Pell Grant recipients. Schools selecting FSEOG recipients must use the selection criteria discussed in Chapter 6 of this volume.
+
+Federal Work-Study (FWS) Program
+
+The Federal Work-Study (FWS) program provides part-time employment to undergraduate and graduate students who need the earnings to help meet their costs of postsecondary education. The FWS program encourages students receiving FWS assistance to participate in community service activities. For more on FWS requirements, including community service activities, see Chapter 2 of this volume.
+
+ Campus-Based Regulatory Citations
+ 
+
+Perkins 
+34 CFR 674.1
+, FWS 
+34 CFR 675.1
+, FSEOG 
+34 CFR 676.1
+
+Campus-Based Aid General Requirements
+
+Unlike the Direct and Direct PLUS Loan programs, a student does not have to be enrolled at least half-time to be eligible to receive aid through the Campus-Based Programs unless the student is seeking aid to attend a teacher certification or professional credential program.
+
+A student enrolled as an undergraduate, graduate, or professional student is eligible to receive assistance from the Federal Work-Study (FWS) program. Only undergraduate students who do not have a baccalaureate or first professional degree are eligible to receive Federal Supplemental Educational Opportunity Grants (FSEOGs). This means that a student who has earned a bachelor’s or first professional degree may receive FWS wages to pursue an additional undergraduate degree but may not receive an FSEOG.
+
+Campus-Based & Other Eligibility Rules for the Freely Associated States
+
+Students from the Freely Associated States can be eligible for certain types of 
+Title IV
+ aid, including some types of Campus-Based aid, if they meet the eligibility criteria of the 
+Title IV
+ program. Students from all of the Freely Associated States are ineligible for Direct Loans and TEACH Grants.
+
+Citizens of all three of the Freely Associated States are eligible for Pell Grants, if they meet the Pell Grant eligibility criteria (
+see 
+Volume 7
+). Citizens of the Federated States of Micronesia and The Republic of the Marshall Islands have had their eligibility reinstated for FSEOG and FWS. Citizens of the Republic of Palau continue to remain eligible for FSEOG and FWS.
+
+In order to be eligible to participate in the 
+Title IV
+ programs, a school must not charge a student from any of the Freely Associated States a rate of tuition which is greater than the rate charged for residents of the state in which the school is located.
+
+ Campus-Based Eligibility for the Freely Associated States
+ 
+
+Electronic Announcement GEN-24-50
+
+The Consolidated Appropriations Act of 2024, Division G, Title II, Sec 209(b)(1…
+
+Campus-Based Eligibility for Religious Orders
+
+Certain members of religious orders who had previously been considered to have no financial need for Campus-Based Programs may now be considered to have financial need for the FWS and FSEOG programs, in accordance with Part F of 
+Title IV
+ of the HEA. These students may be eligible to receive Campus-Based funds if they meet all other student and program-specific eligibility criteria of the Campus-Based Programs. For more details, see the 
+TEACH Grant/Faith-Based Federal Register Final Rule of August 14, 2020
+.
+
+Program Participation Agreement (PPA)
+
+When a school completes its Application to Participate (E-App) (or its recertification), the school can elect participation in one or more of the Campus-Based Programs. When a school’s application is approved (see 
+Volume 2, School Eligibility and Operations
+), the Department sends an electronic notice to the school's president or chief executive officer and the school's financial aid office, notifying them that the school’s PPA is available to print, review, sign, and return (the president/CEO signs).
+
+Under the PPA, the school agrees to use the funds it receives solely for the purposes specified in the regulations for that program and to administer each program in accordance with the Higher Education Act of 1965 (HEA), as amended, and the 
+Program Participation Agreement regulations under 34 CFR 668.14
+. In addition to the requirements generally applicable to the 
+Title IV
+ programs contained in the PPA, there are also specific requirements unique to the Federal Perkins Loan, FSEOG, and FWS programs.
+
+Perkins PPA Requirements
+
+The authority to make new Perkins Loans provided under the Perkins Loan Extension Act of 2015 has expired. No Perkins disbursements of any type are permitted under any circumstances after June 30, 2018. If you awarded a Perkins Loan after September 30, 2017, or made a disbursement after June 30, 2018, the award or disbursement was made in error and must be corrected. In this case, you must 1) reimburse the Perkins Loan Revolving Fund for the amount of the loan(s), 2) correct the FISAP, 3) notify the borrower, and 4) update NSLDS accordingly. For more details, see 
+DCL GEN-17-10
+ and the 
+Electronic Announcement of Dec 20, 2018
+.
+
+Although schools may no longer make any 
+new
+ Perkins Loans, as long as a school is continuing to service its existing Perkins Loan portfolio, it is required to continue reporting its Perkins Loan Activity annually on its Fiscal Operations Report and Application to Participate (FISAP). Until the school has officially liquidated, the agreement for the Federal Perkins Loan Program requires the school to establish and maintain a fund and to deposit into the Fund:
+
+any Federal Capital Contribution (FCC) the school previously received for the program. (Congress has not authorized any FCC for the Perkins Loan Program since the 2004–2005 award year);
+
+the Institutional Capital Contribution (ICC), previously deposited into the Fund;
+
+payments the school receives for repayment of loan principal, interest, collection charges, and penalty or late charges on loans from the Fund; and
+
+any other earnings on fund assets, including net interest earnings on funds deposited in an interest-bearing account (total interest minus bank charges incurred on the account).
+
+The institution shall use the money in the Fund only for:
+
+distribution of assets provided for in section 466 of the 
+Higher Education Act
+ (HEA);
+
+litigation costs (see 674.47); and
+
+other collection costs, agreed to by the Secretary in connection with the collection of principal, interest, and late charges on a loan made from the Fund (see 674.47).
+
+Federal Work-Study PPA Requirements
+
+Under the PPA, schools participating in the FWS Program must:
+
+make FWS employment reasonably available, to the extent of available funds, to all eligible students;
+
+award FWS employment, to the maximum extent practicable, that will complement and reinforce each recipient’s educational program or career goals;
+
+assure that FWS employment is used to support programs for supportive services to students with disabilities; and
+
+inform all eligible students of the opportunity to perform community service and consult with local nonprofit, government, and community-based organizations to identify those opportunities.
+
+FSEOG PPA Requirements
+
+Under the PPA, schools participating in the FSEOG Program must use the funds they receive solely to award grants to financially needy students to help those students pay their educational costs.
+
+A student at an institution of higher education is eligible to receive an FSEOG for an award year if the student:
+
+meets the relevant eligibility requirements contained in 
+34 CFR 668.32
+;
+
+is enrolled or accepted for enrollment as an undergraduate student at the institution; and
+
+has financial need as determined in accordance with part F of 
+Title IV
+ of the HEA.
+
+ Program Participation Requirements
+ 
+
+Program participation requirements
+
+General: 
+34 CFR 668.14
+
+PPA requirements for Perkins: 
+34 CFR 674.8
+
+PPA requirements for Federal Work-Study: 
+34 CFR 675.8
+
+PPA requirements for FSEOG: 
+34 CFR 676.8
+
+Determining Student Eligibility
+
+Each Campus-Based Program has program-specific eligibility criteria. However, before applying the program-specific program criteria, a school must determine that a student satisfies the general student eligibility criteria for receiving 
+Title IV
+ funds.
+
+To be eligible to receive 
+Title IV
+ funds, a student must be 
+enrolled
+ as a 
+regular student
+ in an 
+eligible educational program
+ at an 
+eligible institution
+ for the purpose of obtaining a degree, certificate, or other recognized educational credential offered by that institution and meet the student eligibility criteria specified in 
+34 CFR 668.32
+ through 
+668.34
+ (
+34 CFR 668.32(a)(1)(i)
+).
+
+Enrolled
+–The status of a student who (1) Has completed the registration requirements (except for the payment of tuition and fees) at the institution that he or she is attending; or (2) Has been admitted into an educational program offered predominantly by correspondence and has submitted one lesson, completed by him or her after acceptance for enrollment and without the help of a representative of the institution. (
+34 CFR 668.2
+)
+
+Regular Student
+–A person who is enrolled or accepted for enrollment at an institution for the purpose of obtaining a degree, certificate, or other recognized educational credential offered by that institution (
+34 CFR 600.2
+).
+
+Eligible Educational Program
+–A legally authorized postsecondary program of organized instruction or study that leads to an academic, professional, or vocational degree, or certificate, or other recognized educational credential, or is a comprehensive transition and postsecondary program, as described in 
+34 CFR 668.8
+.
+
+Eligible Institution
+–An institution that qualifies as an institution of higher education, as defined in 
+34 CFR 600.4
+; a proprietary institution of higher education, as defined in 
+34 CFR 600.5
+; or a postsecondary vocational institution, as defined in 
+34 CFR 600.6
+; and meets all the other applicable provisions of 
+34 CFR 600.2
+.
+
+The Campus-Based Funding Process
+
+Fiscal Operations Report—The Application to Participate (FISAP)
+
+The FISAP is divided into six parts:
+
+Part I – Identifying Information and Certifications;
+
+Part II – The Application to Participate in the Campus-Based Programs in the upcoming award year;
+
+Part III – The Fiscal Operations Report, in which schools provide information on all Perkins activity made during the award year just completed;
+
+Part IV – The Fiscal Operations Report, in which schools provide information on the FSEOG expenditures;
+
+Part V – The Fiscal Operations Report, in which schools provide information on the FWS expenditures; and
+
+Part VI – Program summary for award year by student type.
+
+Any school that wants Campus-Based Program funds for an upcoming year and all schools that have received Campus-Based Program funds for the reporting year, or are still servicing their existing Perkins Loan portfolio, must complete the FISAP. All schools that complete a FISAP must provide the information requested in the 
+Identifying Information, Certifications, and Warning
+ section. A school that wishes to apply for Campus-Based Program funds for the coming year must complete 
+The Application to Participate
+ section of the FISAP. A school that received Campus-Based Program funds for the award year that just ended must complete 
+The Fiscal Operations Report
+ portion of the FISAP.
+
+The Department uses the information your school provides in the FISAP to determine the amount of funds your school will receive for the FWS and FSEOG Programs. The Department uses your Fiscal Operations Report data to manage the Federal Perkins Loan Program and monitor expenditures in the Campus-Based Programs.
+
+For program review and audit purposes, you must retain accurate and verifiable records for three years following the end of the award year in which the FISAP is submitted. For example, the award year in which you will submit the FISAP due on October 1, 2025 ends on June 30, 2026 (2025-26 runs from July 1, 2025 through June 30, 2026). You must retain all records used in the creation of the FISAP due on October 1, 2025 until June 30, 2029 (three years from June 30, 2026—the end of the award year in which the FISAP is submitted).
+
+The important dates for schools in the FISAP process for 2025-26 are:
+
+August 1, 2025
+—Deadline for ED to make the FISAP software available in the Common Origination and Disbursement (COD) System. (Report 2024-25 data/Request 2026-27 funds)
+
+August 20, 2025
+—Deadline for submitting the Campus-Based Reallocation form, for return of 2024-25 funds and to request supplemental FWS funds for 2025-26 (see the COD website)
+
+October 1, 2025
+—the final deadline for submitting the FISAP to the Department (Report 2024-25 data and request 2026-27 funds) through the COD website and mailing the signature page.
+
+October 1, 2025
+—Work Colleges Report of 2024-25 expenditures is due
+
+October 31, 2025
+—Deadline for submitting the Institutional Application and Agreement for Participation in the Work Colleges Program for the 2026-27 award year for new applicants (see March deadline below for returning applicants)
+
+December 15, 2025
+—All corrections to FISAP data and resolution of edits must be submitted to the Department through the FISAP corrections process on the COD website
+
+December 15, 2025
+—Deadline for submitting the FISAP Perkins Cash on Hand Update as of October 31, 2025, through the COD website
+
+January 30, 2026
+—ED posts to COD tentative 2026-27 FWS and FSEOG award notifications for all eligible schools
+
+February 2, 2026
+—Deadline for Request for waivers of the underuse penalty on 2026-27 funds, for underuse of 2024-25 funds (submit through the 
+COD website
+)
+
+April 7, 2025
+—Deadline for applying for Designation as a Title III or Title V institution for FY 2025, for purposes of eligibility for waiver of non-federal share requirement for FWS and FSEOG programs for 2025-26
+
+By March 1, 2026
+—Closeout of 2024-25 FWS and FSEOG (for unexpended funds as reported on the FISAP) occurs in the G5 system
+
+March 2, 2026
+—Deadline for submitting Application and Agreement for Participation in the Work Colleges Program for 2026-27 for returning applicants only (see October 31 deadline above for new applicants)
+
+April 1, 2026
+—Deadline for the Department to send 2026-27 final FSEOG and FWS award notifications to all eligible schools (posted to COD)
+
+April 20, 2026
+—Deadline for submitting request for a waiver of the FWS Community Service Expenditure requirements for 2026-27
+
+Throughout the year, in its Electronic Announcements, the Department will continue to provide updated Electronic Announcements for the individual deadline dates listed here. You will find these Electronic Announcements on the Knowledge Center website, at: 
+https://fsapartners.ed.gov/knowledge-center
+. You will find additional information on the Fiscal Operations Report later in this chapter. For more details on submitting data to satisfy these requirements and deadlines, see the 2025-26 Award Year Deadline Dates 
+Federal Register Notice of May 22, 2025
+.
+
+ FISAP Documents
+ 
+
+You can access FISAP reference material at:
+
+Final FISAP Form, Instructions, Desk Reference, and Technical Reference
+
+Submitting the FISAP & Part I, Identifying Information and Certifications
+
+Schools submit the FISAP through the COD website, available at: cod.ed.gov. The FISAP is available for completion on the COD website by August 1 of each year. The FISAP must be completed no later than October 1 of the same year (the deadline will be earlier if October 1st falls on a weekend).
+
+Schools may also make FISAP corrections on the COD website by the December deadline. If you draw down funds in excess of what you’ve reported as expended on the FISAP, a negative balance will result, and you’ll be required to return funds to G5. Remember that simply updating and/or saving new/revised FISAP data points does not result in submission to the Department.
+
+After updating and validating FISAP data, you must complete the process by clicking the “submit” button. When submitting corrections to a previously submitted FISAP, another signature page is not required. To check that your corrections went through successfully, you can log in to the COD website. Go to the “School” tab and select the link for Campus-Based. Then select “Self-Service,” then “Submission Log” to view your log and verify submission.
+
+If the correction deadline has already passed, you may submit a FISAP Change Request in COD, which will be reviewed by FSA. For more information on amending previous submissions, see 
+Volume 4, Processing Aid and Managing FSA Funds
+.
+
+Part I of the FISAP includes several required certifications, including certifications dealing with lobbying and other institutional responsibility matters. See 
+Volume 2, Institutional Eligibility and Operations
+, for more information on these requirements.
+
+The Chief Executive Officer’s signature is required on all forms that require a signature within the COD system. All forms must be signed and submitted by the appropriate deadline date. 
+The Department will only accept the FISAP signature form manually
+. To submit a manual signature for the FISAP, you must print the combined certification and signature pages for your FISAP submission, obtain the CEO’s manual signature, and mail these documents (with the original signature) to the address below.
+
+Send certification/signature pages to:
+
+Certification/Signature Page Address
+
+FISAP Administrator
+
+U.S. Department of Education
+
+P.O. Box 1130
+
+Fairfax, VA 22038
+
+Overnight Delivery:
+
+Overnight Delivery Address
+
+FISAP Administrator
+
+U.S. Department of Education
+
+4050 Legato Rd #1100
+
+Fairfax, VA 22033
+
+ Campus-Based Call Center
+ 
+
+For assistance submitting corrections for closed years or for questions concerning the preparation of the FISAP, contact the FSA Partner and School Relations Center at 1-800-848-0978 and 
+CODSupport@ed.gov
+.
+
+ Annual Campus-Based Deadlines
+ 
+
+The Campus-Based Deadline dates Federal Register (FR) notices are listed by year at: 
+https://fsapartners.ed.gov/knowledge-center/topics/campus-based-processing-information/campus-based-deadlines
+
+FISAP Part II, Application to Participate
+
+Part II of the FISAP is the Application to Participate. In Part II, you request an amount of FSEOG and FWS funding for the application year, as well as report on data from the reporting year which is used in the funding formula. Changes to your data in Part II from year to year can prompt changes in funding levels. FISAP validation edits are triggered when there are very significant changes in a school’s data from the prior year and are indicative of potential reporting errors.
+
+Besides verifying the accuracy of your Part II data upon submission (and making any necessary corrections prior to the FISAP correction deadline on December 15, 2025), as noted later in this chapter, you should also review your tentative funding worksheet as soon as it is made available to plan for any changes in funding levels as a result of Part II changes. It is imperative that you report any concerns with your tentative funding levels to the FSA Partner and School Relations Center in a timely manner, as funding increases may only be considered before final awards are generated.
+
+Parts III through VI of the FISAP are also known as the FISOP, or Fiscal Operations Report. For more on the FISOP, see the Fiscal Operations Report section later in this chapter.
+
+Treatment of FWS in 90/10 Calculation
+
+The 90/10 rule caps the percentage of revenue that a proprietary school can receive from federal financial aid sources at 90%. The remaining 10% of revenue must come from other, nonfederal sources. FWS funds received by the school are excluded from revenues in the 90/10 calculation, unless the school used those funds to pay for a student’s institutional charges. (See 
+Volume 2
+ for further discussion of the 90/10 calculation.)
+
+First-Time Campus-Based Program School Applicants
+
+A school that has applied to participate in the Campus-Based Programs for the first time should submit a FISAP by the deadline even if the school has not been certified to participate in the programs. The Department will calculate a funding level for the school and put the funding on “hold” status until the school has been approved to participate. See “Allocation of FWS & FSEOG Funds” later in this chapter for more information.
+
+Release of Tentative and Final Funding Levels
+
+Your school’s funding levels and corresponding worksheets will be posted in the “Self-Service” area on the COD website at cod.ed.gov. Your school’s Campus-Based contact will be notified by email when the tentative and the final funding levels are issued. It is imperative that schools review the tentative funding levels on the COD website before the school’s final funding is determined. If you feel that either the tentative and/or final funding levels are not correct, contact the FSA Partner and School Relations Center at 1-800-848-0978. For more details, see the 
+https://fsapartners.ed.gov/knowledge-center/library/resource-type/Electronic
+ Announcements">Electronic Announcements on the Knowledge Center
+ for 
+tentative and final
+ funding levels, HEA 462(a), and 
+34 CFR 673.4
+.
+
+Allocation of FWS & FSEOG Funds
+
+The Department allocates funds for the FWS and FSEOG Programs directly to schools each award year, indicating the amount of funding for each program the school is authorized to receive from the Department for the award year. Using the information on the FISAP, the Department calculates the allocation amount using statutory formulas and the amount of funds appropriated by Congress for the program(s). A school will not receive an allocation that is in excess of its request.
+
+A school can receive two types of fund allocations—initial and supplemental.
+
+Initial Allocation
+—the amount that the Department first allocates to each participating school for an award year from new funds appropriated by Congress, according to statutory allocation formulas. An eligible school receives an initial allocation for each program in which the school participates.
+
+Supplemental Allocation
+—an additional amount of funds from the Department that is reallocated from the amount of unused funds returned from the previous award year by participating schools. Criteria for distributing these funds for each program are established in accordance with the statute and regulation. For more detail on how supplemental funds are calculated and distributed, see 
+Electronic Announcement CB-24-17
+.
+
+Allocation Schedule and Final Funding Worksheet
+
+If your school submits the FISAP by the October deadline with a request for application year funds, the Department will provide your school with a tentative allocation worksheet by February 1 and a final allocation and worksheet by April 1 for the upcoming award year. In an annual Electronic Announcement (EA), the Department notifies schools that they can view the methodology used for final award figures. You can find the final funding worksheets for your school, your Statement of Account (SOA), and your final award at: 
+cod.ed.gov
+. For more information about how Campus-Based funding levels for each program are determined, see the 
+Final Funding Electronic Announcement
+ and the associated worksheets.
+
+To access your school’s final funding level worksheets and individual school awards, log in to the COD website and select “Campus-Based” from the School tab, then select “Self-Service” from the left navigation menu. The “Final Funding Worksheet” shows the data that was used to determine a school’s allocation for each Campus-Based Program in which it participates and how each final allocation was determined.
+
+It is important that schools review their tentative allocations and the supporting worksheets so they can address any concerns before the final allocations are determined.
+
+The final funding worksheet shows the actual numbers that were used to determine a school’s allocation for each Campus-Based Program in which it participates and how each final allocation was determined. If your school is awarded a Supplemental Allocation, the Department will inform you before the end of September of the award year.
+
+If your school received its tentative allocation, but doesn’t receive its final allocation by April 1, it may mean that:
+
+your school lost its eligibility to participate in 
+Title IV
+ programs;
+
+your school is a new applicant for the 
+Title IV
+ programs and/or for the Campus-Based Programs and its participation hasn’t been approved yet;
+
+the Department has not received the FISAP signature/certification form with the required original signature of the school’s CEO; or
+
+Congress has not yet appropriated funds for the year.
+
+If the reason(s) for holding the school’s final allocation is/are resolved, the Department will release the school’s final allocation. For additional information about Campus-Based allocations, contact the FSA Partner and School Relations Center via phone, at 1-800-848-0978, or email, at: 
+CODSupport@ed.gov
+.
+
+Releasing and Reallocation of Funds
+
+If a school does not use its total allocation during an award year, it can release the unexpended portion of the allocation of federal funds to the Department during the month of August following the award year. These released funds can be reallocated to schools that need additional funds for the current award year.
+
+Each year in July, the Department posts an Electronic Announcement on the 
+Knowledge Center
+ that asks schools to release any previous award year funds that they have not expended and offers schools the opportunity to request supplemental FWS funds for employing students in community service jobs. The Reallocation Form for schools wishing to return funds or request supplemental FWS funds can be found in the Forms and Waivers page of the Campus-Based Section of the COD website (cod.ed.gov).
+
+You must complete the Campus-Based Reallocation Form if you:
+
+did not spend your entire allocation in any of the Campus-Based Programs, or
+
+want to request supplemental FWS funds to pay students in community service jobs (based on the criteria discussed later in this chapter).
+
+A school may request supplemental FWS funds if it:
+
+spent at least 5% of its total FWS funds for the award year to compensate students employed as reading tutors of children or in family literacy activities as part of its community service activities, 
+and
+
+has an FWS fair share shortfall as shown on the school’s final funding worksheet, provided with the final allocation letter.
+
+After schools release their unexpended allocations, ED reallocates both the FWS and FSEOG funds to schools that have met the criteria for receiving a supplemental allocation. Criteria for distributing these funds for each program are established in accordance with the HEA and the Campus-Based Program regulations.
+
+ Releasing Unexpended Funds, Reduction and Reallocation
+ 
+
+34 CFR 673.4(d)(3)
+
+Electronic Announcement CB-24-15
+
+Underuse Penalty and Waiver
+
+If a school returns more than 10% of its allocated funds for a given award year in the FWS or FSEOG programs, the Department may reduce the school’s allocation for the second succeeding award year by the dollar amount returned unless the Department waives this provision. For example, if the school returned more than 10% of its 2024-25 allocation, its 2026-27 allocation will be reduced by the dollar amount returned for 2024-25 unless a waiver is requested and approved. Requests for underuse waivers due to underuse which occurs during the 2024-25 award year must be made in the COD system.
+
+The Department may waive this penalty provision for a school if it finds that enforcement would be contrary to the interests of the program. To request a waiver, a school must submit an explanation with its FISAP that shows that the school returned more than 10% of its allocation due to circumstances beyond its control and that are not expected to recur. ED explains the process and deadlines a school must use to request a waiver in the FISAP instructions and in an annual EA. (see below).
+
+ Underuse Penalties and Waivers for Campus-Based Programs
+ 
+
+Electronic Announcement CB-25-01
+
+Payment Methods and Conditions
+
+A school must not request funds in excess of the actual disbursements it has made or will make to students within the timeframe allowed. Before requesting and disbursing 
+Title IV
+ program funds, schools must meet certain conditions. These conditions vary depending on the payment method ED uses to provide funds to schools. Since payment methods aren’t specific to the Campus-Based Programs, they are not described here, but are described in 
+Volume 4, Processing Aid and Managing FSA Funds
+.
+
+Campus-Based overaward tolerance
+
+If a school learns that a student received financial assistance that was not included when calculating their eligibility for Campus-Based aid and that resulted in the student’s total aid exceeding their financial need by more than $300, the school must resolve the overpayment. 
+The $300 overaward tolerance/threshold for the Campus-Based Programs is allowed only if an overaward occurs AFTER Campus-Based aid has been packaged.
+ The threshold does not allow a school to deliberately award Campus-Based aid that, in combination with other aid, exceeds the student’s financial need.
+
+The $300 tolerance includes situations where a student with need ends up with an overaward of up to $300 above Cost of Attendance (COA) as well.
+ For example, a student with a zero Student Aid Index (SAI) and a $10,000 COA originally receives $9,800 in Other Financial Assistance (OFA), which includes Pell Grant, FSEOG, and private scholarship funds (the student did not receive any loan funds). Later in the payment period, the student reports to the school that they just received a $500 merit scholarship from their parent’s employer. Though the $500 exceeds the student’s COA, it only exceeds the student’s need by $300. $200 of the merit scholarship is used to fully meet the student’s need and package the student up to the full COA of $10,000 ($9,800 + $200 = $10,000). The remaining $300 of the merit scholarship, though over the COA, is within the $300 tolerance over the student’s need ($10,000 + $300 = $10,300).
+
+Before reducing a student’s Campus-Based aid, the school should determine if the student has increased need that was not anticipated when they were initially awarded aid. If the student’s need has increased and the total financial assistance does not exceed the revised need by more than $300, the school is not required to take further action. If the student’s need has not increased or it has increased but the total financial assistance still exceeds their need by more than $300, the amount over the $300 threshold is an overpayment that the school must resolve . For more detail on resolving overpayments, see 
+Chapter 3 of 
+Volume 4
+.
+
+Transfer of Campus-Based Funds
+
+To help meet their students’ need, schools may transfer funds to and from the FSEOG and FWS Programs. The Department’s permission is not required. A school’s future allocations for the FWS and FSEOG Programs are not affected by past transferring of funds between programs.
+
+Several general rules apply to the transfer of funds between Campus-Based Programs:
+
+You must award transferred funds according to the requirements of the program to which they are transferred.
+
+You must report the transfer of funds on the Fiscal Operations Report portion of the FISAP.
+
+You may not transfer funds from one program to another unless you have awarded funds to students in the program from which you are transferring in the same award year.
+
+Any transferred funds that are unexpended must be transferred back to the original program at the end of the award year.
+
+You may not transfer funds from one program to another unless you have a federal allocation/authorization in both programs.
+
+The G5 system does not permit moving funds between programs or years. Schools report the transfer of Campus-Based funds on the FISAP only.
+ Adjustments are NOT made in the G5 payment system. In the G5 system, all funds must remain in the original program award identifier (P033AxxXXXX for FWS and P007AxxXXXX for FSEOG) and in the year received.
+
+Descriptions of individual program fund transfers follow.
+
+FSEOG Transfers
+
+A school may transfer up to 25% of the sum of its initial and supplemental FSEOG allocation to its FWS allocation (see note below on temporarily expanded FWS to FSEOG transfer authority). Funds carried to the next year or carried back to the previous year do not change the basis for the 25% maximum transfer. 
+(A school must have an FWS and FSEOG allocation for any year it wants to transfer funds from FSEOG to FWS.)
+ Also, you may not transfer FSEOG funds to FWS unless you have awarded FSEOG funds to students in the same award year that you intend to make the transfer. A school must match any FSEOG funds transferred to FWS at the matching rate of that FWS program, but the match doesn’t have to be made until the transfer has occurred.
+
+FWS Transfers to FSEOG
+
+A school may transfer up to 25% of the sum of its initial and supplemental FWS allocations for an award year to its FSEOG Program. You may not transfer FWS funds to FSEOG unless you have an allocation in both programs and have made awards to students from both programs for the award year. Funds carried forward to the next year or carried back to the previous year do not change the basis for the 25% maximum transfer (see “FSEOG and FWS Carry Forward/Carry Back” section below for more details). You must match any FWS funds transferred to FSEOG at the matching rate of the FSEOG Program, but the match doesn’t have to occur until after the transfer has occurred.
+
+Perkins Transfers Prohibited
+
+The authority to make Perkins Loans has expired. Since schools are no longer making awards for the Perkins Program, schools are no longer permitted to transfer Perkins funds into the other Campus-Based Programs.
+
+ Transfer of Campus-Based Funds
+ 
+
+34 CFR 674.18(b)
+
+34 CFR 675.18
+
+FSEOG and FWS Carry Forward/Carry Back
+
+Your school may spend up to 10% of its initial and supplemental FWS and/or FSEOG authorizations in the following award year (carry forward). Before a school may spend its current year’s allocation, it must spend any funds carried forward from the previous year.
+
+Your school is 
+also
+ permitted to spend up to 10% of its current initial and supplemental FWS and/or FSEOG authorizations for expenses incurred in the previous award year (carry back).
+
+Your school must match FWS or FSEOG funds carried forward or carried back in the award year that they are spent. See “Federal and Nonfederal Shares (Matching)” section below. A school’s future FWS or FSEOG program allocation is not affected by carrying forward or carrying back funds between award years. 
+A school may not transfer funds carried forward or back from one Campus-Based program to a different Campus-Based program.
+ FWS and FSEOG funds that are carried forward and/or carried back must be spent in the award year in which they were carried forward or back. The same funds cannot be carried across more than one award year.
+
+Carry Back Funds for Summer FWS Employment and FSEOG Awards
+
+You may carry back FWS funds for summer employment that is part of the prior award year. That is, you may use any portion of your school’s initial and supplemental FWS authorizations for the current award year to pay student wages earned on or after May 1 of the previous award year but prior to the beginning of the current award year (July 1). This summer carry back authority is in addition to the authority to carry back 10% of the current year’s FWS allocation for use during the previous award year.
+
+Also, your school may spend any portion of its current award year’s initial and supplemental FSEOG allocations to make FSEOG awards to students for payment periods that began on or after May 1 of the prior award year but ended prior to the start of the current award year (
+carry back for summer
+). This carry-back authority for summer FSEOG awards is in addition to the authority to carry back 10% of the current award year’s FSEOG allocation for use during the previous award year.
+
+FWS Limitations on Use of Funds Carried Forward or Back
+
+Schools are not permitted to add funds that are carried forward or back to the total FWS allocation for an award year when determining the maximum percentage of available funds that may be used in that award year for any of the following purposes:
+
+transferring FWS funds to FSEOG,
+
+providing the federal share of wages in private for-profit sector jobs,
+
+the Job Location and Development (JLD) Program.
+
+For example, if a school carries $10,000 forward from 2024-25 to 2025-26, it may not include the $10,000 in the total 2025-26 allocation for these three purposes. For these purposes, the 2025-26 percentage is based on a school’s total FWS initial allocation for 2025-26.
+
+Reporting Funds Carried Forward and Back
+
+On the FISAP, you must report FWS or FSEOG funds that your school carries back and carries forward. For example, if a school carried forward 10% of its FWS 2024-25 allocation to be spent in 2025-26, the school must report this amount on the FISAP in Part V of the Fiscal Operations Report for both 2024-25 and 2025-26.
+
+Questions about Transferring Funds or Carrying Them Forward or Back
+
+If you have questions regarding FSEOG and FWS fund adjustments, transferring funds, or the carry forward and carry back authority, contact the FSA Partner and School Relations Center at: 1-800-848-0978. You may also email the center at: 
+CODSupport@ed.gov
+.
+
+ FSEOG and FWS Carry Forward/Carry Back
+ 
+
+34 CFR 675.18(b),(c),(e) & (f)
+
+Federal and Nonfederal Shares (Matching)
+
+A school’s FWS and FSEOG expenditures are composed of both federal and nonfederal funds. With the exception of certain schools (see below), schools that participate in these programs must provide nonfederal funds as a 
+match
+ for the federal funds they receive. The specific matching requirements for each program are different. For more detail on the requirements of federal and nonfederal shares, see the program-specific sections below and in Chapter 2.
+
+Federal Share of FSEOG
+
+In general, the federal share of FSEOG awards made to students may not exceed 75% of the total FSEOG awards made by the school. The federal share can be 100% for a school designated as an eligible institution under 
+Title III
+ 
+or
+ 
+Title V
+ 
+of the HEA
+. (See the discussion under 
+Title III
+ and 
+Title V
+ Non-Federal Share Requirement Waiver for the FSEOG and FWS Programs below).
+
+Use of State Grants in FSEOG Matching
+
+All state scholarships and grants (including state vocational rehabilitation grants) are eligible funds that may be used to meet the nonfederal share requirement for the FSEOG program. However, if a state grant includes any federal funds, those federal funds may not be included in the match.
+
+ Federal Share
+ 
+
+34 CFR 674.8(a)
+
+34 CFR 675.26
+
+675.33(b)
+
+34 CFR 676.21
+
+FSEOG Nonfederal Share
+
+The school must ensure there is a nonfederal match of at least 25% of the total FSEOG awards. The nonfederal share of FSEOGs must be made from nonfederal resources which the school may allocate. These resources may include:
+
+institutional scholarships and grants;
+
+waivers of tuition or fees;
+
+the nonfederal portion of state scholarships and grants; and
+
+funds from foundations or other charitable organizations.
+
+The nonfederal share requirement is 25% of awards to students. In the following discussion of these methods, you should note that for a student to meet the definition of an FSEOG recipient, some portion of the grant awarded the student must have come from the FSEOG federal dollars. Note that the federal share can be 100% for a school designated as an eligible institution under 
+Title III
+ or 
+Title V
+ of the HEA of the HEA (see the discussion under "
+Title III
+ and 
+Title V
+ Non-Federal Share Requirement Waiver for the FSEOG and FWS Programs," below).
+
+Before you may disburse FSEOG funds for an award period, you must have already satisfied the required nonfederal match (regardless of when in the award period the disbursements are made). The school’s resources used to meet the nonfederal match must be disbursed either before or at the same time as the federal dollars are disbursed. Outside resources (such as state grants, foundation, or other charitable organization funds) can be used to match FSEOGs even if the funds are received at a later date, provided that the school has written information about funds that the noninstitutional agency or organization is awarding to the student involved such that all requirements for the nonfederal match are satisfied. If this is done, the written documentation of amounts and timing of this must be kept on file at the school.
+
+Types of Nonfederal FSEOG Matching
+
+There are several ways to calculate FSEOG to ensure you are meeting the nonfederal FSEOG match requirement.
+
+Individual Recipient Basis
+
+The school ensures that the nonfederal match is made to each individual FSEOG recipient together with the federal share in such a way that 
+every student’s FSEOG award consists of 75% federal funds and 25% qualified nonfederal funds.
+ A school using this method calculates and documents on a student-by-student basis what portion of each student’s FSEOG award comes from federal funds and what portion comes from nonfederal funds. Note that for the purpose of a Return of 
+Title IV
+ Funds calculation, only 75% of the funds are considered federal funds when a school uses this method of matching.
+
+Aggregate Basis
+
+The school must ensure that the sum of all funds awarded to all FSEOG recipients in a given award year consists of 75% federal dollars and 25% qualified nonfederal funds. If you use the aggregate basis method, you document what portion of total federal 
+and
+ qualified nonfederal funds awarded to all FSEOG recipients comes from federal funds and what portion of total funds awarded to all FSEOG recipients comes from federal funds and what portion comes from nonfederal funds.
+
+For example, if you award a total of $60,000 to all FSEOG recipients in an award year, you must ensure that no more than $45,000 comes from federally allocated funds and at least $15,000 comes from nonfederal funds. You may meet this requirement by awarding qualified nonfederal funds to FSEOG recipients on a student- specific basis. If the school makes a total of $60,000 in FSEOG awards to a total of 100 students, the entire nonfederal share may be met by awarding a total of $15,000 in nonfederal resources to FSEOG recipients. 
+However, even with the aggregate basis method, each of your FSEOG recipients must receive some FSEOG federal funds.
+
+Note that for the purpose of a Return of 
+Title IV
+ Funds calculation, only 75% of the funds are considered federal funds when a school uses this method of matching.
+
+Fund-Specific Matching
+
+The school establishes an FSEOG account for federal program funds and deposits the required 25% qualified nonfederal matching share into the fund. Schools using the fund-specific method must deposit their institutional match at the time they receive the federal share funds. The nonfederal matching funds must be deposited at the same time the federal funds are deposited. Awards to FSEOG recipients are then made from this 
+mixed
+ fund. For a Return of 
+Title IV
+ funds calculation, 100% of the funds are considered federal funds when a school uses this method of matching.
+
+ Nonfederal Share of FSEOG
+ 
+
+34 CFR 676.21(c)
+
+Federal Share of Perkins
+
+Federal funds allocated to a school in an award year under the Federal Perkins Loan Program were called the Federal Capital Contribution (FCC), and the matching share by the school was called the Institutional Capital Contribution (ICC). Congress has not authorized any new FCC since the 2004–2005 award year.
+
+Designation as an Eligible Institution for Title III or Title V Programs
+
+The Department’s Office of Postsecondary Education (OPE) has instituted a process known as the Eligibility Matrix (EM) under which institutional data submitted to the Integrated Postsecondary Education Data System (IPEDS) is used to determine which institutions meet the basic eligibility requirements for programs authorized by 
+Title III
+ and/or 
+Title V
+ of the HEA. OPE will review eligibility annually and make the information available at the “Eligibility Designations and Applications for Waiver of Eligibility Requirements” page (
+https://www2.ed.gov/about/offices/list/ope/idues/eligibility.html
+). Institutions may check their status by logging into the HEPIS web portal at:
+
+https://HEPIS.ed.gov/
+
+Returning users may click on “Login” to login via Login.gov. New users may request an account by clicking on “Request an Account.”
+
+Institutions that were determined to be eligible for 
+Title III
+ and 
+Title V
+ grant programs for FY 2025 will automatically receive a waiver of the nonfederal share requirement for the Campus-Based Programs for the 2025-26 award year (see 
+Electronic Announcement CB-25-05
+). FSA sends a notice to the financial aid administrator in late Spring, indicating that the waiver of the non-federal matching requirement for the upcoming award year has been granted.
+
+Institutions that find they are ineligible for 
+Title III
+ or 
+Title V
+ programs in a given year have the option to complete the 
+Application for Designation as an Eligible Institution
+ by the deadline, and submit any additional documentation as requested by OPE for further consideration. Eligibility for 
+Title III
+ and 
+Title V
+ programs is determined by the Office of Postsecondary Education (OPE) at the location level (8-digit OPEID), while the Campus-Based funds are awarded at the main campus level (6-digit OPEID) only. The deadline for the FY 2025 application (and to receive the corresponding waiver of the nonfederal share requirement for the 2025-26 award year) is April 7, 2025 (see 
+Electronic Announcement CB-25-05
+)
+
+This waiver is authorized for use only by the campuses that have been designated by OPE as eligible to participate in the Titles III or V programs.
+ The institutional match must be provided for any portion of your school’s FSEOG and FWS funds expended at a main or branch campus or any additional location that has not been designated as Titles III or V-eligible (provided that campus was eligible to apply for Titles III/V eligibility independently).
+
+The 50% federal share limitation for FWS wages paid to students employed by a private, for-profit organization and the 80% federal share limitation for the administration of the JLD Program are not waived under the Titles III or V designations; this waiver only applies to FWS and FSEOG nonfederal share.
+
+For branch campuses (as defined in 
+34 CFR 600.2
+, not merely an additional location that your school may refer to, for non-
+Title IV
+ purposes, as a branch) that are designated as eligible but the main campus is not designated as eligible, you will need to work with the main campus on funding and claiming the waiver for the branch campus.
+
+Institutions Currently Receiving Funding Under a Titles III or V Grant
+
+A school that receives grant funding under Titles III or V is eligible for the FWS and/or FSEOG nonfederal share waiver for the entire duration of its grant. If the school does not appear on the EM as an eligible institution but is receiving a grant for the year in question, the school is not required to complete the 
+Application for Designation as an Eligible Institution
+ in order to receive the nonfederal share waiver if its grant funding can be verified by OPE.
+
+Schools Designated as Historically Black Colleges and Universities (HBCU) or Tribally Controlled Colleges and Universities (TCU)
+
+A school that has been designated as an HBCU or TCU but does not appear on the EM as an eligible institution is not required to complete the 
+Application for Designation as an Eligible Institution
+ to qualify for the FWS and/or the FSEOG nonfederal share waiver. HBCUs and TCUs automatically qualify for the nonfederal share waiver each year as long as the school maintains this designation.
+
+The Department will send an email to the financial aid administrator of the Titles III or V designated school in early spring indicating that the nonfederal share waiver has been granted for the upcoming award year.
+
+Questions About Titles III or V Eligibility
+
+General electronic announcements will be posted to the Knowledge Center regarding the Titles III or V process. If you have questions about your school’s eligibility for Titles III or V, contact:
+
+Dept of ED contact
+
+U.S. Department of Education
+
+Office of Postsecondary Education
+
+Institutional Service
+
+400 Maryland Avenue
+
+Washington, DC 20202
+
+or
+
+Nemeka Mason-Clercin Contact Info
+
+Nemeka Mason-Clercin
+
+Email: 
+nemeka.mason@ed.gov
+
+Tel: 202-987-1340
+
+For questions about the Title III/V waiver of the nonfederal share requirement for the FWS and FSEOG programs, contact the FSA Partner and School Relations Center at: 1-800- 848-0978. Customer service representatives are available Monday through Friday from 8:00 a.m. until 8:00 p.m. (ET). You may also email the center at: 
+CODSupport@ed.gov
+.
+
+ Designation as a Title III or Title V Institution and FWS/FSEOG Nonfederal Share Waiver
+ 
+
+Electronic Announcement CB-21-04
+
+March 6th 2025 Federal Register Notice on Title III and V Designation and Waive…
+
+34 CFR 675.26(d)
+
+34 CFR 676.21(b)
+
+Electronic Announcement CB-22-01
+
+Administrative Cost Allowance (ACA)
+
+A school participating in the Campus-Based Programs is entitled to an ACA for an award year if it provides employment under the FWS Program, or awards grants under the FSEOG Program to students in an award year. The ACA may be used to help offset administrative costs such as salaries, furniture, travel, supplies, and equipment.
+
+The ACA can also be used for service fees that banks charge for maintaining accounts. Schools may use the allowance to help pay the costs of administering not only the Campus-Based Programs but the Federal Pell Grant Program as well. Administrative costs also cover expenses for carrying out the student consumer information services requirements. As no Perkins funds may be disbursed for any reason, 
+schools are NOT permitted to claim an ACA for the Perkins Loan Program.
+
+The amount of the ACA is calculated as a percentage of the school’s expenditures to students for an award year under the FSEOG and FWS programs:
+
+ACA Amount Calculation
+
+ACA Amount Calculation Formula
+
+5% of the first $2,750,000 of a school’s FSEOG and FWS expenditures to students
+
+Plus
+
+4% of FSEOG and FWS expenditures greater than $2,750,000 but less than $5,500,000
+
+Plus
+
+3% of FSEOG and FWS expenditures equal to or greater than $5,500,000
+
+When a school calculates its ACA for the award year, the school must include in its calculation the full amount of its FSEOG awards—both the 75% federal share and the required 25% nonfederal share. However, a school that chooses to provide more than a 25% institutional share to FSEOG recipients may not include an FSEOG institutional share in excess of 25% in its FISAP or in the calculation of its ACA. Also, if a school makes no match after receiving a waiver of its required institutional share for the FSEOG Program or the FWS Program, that school’s ACA may be calculated only on the full federal portion of its awards for those programs.
+
+The school takes the ACA out of the annual authorizations the school receives for the FSEOG and FWS programs. It is not a separate allowance sent to the school. A school may draw its ACA from any combination of FSEOG and FWS, or it may take the total allowance from only one program, provided there are sufficient funds in that program. However, a school may not draw any part of its ACA from a Campus-Based Program unless the school has already disbursed funds to students from that program during the award year. Since schools are no longer making Perkins loans, they may not request ACA based on Perkins disbursement activity.
+
+Your school may use up to 10% of the ACA, as calculated previously, as attributable to its expenditures under the FWS Program to pay the administrative costs of conducting its program of community service. These costs may include:
+
+developing mechanisms to assure the academic quality of a student’s experience;
+
+assuring student access to educational resources, expertise, and supervision necessary to achieve community service objectives; and
+
+collaborating with public and private nonprofit agencies and programs assisted under the 
+National and Community Service Act of 1990
+ in the planning, development, and administration of these programs.
+
+You may choose not to claim an ACA so that all of the funds can be used for student awards.
+
+Deadline for Making ACA Changes
+
+Campus-Based Program ACA accounting entries must be posted no later than October 1 following the award year (ending June 30) for which expenditures for those costs were incurred (for example, October 1, 2026 for the 2025-26 award year). All claims to ACA as reported on the FISAP are treated as final as of the December correction deadline. After that date, decreases to ACA are permissible as necessary, but increases will not be accepted.
+
+ ACA Calculation
+ 
+
+34 CFR 673.7
+
+Projecting Need
+
+The maximum amount of federal funds a school may draw down from each Campus-Based Program is based on the school’s initial allocation and supplemental allocation for that program, as reported to the school in its Final Funding Authorization from the Department.
+
+Unless a nonfederal share requirement waiver has been granted, each Campus-Based Program requires that awards made to students be a combination of both federal and nonfederal funds. To accurately determine immediate cash need for Campus-Based Programs, you must calculate the portion of disbursements from each program that may be made up of federal funds, including funds carried forward. 
+The amount of funds drawn down represents the federal share only.
+ You must deposit institutional matching funds 
+at the time the federal funds are deposited
+ into the account from which Campus-Based awards will be made.
+
+A school on the 
+advance payment method
+ must determine the amount of funds it needs before it transmits a request to draw down those funds through the G5 payment system. The amount requested must be limited to the amount needed to make disbursements, so excess funds do not exist after disbursements are made. For the Campus-Based Programs, the amount must be enough to meet the federal share of Campus-Based disbursements and the ACA when applicable.
+
+The following equation may be used to calculate projected immediate needs for Advance Payment:
+
+Projected Immediate Need
+
+Projected Immediate Need Formula
+
+Anticipated Disbursements
+
+Minus
+
+Balance of Cash on Hand
+
+Minus
+
+Anticipated Recoveries
+
+Minus
+
+ACH/EFT Cash in Transit
+
+Drawing Down Funds
+
+Schools use the G5 system to draw down Campus-Based funds. To begin drawing down funds, log in to G5 using the two-factor authentication system. On the top panel, hover your cursor over the word 
+Payments
+. From the options that appear, select 
+Create Payments
+. The payment requests screen allows you to create, modify, and view payment requests. Once you have selected Create Payments, you will see a list of awards.
+
+The award(s) will populate with corresponding authorized and available balances from which drawdowns can be initiated. A school may use the 
+Recipient Reference Field
+ to identify the award type (i.e., FWS, FSEOG). An important step in creating payment requests is setting the Deposit Date. The default deposit date displayed is based on the method the school has selected for receiving funds (ED’s transmission method). The default date assumes that you are going to disburse the funds within three business days of the deposit date. However, you may set a deposit date that is up to 30 days after the current date.
+
+For ACH payments, the default deposit date is the next business day if received prior to 3 p.m. Eastern time (ET), or two business days later if submitted after 3 p.m. For payments by FEDWIRE, the default deposit date is the current date if the request is submitted before 2 p.m. ET, or the next business day if submitted after 2 p.m. After entering the request amount, click 
+Continue
+. If you agree to the certification statement on the next screen, you will click 
+Submit
+ on the next page to complete the payment request. After you have created payment requests, G5 performs validations. If the G5 system encounters a problem, the payment will not post and you will be notified by email. If there’s a problem with your request, you should contact the G5 Hotline for help in resolving the problem.
+
+G5 Contact Information
+
+G5 Contact Information
+
+G5 website: 
+www.g5.gov
+
+G5 hotline: 
+1-888-336-8930
+
+G5 email: 
+edcaps.user@ed.gov
+
+Potential errors include, but are not limited to:
+
+deposit date that is not in the required format (MM/DD/YY);
+
+deposit date that is more than 30 days from the current date;
+
+deposit date that is earlier than the default date for the method of transmission selected in Pay By field;
+
+deposit date that is earlier than the award start date, or later than the last date to draw funds;
+
+request that is non-numeric or negative;
+
+request in which all fields are zero; and
+
+request that exceeds the available balance displayed in the available balance field.
+
+If no errors are encountered, G5 displays a confirmation window, to ensure that the user intends to submit the information. You must click “Yes” to certify that the funds will be expended within three business days for the purpose and condition of the grant. Once you have completed the process, you will receive an email confirming your payment request has been accepted.
+
+Timing FSEOG and FWS Drawdowns
+
+In the FSEOG Program, a school must time its drawdowns to coincide with the date it expects to disburse FSEOG funds to students. A school may draw down only the federal share of the FSEOG awards it will disburse to students within three business days of receiving the funds.
+
+A school must time its FWS drawdowns to coincide with its payroll dates. A school must calculate the amount of federal funds needed to meet FWS payroll for a given pay period and draw down only the appropriate federal share of wages to be paid. Student wages must be paid within three business days of the date federal funds are received.
+
+When a school initiates a drawdown from G5, a school should consider that processing requests within G6 typically takes one to three business days. You should also know whether your school uses ACH/EFT or FEDWIRE. Schools should also be aware of system downtime, federal holidays, and other delays in processing cash requests when determining immediate need.
+
+Frequency and Amount of FSEOG Disbursements
+
+If a student is awarded an FSEOG, a school must pay the student a portion of this award in each payment period, even if you do not use standard academic terms. Within a payment period, a school may advance funds in whatever installments it determines will best meet the student’s need. To determine the amount of each payment period’s FSEOG disbursement, divide the total FSEOG award amount by the number of payment periods you expect the student to be enrolled while receiving the FSEOG award in question:
+
+FSEOG disbursement
+
+FSEOG Total Awards ÷ Number of Payment Periods
+
+For a school that measures progress in credit hours and academic terms, a payment period is defined as a term (semester, trimester, quarter). The definition of a payment period for a school that does not have academic terms or a school that measures progress in clock hours is discussed in more detail in 
+Volume 3, Academic Calendars, Cost of Attendance, and Packaging
+.
+
+FSEOG Withdrawal and Return of Title IV Funds
+
+If a student ceases attendance after receiving a lump sum FSEOG payment (of less than $501), or after receiving a disbursement in a second payment period that includes funds for the previous period, only that portion of the FSEOG intended for the payment period in which the student was attending class should be included in the Return calculation.
+
+Single-Term FSEOG Awards
+
+A single-term FSEOG award is permissible if a student will only be enrolled for one term or only one term remains in the award year when the award is made. The award would then be disbursed in a single disbursement.
+
+A single term FSEOG award may be disbursed in a single disbursement of less than $501.
+
+In-kind Payments as Part of Nonfederal Share
+
+If the nonfederal share of student compensation was paid in kind (for example, as a tuition waiver or housing and food), the in-kind compensation value must be converted to a cash amount and reported in this section of the FISAP as part of your matching funds.
+
+Two-Factor Authentication and G5
+
+The U.S. Office of Management and Budget has mandated that all federal agencies implement increased cybersecurity capabilities to prevent unauthorized access to government systems. The U.S. Department of Education has implemented a more secure means for users of the G5 Grants Administration System to gain access, referred to as Two-factor Authentication (TFA).
+
+TFA is a security process in which the user provides two means of identification from separate categories of credentials. One is typically something that you know, such as a password; the other is something that you have, such as a security code you download from your mobile device. The combination of these two security factors makes it more difficult for an unauthorized individual to gain access to government systems. When the first and second factors are validated, users are allowed into the G5 system. You can find training on two-factor authentication at 
+https://g5.gov
+ under the HELP menu. You do not need to be a registered user to access the training materials.
+
+If you have any questions, please contact the G5 Hotline at Phone number: 1-888-336-8930, Email: 
+edcaps.user@ed.gov
+, or go to the self-help portal at: 
+edcaps.force.com
+ to submit a ticket.
+
+Campus-Based Recordkeeping
+
+A school must follow the recordkeeping requirements in the General Provisions (discussed in 
+Volume 2
+) and those specific to the Campus-Based Programs. Perkins recordkeeping is addressed in 
+Chapter 3
+ of this volume.
+
+A school must keep financial records that reflect all Campus-Based Program transactions and must keep all records supporting the school’s application for Campus-Based funds. This documentation includes the applications and records of all students who applied for Campus-Based assistance for a specific award year and were included on the school’s FISAP for that award year.
+
+The school must also retain applications and records of students who applied for but did not receive aid.
+
+The school must keep general ledger control accounts and related accounts that identify each program transaction and must separate those transactions from all other institutional financial activity. Fiscal records must be reconciled at least monthly. The Campus-Based records a school must maintain include but are not limited to:
+
+the FAFSA Submission Summary or Institutional Student Information Record (ISIR) used to determine a student’s eligibility for Campus-Based Program funds;
+
+application data submitted to the Department or the school on behalf of the student;
+
+documentation of the payment of any return of 
+Title IV
+ funds or overpayment to the FSA program fund or the Department;
+
+documentation of the amount of a Perkins Loan, FSEOG or FWS award; its payment period; and the calculations used to determine the amount of the loan, grant, or FWS award;
+
+documentation of each FSEOG or Perkins Loan disbursement and the date and amount of each payment of FWS wages;
+
+documentation of the school’s calculation of any refunds or overpayments due to, or on behalf of, the student and the amount, date, and basis of the school’s calculation;
+
+information collected at initial and exit loan counseling required by Perkins Loan regulations; and
+
+reports and forms used by the school in its participation in a Campus-Based Program and any records needed to verify data that appear in those reports and forms.
+
+ Campus-Based Recordkeeping Requirements
+ 
+
+34 CFR 668.24(d)(2)
+ & 
+(f)
+
+FSEOG Recordkeeping
+
+In addition to following the fiscal procedures and records requirements mentioned in this chapter and in 
+Volume 2
+, a school must meet the following requirements, which are included in the FSEOG regulations:
+
+A school must establish and maintain an internal control system of checks and balances that ensures that no office can both authorize FSEOG payments and disburse FSEOG funds to students.
+
+A school must establish and maintain program and fiscal records that are reconciled at least monthly.
+
+Each year, a school must submit a FISAP and other information the Department requires. The information must be accurate and must be provided on the form and at the time specified by the Department.
+
+FWS Recordkeeping
+
+For schools administering FWS, you must also follow the procedures established in regulation for documenting a student’s FWS work, earnings, and payroll transactions. You must establish and maintain an internal control system of checks and balances that ensures that no office can both 
+authorize
+ FWS payments and 
+disburse
+ FWS funds to students. If you use a fiscal agent for FWS funds, that agent may perform only ministerial acts.
+
+In school records, schools must distinguish expenditures for FWS compensation from other institutional expenditures. You should enter FWS compensation on a separate voucher or, if listed on the general payroll voucher, you should group FWS compensation separately from other compensation. If payrolls are handled in an electronic system, you should identify FWS funds with a special code.
+
+You must establish and maintain program and fiscal records that are reconciled at least monthly. The records must include a:
+
+payroll voucher containing sufficient information to support all payroll disbursements;
+
+noncash contribution record to document any payment of the school’s share of the student’s earnings in the form of services and equipment; and
+
+certification by the student’s supervisor (an employee of the school or off-campus agency) that each student has worked and earned the amount being paid. Your school may use an electronic certification process. You may continue to have the FWS student’s supervisor sign a paper certification. If the students are paid on an hourly basis, the certification must include or be supported by a time record showing the hours each student worked each day.
+
+Electronic Certification for FWS
+
+A school that uses an electronic certification must adopt reasonable safeguards against possible fraud and abuse. The school should provide a secure electronic certification through an electronic payroll system that includes:
+
+password protection;
+
+password changes at set intervals;
+
+access revocation for unsuccessful logins;
+
+user identification and entry-point tracking;
+
+random audit surveys with supervisors; and
+
+security tests of the code access.
+
+See 
+Volume 2, Institutional Eligibility and Operations
+, for more information about recordkeeping, privacy safeguards, and information security.
+
+Record Retention and Formats, Availability of Records, and Period of Retention
+
+Your school must make its records readily available for review by the Department or its authorized representative at an institutional location the Department or its representative designates. Generally, a school must keep records relating to the school’s administration of a Campus-Based Program for three years after the end of an award year for which the aid was awarded and disbursed under that program.
+
+There are some exceptions to this requirement:
+
+The school must retain the FISAP containing reported expenditures and any records necessary to support the data contained in the FISAP, including “income grid information,” for three years after the end of the award year in which the FISAP is submitted.
+
+The school must keep the original signed promissory note and repayment schedule 
+until all loans made on the promissory note or Master Promissory Note (MPN) are satisfied
+, accepted for assignment by the Department, 
+or until the original note or MPN is no longer needed to enforce loan collection
+. Only authorized personnel may have access to these records.
+
+If a promissory note or MPN was signed electronically, you must store it electronically for 
+at least
+ three years after all loans made on the promissory note or MPN are satisfied. (The Department recommends that the school maintain a certified copy of the signed promissory note, as well as a record of the full amount owed, in its records beyond the three-year record retention requirement.) You must ensure that the promissory note or MPN can be retrieved in a coherent format. Schools that use the e-sign process must retain information on loans that have been assigned to and accepted by the Department under 
+674.50(c)(12)
+.
+
+The school must keep repayment records for Perkins Loans, including records relating to cancellation and deferment requests, for at least three years from the date a loan is repaid, cancelled, or assigned to the Department. If a loan is assigned to the Department due to total and permanent disability, the school must retain any loan-related documentation that it does not submit for at least three years from the date the loan is assigned. In some instances, the Department may require schools to provide copies of repayment records, cancellation records, or deferment requests for the loan to be accepted for assignment.
+
+Records questioned in an audit or program review must be kept for three years after the end of the program year in which the program review or audit was finalized.
+
+Record Formats, Storage, Etc.
+
+A school must keep its Campus-Based Program records in one of the following formats:
+
+The school must retain the original signed promissory notes and signed repayment schedules for Perkins Loans in a locked fireproof container. 
+If a loan is assigned to ED, the school should keep copies of all the original documentation submitted to the Department with the assignment.
+ The school may not maintain only computer-generated form(s) or microform(s).
+
+A school may keep other required records in hard copy or in microform, computer file, optical disk, CD-ROM, or other media formats, but all record information must be retrievable in a coherent hard copy format or in other media formats acceptable to the Department except that any document that contains a signature, seal, certification, or any other image or mark required to validate the authenticity of its information must be kept in its original hard copy or in an imaged media format.
+
+Any imaged media format used to keep required records must be capable of reproducing an accurate, legible, and complete copy of the original document, and, when printed, this copy must be approximately the same size as the original.
+
+ Retention of Records
+ 
+
+Retention of records
+
+FWS Procedures: 
+34 CFR 675.19
+
+General Provisions: 
+34 CFR 668.24
+
+Perkins Loans: 
+34 CFR 674.19
+
+FWS: 
+34 CFR 675.19
+
+FSEOG: 
+34 CFR 676.19
+
+The Fiscal Operations Report
+
+The Fiscal Operations Report (
+aka
+ FISOP) is parts III, IV, V, and VI of the FISAP. If you participated in any Campus-Based Programs in an award year, you must report on your activities for those programs by completing the appropriate portions of the FISAP by the filing deadline.
+
+Part III reports on the Perkins Loan activity in the award year.
+
+Part IV reports on the FSEOG activity in the award year.
+
+Part V reports on the FWS activity in the award year.
+
+Part VI reports on summary activity for all of the Campus- Based Programs in the award year.
+
+In each program section, you will report how much of your school’s total federal allocation was used and how much remained unexpended at the end of the award year. (Your school’s unexpended authorization is equal to its final adjusted authorization amount minus its total expended authorization.) If this amount is a positive dollar figure, the amount of unexpended funds will be deducted from your school’s G5 grantee account. 
+You may not make negative entries on the FISAP
+.
+
+FISAP —Part III, the Federal Perkins Loan Section
+
+You must complete Part III if your school:
+
+is continuing to service its loans in the Federal Perkins Loan Program; or
+
+is liquidating its Federal Perkins Loan portfolio. You must complete this section every year until your final report shows that all outstanding loans have been assigned, fully retired, or purchased and that the federal share of cash on hand has been returned to ED and you have received the official liquidation completion letter from ED.
+
+The Federal Perkins Loan section of the FISAP consists of the following sections:
+
+Section A
+ is a historical/cumulative report of your school’s Federal Perkins Loan fund activity from the beginning of the program through the end of the most recent award year. 
+This section is the balance sheet for your Federal Perkins Loan fund, and it must balance.
+
+Section B
+ is a report of the Federal Perkins Loan activity that took place at your school during the 
+recently completed award year.
+
+Section C
+ is a report of your school’s 
+cumulative repayment information
+ as of the end of the reporting year. This summary includes all data from your school’s initial participation in the program through the recently completed award year.
+
+In Section C you report the status of all borrowers as of June 30 of the reporting year. The data your school reports in this section must match the data your school reported to the Department’s National Student Loan Database (NSLDS) system. 
+If the data does not match, you must reconcile the data and correct all discrepancies.
+
+Note:
+ Schools are required to report updated data on existing loans to NSLDS once a month on a schedule established by ED. Schools are encouraged to reconcile their entire loan portfolio at least quarterly.
+
+Sections D and E
+ are used to calculate your school’s 
+cohort default rate.
+
+You complete Section D if your school had 30 or more borrowers who entered repayment during the award year.
+
+You complete Section E if your school had fewer than 30 or more borrowers enter repayment during the award year.
+
+For FISAP purposes, a cohort is defined as a group of borrowers that went into repayment during a particular year. The cohort moves forward one year with each FISAP (i.e. from 2024-25 to 2025-26). Of the borrowers that went into repayment during the relevant year, the school reports how many were in default at the end of the following year. Schools that had fewer than 30 borrowers going into repayment during the award year use a three-year cohort.
+
+Section F
+ is automatically populated with data already entered in Section A, and is used to calculate the percentage of the total cumulative capital contributions made over time to your Perkins Loan Fund that is the federal share and the percentage that is the institutional share.
+
+For more on Part III of the FISAP, see the 2021 FSA Conference presentation entitled “Submitting the FISAP,” at 
+https://fsaconferences.ed.gov/2021sessionlist.html
+.
+
+FISAP—Part IV, the FSEOG Section
+
+Your school must complete Part IV if it received FSEOG Program funds during the most recent award year. The five sections in this part of the FISAP summarize your school’s use of FSEOG funds during the previous year. The data you report in this section is used to:
+
+determine underuse penalties in FSEOG;
+
+account for funds transferred across programs and carried across years during the reporting year;
+
+monitor the program (e.g., validate expenditure and balance totals by using the G5 “Award History Report”);
+
+conduct year-end close out of the FSEOG program funds; and
+
+report institutional share in Section C, Field 13.
+
+In Section E of this part, how much of your school’s total federal FSEOG allocation was used and how much remained unexpended at the end of the award year is automatically calculated. The amount of unexpended FSEOG funds will be deducted from your school’s G5 grantee account.
+
+ Fiscal Procedures and Records
+ 
+
+34 CFR 676.19
+
+FISAP—Part V, the FWS Section
+
+Your school must complete Part V if it received FWS Program funds during the most recent award year. The nine sections in this part of the FISAP summarize your school’s use of FWS funds during the previous year. The data you report in this section is used to:
+
+determine underuse penalties in FWS;
+
+account for funds transferred across programs and carried across years during the reporting year;
+
+monitor the program (e.g., validate expenditure and award available balance totals by using the G5 “Award History Report”);
+
+conduct year-end close out of the FWS program funds;
+
+provide data for community service requirements;
+
+report institutional share in Section C, Field 13; and
+
+When completing this section, it’s important to remember that:
+
+The institutional share includes amounts contributed by off-campus employers in addition to amounts contributed by the school itself.
+
+The amount reported should not include institutional expenditures for non-FWS employment.
+
+If your school has a 
+Title III
+ or 
+Title V
+ waiver, you will report this share as zero, unless your school chose to provide an institutional contribution.
+
+Any amount that your school spends for reading tutors of children/family literacy programs does not have to be matched.
+
+In Section E of this part, how much of your school’s total federal FWS allocation was used and how much remained unexpended at the end of the award year is automatically calculated. The amount of unexpended FWS funds will be deducted from your school’s G5 grantee account.
+
+FISAP—Part VI, the Program Summary
+
+Your school must complete Section A of Part VI, if your school made any awards to students from any Federal Campus-Based Program during the most recent award year. This data is used for statistical analysis. In Section A, you report these expenditures by “Income Category” and by “Student Type.” In Section B, an amount is calculated for the ACA your school can claim based on its total Campus-Based Program expenditures, as reported in Parts III, IV, and V of the FISAP.
+
+Previous
+
+Next
+
+ Last Modified: 12/10/2025 • Published: 03/28/2021

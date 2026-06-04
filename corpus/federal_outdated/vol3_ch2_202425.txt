@@ -1,0 +1,420 @@
+Cost of Attendance (Budget) | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 2
+
+Cost of Attendance (Budget)
+
+Awards for most of the 
+Title IV
+ programs are based on some form of financial need. Unlike scholarship programs that may award funds based on academic merit or the student’s field of study, “need-based” grants, loans, and work-study are based on the student’s demonstrated financial need for assistance. The cost of attendance (COA) is the cornerstone of establishing a student’s financial need, as it sets a limit on the total aid that a student may receive for purposes of the Campus-Based, TEACH Grant, and Direct Loan programs, and is one of the basic components of the Pell Grant calculation.
+
+This chapter picks up at the point where the Student Aid Index (SAI) for a student has been determined. See the 
+Application and Verification Guide
+ for more information on the SAI, and 
+Volume 1
+ for more information on basic student eligibility requirements. Most schools establish average costs for different categories of students and set these cost categories in EDExpress or other software that they use to determine awards and package aid. The typical costs that you establish for your students will be used to calculate their 
+Title IV
+ award amounts and package their aid.
+
+Allowable Costs
+
+The HEA specifies the types of costs that are included in the COA, but each school must determine the appropriate and reasonable amounts to include for each eligible COA category for its students, based on the criteria described in this chapter.
+
+The COA for a student is an estimate of that student’s educational expenses for the period of enrollment. As you’ll see, in most cases you can use average expenses (for students with the same enrollment status) at your school, rather than actual expenses. For example, for the tuition and fees component, you can use the same average amount for all full-time students instead of figuring the actual tuition and fees for each individual student. You can have different standard costs for different categories of students, such as one COA for out-of-state students, who are charged higher tuition, and a different COA for in-state students, who are charged lower tuition. However, you cannot combine the COA figures for each separate enrollment status and award aid to a student based on the average COA. Students must be awarded based on a COA comprised of allowable costs assessed all students carrying the same academic workload.
+
+If a student is enrolled in a program that has extra fees or costs, such as lab fees, you can add those fees to the student’s cost or use a standard cost that you’ve established for all students in that program. If you establish standard cost categories, you must apply the cost allowances uniformly to all students in those categories.
+
+There are a variety of methods to arrive at average costs for your students, such as conducting periodic surveys of your student population, assessing local housing costs or other pertinent data, or other reasonable methods you may devise which generate accurate average costs for various categories of students.
+
+The types of costs that may be included are the same for all 
+Title IV
+ programs. For the Campus-Based, TEACH Grant, and Direct Loan programs, the COA, based on the student’s enrollment status, is a student’s cost for the period for which the aid is intended. For Pell Grants, the COA is always the full-year costs for a full-time student, so you may have to prorate actual or average costs up for students who are attending less than an academic year (or who are less than full time in a term-based program) or prorate down for students who are attending for periods longer than an academic year (see 
+Volume 7
+ for guidance on these requirements). The types of costs included in the COA are determined by section 472 of the HEA and are the only costs that may be included in a student’s COA. If a cost is not listed below, it may not be included as part of the COA.
+
+A student’s COA is the sum of allowances for expenses in the categories listed below. As we explained in the 2023-2024 
+FSA Handbook
+, the 
+FAFSA Simplification Act
+ modified some of the COA components for the 2023-2024 award year. Those statutory changes are reflected in the discussion that follows.
+
+Unless it is specifically noted in the discussion of COA categories below that a particular category applies only to students who are enrolled at least half time, the types of expenses that may be included in the COA are the same for all students, regardless of enrollment status.
+
+ Modifications to COA Components Made by the _FAFSA Simplification Act_
+ 
+
+Dear Colleague Letter GEN-22-15
+
+Tuition and Fees
+
+This allowance is for the tuition and fees normally assessed for a student carrying the same academic workload. It includes graduation fees, if incurred while the student is still enrolled and when required by the program and paid by all students.
+
+The tuition and fees allowance may also include costs of attending a required conference, but only if these costs are included in the standard cost of the program for which the conference is required. Including these costs does not require exercising professional judgment, as they will be included as a cost of the program for all students in the program.
+
+See “Additional COA Considerations” later in the chapter for information on certain limitations that apply when determining what may be included in the tuition and fees component.
+
+Books, Course Materials, Supplies, and Equipment
+
+This includes all such costs required of all students in the same program, including a reasonable allowance for the rental or upfront purchase of a personal computer that the student will use for study for the enrollment period, and for equipment needed for instruction by telecommunications. The allowance for purchase of computer may include costs for a computer purchased prior to the enrollment period (for example, a computer that a student bought in the summer for use in the fall term).
+
+Inclusion of Books and Supplies as Part of the Tuition and Fees COA Component
+
+If the requirements described under “Institutional Charges” in 
+Volume 4, Chapter 2
+ are met, the cost of books, course materials, equipment, and supplies may be included as part of the tuition and fees component of the COA.
+
+ Inclusion of Books and Supplies as Part of Tuition
+ 
+
+Inclusion of books and supplies as part of tuition
+
+34 CFR 668.164(c)(2)
+
+Students Must Be Able to Obtain Books and Supplies by the Seventh Day of the Payment Period
+
+If a student could have received a disbursement of 
+Title IV
+ funds 10 days before the beginning of a payment period, and if the disbursement would have created a credit balance (see 
+Volume 4, Chapter 2
+ for information on early disbursements and 
+Title IV
+ credit balances), then by the seventh day of the payment period a school must provide a way for eligible students to obtain or purchase the books and supplies for the payment period. For more detail, see “Special provisions for books and supplies” in 
+Volume 4, Chapter 2
+.
+
+ Special Provision for Books and Supplies
+ 
+
+Special provision for books and supplies
+
+34 CFR 668.164(m)
+
+Transportation
+
+The transportation allowance may include costs incurred by a student for transportation between school, residence, and place of work (including costs associated with operating and maintaining a vehicle used for such transportation), and other costs for transportation that are required as part of a student’s program of study (for example, transportation to conferences or medical residency interviews). However, the transportation allowance may not include costs for the purchase of a vehicle.
+
+Miscellaneous Personal Expenses (Only for Students Enrolled at Least Half Time)
+
+This allowance may be included in the COA 
+only for students who are enrolled on at least a half-time basis
+. Miscellaneous personal expenses may include costs incurred by a student for a prior learning assessment (for example, an exam or a portfolio evaluation).
+
+Living Expenses (Food and Housing)
+
+Food and Housing Allowance for Students Who Are Enrolled at Least Half Time
+
+For all students who are enrolled on at least a half-time basis, schools 
+must
+ include in their COA an allowance for living expenses, including food and housing (formerly known as “room and board”). The food and housing allowance is based on the student’s situation, as described below.
+
+For 
+students who choose institutionally owned or operated food services
+ (e.g., board or meal plans), a standard allowance that provides the equivalent of three meals per day.
+
+For 
+students who do not choose institutionally owned or operated food services
+, a standard allowance for purchasing food off campus that provides the equivalent of three meals per day.
+
+For 
+students who reside in institutionally owned or operated housing
+, standard allowances (one for students with dependents, and one for students without dependents) based on the greater of the average amount or the median amount assessed to such students for housing charges.
+
+Although schools must use a standard living expenses allowance based on the greater of the average amount or the median amount assessed for housing charges, this does not mean that schools must develop the allowance based on a comparison of the average and median cost of all types of institutional housing across the school. Since costs for different types of institutional housing may vary widely (for example, double occupancy freshmen dormitories vs. single occupancy graduate student housing), a school can have different allowances based a comparison of the average and median costs charged for a specific housing type. For instance, if the greater of the average and median amounts charged to students living in freshmen dormitories is $15,000 per year, and the greater of the average and median amounts charged to students living in graduate housing is $20,000 per year, those amounts could be used as the housing allowances for all students living in each type of institutional housing.
+
+Because schools are free to create as many different types of this allowance as they choose, if the amounts charged to students for all institutional housing of a specific type are the same or do not differ significantly, such an approach would likely result in allowances for each housing type that are equal or close to the actual costs charged. Of course, this does not preclude a school from using professional judgment on a case-by-case basis to include actual costs in the budget for individual students whose costs for a particular type of institutional housing differ significantly from the average or median amount that would otherwise be used.
+
+For 
+students living off campus (not in institutionally owned or operated housing)
+, a standard allowance for rent or other housing costs.
+
+For 
+dependent students residing at home with their parents
+, a standard allowance for living expenses determined by the school. The living expenses allowance for these students cannot be zero.
+
+For 
+students living in housing located on a military base or housing for which they receive a military housing allowance
+ (Basic Allowance for Housing, or “BAH”), a standard allowance for food based on whether the student chooses to purchase food on-campus or off-campus (as described above), but not for housing costs. This applies to:
+
+independent students who receive, or whose spouses receive, a BAH or who live on a military base; and
+
+dependent students who are living with parents who are receiving a BAH or who live on a military base.
+
+For 
+all other students
+, an allowance based on expenses reasonably incurred for housing and food.
+
+Food and Housing Allowance for Less-Than-Half-Time Students
+
+For less-than-half-time students, schools 
+may
+ include an allowance for food and housing in the COA for a limited period. For these students, the COA may include (at the option of the school) a food and housing allowance for up to three semesters or the equivalent, with no more than two semesters or the equivalent being consecutive at any one school. If a school chooses to include a food and housing allowance in the COA for less-than-half-time students, the allowance is based on the student’s living situation, as described above for students who are enrolled at least half-time.
+
+Dependent Care Costs
+
+For students with dependents, this allowance covers actual costs expected to be incurred for dependent care during periods that include but are not limited to class time, study time, field work, internships, and commuting time for the student. The amount of the allowance should be based on the number and age of the student’s dependents and should not exceed reasonable cost in the community for the type of care provided. Because students are often unaware of this allowance, schools should explain the availability of the dependent care allowance when counseling students and tell them how to request that an allowance for dependent care be included in their COA.
+
+See “Documentation of Exceptional Expenses” later in the chapter for guidance on documenting dependent care costs.
+
+Costs of Obtaining a License, Certification, or First Professional Credential
+
+For students enrolled in programs that require professional licensure, certification, or a first professional credential, the COA must include an allowance for the costs of obtaining the license, certification, or credential. Examples of allowable costs include fees charged to take a licensing exam, and costs of applying for and obtaining the license or certification. Under this provision, the costs must be incurred during (not after) a period of enrollment, even if the exam is after the end of the period.
+
+Schools may use either actual or average costs when determining the amount of this allowance. If a school chooses to use average costs, it must develop a reasonable basis for the average amount using the actual costs of a first professional credential that the school is aware of for the profession that a program prepares a student to enter.
+
+The allowance may include costs for multiple license or credential test attempts, though schools have discretion to set a reasonable limit on the number of attempts allowed to be included in a student’s COA.
+
+Costs for Study Abroad Programs
+
+For a student enrolled in a study abroad program approved for credit by the student’s home school, the COA includes reasonable costs associated with such study as determined by the home school. For example, the COA for a student who is a U.S. citizen studying at a foreign school may include visa/passport costs.
+
+Disability-Related Expenses
+
+For a student with a disability, the COA includes an allowance for expenses related to the student’s disability. Such expenses include special services, personal assistance, transportation, equipment, and supplies that are reasonably incurred and not provided by other agencies.
+
+A student is considered to have a disability if they have a physical or mental impairment that substantially limits a major life activity, such as if the student is deaf, has a mental disability, is hard of hearing, has a speech or language impairment, is visually disabled, is seriously emotionally disturbed, orthopedically impaired, autistic, has a traumatic brain injury, is otherwise health-impaired, or has specific learning disabilities that require special education and related services.
+
+See “Documentation of Exceptional Expenses” later in the chapter for guidance on documenting disability-related expenses.
+
+Cooperative Education Program Employment Costs
+
+For students engaged in a work experience through a cooperative education program, the COA includes an allowance for reasonable costs associated with such employment, as determined by the school.
+
+Fees for Federal Student Loans
+
+For students receiving Direct Loans or loans under any other federal student loan program, the COA includes fees required to receive the loans (for example, the loan fee for a Direct Loan). Fees for non-federal student loans may not be included. You may use either the actual loan fees charged to the student or an average of fees charged to borrowers of the same type of loan at your school.
+
+COA for Correspondence Students
+
+For students engaged in correspondence study, COA is limited to tuition and fees and, if required, books, course materials, supplies, and equipment. If the student is fulfilling a required period of residential training, the COA also includes an allowance for travel, and food and housing costs specifically incurred for the period of residential training. As explained in 
+Chapter 1 of Volume 1
+, a student isn’t eligible to receive 
+Title IV
+ aid for correspondence courses unless the student is enrolled in an associate, bachelor’s, or graduate-degree program.
+
+COA for Incarcerated Students
+
+For confined or incarcerated students, COA is limited to tuition and fees, required books, course materials, supplies, and equipment, and the cost of obtaining a license, certification, or first professional credential. Remember that an incarcerated student is ineligible for Direct Loans.
+
+Additional COA Considerations
+
+Periods of Non-Attendance
+
+You may not include in a student’s COA costs (if any) for a period of non-attendance. For example, if a student does not attend a module in a term that is divided into multiple modules or does not attend an intersession that falls between two terms, you may not include any costs associated with that module or intersession. This applies even if the module or intersession forms part of a standard term in which the student is otherwise enrolled (see 
+Chapter 1
+ for more information on the treatment of modules and intersessions), or if the student is studying for a test or coursework related to an eligible program during the period of non-attendance (though the costs of such a test itself may be an allowable COA component—see “Costs of obtaining a license, certification, or first professional credential” earlier in this chapter).
+
+Adjustments for Special Circumstances
+
+You have the authority to use professional judgment to adjust the COA on a case-by-case basis to allow for special circumstances. Such adjustments must be documented in the student’s file. (See “Professional Judgment” in the 
+Application and Verification Guide
+.)
+
+Limitations to Tuition and Fees Component
+
+Tuition Discounting
+
+In establishing the tuition and fees component of the COA for 
+Title IV
+ aid applicants, you must use an amount that is required for all students in the same course of study. Therefore, a recipient of 
+Title IV
+ aid cannot be assessed charges that are higher than what is charged to a student not receiving aid under the 
+Title IV
+ programs.
+
+Offering a discount to students who pay early is not permitted because 
+Title IV
+ recipients may not be able to (and should not be required to) meet that requirement, and therefore would effectively be assessed a higher tuition amount than other students. Of course, it would be permissible for you to provide the discount to all 
+Title IV
+ eligible students without regard to when their charges are paid. However, doing so would require an adjustment to such students’ COA.
+
+Overtime Charges
+
+Some schools may assess overtime charges for students who fail to complete their academic programs within the normal time frame. Section 472 of the HEA defines COA as the tuition and fees normally assessed a student carrying the same academic workload required of all students in the same course of study. Since overtime charges are not charges that are normally assessed (they are in addition to normal tuition and fees), they may not be included in a student’s COA for 
+Title IV
+ purposes, and therefore 
+Title IV
+ funds may not be used to pay overtime charges, even if a school obtains a student’s (or parent’s) authorization to do so.
+
+This restriction applies to both clock-hour and credit-hour programs. For example, some clock-hour programs assess “overtime charges” for students who don’t complete their programs within an established timeframe. Some credit-hour programs charge additional tuition or fees for each course a student takes if the student fails to complete a program within an established timeframe. In both cases, such charges may not be counted in the 
+Title IV
+ COA, and 
+Title IV
+ funds may not be used to pay for the additional charges.
+
+Finance Charges
+
+You may not use 
+Title IV
+ funds to pay finance charges or fees that are incurred because a student uses a financing method provided by the school to pay for educational expenses over time. Because students or families choose to incur these additional expenses rather than paying the balance due at registration, the additional charges are not considered educational expenses, and may not be included in a student’s cost of attendance.
+
+As an example, consider a school that charges full-time students $10,000 per semester in tuition, payable either at registration, or, under an optional payment plan, in four payments of $2,600 each over the course of the semester, for a total of $10,400. The school may offer the optional payment plan but can’t use 
+Title IV
+ funds to pay for the $400 in additional costs incurred by students or families who opt to use the plan.
+
+Test Prep Class Costs
+
+You may not include the costs of a test prep class that is not part of a student's eligible program in the student’s COA.
+
+Prohibitions on Charging Fees and Penalties
+
+You may not—
+
+Request from or charge any student a fee for processing or handling any application, form, or data required to determine eligibility for, and amount of, 
+Title IV
+ HEA program assistance; or
+
+Impose any penalty on a student because of a student’s inability to meet their financial obligations to the school as a result of the delayed disbursement of the proceeds of a 
+Title IV
+ loan due to compliance with 
+Title IV
+ requirements, or delays attributable to your school.
+
+ Prohibitions on Charging Fees and Penalties
+ 
+
+Prohibitions on charging fees and penalties
+
+34 CFR 668.14(b)(3)
+
+34 CFR 668.14(b)(21)
+
+Costs for Checking Foreign Diplomas
+
+If you hire a transcription/diploma evaluation service to aid in the process of determining student eligibility, the cost of evaluating a foreign credential must be incurred as a charge of admission prior to a student's enrollment in an eligible program and thus cannot be included in the student’s COA. For more detail on checking foreign diplomas, see 
+Volume 1, Chapter 1
+.
+
+Documentation of Exceptional Expenses
+
+The law doesn’t specify what documentation you must collect for expenses such as dependent care or disability-related expenses. You can document these expenses in any reasonable way, such as documenting an interview with the student or obtaining a written statement from the student or other appropriate sources.
+
+NCAA Considerations
+
+The “Power Five” conferences (The ACC, Big Ten, Big 12, Pac 12, and SEC) of the National Collegiate Athletic Association (NCAA) have voted to expand their athletic scholarships to cover the full COA for athletes. Previously, only the components listed under “Allowable Costs in General” in this chapter were included in COA. This change only applies to the schools in the Power Five, but may also be adopted by other Division I participating schools, at their discretion.
+
+One exception to the full cost COA is the practice of a school’s paying the costs of an athlete’s insurance against injury to protect against loss of future income. This expense may not be included in COA (because it is not related to a student’s educational program), but it is included as other financial assistance (OFA; previously known as “estimated financial assistance” or “EFA”) for the student in the aid packaging process. For packaging guidance, see 
+Chapter 3
+ of this volume.
+
+Exclusion of State Aid From COA and OFA
+
+If the source of assistance is a state and is designated by the state to offset a specific component of the student’s COA, the amount of that assistance may be excluded from both COA and OFA. You may exclude such assistance on a student-by-student basis, but if it is excluded, it must be excluded for both COA and OFA. If the amount excluded is less than the allowance provided in the student’s COA, you must exclude the lesser amount.
+
+ Exclusion of State Aid From COA and OFA
+ 
+
+Treatment of EFA component of COA
+
+HEA Section 480(j)(3)
+
+DCL GEN-06-05
+
+ Change From “EFA” to “OFA”
+ 
+
+Dear Colleague Letter GEN-23-11
+
+Costs for Programs That Become Eligible in the Middle of a Year
+
+When awarding aid from programs other than the Direct Loan Program, you may not count toward the student’s COA any costs incurred in any payment period prior to the payment period during which the program gained 
+Title IV
+ eligibility. When awarding aid from the Direct Loan Program, you may not count any costs incurred in periods of enrollment (loan periods) prior to the period of enrollment during which the program gained eligibility. This means, for example, that if a program becomes eligible in the spring semester of a fall-spring academic year, you can only include costs incurred in the spring semester when awarding aid from programs other than the Direct Loan Program. However, if you originate a Direct Loan for a loan period covering the full academic year, you can include costs incurred during both the fall and spring semesters when determining the amount of the loan.
+
+You may also not include any costs incurred in payment periods (for non-loan programs) or periods of enrollment (for Direct Loans) that the student has already completed. For more details on how programs gain 
+Title IV
+ eligibility, see 
+Volume 2, Chapter 5
+ of the 
+FSA Handbook
+.
+
+Changes in Pell Grant COA
+
+For guidance on when changes in the Pell Grant COA necessitate a recalculation of a student’s Pell Grant award, see 
+Volume 7
+.
+
+Costs Waived or Paid by Other Sources
+
+When a specific component of a student’s COA is waived or explicitly paid by another source, special treatment may be necessary. In some situations, the student is assessed the normal tuition and fees charge with an offsetting credit issued. In other situations, the student is never charged tuition and fees at all. Although this section discusses this concept in terms of tuition and fee charges, it applies to any of the components of a student’s COA.
+
+In some cases, such as under 
+Workforce Innovation and Opportunity Act
+ (WIOA) programs, a student’s tuition and fees are paid by another organization or are waived. The student’s costs are based on what the school is actually charging the student, as specified in the agreement between the school and the student.
+
+If the student is charged for the tuition and fees, even if the charge is eventually paid by someone other than the student (e.g., a scholarship agency or other source of aid), then that tuition and fee amount is included in the COA in most circumstances. The tuition and fees payment would then be counted as OFA. The charge is documented in the same way as for any non-WIOA student—for instance, in your school’s contract with the student or in the agreement with the WIOA agency. (If your school charges the student for tuition and fees, your school would have to expect the student to pay the charge if the WIOA agency or other source of assistance doesn’t pay on the student’s behalf.)
+
+If the student is never charged for tuition and fees, then the COA wouldn’t include the tuition and fees component. Some WIOA agreements with schools provide that the school can’t charge the tuition and fees to the student, even if WIOA doesn’t cover the costs. If your school is prohibited under such an agreement from charging tuition and fees to the student, then the tuition and fees aren’t included in the student’s COA, and, therefore, that amount would not be included as OFA.
+
+Even if there’s no tuition and fees component, the student’s budget still includes the other costs listed previously, such as an allowance for living expenses. The option to either include the cost and aid in both COA and OFA versus excluding both from COA and OFA only applies to non-federal sources of assistance, and only when that assistance is designated to offset specific components of COA (e.g., tuition, housing, and food).
+
+WIOA Reimbursement Contracts
+
+Some WIOA contracts operate on a reimbursement basis; that is, the student must fulfill the terms of the contract before WIOA will reimburse the school for tuition and fee costs. If the student doesn’t fulfill the terms of the contract, the school is left with an unpaid tuition and fees charge. The school isn’t permitted to hold the student liable for the unpaid tuition and fees. Contracts are established this way to offer schools an incentive to properly train and place students enrolled in the training programs. However, if a tuition and fees charge is included in a 
+Title IV
+ aid recipient’s budget, the student would be liable for any outstanding charges that are not reimbursed by WIOA. Therefore, schools that enter into reimbursement contracts must remove the tuition and fees component from the 
+Title IV
+ budget because, under these contracts, schools are prohibited from holding the student liable for outstanding charges.
+
+Effects of Waivers on COA
+
+If your school treats a waiver as a payment of tuition and fees that have been charged to a student, then the waiver is considered OFA and the full amount of the tuition and fees are included in a student’s COA.
+
+On the other hand, if the student is never assessed the full charges, the waiver is not considered to be financial aid, and only the charges actually assessed the student would be included in the student’s COA.
+
+Volume 3, Chapter 2, Example 1: Housing and Food Waiver
+
+A school saves some of its resident assistant jobs for students with exceptional financial need. All resident assistants receive a waiver of housing and food charges. If a student who is employed as a resident assistant quits the job, the waiver is removed, and the student must pay the housing and food charges. All students at the school have housing and food charges in their COA. For students who are resident assistants because of their financial need, the school must count the housing and food waiver as OFA. The waiver would not be counted as untaxed income, but if included in the student’s adjusted gross income (AGI), such a waiver would be reported on the Free Application for Federal Student Aid (FAFSA®) form as “grant and scholarship aid reported to the IRS” and would be excluded from total income in the SAI formula.
+
+Volume 3, Chapter 2, Example 2: In-State Tuition Voucher
+
+A school charges all full-time students the same tuition charge. However, in-state students receive a voucher to cover the difference between what most states consider in-state versus out-of-state tuition. The school has two options:
+
+The first option would be to include the same tuition charge in the full-time COA for all students and include the amount of the voucher as OFA in the financial aid packages for in-state students.
+
+The second option would be to exclude the amount of the voucher from both COA and OFA because the voucher must be used to explicitly pay a specific component of the COA.
+
+Regardless of the option the school chooses, it must apply the option consistently.
+
+COA for a Distance Education Student
+
+The law prohibits you from making a distinction based on the mode of instruction when determining the COA for a student receiving all or part of their instruction through distance education. However, you have the authority to use professional judgment to adjust the COA on a case-by-case basis to allow for special circumstances. For example, you may exclude transportation costs if you determine that such costs will not be incurred by a student. Such adjustments must be documented in the student’s file. See “Professional Judgment” in the 
+Application and Verification Guide
+ for further guidance.
+
+Costs for Full Program Charged at Start
+
+A school may charge the total tuition cost for a program at the beginning of the first period of enrollment. If the program is longer than an academic year, for Direct Loans and Campus-Based aid, the tuition costs apply only to the first period of enrollment. For example, if a school charges the entire $10,000 tuition cost for a program up front, the $10,000 will be included in the first academic year’s COA when packaging Direct Loans and Campus-Based aid but would not be included in the second academic year’s COA components. For Pell Grants, you must prorate these charges to reflect the academic year in accordance with the procedures outlined in 
+Volume 7
+. See also the example of apportioning costs that are charged up front in 
+Volume 4
+ of the FSA Handbook. However, it’s important to understand that the example in 
+Volume 4
+ illustrates prorating total costs that are charged up front for purposes of determining the amount of aid that may be credited to a student's account and the amount that must be paid to the student as a credit balance. This is a separate issue from the determination of the COA that would be used in calculating the specific aid amounts that the student is eligible to receive.
+
+Campus-Based, TEACH Grant, and Direct Loan Programs: Costs Based on Actual Period of Enrollment
+
+As explained earlier in this chapter, the COA for Pell Grants is always based on the full-year costs for a full-time student (see 
+Volume 7
+ for more information). In contrast, the COA used to package Campus-Based aid, TEACH Grants, and Direct Loans is for the student’s actual period of enrollment. Therefore, if the period of enrollment for which a student’s aid is intended is longer than the 9-month academic year for which costs are normally determined, you must use a higher COA that includes living expenses, such as food and housing, for the longer period of time. If the student will be attending for less than nine months, you must use a lower COA. You can choose to prorate the allowances you use for nine months, or you can calculate the cost in any other reasonable way.
+
+As an example, if a student is completing a program of study by taking a half-time course load for the fall semester at your school, and that’s the only term that the student will be attending in the award year, you could use the actual tuition and fee charges for the student’s costs. If you use average costs for living expenses for a 9-month academic year for students in that program, you may divide your average costs by the number of terms in the academic year to find the cost for this enrollment period (assuming the terms are substantially equal in length).
+
+Important:
+ When calculating COA for periods other than nine months, you must still use the calculated 9-month SAI. There are no alternate SAIs comparable to the alternate EFCs that were used prior to the 2024-2025 award year for periods other than nine months. See the 
+Application and Verification Guide
+ and 
+Chapter 3
+ of this volume for more information.
+
+Previous
+
+Next
+
+ Last Modified: 04/17/2024 • Published: 03/28/2021

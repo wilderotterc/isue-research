@@ -1,0 +1,916 @@
+NSLDS Financial Aid History | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 3
+
+NSLDS Financial Aid History
+
+Students who have previously attended other colleges may have a financial aid history that affects their eligibility for FSA funds at your school. You can review a student’s financial aid history by using the National Student Loan Data System (NSLDS) For Financial Aid Professionals online at 
+https://nsldsfap.ed.gov
+; for questions call 1-800-999-8219. NSLDS will also help you track changes to the student’s financial aid history through the Postscreening and transfer student monitoring processes.
+
+A student or parent generally isn’t eligible for 
+Title IV
+ funds if they are in default on a Direct Loan, FFEL Program Loan, or Perkins Loan, or if they owe an overpayment on a Pell, TEACH, IASG, or FSEOG grant and have not made a repayment arrangement for the default or overpayment. Also, for a parent to receive a PLUS Loan, neither the parent nor the student may be in default on a Direct Loan, FFEL loan, or Perkins Loan, or owe an overpayment on a Pell, TEACH, IASG, or FSEOG grant (though a parent in default on a loan does not make a student ineligible for 
+Title IV
+ aid). Exceptions to these general rules are noted in the discussion below.
+
+Someone applying for 
+Title IV
+ funds must normally certify that they aren’t in default on any Direct Loans, FFEL Program loans, or Perkins Loans, and don’t owe an overpayment on any Pell, TEACH, IASG, or FSEOG grant, or that they have made satisfactory arrangements to repay the overpayment or default. This certification statement is printed on the Free Application for Federal Student Aid (FAFSA). Parent PLUS borrowers make this certification on the Direct PLUS Loan Master Promissory Note (MPN).
+
+A student is also ineligible if they inadvertently exceed annual or aggregate loan limits. When this occurs, you must identify the loan(s) that resulted in the overborrowing and discuss the overborrowing with the student. The student can regain eligibility by repaying the extra amount borrowed or making satisfactory repayment arrangements. See Dear Colleague Letter 
+GEN-13-02
+ and 
+Volume 8
+ for more details.
+
+A student is ineligible if their property is subject to a judgment lien for a debt owed to the United States. A parent cannot receive a parent PLUS loan if either the student or parent is subject to such a lien. For example, if the Internal Revenue Service (IRS) has placed a lien on a student’s property for failure to pay a federal tax debt or make satisfactory arrangements for repayment, the student would be ineligible for federal student aid.
+
+A student who has been convicted of, or has pled no contest or guilty to, a crime involving fraud in obtaining 
+Title IV
+ funds must have completely repaid the fraudulently obtained funds to the Department or the loan holder before regaining aid eligibility. You don’t need to proactively collect certification from each student, but you must restrict eligibility, as appropriate, if/when you become aware of fraud which has not been completely repaid.
+
+When the FAFSA form is processed, the FAFSA Processing System (FPS) matches the student against the National Student Loan Data System (NSLDS) to see if they are in default, owe an overpayment, or have exceeded loan limits. The FPS doesn’t perform any matches to determine whether the student is subject to a judgment lien for a federal debt, and you aren’t required to check for such liens. The FPS also doesn’t check for fraud. However, if you know that the person in question is subject to such a lien or has committed fraud involving 
+Title IV
+ funds, you can’t pay them 
+Title IV
+ funds.
+
+NSLDS does not match Parent PLUS applicants against data in NSLDS. For more information about Parent PLUS applicants and default, see 
+Volume 8
+.
+
+Judgment Lien (Volume 1, Chapter 3, Example 1)
+
+When a student provides their parents’ tax return to the aid administrator, the financial aid administrator notices that the parents reported business income on their federal tax return but didn’t report a business asset on the FAFSA form. The student explains that they didn’t report the business as an asset because there’s a lien against the business for a federal loan. The aid administrator tells the student that the asset must still be reported, and that their parents won’t be able to borrow a PLUS Loan if they are subject to the lien.
+
+Loans Types in NSLDS
+
+The following current types of loans are listed in NSLDS:
+
+Direct Subsidized Loans and Direct Unsubsidized Loans
+
+Direct PLUS Loans (for parents or for graduate/professional students)
+
+Direct Consolidation Loans
+
+The following loan types from earlier programs also appear in NSLDS:
+
+Federal Stafford Loans (subsidized and unsubsidized)
+
+Federal PLUS Loans
+
+Federal Perkins Loans
+
+Federal Consolidation Loans
+
+Federally Insured Student Loans (FISL)
+
+Guaranteed Student Loans
+
+Supplemental Loans for Students (SLS)
+
+National Direct Student Loans and National Defense Student Loans
+(predecessors of Perkins Loans)
+
+Income Contingent Loans (ICL)
+
+ Financial aid history
+ 
+
+34 CFR 668.19
+
+Dear Colleague Letter GEN-96-13
+
+ Loan limits and eligibility
+ 
+
+See 
+Volume 8
+ for loan limits
+
+HEA Sec. 484(f)
+
+34 CFR 668.32(g)(2)
+
+668.35(d)
+
+DCL GEN-13-02
+
+DCL GEN-21-03
+
+ Federal default and debt
+ 
+
+HEA Sec. 484(a)(3)
+
+484(f)
+
+34 CFR 668.32(g)
+
+34 CFR 668.35
+
+Resolving Grant Overpayments and Potential Loss of Eligibility
+
+Because Pell Grants have priority in packaging, aid overpayments can often be resolved by adjusting other types of aid in the package. If necessary, you can also adjust later grant payments for the same award year. If a student receives more grant money than they are eligible for and the excess can’t be offset, the student becomes ineligible for further 
+Title IV
+ funds and must return or repay the overpayment or make satisfactory repayment arrangements before they receive further 
+Title IV aid
+. See 
+Volume 4
+, Chapter 3
+ for a complete discussion of resolving overpayments and overawards.
+
+Finding A Student's Financial Aid History in NSLDS
+
+To help you identify students with defaulted loans or overpayments, the FPS matches the student against the NSLDS database to obtain their financial aid history. 
+You must resolve any conflicts between NSLDS and other information you have about the student before disbursing
+ 
+Title IV funds
+ (for example, if NSLDS shows that a student isn’t in default, but you have documentation showing that they are in default). The results of the NSLDS match are provided on the FAFSA Submission Summary and Institutional Student Information Record (ISIR) (referred to as “output documents”) on the NSLDS Financial Aid History page. As with other matches, an FPS “C flag” code next to the student’s Student Aid Index (SAI) indicates issues that must be resolved.
+
+Once an overpayment is reported to NSLDS, the student’s future FAFSA Submission Summary/ISIR will show that they have an overpayment. The financial aid history section of the FAFSA Submission Summary/ISIR will have information on the overpayment, including whether the student has made satisfactory repayment arrangements. See 
+Volume 4
+ of the 
+25-26 FAFSA Specifications Guide
+ for the complete list of NSLDS match results.
+
+Successful Matches
+
+The FAFSA Submission Summary and ISIR will contain the NSLDS financial aid history only if the student’s identifying information matches the database and there is relevant information for the student in the database. If the student has no defaults or overpayments or has made satisfactory repayment arrangements on a defaulted loan, the NSLDS match flag will be 1 and no C code will appear on the output document. A match flag of 2, 3, or 4 indicates that the student has defaulted loans, owes an overpayment, or both.
+
+You will need to document that the problem has been resolved before disbursing 
+Title IV
+ aid. Note that for “real-time” processing—if a student uses Corrections on the Web or an aid administrator uses the FAFSA Partner Portal (formerly FAA Access to CPS Online)—the FPS does not match against the NSLDS database (except when a school is added), but the output document will show NSLDS data from the last transaction that did match against NSLDS. The ISIR might not, therefore, reflect the most current information.
+
+Requirement to Resolve Conflicting Information in NSLDS
+
+You must resolve any conflicts between NSLDS and other information you have about the student before disbursing 
+Title IV
+ funds. If you can document that the student is eligible for FSA funds despite the information shown on NSLDS, you may award and disburse aid. For example, if the NSLDS Financial Aid History page of the FAFSA Submission Summary or ISIR shows that the student has a defaulted loan, but you have obtained documentation from the holder of the loan that the borrower has made satisfactory arrangements to repay the defaulted loan, you may disburse aid. You must retain all applicable documentation supporting the student's eligibility to receive FSA funds in the student's file.
+
+Incorrect NSLDS Data (Volume 1, Chapter 3, Example 2)
+
+A first-year undergraduate at School T has never attended college before. When School T receives the student’s ISIR, it shows that there was a partial match, and there is some data associated with the student’s SSN. School T checks with NSLDS and learns that a guaranty agency is reporting a loan made years ago (when the student was in elementary school) under the student’s SSN but with a completely different name and date of birth. School T determines that this isn’t the student’s loan, so they have no financial aid history in NSLDS. School T also suggests that the student provide documentation that the SSN belongs to them so the school can request that NSLDS data be corrected.
+
+Misreported Information on the FAFSA Form (Volume 1, Chapter 3, Example 3)
+
+When the school receives the student’s ISIR, it shows that there was a discrepancy with the NSLDS database, so no financial aid history information is provided. The FAA asks the student if they provided the correct name and date of birth on the application. The student says they wrote in the wrong month for date of birth, but their name is correct. The FAA checks the NSLDS database using the student’s first and last name, SSN, and date of birth. NSLDS shows the correct birth date, but the first name of the student is incorrect. The school checks again with the student, who explains that the name they wrote is a nickname and the other name is their real name. The FAA determines that the financial aid history associated with the SSN belongs to the student. If the ISIR was not rejected, the FAA could disburse aid without requiring a correction, but may also wait for the ISIR correction before disbursing aid.
+
+Reasons for Missing Financial Aid History
+
+There are several reasons why an output document may not have financial aid history information: for example, if the application was rejected for lack of a signature or if identifying information was missing. For other cases, you can check the NSLDS flags reported in the “FAA Information” section. The following are additional common reasons why a student might not have a successful match:
+
+Partial match
+. If the student’s Social Security Number (SSN) is in the NSLDS database but the first name or date of birth don’t match what the student reported, no financial aid history will be reported and the output document will have an NSLDS match flag of “7” and a C code. There will also be a comment explaining why the financial aid history isn’t given and directing the student to work with the school to resolve any discrepancies. A partial match 
+requires resolution
+; otherwise, you won’t have information from the Department on defaults and overpayments.
+
+If the student originally reported incorrect identifying information, you can have them submit correct information, which will be sent through the match again. If the student did not submit incorrect identifying information, you can call the NSLDS customer support center for help with determining the identifiers associated with the SSN in the NSLDS database. If you discover the discrepancy is due to the student misreporting the name or date of birth on the FAFSA form, you should have the student make a correction. However, you may use the NSLDS record to determine the student’s eligibility; you don’t need to wait for the corrected data to be reported.
+
+If you find that the financial aid history associated with the student’s SSN doesn’t belong to the student, you should assume that the student has no relevant financial aid information. You may request that the data in NSLDS be corrected by providing relevant supporting documents. NSLDS will work with the previous data providers to correct the identifiers. You aren’t required to request a correction; however, doing so will prevent the same FAFSA response in subsequent award years.
+
+Student not in database
+. If a match with NSLDS is completed but there’s no information on the student in the database, the output document will comment that the student’s SSN is not associated with any financial aid history. You can assume this is correct unless you have conflicting information. If you believe NSLDS should show a loan history, help the student by contacting the appropriate loan servicer or, for a FFEL Program loan, guaranty agency.
+
+No relevant history
+. If a student’s SSN matches a record in the NSLDS database but there’s no relevant financial aid history to report, no information will be on the output document, because it isn’t needed to determine the student’s aid eligibility for the current award year. Conversely, if a student has relevant prior data, for example a prior Pell award, that will appear on the FAFSA Submission Summary/ISIR. The FAFSA Submission Summary and ISIR will have a comment that the student’s record was matched with NSLDS, but no information was found to print on the NSLDS page.
+
+Processing problem
+. If there was a problem with the match, the FAFSA Submission Summary and ISIR won’t include financial aid history information. The output document will have a C code and a comment explaining that the FPS couldn’t determine whether the student has loans in default and will direct them to contact the financial aid administrator. You must get the student’s financial aid history before disbursing aid. If the student must make corrections of any kind, their information will go through the match again when the corrections are submitted and you can use the results of that match to determine eligibility.
+
+Changes After Initial Match and Required Postscreening
+
+Once you receive the financial aid history through NSLDS, you aren’t required to check for changes to the data before disbursing funds to the student. But if you learn from NSLDS or another source that the student was not or is no longer eligible, you must not disburse any more 
+Title IV
+ funds and must help make sure the student arranges to repay the aid for which they weren’t eligible.
+
+NSLDS uses a postscreening process to let you know when there are significant changes (such as a defaulted loan or an overpayment) to a student’s financial aid history. If postscreening identifies changes that may affect the student’s eligibility, the FPS will generate new output documents so schools that are listed for receipt of the student’s FAFSA information will automatically be notified. Items that have changed since the last transaction are marked on the output document with a “#” sign, and the reason code for the postscreening will be given.
+
+To help you identify when NSLDS data has changed, the document will include an NSLDS transaction number in the “FAA Information” section with the other match flags. This is the number of the last transaction on which NSLDS data changed, so if you receive an ISIR on which that number is higher than the one on the ISIR you used to determine the student’s eligibility, you must review the NSLDS data on the new ISIR to be sure there are no changes affecting the student’s eligibility. (Be especially aware of the Pell Lifetime Eligibility Used (LEU) limits and codes; for more on Pell LEU, see 
+Volume 7
+). There will be postscreening codes (see The 
+FAFSA Specifications Guide
+, for the list) to help determine what changed.
+
+ NSLDS Support Center
+ 
+
+NSLSDS Support Center Phone Number
+
+1-(800)-999-8219
+
+ Postscreening and New Data Files
+ 
+
+Electronic Announcement APP-25-02
+
+Electronic Announcement APP-25-14
+
+Resolving Unusual Enrollment History Flags
+
+There is a flag in NSLDS for students whose pattern of enrollment and/or award history for either Federal Pell Grants or Direct Loans (other than a Direct Consolidation Loan or Parent PLUS Loan) is identified as unusual. You are required to respond to the unusual enrollment history (UEH) status flags for Pell Grants and/or Direct Loans as described below.
+
+The FPS will flag the UEH on the student’s FAFSA Submission Summary/ISIR. A value of “N” requires no action, as it denotes no unusual history. A value of “2” or “3” in the UEH field (represented as FAFSA Submission Summary comment codes 276 and 277, respectively) requires review and resolution by your school (see below). UEH flags 2 and 3 do not necessarily mean the student has improperly received Pell Grants or Direct Loan funds, but it is a sign of unusual activity, for example, receiving Pell Grants and/or Direct Loans at multiple schools in the same semester, or receiving aid and then withdrawing before earning any credit.
+
+To resolve a UEH flag of “2,”
+ (FAFSA Submission Summary comment code 276) you must check the student’s enrollment and financial aid records to determine if, during any of the four award years prior to the current award year (i.e., 2021-22, 2022-23, 2023-24, and 2024-25), the student received a Pell Grant or Direct Loan at your school. If so, no further action is required unless you have reason to suspect that the student in question remains enrolled just long enough to collect student aid funds before withdrawing. In such a case, you must follow the guidance below for UEH flag “3.” If not, using information from NSLDS, you must identify all schools where the student received a Pell Grant or Direct Loan during the 2021-22, 2022-23, 2023-24, and 2024-25 award years. You must then determine whether academic credit was earned at each of those schools during the award year for which the student received a Pell Grant or Direct Loan. Based on those determinations, you may need to discuss further with the student. See below for additional information.
+
+To resolve a UEH flag of “3,”
+ (FAFSA Submission Summary comment code 277) you must check the student’s academic records to determine if they received academic credit at the schools attended during any one of the four award years prior to the current award year (i.e., 2021-22, 2022-23, 2023-24, and 2024-25). Using data from NSLDS, you must determine, for each prior attended institution for each student, whether academic credit was earned during the award year in which the student received Pell or Direct Loan funds. Academic credit is considered for this purpose to mean completing one (or more) clock-hour or credit-hour.
+
+For UEH flag 3
+, if the student 
+did
+ earn academic credit at all of the schools previously attended for a relevant award year, no further action is required unless you have reason to believe that the student has had a practice of enrolling just long enough to receive credit balances before withdrawing. In such cases, follow the guidance below for cases when academic credit is not earned (next paragraph). Please note that when reviewing academic completion, you are not required to obtain official academic transcripts. You can use unofficial transcripts, letters from the school, grade reports, etc.
+
+For UEH flag 3
+, when academic credit is 
+not
+ earned at a previously attended school, and, if applicable, at your school, you must obtain documentation from the student explaining why the student failed to earn academic credit. You must determine whether the documentation provided supports the reasons described by the student and that the student did not enroll only to receive credit balance funds. Acceptable reasons may include personal illness, a family emergency, a change in where the student lived, and military obligations, or an academic complication, such as unexpected academic challenges, or the student having determined that the academic program in question did not meet their needs. You should, to the extent possible, obtain third party documentation to support the student’s claim.
+
+Similar to the exercise of professional judgment, you must determine whether the circumstances of the failure of the student to receive academic credit, as evidenced by the student’s academic records and documentation, support the continuation of 
+Title IV
+ eligibility. If the student with a UEH flag of 2 or 3 fails to provide compelling reasons and documentation for a failure to receive academic credit for a period for which they received 
+Title IV
+ funds, you must terminate their eligibility. Your determination is final and is not subject to appeal to the Department. You must document and maintain a file of reason(s) for the decision. For a full discussion of your options in using professional judgment, see 
+Application and Verification Guide, Chapter 5
+.
+
+When a student’s eligibility is terminated in this way,
+ you must provide information to the student on how they may subsequently regain eligibility, and the student must be given an opportunity to question and appeal the decision 
+to your school
+, consistent with the opportunities to question and appeal similar determinations such as SAP and professional judgment determinations. Since the basis for denial is lack of academic performance, successful completion of academic credit may be considered as a basis for renewing the student’s 
+Title IV
+ eligibility, assuming they are in all other ways eligible for the aid in question. This could include meeting the requirements of the plan that you established with the student, although such a plan is not necessarily required. When a student regains eligibility after losing it in this manner, the student’s eligibility is retroactive to the beginning of the current period of enrollment, for Direct Loans, and for all other types of 
+Title IV
+ aid, retroactive to the beginning of the current payment period.
+
+If you approve the student’s continuing eligibility
+, you may choose to require the student to establish an academic plan, like the type of plan used to resolve SAP appeals. You may also wish to counsel the student about the Pell LEU limitation and the impact of the student’s attendance pattern on future Pell Grant eligibility (see 
+Volume 7
+ and Dear Colleague Letters 
+GEN-12-01
+ and 
+GEN-12-18
+).
+
+Resolving UEH Flags in a Subsequent Award Year
+
+When a student receives a UEH flag that includes an award year(s) that was resolved by the reviewing school for a previous award year, that school must determine if there was a change in the schools the student attended for that award year(s). If there were no changes to the schools the student attended, no further action is necessary. If the student attended another school(s) that was not previously reviewed, and received Pell Grant and/or Direct Loans at that school(s), the reviewing school must determine if the student earned academic credit at the additional school(s) under review. If the student did not earn academic credit at the additional school(s) under review, the student must provide documentation explaining why academic credit was not earned.
+
+UEH Change for Undergraduate to Graduate Student Progression
+
+UEH is assessed separately for undergraduate enrollment and graduate enrollment. This reduces the number of UEH flags, but still correctly flags students whom the UEH flags are intended to flag for further scrutiny.
+
+ Unusual enrollment history
+ 
+
+DCL GEN-15-05
+
+Adding a School and the NSLDS Match
+
+When a school is added after the FAFSA form has been submitted, the FAFSA form goes through the NSLDS match again rather than being processed in real time. This ensures that the new school receives the latest financial aid history (FAH) on the ensuing transaction. This does not affect schools’ responsibility to use transfer student monitoring.
+
+To supplement the ISIR and ensure a student’s history is considered, some schools submit a list of students to NSLDS in the Batch Inform File to request the FAH of students. See the Transfer Student Monitoring/Financial Aid History processes and batch file layouts posted in the Knowledge Center.
+
+To supplement the ISIR and ensure a student’s history is considered, some schools submit entire rosters of FAH requests. See the 
+TSM/FAH processes and batch file layouts posted in the Knowledge Center
+.
+
+Documenting Credits Earned When a School Has Closed
+
+For UEH flag 3, or when you believe that the student remains enrolled just long enough to collect a credit balance (refund), you must review the student’s academic records to determine if the student earned any academic credit at each school the student attended during the prior four award year periods (i.e., for 2025-26, assess award year periods 2021-22, 2022-23, 2023-24, and 2024-25).
+
+If the student informs you that they previously attended and received 
+Title IV
+ aid at a school which has closed, you must first verify that the school has closed. You may determine this using the 
+Department’s Closed School Reports page
+.
+
+If the student states that academic credits were earned at the closed school, you must request documentation that indicates academic credits were earned. Acceptable forms of documentation could include a grade report or an official or unofficial transcript.
+
+If the student does not have any documentation of academic credit earned at the closed school, and you have obtained documentation that shows the student earned academic credit at all the other schools corresponding with the UEH flag, you may accept a signed and dated statement from the student to substantiate their claim. The statement must provide the name of the closed school, the academic period or calendar year in which the academic credit was earned, and, if known, the type and number of academic credits which were earned. If the student is unsure of the number and/or type of academic credits earned at the closed school, the student must state, in general terms, that academic credit was earned at the closed school.
+
+ Reporting data for students at closed schools
+ 
+
+School Participation Section
+
+Checking the Financial Aid History of Transfer Students
+
+Before disbursing 
+Title IV
+ funds to a transfer student, you must obtain their financial aid history if they may have received aid at another school since your latest ISIR. The NSLDS Transfer Student Monitoring Process (TSM) was established to allow schools to submit a list of students to NSLDS to monitor changes to the student’s financial aid history information from the date of the latest ISIR.
+
+If a student transfers to your school during the award year, you’ll need to review their NSLDS financial aid history on the ISIR or online at the 
+NSLDS website
+. From this, you can determine:
+
+Whether the student is in default or owes an overpayment on a loan or grant;
+
+The student’s Pell Grant and the amount already disbursed for the award year;
+
+Data pertaining to TEACH Grants, including those converted to loans;
+
+The student’s balance on all loans; and
+
+The amount and period of enrollment for all loans for the award year.
+
+Usually, the financial aid history on the ISIR will be enough, but there are cases where you might check NSLDS for more information. For example, if the student has more than six loans, the ISIR won’t have detailed information for some of the loans. If you need that level of detail for those loans, you can get the information from NSLDS. Or, as discussed previously, you might need to use NSLDS to resolve a partial match situation (see “Partial match” in “Reasons for Missing Financial Aid History” section, earlier in this chapter).
+
+Transfer student monitoring process.
+ You must send NSLDS identifying information for students transferring to your school during the award year so that NSLDS can notify you of changes to their financial aid history. You may send information for students who have expressed an interest in attending your school even if they have not yet formally applied for admission.
+
+Through transfer student monitoring, NSLDS will alert you to any relevant changes in the transfer student’s financial aid history—other than the default and overpayment information reported in the postscreening process—that may affect the student’s current award(s). There are three steps: inform, monitor, and alert.
+
+Inform.
+ You 
+must
+ identify students who are transferring to your school by creating a list of transfer students on the 
+NSLDS website
+ or by sending the list to NSLDS as an electronic batch file through the Student Aid Internet Gateway (SAIG). You may use either or both methods. (A change in method does not require prior notification to the NSLDS Customer Service Center.)
+
+Monitor.
+ NSLDS will monitor these students for a change in financial aid history that may affect their current awards and alert you when a new loan or grant is being awarded, a new disbursement is made on a loan or grant, or a loan or grant (or a single disbursement) is cancelled. Note that defaulted loans and overpayment information are not monitored in transfer student monitoring, as they are already covered in the postscreening process. If the student has not listed your school in Step Six when filing the FAFSA form, they must add your school for you to receive the postscreening information.
+
+Alert.
+ Finally, if changes are detected for one or more of your students and NSLDS creates an alert, it will also send an email notification reminder to the address given on the school’s TSM and FAH Profile page. Your school’s designated contact person may then either review the alert list on the NSLDS for Financial Aid Professionals website or download a batch file, if batch alerts were requested through the SAIG system, in report or extract format, to your SAIG mailbox within SAIG.
+
+Timing of the disbursement.
+ To pay the student, you’ll need to have a valid ISIR with a Student Aid Index (SAI). A valid ISIR will also include the student’s financial aid history and will also tell you if they are in default or owe an overpayment. The postscreening process will send you another ISIR if the student subsequently goes into or out of default or owes or ceases to owe an overpayment.
+
+When you initiate transfer monitoring for a student, NSLDS will alert you to significant award changes since you last received an ISIR or alert for the student; this will continue for 30 to 120 days (depending on the monitoring duration you’ve established) after the enrollment begin date. If you start transfer monitoring before you receive an ISIR for a student, NSLDS will track changes in their financial aid history from the date of your request or a future monitoring begin date you choose.
+
+The regulations state that a school may not make a disbursement to the student for seven days following the transfer monitoring request to NSLDS, unless it receives an earlier response from NSLDS or checks the student’s current financial aid history by accessing NSLDS directly. Therefore, it’s usually a good idea to submit the student’s name to NSLDS for monitoring as soon as possible, even if they have not yet decided to enroll at your school.
+
+Consequences when a transfer student subsequently is found to be ineligible for all or part of an aid disbursement.
+ If the school has followed the proper procedures for obtaining financial aid history information from NSLDS, it is not liable for any overpayments if the student’s situation subsequently changes. However, the student will be liable for the overpayment in this situation, and you may not pay the student further 
+Title IV
+ funds until the overpayment is resolved. (See 
+Volume 4
+, Chapter 3 for information on resolving overpayments.)
+
+Transfer Student Monitoring
+
+Through this process for checking the eligibility of transfer students, you may either check the student’s financial aid history on the 
+NSLDS website
+ for professionals, or wait seven days (because NSLDS issues alerts weekly) after you’ve submitted the student’s information for monitoring to receive an alert if data has changed. See the 
+NSLDS Transfer Student Monitoring & Financial Aid History User Guide
+ and: 
+https://nsldsfap.ed.gov
+.
+
+Requirement to Check Mid-year Transfer Students
+
+If a student self-identifies as a mid-year transfer student, or if a school has any information that indicates the student might have previously attended another postsecondary school during the award year, the school must request transfer monitoring of the student in NSLDS. A school’s coordinating official (see 
+Volume 2
+) is responsible for ensuring that a school does not ignore information the school has about a student’s prior or concurrent enrollment.
+
+ NSLDS Professional Access
+ 
+
+Information on modernized NSLDS website
+
+Getting the Student’s Financial Aid History
+
+There are several ways for you to get a student’s financial aid history from NSLDS. You can:
+
+use the NSLDS Financial Aid History section of the ISIR,
+
+log on to the NSLDS Professional Access website and access the data online for a student,
+
+send a batch TSM/FAH Inform file to request aid history data for several students, which will be returned in either extract or report format through the SAIG mailbox. The TSM/FAH processes and batch file layouts are posted on the Knowledge Center.
+
+Effect of Bankruptcy or Disability Discharge
+
+A student who has filed for bankruptcy or had a loan discharged for disability may need to give additional documentation before receiving aid.
+
+Bankruptcy
+
+A student with a 
+Title IV
+ loan or a TEACH Grant, Pell Grant, Iraq and Afghanistan Service Grant, or FSEOG overpayment that has been discharged in bankruptcy remains eligible for Direct Loans, Pell Grants, TEACH Grants, FSEOG, and Federal Work-Study (NSLDS loan status code BC for loans that did not default and status code DK or OD for loans that defaulted prior to the bankruptcy discharge). The Bankruptcy Reform Act of 1994 prohibits denial of aid based solely on filing for, or having a debt discharged in, bankruptcy.
+
+A borrower who lists a defaulted loan or grant overpayment in an active bankruptcy claim (NSLDS loan status code DO) is not eligible for further 
+Title IV
+ funds unless they provide you with documentation from the holder of the debt stating it is dischargeable. A borrower who includes a non-defaulted loan in an active bankruptcy claim, so that collection on the loan is stayed, is eligible for aid as long as they have no loans in default (including the stayed loan).
+
+Total and Permanent Disability (TPD) Discharges
+
+Loans made under the Direct Loan, FFEL, and Perkins Loan programs, as well as TEACH Grant service obligations, may qualify to be discharged if the borrower or TEACH Grant recipient becomes totally and permanently disabled. Borrowers and TEACH Grant recipients may qualify for TPD discharge based on a qualifying disability determination from the Department of Veterans Affairs (VA), a qualifying disability determination from the Social Security Administration (SSA), or a certification from an authorized health professional. If an individual who received a TPD discharge later wants to receive a new Direct Loan or a new TEACH Grant, certain additional eligibility requirements apply.
+
+Regaining Eligibility After a TPD Discharge: Physician’s Certification and Acknowledgement
+
+If an individual whose prior loan or TEACH Grant service obligation was discharged due to a total and permanent disability later wishes to take out a new Direct Loan or TEACH grant, they must:
+
+Obtain a certification from a physician (who must be a doctor of medicine or osteopathy licensed to practice in the U.S.) that they have the ability to engage in substantial gainful activity, and
+
+Sign a statement acknowledging that the new loan or the TEACH Grant service obligation can’t later be discharged for any present impairment unless it deteriorates so that the individual is again totally and permanently disabled.
+
+The student only needs to obtain the physician certification once; the school keeps a copy of it in the student’s file. But the school must collect a new acknowledgment from the student each time the student receives a new loan or TEACH Grant.
+
+The requirements described above apply to all individuals who wish to receive new Direct Loans or TEACH Grants after a prior TPD discharge, regardless of how they qualified for the TPD discharge or when the TPD discharge was granted.
+
+Reinstatement
+ of Previously Discharged Loans or TEACH Grant Service Obligations (Non-Veteran TPD Discharge Recipients Only)
+
+In addition to the two requirements described above, a third requirement applies to individuals who wish to receive new Direct Loans or TEACH Grants within three years after having received a TPD discharge based on a disability determination from the SSA or a medical professional’s certification. These individuals are subject to a three-year post-discharge monitoring period that begins on the date the TPD discharge is granted. During this three-year period, the Department monitors discharge recipients for the receipt of new Direct Loans or TEACH Grants. If someone who received a TPD discharge based on an SSA disability determination or a medical professional’s certification wishes to receive a new loan or TEACH Grant during the three-year post-discharge monitoring period, the previously discharged loan or TEACH Grant service obligation must be reinstated before the individual can receive the new loan or TEACH Grant.
+
+If a reinstated loan was in default when it was discharged, it remains in default upon reinstatement, and the student must resolve the default (see the Resolving Default Status section below) before receiving the new loan or TEACH Grant, in addition to meeting the other requirements described above.
+
+Note that veterans who receive TPD discharges based on a qualifying disability determination by the VA are not subject to a post-discharge monitoring period, and therefore are never required to have their previously discharged loans or TEACH Grant service obligations reinstated as a condition for receiving new loans or TEACH Grants. However, they must still meet the requirements described above under “Physician’s certification and acknowledgement.”
+
+There are no restrictions on receiving 
+Title IV
+ aid other than Direct Loans or TEACH Grants after a prior TPD discharge.
+
+The NSLDS loan status code for TPD discharges based on VA disability determinations is VA. For TPD discharges based on SSA determinations or a medical professional’s certification, the TPD status codes are DI and PD. The DI loan status code indicates that the borrower is still in the post-discharge monitoring period, while the PD status code indicates that the borrower has completed the monitoring period.
+
+ Total and permanent disability discharge
+ 
+
+34 CFR 685.213
+ (Direct Loan)
+
+34 CFR 686.42(b)
+ (TEACH Grant)
+
+34 CFR 674.61(b),(c)
+ (Perkins)
+
+34 CFR 682.402(c)
+ (FFEL)
+
+Resolving Default Status
+
+A student in default on an FFEL Loan, any type of Direct Loan, a PLUS Loan, a Stafford Loan, or a Perkins Loan can’t receive further Title IV funds until they resolve the default, which they can do in several ways:
+
+Repayment in full (including consolidation)
+. A student can resolve a default and regain eligibility for 
+Title IV
+ funds by repaying the loan in full (loan status code DP). The student regains eligibility whether repayment was completed voluntarily or involuntarily (examples of the latter include IRS offset and wage garnishment). If the school writes off a regulatorily permissible amount that the student repays (for Perkins Loans), that counts as paying the loan in full (code DC). If a defaulted loan is consolidated, it is also counted as paid in full (code DN). However, if the loan holder writes off the entire loan (except for Perkins Loans), it isn’t considered paid in full, and the student remains ineligible for 
+Title IV
+ funds (code DW). This condition is normally permanent unless the borrower subsequently pays in full (which is unlikely if the loan holder originally wrote off the loan).
+
+If a student has paid a defaulted loan in full but the FAFSA Submission Summary and ISIR SAR and ISIR have a comment showing that they are ineligible because of the default, the student must give you documentation proving that the loan was paid.
+
+Satisfactory repayment arrangements
+. A student in default on an FFEL Loan, any type of Direct Loan, a PLUS Loan, or Perkins Loan can be eligible for 
+Title IV
+ funds if they have made repayment arrangements that are satisfactory to the loan holder. After the student makes six consecutive, full, voluntary payments on time, they regain eligibility for 
+Title IV
+ funds (loan status code DX). Voluntary payments are those made directly by the borrower and do not include payments obtained by federal offset, garnishment, or income or asset execution. A student may regain eligibility under this option only one time.
+
+You can pay the student as soon as you have documentation that they have made satisfactory repayment arrangements. For example, the loan holder may update the code for the loan in NSLDS to DX once six payments have been made; you could then use that as confirmation of the repayment arrangement. You may also use a written statement from the loan holder indicating that the student has made satisfactory repayment arrangements as documentation of the arrangement.
+
+Loan rehabilitation
+. Although a student can regain eligibility for all 
+Title IV
+ funds by making satisfactory repayment arrangements, the loan is still in default. After the student makes more payments, the loan may be rehabilitated, that is, it won’t be in default anymore, and the student will have all the normal loan benefits, such as deferments. A defaulted Direct Loan or FFEL Program loan is rehabilitated once the borrower makes nine full, voluntary payments on time (no later than 20 days after the due date) within 10 consecutive months. See 
+Volume 6
+ for information on rehabilitation of defaulted Perkins Loans.
+
+Documenting Loan “Paid in Full” (Volume 1, Chapter 3, Example 4)
+
+A student had a Direct Loan as an undergraduate that went into default while they were out of school. When the student applies for financial aid so they can attend graduate school, their ISIR shows that the loan is still in default. The student tells the FAA at the school they want to attend that they paid off the loan last year. The FAA asks the student to bring in a letter from the Default Resolution Group documenting that the loan has been paid and advises the student that they should ask the Default Resolution Group to update the student’s status in NSLDS.
+
+ Satisfactory repayment and rehabilitation
+ 
+
+HEA Sec. 428F(a) and (b), 464(h)(1) and (2)
+
+General Provisions: 
+34 CFR 668.35(a)(2)
+
+34 CFR 682.200(b)
+
+682.405
+ (FFEL)
+
+34 CFR 685.102(b)
+, 
+685.211(f)
+ (Direct Loan)
+
+2025-26 NSLDS Loan Status Codes
+
+The codes in the table below are found on FAFSA Submission Summaries and ISIRs. Use these codes to determine the current loan status.
+
+ 
+
+Code
+
+Status
+
+Eligible for 
+Title IV
+ Funds
+
+ 
+
+AL
+
+Abandoned Loan
+
+Yes
+
+ 
+
+BC
+
+No Prior Default Bankruptcy Claim, Discharged (for Federal Family Education Loan [FFEL], only includes Chapter 13 bankruptcies.)
+
+Yes, because loan was not in default and was discharged
+
+ 
+
+BK
+
+No Prior Default Bankruptcy Claim, Active (for FFEL, only includes Chapter 13 bankruptcies.)
+
+Yes, because loan was not in default
+
+ 
+
+CA
+
+Cancelled (For Perkins means Loan Reversal)
+
+Yes
+
+ 
+
+CS
+
+Closed School Discharge
+
+Yes
+
+ 
+
+DA
+
+Deferred
+
+Yes
+
+ 
+
+DB
+
+Defaulted, then Bankrupt, Active. (Perkins: all bankruptcies; FFELP and Direct Loans: Chapter 13)
+
+No, unless debtor can show that loan is dischargeable. See Dear Colleague Letter GEN-95- 40, dated September 1995.
+
+ 
+
+DC
+
+Defaulted, Compromise
+
+Yes, because compromise is recognized as payment in full
+
+ 
+
+DD
+
+Defaulted, Then Died
+
+No, because if borrower is reapplying, then loan status is in error
+
+ 
+
+DE
+
+Death
+
+No, because if borrower is reapplying, then loan status is in error
+
+ 
+
+DF
+
+Defaulted, Unresolved
+
+No
+
+ 
+
+DI
+
+Disability
+
+Yes, but may require reinstatement of previously discharged loan obligations. See “Regaining Eligibility After a TPD Discharge: Physician’s Certification and Acknowledgement” earlier in this chapter.
+
+ 
+
+DK
+
+Defaulted, Then Bankrupt, Discharged. (Perkins: all bankruptcies; FFELP and Direct Loans: Chapter 13)
+
+Yes, because defaulted loan has been totally discharged
+
+ 
+
+DL
+
+Defaulted, in Litigation
+
+No
+
+ 
+
+DN
+
+Defaulted, Then Paid in Full Through Consolidation Loan
+
+Yes
+
+ 
+
+DO
+
+Defaulted, Then Bankrupt, Active, other. (FFELP and Direct Loans in Chapters 7, 11, and 12)
+
+No, unless debtor can show that loan is dischargeable. See Dear Colleague Letter GEN-95-40, dated September 1995.
+
+ 
+
+DP
+
+Defaulted, Then Paid in Full
+
+Yes, because loan was paid in full
+
+ 
+
+DR
+
+Defaulted Loan Included in Roll-Up Loan
+
+Yes, because the loan was combined with other loans and subrogated to the Department, which reported the same information to NSLDS in one loan. The status of that record will determine eligibility.
+
+ 
+
+DS
+
+Defaulted, Then Disabled
+
+Yes, because loan debt is cancelled. May require reinstatement of previously discharged loan obligations. See “Regaining Eligibility After a TPD Discharge: Physician’s Certification and Acknowledgement” earlier in this chapter.
+
+ 
+
+DT
+
+Defaulted, Collection Terminated
+
+No
+
+ 
+
+DU
+
+Defaulted, Unresolved
+
+No
+
+ 
+
+DW
+
+Defaulted, Write-Off
+
+No
+
+ 
+
+DX
+
+Defaulted, Satisfactory Arrangements, and Six Consecutive Payments
+
+Yes, assuming student continues to comply with repayment plan on defaulted loan, or is granted forbearance by the GA
+
+ 
+
+DZ
+
+Defaulted, Six Consecutive Payments, Then Missed Payment
+
+No, loan is back in active default status
+
+ 
+
+FB
+
+Forbearance
+
+Yes
+
+ 
+
+FC
+
+False Certification Discharge
+
+Yes
+
+ 
+
+FR
+
+Loans obtained by borrowers convicted of fraud in obtaining FSA funds
+
+No
+
+ 
+
+FX
+
+Loan once considered fraudulent but is now resolved
+
+Yes
+
+ 
+
+IA
+
+Loan Originated
+
+Yes
+
+ 
+
+ID
+
+In School or Grace Period
+
+Yes
+
+ 
+
+IG
+
+In Grace Period
+
+Yes
+
+ 
+
+IM
+
+In Military Grace
+
+Yes
+
+ 
+
+IP
+
+In Post-Deferment Grace (Perkins only)
+
+Yes
+
+ 
+
+OD
+
+Defaulted, Then Bankrupt, Discharged, other (FFELP and Direct Loans in Chapters 7, 11, and 12)
+
+Yes, because defaulted loan has been totally discharged
+
+ 
+
+PC
+
+Paid in Full Through Consolidation Loan
+
+Yes, because it does not matter if the consolidation loan was a FFEL Program loan or Direct Loan, nor whether underlying loans were in default
+
+ 
+
+PD
+
+Permanently Disabled
+
+Yes, borrower considered permanently disabled
+
+ 
+
+PF
+
+Paid in Full
+
+Yes
+
+ 
+
+PM
+
+Presumed Paid in Full
+
+Yes
+
+ 
+
+PN
+
+Non-defaulted, Paid in Full Through Consolidation Loan
+
+Yes
+
+ 
+
+PZ
+
+Parent PLUS loan for a student who has died
+
+No, the deceased student is not eligible because if borrower is reapplying, then loan status is in error
+
+Yes, the living parent of a parent PLUS Loan is eligible to receive 
+Title IV
+ aid
+
+ 
+
+RF
+
+Refinanced
+
+Yes, because defaulted loans cannot be refinanced
+
+ 
+
+RP
+
+In Repayment
+
+Yes
+
+ 
+
+UA
+
+Temporarily Uninsured—No Default Claim Requested
+
+Yes
+
+ 
+
+UB
+
+Temporarily Uninsured—Default Claim Denied
+
+Yes, because the loan is not a federal loan while temporarily uninsured
+
+ 
+
+UC
+
+FFEL: Permanently Uninsured/Unreinsured—Non-defaulted Loan. Perkins: Non-defaulted Loan Purchased by School
+
+Yes
+
+ 
+
+UD
+
+FFEL: Permanently Uninsured/Unreinsured—Defaulted Loan. Perkins: Defaulted Loan Purchased by School
+
+Yes, because the loan is no longer a federal loan
+
+ 
+
+UI
+
+Uninsured/Unreinsured
+
+Yes, does not matter if the loan was in default
+
+ 
+
+VA
+
+Veterans Administration Discharge
+
+Yes, disabled veteran discharged
+
+ 
+
+XD
+
+Defaulted, Satisfactory Arrangements, and Six Consecutive Payments
+
+Yes, assuming student continues to comply with repayment plan on defaulted loan, or is granted forbearance by the GA
+
+Previous
+
+Next
+
+ Last Modified: 12/10/2025 • Published: 03/28/2021

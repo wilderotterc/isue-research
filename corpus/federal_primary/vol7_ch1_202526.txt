@@ -1,0 +1,264 @@
+Student Eligibility for Pell Grants | 2025-2026 Federal Student Aid Handbook
+
+2025-2026 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 1
+
+Student Eligibility for Pell Grants
+
+General Eligibility Requirements for Federal Pell Grants
+
+In general, a student must be enrolled in an undergraduate course of study at a non-foreign institution to receive a Pell Grant. For the Pell Grant program, a student is an undergraduate only if the student has not earned or completed the requirements for a bachelor’s or professional degree. A student who has earned a baccalaureate degree or a first professional degree cannot receive a Pell Grant. However, students enrolled in an eligible post baccalaureate program as described below are still considered undergraduates for purposes of Pell Grant eligibility.
+
+ Definition of an Undergraduate Student
+ 
+
+34 CFR 668.2
+
+A student who completes a master’s program has earned a degree beyond the baccalaureate level, making the student ineligible for a Pell Grant even if they do not have a bachelor’s degree and enroll in an undergraduate program. Most professional degrees are also considered beyond the baccalaureate level; the same restrictions apply to students who have earned professional degrees considered beyond the baccalaureate level.
+
+A student who has received an associate degree—or any certificate or diploma below the baccalaureate level—and who enrolls in another undergraduate program continues to be considered an undergraduate student until the student has completed the curriculum requirements for a first bachelor’s degree.
+
+A student with a baccalaureate or professional degree is ineligible even if the degree is from an unaccredited school or is not accepted for admission or transfer credit by your school. Similarly, a student with a baccalaureate or professional degree from a foreign school usually isn’t eligible for a Pell Grant. But because a foreign degree often won’t translate neatly into the American classification, the school must judge whether it equates to a U.S. bachelor’s degree. If the student provides written documentation that the foreign degree is not equivalent to a bachelor’s degree awarded in the United States, you may determine that the student does not have a bachelor’s degree. Documents supporting such a conclusion may include information about the type of school the student attended and total years of education leading to the degree.
+
+A student enrolled in a program that lasts longer than five years, typically first professional degree programs such as a six-year pharmacy program, can be considered an undergraduate for only the first three or four years. Students enrolled in dual-degree programs that confer a bachelor’s degree and either a graduate or first professional degree are undergraduates for at least the first three years of the program. The school determines at what point after three years the student ceases to be an undergraduate student. The student must be considered a graduate student after the fourth year of such programs (see 
+Volume 1, Chapter 1
+ for further discussion).
+
+Occasionally, a student will complete all the requirements for a bachelor’s degree but will continue taking undergraduate courses without accepting the degree. Your school must decide whether and at what point the student completed the baccalaureate course of study. If your school determines that the student did complete a bachelor’s program (regardless of whether the student accepted the degree), then the student is no longer eligible to receive a Pell Grant.
+
+Wrong Grade Level on the FAFSA Form
+
+When an undergraduate student incorrectly reports on the Free Application for Federal Student Aid (FAFSA
+®
+) form that the student will be a graduate student or has a bachelor’s degree, the student must correct that information. Because the application shows that the student isn’t an undergraduate, the Department’s records will show that the student is ineligible for Pell. If the application isn’t corrected, the school won’t be able to pay the student a Pell Grant.
+
+Eligible Postbaccalaureate Program
+
+A student who is enrolled at least half time in a postbaccalaureate teacher certification or licensure program is eligible to receive a Pell Grant for the period necessary to complete the program if:
+
+The program does not lead to a graduate degree;
+
+The school offering the program does not also offer a bachelor’s degree in education;
+
+The student is pursuing an initial teacher certification or licensing credential within a state; and
+
+The program consists of the courses required by a state to receive a professional certification or licensing credential necessary for employment as a teacher in an elementary or secondary school in that state.
+
+Under this 
+very limited provision
+, a postbaccalaureate program is defined as a program that generally requires a student to have a bachelor’s degree before being admitted to the program. Accordingly, a program in which undergraduate students are routinely allowed to enroll would not meet the definition of a postbaccalaureate program for this purpose, nor would a program that is generally open to undergraduates but that also admits students with bachelor’s degrees. For 
+Title IV
+ purposes, a school must treat a student who receives a Pell Grant under this provision as enrolled in an undergraduate program. Such a student is eligible for Federal Work-Study and fifth-year undergraduate (not graduate student) Direct Loan limits but would not be eligible for a Federal Supplemental Educational Opportunity Grant (FSEOG).
+
+ Eligible Postbaccalaureate Programs
+ 
+
+Eligible postbaccalaureate programs
+
+34 CFR 690.6(c)
+
+HEA Sec. 401(d)(4)(B)
+
+Eligible Postbaccalaureate Program and the FAFSA
+
+Normally, students who indicate on the FAFSA that they have a bachelor’s degree won’t be listed in the Department’s records as Pell-eligible students, and the school won’t be able to receive Pell funds for them. However, to allow students who are eligible under the postbaccalaureate program provision to be paid, students who correctly report that they have a bachelor’s degree but also indicate on the FAFSA form that they are in a teaching credential program will be listed as Pell-eligible students. Of course, you must determine whether the student falls under the eligible postbaccalaureate provision.
+
+Prohibition on Receiving Two Pell Grant Payments for Concurrent Enrollment
+
+A student may not receive Pell Grant payments concurrently from more than one school. If a student is awarded Pell for any period of concurrent enrollment, the student has the choice of which award to receive but is limited to a single award from a single school.
+
+For Pell purposes, the phrase “concurrently from more than one institution” means that the student must be attending both schools at the same time for the concurrent Pell Grant prohibition to apply. A student who withdraws from one school and enrolls at least one day later in another school is normally not considered to have been enrolled concurrently. If a Pell-eligible student withdraws from one institution but meets one of the Return of 
+Title IV
+ Funds (R2T4) withdrawal exemptions and subsequently enrolls at a different institution during the same payment period, the new institution can award Pell Grant funds for any remaining portion of the overlapping payment period. See Chapter 6 of this volume for additional information on awarding remaining eligibility for a transfer student. The new institution should maintain documentation in the student’s file supporting a Pell Grant disbursement at that institution following the student's withdrawal from the prior school.
+
+ Prohibition on Concurrent Enrollment
+ 
+
+34 CFR 690.11
+
+HEA Section 401(d)(3)
+
+Pell Eligibility for Incarcerated Students
+
+Section 484(t) of the HEA established Pell Grant eligibility for confined or incarcerated students if they are enrolled in an eligible Prison Education Program (PEP). A confined or incarcerated individual is eligible to receive a Pell Grant if that individual enrolls in an eligible PEP. For additional information about PEPs, see 
+Volume 1
+, Chapter 1 and 
+Volume 2
+, Chapter 2 of the 
+FSA Handbook
+.
+
+Institutions that participated in the Second Chance Pell (SCP) experiment under the Experimental Sites Initiative (ESI) were invited to apply to participate in a revised version of the experiment. The revised SCP program allows institutions participating in the experiment as of July 1, 2023, to continue offering their current programs to confined or incarcerated individuals for up to three award years while they work through the application and approval process for the PEP(s) they wish to offer under the new provisions. See 
+Electronic Announcement GENERAL-23-25
+ for additional information. The revised SCP experiment will end on June 30, 2026; schools will not be permitted to disburse Pell Grant funds under the experiment beyond the 2025-26 award year.
+
+Cost of Attendance for Incarcerated Students
+
+The cost of attendance for students who are incarcerated may include the following: tuition, fees, books, course materials, supplies, equipment, and the cost of obtaining a license, certification, or a first professional credential. For more information on the cost of attendance, see 
+Volume 3
+, Chapter 2 of the 
+FSA Handbook
+.
+
+Confined or incarcerated individuals may not receive Pell Grant funds for more than their cost of attendance and may not receive a 
+Title IV
+ credit balance. To ensure that all allowable costs are included in the cost of the attendance, schools must include books, course materials, equipment, and supplies as part of institutional charges and either provide those materials directly to the individual or include the costs of books and supplies in the individual’s tuition and fees. If a credit balance is created, the school must return the Pell Grant funds associated with the credit balance to the Department and it will be credited to the student's remaining Pell eligibility.
+
+ Pell Eligibility for Incarcerated Students
+ 
+
+34 CFR 668, Subpart P
+ – Requirements for prison education programs
+
+34 CFR 690.62(b)(1)
+ – Prohibition on issuance of credit balances for confined or incarcerated individuals
+
+Dear Colleague Letter GEN-23-05
+ – Eligibility of Confined or Incarcerated Individuals to Receive Pell Grants
+
+Prison Education Programs
+ – FSA Partners Knowledge Center Resources
+
+Prison Education Programs
+ – Questions and Answers
+
+Maximum Pell Grant Eligibility for Dependents of Certain Deceased Servicemembers and Public Safety Officers
+
+Students who meet the eligibility requirements for Pell Grants under the Special Rule in HEA Section 401(c) will receive a maximum Pell Grant award, regardless of their calculated SAI. To receive a Pell Grant based on eligibility under the Special Rule, a student must be:
+
+The child of a parent or guardian who died in the line of duty while either (a) serving on active duty as a member of the U.S. Armed Forces on or after September 11, 2001; or (b) actively serving as and performing the duties of a public safety officer; and
+
+Less than 33 years old as of the January 1 prior to the award year for which the applicant is applying (e.g., for the 2025–26 award year, a student must be less than 33 years old as of January 1, 2025, to be eligible).
+
+In this situation, eligible students will have a Scheduled Award equal to a maximum Pell Grant award, regardless of SAI. Other aid for these students will be based on their calculated SAI.
+
+ Pell Grants Under the Special Rule
+ 
+
+HEA Section 401(c)
+
+Public Safety Officer Definition
+
+A public safety officer generally includes the following:
+
+Law enforcement officer
+
+Firefighter
+
+Member of a rescue squad or ambulance crew
+
+Federal Emergency Management Agency (FEMA) employee
+
+Emergency management or civil defense agency employee
+
+Chaplain
+
+Others defined in Section 1204 of the 
+Omnibus Crime Control and Safe Streets Act
+ of 1968 (34 U.S.C. 10284)
+
+Identification of Eligibility and Acceptable Documentation
+
+The U.S. Department of Defense does not provide confirmation that a service member killed in the line of duty meets the special eligibility criteria. Further, no comprehensive federal database exists to effectively and efficiently identify public safety officers killed in the line of duty. Therefore, students will self-identify potential eligibility on the FAFSA form, and the school will be required to confirm eligibility by collecting supporting documentation from the student. Once you document and certify Special Rule eligibility for a maximum Pell Grant award, neither your school nor any other school is required to redetermine that student's eligibility for subsequent award years if the student continues to meet all other Pell Grant eligibility requirements and the age requirement for the Special Rule.
+
+Acceptable documentation 
+may
+ include, but is not limited to, the following:
+
+A copy of the servicemember’s DD Form 1300 (Report of Casualty) which documents death in the line of duty.
+
+A copy of the servicemember’s DD Form 214 and death certificate, documenting that the date and cause of death occurred during and as a result of active duty.
+
+A copy of a Department of Veterans Affairs Death Narrative Document.
+
+A determination letter acknowledging eligibility for certain federal benefits under the Public Safety Officers Benefit (PSOB) program administered by the Department of Justice.
+
+A written letter of attestation or determination made by a state or local government official with supervisory or other relevant oversight authority of an individual who died in the line of duty while serving as a public safety officer.
+
+Documentation of the student qualifying for a state tuition or other state benefit accorded to the surviving children or other family members of a public safety officer.
+
+Other documentation the school determines to be from a credible source that describes or reports the circumstances of the death and the eligible occupation of the parent or guardian.
+
+Note:
+ You must work with any student who indicates on the FAFSA form that their parent or guardian was killed in the line of duty to document and, if determined eligible, certify eligibility for a maximum Pell Grant under the Special Rule. This includes students who may otherwise qualify for a Max Pell Grant based on SAI or other eligibility criteria. Since eligibility under the Special Rule does not need to be redetermined annually, certifying a student as eligible under the Special Rule allows the student to continue receiving a maximum Pell Grant award in subsequent award years, regardless of financial information.
+
+Legacy IASG and CFH Eligibility
+
+Students who were eligible for and received Iraq and Afghanistan Service Grant (IASG) funds or received Pell Grant funds based on IASG or Children of Fallen Heroes (CFH) eligibility criteria for the 2023-24 award year but are not eligible for Pell Grant funds under the Special Rule beginning with the 2024–25 award year are eligible to receive Pell Grant funds based on prior IASG or CFH eligibility criteria. Students remain eligible if they received at least one disbursement of Pell Grant or IASG funds based on their IASG or CFH eligibility during the 2023-24 award year and continue to meet the age requirement for the Special Rule. Students who receive a maximum Pell Grant based on legacy IASG or CFH guidance continue to be eligible if the student received at least one disbursement of funds based on the grandfathered eligibility in each subsequent award year. If there is a break in disbursement of one award year, then the student must qualify under the Special Rule in HEA Section 401(c).
+
+Certification and Reporting
+
+Schools report maximum Pell Grant eligibility based on either (1) Special Rule criteria eligibility or (2) legacy eligibility due to prior IASG or CFH criteria to the Department via the FAFSA Partner Portal (FPP). Once reported, the FAFSA Processing System (FPS) will generate a new ISIR transaction reflecting the student’s eligibility. This updated ISIR transaction will allow you to originate and disburse a maximum Pell Grant for eligible students. Applicants who meet Special Rule eligibility will be reported as simply eligible. There will be a separate value for students who meet the requirements for legacy eligibility. See 
+Volume 4
+ of the 
+2025-26 FAFSA Specifications Guide
+ for additional information.
+
+ 
+
+Eligibility Determination
+
+FAFSA Partner Portal Field
+
+Indicator Value
+
+ 
+
+Eligible – Special Rule (died in the line of duty while serving on active duty as a member of the U.S. Armed Forces on or after September 11, 2001)
+
+IASG Indicator
+
+1 – Eligible for IASG
+
+ 
+
+Eligible – Legacy IASG
+
+IASG Indicator
+
+2 – Eligible, grandfathered for IASG
+
+ 
+
+Eligible – Special Rule (died in the line of duty while actively serving as and performing the duties of a public safety officer)
+
+CFH Indicator
+
+1 – Eligible for CFH
+
+ 
+
+Eligible – Legacy CFH
+
+CFH Indicator
+
+2 – Eligible, grandfathered for CFH
+
+ 
+
+Ineligible
+
+IASG or CFH Indicator
+
+3 – Not eligible for IASG/CFH
+
+ 
+
+No Determination
+
+IASG or CFH Indicator
+
+Blank – No Determination
+
+While you do not need to redetermine a student’s eligibility in subsequent award years, you must recertify and report eligibility annually in FPP.
+
+Previous
+
+Next
+
+ Last Modified: 04/18/2025 • Published: 08/25/2023

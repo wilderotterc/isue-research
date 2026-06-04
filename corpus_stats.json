@@ -1,0 +1,32 @@
+{
+  "corpus/federal_primary": {
+    "files": 30,
+    "chunks": 785,
+    "total_tokens": 269070,
+    "avg_chunk_tokens": 343
+  },
+  "corpus/federal_outdated": {
+    "files": 30,
+    "chunks": 786,
+    "total_tokens": 267986,
+    "avg_chunk_tokens": 341
+  },
+  "corpus/federal_consumer": {
+    "files": 6,
+    "chunks": 41,
+    "total_tokens": 13896,
+    "avg_chunk_tokens": 339
+  },
+  "corpus/professional": {
+    "files": 1,
+    "chunks": 6,
+    "total_tokens": 2176,
+    "avg_chunk_tokens": 363
+  },
+  "corpus/institutional": {
+    "files": 4,
+    "chunks": 23,
+    "total_tokens": 7268,
+    "avg_chunk_tokens": 316
+  }
+}

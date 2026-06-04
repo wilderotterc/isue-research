@@ -1,0 +1,1012 @@
+Filling Out the FAFSA | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 2
+
+Filling Out the FAFSA
+
+This chapter describes changes to the FAFSA form due to implementation of the 
+FAFSA Simplification Act
+ and the 
+FUTURE Act
+. While the chapter follows the organization of the paper (PDF) FAFSA form and the ISIR, the guidance applies equally to the online FAFSA. To see how FAFSA data are used to calculate the Student Aid Index (SAI), refer to Chapter 3.
+
+The easiest, fastest, and most accurate way to complete a FAFSA form is using the online application and providing consent and approval for the access, disclosure, and use of federal tax information (FTI). The online FAFSA form provides robust instructions and help in completing the form. It also provides a clear path for the student and each contributor, allowing them to skip (or never see) questions that are unnecessary, irrelevant, or already known based on information previously provided or imported. However, some applicants will be unable or unwilling to complete the FAFSA form online.
+
+FUTURE Act Direct Data Exchange (FA-DDX)
+
+The 
+Fostering Undergraduate Talent by Unlocking Resources for Education (FUTURE) Act
+ amended Section 6103 of the Internal Revenue Code (IRC) to allow the Internal Revenue Service (IRS) to disclose certain FTI to FSA. The IRS and FSA worked together to develop the FUTURE Act Direct Data Exchange (FA-DDX) solution, which establishes a secure connection between both agencies through an application programming interface that will process requests in near-real time. The FA-DDX replaces the IRS Data Retrieval Tool (IRS-DRT) and will be used beginning with the 2024-25 award year to import certain FTI into an applicant’s FAFSA form.
+
+Consent and Approval
+
+The student and each contributor to the FAFSA form must provide consent and approval to the access, disclosure, and use of FTI in evaluating the applicant’s eligibility for 
+Title IV
+ aid. Consent and approval are required regardless of the application method (online or paper).
+
+Definitions
+
+FAFSA 
+Privacy Act
+ Consent
+ – Formal consent provided by an applicant and any applicable contributor(s) for a given FAFSA cycle (e.g., December 2023 to September 2025 for the 2024-25 FAFSA form) that meets the statutory requirements of collecting and using an individual’s personally-identifiable information (PII) under the 
+Privacy Act
+, as amended (5 U.S.C. § 552a). PII provided on the FAFSA form (e.g., name, date of birth, Social Security number) with consent of the individual, will be provided to the IRS to conduct a match for the Department to receive FTI for purposes of determining an applicant’s federal financial aid eligibility and permit further redisclosure of FTI by the Department.
+
+FAFSA FTI Approval
+ – Formal approval granted by an applicant and any applicable contributors for a given FAFSA cycle (e.g., December 2023 to September 2025 for the 2024-25 FAFSA form) to retrieve and use FTI to determine an applicant’s federal financial aid eligibility as well as permit the redisclosure of FTI by the Department to an eligible institution; state higher education agency; or a designated scholarship organization for the application, award, and administration of student aid programs. An applicant and contributor (if applicable) must provide approval once each year. If FAFSA FTI approval is not provided, the student will not be eligible for any 
+Title IV
+ aid until the approval is provided by each contributor.
+
+To provide consent and approval, FAFSA contributors (including parent(s) or spouse) must agree to (1) the Department’s use and disclosure of their information (e.g., name and Social Security number) to match with the IRS; (2) the disclosure of their FTI by the IRS to the Department; (3) the use of their FTI by a Department official to determine an applicant’s eligibility for federal student aid and the amount for which they are eligible; and (4) the redisclosure of FTI by the Department to an eligible institution, state higher education agency, or a designated scholarship organization (e.g., institutional or state financial aid). Only the Department has the authority to obtain approval and consent for the use and disclosure of FTI for such purposes. Our partners are not permitted to obtain approval and consent on behalf of FAFSA contributors (including parent(s) or spouse) for the use and disclosure of FTI.
+
+Once a FAFSA contributor has provided consent and approval for use and disclosure of FTI for a FAFSA cycle (e.g., the 2024-25 FAFSA cycle), they cannot revoke consent for that cycle. The ability to revoke consent is not needed for FAFSA purposes because the FAFSA contributor is providing a one-time consent for a specific tax year and an annual consent is required for each FAFSA cycle.
+
+Students and contributors are not able to view or edit the imported FTI data. This is to enhance security, privacy, and to reduce the risk of the misuse of sensitive data. However, you (the financial aid administrator) will be able to see the transferred data on the ISIR. Schools and other partners that receive ISIRs must protect federal student aid information provided to them by the Department or otherwise obtained in support of the application, award, and administration of the federal student aid programs as permitted under the IRC 6103(l)(13) and HEA, as amended. In keeping with the expectation that you protect the confidentiality of data associated with the 
+Title IV
+ programs, you must not disclose FTI from the FAFSA form unless the disclosure and use is permitted under the IRC 6103(l)(13) and HEA 1098h.For additional information and guidance on the use of FTI, see Electronic Announcement 
+GEN-23-34
+.
+
+Federal Tax Information
+
+The following data received by the Department from the IRS are considered FTI, starting with award year 2024-25 data:
+
+Tax Year (ex. Award year 2024-25 is based on 2022 tax year information from the IRS)
+
+Tax Filing Status
+
+Adjusted Gross Income (AGI)
+
+Number of Exemptions and Number of Dependents
+
+Income Earned from Work
+
+Taxes Paid
+
+Educational Credits
+
+Untaxed IRA distributions
+
+IRA deductions and payments
+
+Tax exempt interest
+
+Untaxed pension amounts
+
+Schedule C net profit/loss
+
+Indicators for Schedules A, B, D, E, F, H
+
+IRS response code
+
+In some limited circumstances, the student or contributor may need to manually provide data if it is unavailable through the FA-DDX or does not reflect their current personal circumstances. In these cases, manually entered data will be used in the SAI calculation. For example, a contributor would be required to manually report income and tax data if they were married and filed their 2022 U.S. tax return jointly with their spouse but are now divorced.
+
+IRS Response Codes
+
+The IRS will provide one of the following response codes for each contributor, and they will appear on a student’s ISIR.
+
+ 
+
+Code
+
+Indication
+
+ 
+
+200
+
+Usable FTI data retrieved successfully
+
+ 
+
+214
+
+No return on file
+
+ 
+
+IRS Response Codes
+
+203
+
+206
+
+212
+
+No usable FTI data retrieved
+
+The IRS provides a response code value of “200” when the IRS has data and it was successfully shared with FSA for inclusion on the applicant’s FAFSA form. Income and tax information for contributors with a “200” IRS response code is considered verified. The IRS response code of “214” means the IRS was able to locate the individual in its records and confirmed that it does not have a tax return on file for that individual for the tax year, designating them as a non-U.S. tax filer.
+
+IRS response codes “203”, “206”, and “212” indicate that the IRS is unable to provide FTI for that contributor. This may be because the IRS is unable to locate the individual in its records or the IRS is unable to share FTI (such as in cases of identity theft). If the IRS returns any of these codes for a contributor, that individual must manually provide income and tax information on the applicant’s FAFSA form. This manually entered data will be used in the SAI calculation and is 
+not
+ considered verified.
+
+Contributors
+
+“Contributor” refers to anyone who is required to provide information, consent, and approval, and a signature on the FAFSA form. Beginning with the 2024-25 FAFSA, each contributor will complete their own section of the form. The FAFSA form is organized by contributor, each section consisting of a group of questions and instructions pertaining to that contributor. The guidance in this chapter supplements those instructions and explains why some of the questions are needed on the FAFSA form.
+
+The parents mentioned are the legal parents of dependent students. The numbers in parentheses below are for the items as they appear on the FAFSA Submission Summary, ISIR, paper (PDF) FAFSA, and FAFSA Partner Portal. The FAFSA form is considered a “snapshot” of the family’s information as of the date the application is signed and it can be updated only in certain circumstances and only for certain items. See Chapter 4 for more information about updating a FAFSA form.
+
+The following sections discuss the questions found within each contributor section on the FAFSA form.
+
+Contributor: Student
+
+This section consists of 24 questions related to the student.
+
+Student Identity Information (1)
+
+This question requests the name, date of birth, and Social Security number (SSN) or Individual Taxpayer Identification Number (ITIN) of the student contributor. The name, with other identifying information, is used for several data matches. Because the U.S. Department of Education (ED) matches the student’s name and SSN with the Social Security Administration (SSA), the name on the FAFSA form should match the one in the SSA’s records (i.e., as it appears on the student’s Social Security card).
+
+Students (except citizens of the Freely Associated States – see “Account Username and Password” in Chapter 1) must have an SSN to apply for federal student aid. If they submit a paper (PDF) FAFSA without an SSN, the FAFSA form will be returned unprocessed. Students will be unable to submit a FAFSA form electronically without an account username and password, which requires an SSN. To get an SSN or to find out what the number is if they lost their Social Security card, they must contact the local SSA office. Contact the SSA at 1-800-772-1213 or 
+https://www.ssa.gov/ssnumber/
+ for more information.
+
+If the student’s name, date of birth, or SSN does not match with the Social Security Administration, the student typically needs to resolve the issue with the SSA. If the information submitted is correct, the student must contact SSA to update its records. After the student receives confirmation that SSA has corrected its records, the student must contact the Federal Student Aid Information Center (FSAIC) and ask them to manually sync their data with SSA. Alternatively, if the student notifies the school that they received confirmation from SSA, the FAA may update the Resend to Matches field to “Y” in the FAFSA Partner Portal and submit it as a correction so the transaction can go back to SSA for an updated match flag. Records sent for rematching will continue to receive this match flag until SSA updates its database.
+
+Students who enter their name, date of birth, or SSN incorrectly should log in to StudentAid.gov and update their information in 
+Account Settings
+. The record will be resent to SSA for matching. Once SSA verifies the account, the student should update their FAFSA form by submitting a correction.
+
+Student Contact Information (2)
+
+This is the student’s current mobile phone, email address, and permanent home address, with three exceptions:
+
+Students under the age of 13 should not provide an email address as FSA cannot communicate with them electronically. See “FAFSA Filers Under the Age of 13” in Chapter 1 for additional information.
+
+Incarcerated students should use the physical address of the facility they are in. If an incarcerated student is released, they should also update their address in their StudentAid.gov account or on their FAFSA Submission Summary.
+
+Homeless youth should use a mailing address where they can reliably receive mail. That can be the address of a relative or friend who has given them permission to use it, or it can be their school’s address if they have contacted the school for permission and instructions on how mail they receive at the school will reach them. As soon as homeless students have more permanent housing, they should update their address in their StudentAid.gov account or on their FAFSA Submission Summary.
+
+If the student provides an email address, they should get an email with a link to their online FAFSA Submission Summary within one to three days after the FPS receives the completed application. The Department will also use this email address to correspond with the student regarding their application.
+
+Student Current Marital Status (3)
+
+This is marital status “as of today” – the day the application is signed. Marital status cannot be projected. It can be updated in limited circumstances; see Chapter 4.
+
+A student who is only engaged should select “single (never married)” unless they wait until after their marriage date to complete the FAFSA form. A student in a relationship that meets the criteria for common-law marriage in their state of legal residence should select “married” and will be considered independent. Beginning in 2024-25, students who are separated from their spouse (and are not otherwise independent) should select “separated” and will be considered dependent students for FAFSA purposes.
+
+Student College or Career School Plans (4)
+
+Students should answer this question based on the degree or certificate program they will be working on at the start of the 2024-25 award year. Students may update the answer to this question if their plans change or they progress to a higher grade level during the award year.
+
+A student’s grade level is not based on the number of years the student has attended college but on work completed toward the degree or certificate. For instance, a full-time student might attain second-year grade level after one year of study, while a half-time student would take two years to reach that level.
+
+The student should also indicate whether they will have a first bachelor’s degree before beginning the 2024-25 year because eligibility for Pell and Federal Supplemental Educational Opportunity grants (FSEOG) is almost exclusively restricted to students who have not received a bachelor’s degree or completed the requirements for one. See “General Eligibility Requirements for Federal Pell Grants” in 
+Volume 7
+, Chapter 1 regarding degrees from unaccredited and foreign schools, which can count as bachelor’s degrees for Pell and FSEOG eligibility.
+
+Finally, the student should indicate if they will be pursuing an initial teaching certification at the elementary or secondary level. If a student answers “yes” to this question, you must evaluate and determine if the student is enrolled in a postbaccalaureate program for which a student may receive a Pell Grant. See 
+Volume 7
+, Chapter 1 regarding eligible postbaccalaureate programs.
+
+A student who is a graduate or professional student is independent for purposes of 
+Title IV
+ aid and not eligible for Pell grants or other forms of undergraduate aid. If a Pell-eligible student incorrectly indicates they are working on a master’s or doctorate program, they must submit a correction before they can receive a Pell grant, even if they are independent for another reason. If a student completes an undergraduate program during the year and begins graduate school, the student can update the answer to this question and the FPS will reprocess the student’s application.
+
+See 
+Volume 1
+, Chapter 1 for definitions of undergraduate and graduate students.
+
+ Undergraduate student definition
+ 
+
+34 CFR 668.2 “Undergraduate student”
+
+ Graduate student definition
+ 
+
+34 CFR 668.2 “Graduate or professional student”
+
+Student Personal (5), Other (6), or Unusual (7) Circumstances
+
+The law governing the FSA programs is based on the premise that the family is the first source of the student’s support, and the law provides several criteria that decide if the student is considered independent of their parents for aid eligibility. Note that a student reaching the age of 18 or 21 or living apart from their parents does not on its own affect their dependency status.
+
+Questions 5 and 6, along with information from other FAFSA questions, are used to determine if a student meets eligibility criteria to be considered independent and not required to submit information about their parents. If a student is considered a dependent of their parents, the parents' income and assets must be included on the FAFSA form. The FPS will calculate a parent contribution and add it to the student’s contribution to derive an SAI.
+
+For the 2024-25 year, a student who meets one or more of the following criteria is independent:
+
+From 
+Question 1:
+
+The student was born before January 1, 2001.
+
+From 
+Question 3:
+
+The student is married (not separated) or remarried as of the application date.
+
+From 
+Question 4:
+
+The student is a graduate or professional student during the award year.
+
+From 
+Question 5:
+
+The student is currently serving on active duty in the U.S. armed forces for purposes other than training.
+
+The student is a veteran of the U.S. armed forces.
+
+The student has children or dependents other than a spouse.
+
+The student is (or was at any time after reaching the age of 13) an orphan, foster child, or ward/dependent of the court.
+
+The student is (or was when the student reached the age of majority) an emancipated minor or in a legal guardianship, as determined by a court in the student’s state of legal residence.
+
+From 
+Question 6:
+
+The student was at any time on or after July 1, 2023, determined to be unaccompanied and (1) homeless or (2) self-supporting and at risk of being homeless with a determination from one of the entities listed on the FAFSA form.
+
+ Independent Student Determination
+ 
+
+HEA Sec. 480(d)
+
+In unusual circumstances, an aid administrator can determine that a student who doesn’t meet any of the criteria listed above should still be treated as an independent student. A student may indicate that they have an unusual circumstance by selecting “Yes” to 
+Question 7
+ on the FAFSA form. The student may then skip the parent sections of the form. Students who select “Yes” to this question will be given provisional independent student status and directed to provide documentation to their financial aid office for determination. (See “Unusual Circumstances” in Chapter 5.)
+
+Active duty in the U.S. Armed Forces
+
+Persons on active duty in the U.S. armed forces (the Army, Navy, Air Force, Marines, Space Force, or Coast Guard) for purposes other than training are independent.
+
+Veteran of the U.S. Armed Forces
+
+The 
+FAFSA Simplification Act
+ aligns the definition of veteran with the definition used by the U.S. Department of Veteran Affairs (VA) to determine veterans’ benefits. The Act cites 
+Title 38
+ of the U.S. Code for the definition of a veteran. Generally, a veteran is an individual who:
+
+Served on active duty in the U.S. armed forces (the Army, Navy, Air Force, Marines, Space Force, or Coast Guard) for other than training and who was discharged or released under a condition other than “dishonorable”; or
+
+Served on active duty for training or inactive duty for training in the U.S. armed forces and was disabled from injury incurred or aggravated in the line of duty.
+
+Members of the National Guard or Reserves are only considered veterans if they were called up to active federal duty by presidential order for a purpose other than training. It does not matter how long the active duty lasted or if the student returned to reserve status afterward, but, as with the other qualifying veterans, the student must have had a character of service that was not “dishonorable.”
+
+The FAFSA form also tells students to answer “Yes” to the question about veteran status if they aren’t yet a veteran but will be by June 30, 2025.
+
+Students serving in ROTC or currently attending a U.S. military academy are not veterans. Additionally, students who attended a U.S. military academy or military academy preparatory school but were discharged prior to commission (commonly known as “early exit cadets”) are not veterans.
+
+ Veteran Definition
+ 
+
+38 USC 101: Definitions
+
+38 CFR 3.1(d)
+
+If a student indicates they are a veteran in 
+Question 5
+, the FPS performs a match with VA records to confirm that status. The VA sends the result back, which appears as a match flag in the FAA Information section of the output document. For VA Match Flags 2, 3, and 4 (listed below), a comment and a C flag will appear on the FAFA Submission Summary only if veteran status is the sole reason that the student would be independent. See 
+Volume 7
+ of the 
+2024-25 FAFSA Specifications Guide
+ for additional details.
+
+VA Match Flag 1: Confirmed – There won’t be any comments on the output document if the VA confirms that the student is a veteran.
+
+VA Match Flag 2: Not a Qualifying Veteran – A student will receive this flag if the VA database indicates they are not a veteran.
+
+VA Match Flag 3: Not found by VA – A student will receive this flag if the student is not in the VA database.
+
+VA Match Flag 4: Active Duty – If the student is currently on active duty, they are not a veteran yet. However, if their active duty will end by June 30, 2025, they count as a veteran for purposes of determining dependency status. Because the student should have answered “Yes” to the active-duty question, they would be independent by that criterion and wouldn’t have to resolve this situation.
+
+A student who receives a VA Match Flag of 2 or 3 and is independent for reasons other than being a veteran can receive aid as an independent student without resolving the problem with their veteran status, although the student should have the VA correct its database if it has incorrect information.
+If the student is not independent for reasons other than being a veteran, the student must either resolve the problem with their veteran status or correct their FAFSA form.
+
+If the student is a veteran, they should correct any problem with the VA or provide documentation showing they are a veteran, or will be one by June 30, 2025. Students should provide the financial aid office at their school a copy of their DD214 (the Certificate of Release or Discharge from active duty, with “Character of Service” as anything but “dishonorable”). If it shows that the student is a veteran, they can receive aid as an independent student. If a National Guardsman or a reservist who served on active duty (for other than training) did not receive a DD214 but can obtain a letter from a superior officer that documents the call-up to active duty and that classifies the character of service as anything but “dishonorable,” the student will be considered a veteran for FSA purposes. If the VA match problem is due to an error in the VA’s database, the student should contact the VA and correct the error. A subsequent transaction will then redo the match with the VA.
+
+If the student is not a veteran and will not be one by June 30, 2025, they must correct their answer to Question 5 and invite at least one parent to contribute to their FAFSA form.
+
+Children and Legal Dependents
+
+Students who have legal dependents are independent. Legal dependents include children or other people (except a spouse) who meet all the following criteria:
+
+They live with the student (or, in the case of children, live apart from the student due to a qualifying temporary absence under IRS code, such as living apart due to college enrollment).
+
+They currently receive more than half of their support from the student.
+
+They will continue to receive more than half of their support from the student between July 1, 2024, and June 30, 2025
+
+If one or both student’s parents are directly or indirectly providing more than 50% support in cash or other assistance to the student’s child, then the student could not claim to have a legal dependent who receives more than half of their support from the student. “Indirect support” includes support that a parent gives to the student on behalf of the child. If the student is living with a parent who is paying for most of the household expenses, the parent would usually be considered the primary source of support to the student’s child, and the student should not indicate they have legal dependents. However, there may be some cases where the student can demonstrate that they provide more than half of their child’s support even while living at home with their parents, in which case the student could indicate they have legal dependents.
+
+If the student receives money or other support for the legal dependent from sources other than their parents, the student may count it as part of their support to the child. Sources include government programs, such as Temporary Assistance for Needy Families (TANF) and Supplemental Nutrition Assistance Program (SNAP), that provide benefits for dependent children. So, a student may be considered independent when the benefit they receive is the primary support for the child. However, child support received from a noncustodial parent cannot be counted as part of the student’s support to the child.
+
+When a student completes a FAFSA form after the award year has begun and indicates they have a legal dependent who is not the student’s child, the support already given by the student during the award year plus the future support for the remainder of the award year must total more than 50% for the whole award year for the individual to meet the definition of a legal dependent.
+
+Legal dependent examples
+
+AVG, Chapter 2, Example 1:
+ A student and their disabled sibling currently live together. The sibling receives a small disability payment each month, but the student provides more than 50% support for the sibling and expects to continue to do so through the award year. The sibling is considered a dependent of the student and can be included in the student’s family size on the FAFSA form. The student is also an independent student due to having a legal dependent.
+
+AVG, Chapter 2, Example 2:
+ The same student and disabled sibling currently live together and expect to continue to do so through the award year. The sibling receives a small disability payment AND a pension payment each month. The combination of the pension and the disability payment will be enough that the student won’t be providing more than half of the sibling’s support. Therefore, the student won’t be able to include the sibling in their family size. Additionally, the student may or may not be independent, depending on their responses to other dependency questions.
+
+AVG, Chapter 2, Example 3:
+ A student is appointed legal guardian of their minor cousin, who lives with the student. The cousin receives Social Security benefits, which are paid to the student since the cousin is a minor. These benefits provide more than half of the cousin’s support. Because the cousin lives with and is supported by the student (through the Social Security benefits) throughout the award year, the student indicates they have a legal dependent on the FAFSA form and is an independent student. However, if the cousin did not live with the student, the student would not be able indicate they have a legal dependent and would only be independent if they meet other independent circumstances.
+
+AVG, Chapter 2, Example 4:
+ A student and their partner live together but are not married. The student pays $1,500 per month to support their partner. The partner also has earned income of $2,000 per month and receives $200 per month from their parents. The partner uses all of this for their support. The student cannot consider their partner a legal dependent since the $1,500 they provide is not more than half of the partner’s total support of $3,700.
+
+AVG, Chapter 2, Example 5:
+ In April 2024, a student applies for aid for both 2023-24 and 2024-25 award years. One month prior to that, their parent moved in with the student. The parent is undocumented and does not work or qualify to receive other federal benefits. Even though the student provides all their parent’s support, the months of support for March through June 2024 (the end of the award year) would not be more than 50% for 2023-24 award year. Therefore, the student cannot claim their parent as a legal dependent on their 2023-24 FAFSA form. If the parent had moved in before the midpoint of the year, the student would have been able to count the parent as a dependent for 2023-24. However, because the two plan to live together and the student plans to provide more than 50% support at least through June 2025, the student can count the parent as a dependent for 2024-25.
+
+AVG, Chapter 2, Example 6:
+ A student lives alone with their infant child. The infant child’s other parent pays $200 per month in child support to the student. The student also receives the equivalent of $500 per month from government assistance programs for the child. The student provides the remainder of the child’s support through part-time work. The student can consider the child a legal dependent as they live together and the student provides more than 50% of the child’s support.
+
+AVG, Chapter 2, Example 7:
+ A student lives alone with their infant child. The child’s other parent shares custody of the child and pays $1,000 per month in child support to the student. The student receives the equivalent of $500 per month from government assistance programs for the child. The student does not work and relies on the child support and government assistance to support the child. The student 
+cannot
+ consider the child a legal dependent, even though the child lives with the student, because the student does not provide more than 50% of the child’s support. If the student is not otherwise independent, the student will need to provide parent information on the FAFSA form. If the child’s other parent is also a student, they 
+could
+ consider the child a legal dependent on their FAFSA form if the child lived with them and they provide more than 50% of the child’s support.
+
+Orphan, Foster Child, or Ward of the Court
+
+A student who is an 
+orphan
+ – both parents are dead – when 13 or older is independent even if the student has subsequently been adopted. Likewise, a student who was, at any time since the age of 13, a 
+foster child
+ or a 
+ward of the court
+ is independent even if their status changed later.
+
+A student is a ward of the court if a court has assumed legal custody of the student. In some states the court may impose its authority over a juvenile who remains in the legal custody of their parents; such a student is not a ward of the court. Also, incarceration of a student does not qualify the student as a ward of the court. In some states the phrase “ward of the state” is used; if it is 
+not
+ due to incarceration, this is considered the same as a ward of the court for dependency status.
+
+If an institution requires that a student provide documentation that they were in foster care at age 13 or older, you must consider any of the following documentation to be adequate:
+
+Submission of a court order or official state documentation that the student received federal or state support in foster care.
+
+A documented phone call, written statement, or verifiable electronic data match from
+
+a state, county, or tribal agency administering a program under part B or E of 
+Title IV
+ of the 
+Social Security Act
+ (42 U.S.C. 621 et seq. and 670 et seq.);
+
+a state Medicaid agency; or
+
+a public or private foster care placing agency or foster care facility or placement.
+
+A documented phone call or a written statement from an attorney, guardian ad litem, or Court Appointed Special Advocate.
+
+Verification of the student’s eligibility for an education and training voucher under the John H. Chafee Foster Care Program under section 477 of the 
+Social Security Act
+ (42 U.S.C. 677).
+
+A documented phone call or written statement from a financial aid administrator who documented the student’s circumstance in the same or a prior award year.
+
+Emancipation and Legal Guardianship
+
+Students are independent if they are, or were upon reaching the age of majority, emancipated minors (released from control of their parent or guardian) or in legal guardianship, both as adjudicated by a court of competent jurisdiction in their state of legal residence at the time of the adjudication. The emancipation must be determined by a court, not by an attorney, though the basis for it can vary by state.
+
+Students placed in legal guardianship to their parents—e.g., if they are disabled adults and under their parents’ care—are not independent for 
+Title IV
+ program purposes. Similarly, guardianship of a person’s estate does not qualify as a legal guardianship of the student for this purpose. If the student’s documentation says “custody” instead of “guardianship,” they should contact you for additional guidance. Most states have a clear definition of legal guardianship that is distinct from custody, but if a given state does not, ask your school’s legal counsel for help with this question.
+
+Unaccompanied Homeless Youth
+
+A student is independent if, at any time on or after July 1, 2023, the student is determined to be an unaccompanied youth who is homeless or is self-supporting and at risk of being homeless. In determining independence due to homelessness, you must consider documentation from any of the following entities—provided through a documented phone call, written statement, or verifiable electronic data match—to be adequate:
+
+A local educational agency homeless liaison (or designee), as designated by the 
+McKinney-Vento Homeless Assistance Act
+ (42 U.S.C. 11432(g)(1)(J)(ii)).
+
+The director (or designee) of an emergency or transitional shelter, street outreach program, homeless youth drop-in center, or other program serving individuals who are experiencing homelessness.
+
+The director (or designee) of a Federal TRIO program or a Gaining Early Awareness and Readiness for Undergraduate program (GEAR UP) grant.
+
+A financial aid administrator at another institution who documented the student’s circumstance in the same or a prior award year.
+
+In the absence of a determination by the entities above, you, the FAA, 
+must
+ make a case-by-case determination of homeless youth status (see Chapter 5) based upon a written statement from, or a documented interview with, the student that confirms that they are an unaccompanied homeless youth, or unaccompanied, at risk of homelessness, and self-supporting.
+
+Apply for a Direct Unsubsidized Loan Only (8)
+
+A student whose parents are unwilling to provide their information on the student’s FAFSA form but who does not have an unusual circumstance (as defined in 
+Question 7
+) may request that an FAA review their eligibility for a Direct Unsubsidized Loan only by selecting “Yes” to this question.
+
+Family Size (9)
+
+Under FAFSA Simplification, family size (formerly “household size”) now aligns with the number of exemptions (which equal the tax filer(s) plus dependents) claimed on an individual’s tax return. Individuals who complete the FAFSA form online, provide the required consent and approval to retrieve and use IRS FTI, and have their tax data successfully transferred via the FA-DDX will not be asked to report the size of their family as their family size will be derived from that FTI. Instead, these individuals will be asked if their family size is different from the number of individuals claimed on their tax return. If they indicate there was a change, they will be asked to manually report their family size in a follow-up question.
+
+On the paper (PDF) FAFSA form, family size appears in both the student and parent contributor sections. Dependent students are instructed to skip question 9 on the paper (PDF) FAFSA form. Dependent students completing the online FAFSA form will not see the family size question in the student section.
+
+The following persons are included in the family size of an 
+independent student
+:
+
+The student and their spouse
+, unless the spouse has died or is not living in the household due to separation or divorce.
+
+The student’s dependent children
+, if they live with the student (or live apart from the student due to a qualifying temporary absence under IRS code, such as living apart due to college enrollment) and will receive more than half of their support from the student (and spouse) from July 1, 2024, through June 30, 2025. Unborn children should not be included in the family size, though the family size can be updated if the child is born during and will receive more than half of their support from the student (and spouse) during the award year.
+
+Other persons
+, who live with and receive more than half their support from the student and will receive more than half support for the entire award year. For FAFSA forms submitted after the start of the year, see the relevant paragraph and example about legal dependents provided earlier in this chapter under the “Children and legal dependents” section.
+
+Family size example
+
+AVG, Chapter 2, Example 8:
+ A married student recently separated from their spouse, and they are no longer living together. The student is paying child support to the spouse, but it isn’t enough to provide more than half the child’s support. The spouse and child cannot be included in the student’s family size, even though the student and spouse are not yet legally divorced. However, the student’s nephew lives with the student and receives more than half of their support from the student (and will do so for the award year). The student can count the nephew in their family size, which is two. The nephew, who recently turned 24, is an independent student on his own FAFSA form and his household size is one.
+
+Number in College (10)
+
+While number in college is no longer a factor in the SAI formula, it is a required question on the FAFSA form. Schools can use the information provided to perform a special circumstance adjustment for a student. See “Professional Judgment” in Chapter 5: Special Cases of this volume for additional information.
+
+The student is always included in the number in college. Also included are those in the family size who are or will be enrolled at least half time during the award year in a degree or certificate program at a 
+Title IV
+-eligible school.
+
+Student Demographic Information (11) and Student Race and Ethnicity (12)
+
+These questions collect sex/gender and race/ethnicity information about the student. The answers to these questions will not affect the student’s eligibility for federal student aid, be used in any calculations, or be shared with the schools to which the student applies. They will be used for research purposes only.
+
+Student Citizenship (13)
+
+Examples of eligible noncitizen categories are given in the FAFSA instructions, and a detailed discussion of citizenship issues can be found in 
+Volume 1: Student Eligibility
+ of the 
+FSA Handbook
+. Only U.S. citizens or certain classes of noncitizens are eligible for 
+Title IV
+ aid; however, other students can still submit the FAFSA form because they might be eligible for aid from institutional, state, or private sources that do not have the same requirements but use FAFSA information.
+
+Students who select “Eligible noncitizen” should include their A-Number, if they have one.
+
+Student State of Legal Residence (14)
+
+This is used to determine which poverty guideline to use when evaluating eligibility for a Maximum or Minimum Pell Grant for an independent student.
+
+This is also used to determine which state agency should receive the student’s FAFSA information. States have varying criteria for determining whether the student is a resident for purposes of their financial aid. However, residing in one state for five years will meet any state’s criteria.
+
+Parent Education Status (15)
+
+Some state agencies and institutions use this information to award grants and scholarships.
+
+Parent Killed in the Line of Duty (16)
+
+A student may be eligible for a Maximum Pell Grant if they have a parent or guardian who died in the line of duty while either (1) serving on active duty as a member of the U.S. armed forces on or after September 11, 2001, or (2) performing official duties as a public safety officer. You should evaluate students who select “Yes” to this question for additional Pell Grant eligibility under HEA Sec. 401(c).
+
+ Special Rule
+ 
+
+HEA Sec. 401(c), as amended by the 
+FAFSA Simplification Act
+
+Student High School Information (17)
+
+The student indicates one of the following high school completion statuses:
+
+High school diploma
+
+State-recognized high school equivalent (e.g., GED certificate)
+
+Homeschooled
+
+None of the previous
+
+A foreign secondary education credential typically counts as a high school diploma.
+
+ Foreign High School Diploma
+ 
+
+FHD-Q1 on the program integrity website
+
+A state-recognized high school equivalent is what students receive after passing a “state authorized examination.” This includes tests comparable to the GED—i.e., those created and distributed by a test publisher—such as the High School Equivalency Test (HiSET) or the Test Assessing Secondary Completion (TASC), as well as those established by states, for example, the California High School Proficiency Exam (CHSPE). California considers a passing grade on the CHSPE to be equivalent to a diploma.
+
+ Recognized Equivalent of a High School Diploma
+ 
+
+34 CFR 600.2
+
+“None of the previous” includes those who have the recognized equivalent of a high school diploma other than a state-recognized certificate or who may qualify under the Ability-to-Benefit (ATB) alternatives (see 
+Volume 1
+, Chapter 1 for additional information on ATB alternatives).
+
+If the student selects “High School Diploma,” they must include the name, city and state (or FC for foreign country) where the student received or will receive their diploma. On the FAFSA website, the student can use city and state to search for their high school. If they are unable to find their high school using the search functionality, they can manually enter the high school information. If the student selects “State-recognized high school equivalent,” they must indicate the equivalent type (GED, TASC, HiSET, or Other) and the issuing state. See 
+Volume 1
+, Chapter 1, regarding a school’s policy about checking the validity of a high school diploma.
+
+Federal Benefits Received (18)
+
+A student may be eligible to have their assets excluded from the SAI calculation if they (or someone in their family) received one (or more) of the following federal benefits during the 2022 or 2023 calendar years.
+
+Earned income credit (EIC)
+
+Federal housing assistance
+
+Free or reduced-price school lunch*
+
+Medicaid
+
+Refundable credit for coverage under a qualified health plan (QHP)
+
+Supplemental Nutrition Assistance Program (SNAP)
+
+Supplemental Security Income (SSI)
+
+Temporary Assistance for Needy Families (TANF)
+
+Special Supplemental Nutrition Program for Women, Infants, and Children (WIC)
+
+*Some individuals may receive free or reduced-price school lunch due to community eligibility rather than household eligibility. Students should only indicate they received free or reduced-price school lunch on the FAFSA form if they meet the income eligibility guidelines published by the 
+U.S. Department of Agriculture
+.
+
+Student Tax Filing Status (19)
+
+This question asks if a 2022 IRS 1040 or 1040-NR was (or will be) completed. It also asks about income earned in a foreign country or if the student filed a tax return in a U.S. territory. Married students are asked if they filed their 2022 tax return with their current spouse. Individuals who were married and filed jointly with the IRS and are no longer married to the spouse on the applicable tax return, and/or who have married a different spouse, will be required to manually enter their income and tax information. Individuals who only file foreign tax returns will also be unable to use the FA-DDX since it does not link to foreign tax authorities. They will instead need to manually input their income and tax data by converting foreign currency to U.S. dollars and entering the resulting amounts in the comparable fields from U.S. tax returns.
+
+An independent student who is not required to file a 2022 federal tax return will be automatically eligible for a Maximum Pell Grant. If an independent student is married, their spouse must also be not required to file a 2022 tax return to qualify for a Maximum Pell Grant. The student will be assigned an SAI of -1,500 and will not be required to provide any further financial information on the FAFSA form.
+
+Puerto Rico and other U.S. Territory Residents
+
+Some individuals who reside in Puerto Rico or another U.S. territory may use an IRS Form 1040 or 1040-NR but file their taxes with their local tax authority, not the IRS. These individuals should answer “No” to the question “Did or will the student file a 2022 IRS form 1040 or 1040-NR?”.
+
+Additionally, some individuals who live and work in Puerto Rico may file two tax returns – one with the IRS and one with the Puerto Rico tax authority. If they are filing electronically and FTI is available via the FA-DDX, only their tax information filed with the IRS will be imported to the FAFSA form. They will not be able to manually enter the information from their tax return filed with Puerto Rico. The FAA should evaluate the applicant’s information and determine if the information from the Puerto Rico tax return should replace the information imported from the IRS. For the 2024-25 application cycle, FAAs who determine that the information from the Puerto Rico tax return should be on the FAFSA should update the appropriate FAFSA fields and set the “Professional Judgment” indicator. While this is not a PJ, the changes to the FAFSA application system require this work-around to override the IRS-transferred FTI with the manually updated FTI. FSA is working on system changes for future application cycles to allow for these updates without setting the “Professional Judgment” indicator. See Electronic Announcement 
+GEN-23-118
+ for additional information.
+
+Student 2022 Tax Return Information (20)
+
+For U.S. tax filers, much of the information in Question 20 will be transferred directly from the IRS via the FA-DDX. However, as noted previously, there will be instances where manual entry of tax information will be necessary.
+
+This information comes directly from the student’s (and student’s spouse’s, if married and filed jointly with their current spouse) 2022 federal tax return. Non-tax filers will not be required to provide this information. The first list below is data elements that will transfer via the FA-DDX, if available. The second list is data elements that the student must enter manually.
+
+FA-DDX Transferred Data
+
+Filing status.
+ Single, head of household, married filing jointly, married filing separately, or qualifying surviving spouse.
+
+Income earned from work.
+ From IRS Form 1040 (or IRS Form 1040-NR): line 1z + Schedule 1: lines 3 + 6.
+
+Tax exempt interest income.
+ From IRS Form 1040: line 2a.
+
+Untaxed portions of IRA distributions.
+ The filer reports the full amount, including rollovers, of the untaxed portion, which is determined from IRS Form 1040: line 4a minus 4b. Rollover amounts are manually entered separately and excluded in the SAI formula calculation.
+
+Untaxed portions of pensions.
+ The filer reports the full amount, including rollovers, of the untaxed portion, which is determined from IRS Form 1040: line 5a minus 5b. Rollover amounts are manually entered separately and excluded in the SAI formula calculation.
+
+Adjusted gross income.
+ From IRS Form 1040 (or IRS Form 1040-NR): line 11. Amount can be negative.
+
+Income tax paid.
+ From IRS Form 1040: line 24
+
+IRA deductions and payments to self-employed SEP, SIMPLE, and qualified plans.
+ From IRS Form 1040 Schedule 1: total of lines 16 + 20.
+
+Education credits. Includes American Opportunity (AOTC) and Lifetime Learning (LLC) credits.
+ From IRS Form 8863: line 8 + 19.
+
+Schedules filed.
+ Did the tax filer file a Schedule A, B, D, E, F, or H
+
+Net business profit or loss.
+ From IRS Form 1040 Schedule C: line 31. Amount can be negative.
+
+Manually Entered Data/Manually Provided Tax-Payer Data
+
+IRA rollover into another IRA or qualified plan.
+ Typically indicated as "ROLLOVER" on IRS Form 1040-line 4.
+
+Pension rollover into an IRA or other qualified plan.
+ Typically indicated as "ROLLOVER" on IRS Form 1040-line 5.
+
+Earned income credit (EIC) received.
+ IRS Form 1040: line 27.
+
+Taxable grants, scholarships, or AmeriCorps benefits.
+ This question is optional. The student should report only the amount of grants and scholarships received (by the student and the student’s spouse, if applicable) that was reported as taxable income on the return. This includes grant and scholarship (not employment) portions of fellowships and assistantships, as well as taxable stipends and employer tuition reimbursements. Include AmeriCorps benefits (awards, living allowances, and interest accrual payments) except those for health care or childcare.
+
+Employers may help with education costs by paying stipends or reimbursing employees for classes taken. These benefits count as other financial assistance (or reduce the cost of attendance) even if they aren’t received until the end of the class(es) and are contingent on earning a minimum grade. Any taxable portion should be included in this field.
+
+Foreign earned income exclusion.
+ From IRS Form 1040 Schedule 1: line 8d. This amount is typically a negative value on the tax return. The SAI formula will consider the absolute value of any negative value reported.
+
+Foreign earned income exclusion amounts are included in the calculation of an applicant’s SAI but are not considered when determining the applicant’s eligibility for a Maximum Pell Grant. As such, for the 2024-25 Award Year there will be a new C flag comment code added to the ISIR that will require institutions to review how foreign income exclusion amounts impact eligibility for a Maximum Pell Grant prior to awarding federal student aid. See the 
+relevant Q&A
+ on Office of Postsecondary Education (OPE) website for details.
+
+Annual Child Support Received (21)
+
+Annual child support received is included as an asset of the recipient in the SAI formula. If an independent student (and their spouse, if married) received child support in the last complete calendar year, they should enter the total amount received for all children in the family size in this question.
+
+Student Assets (22)
+
+An asset is property that the family owns and has an exchange value. The FAFSA form collects current data (as of the day the FAFSA form is signed) about cash, savings and checking accounts; investments and real estate; and businesses and investment farms.
+
+Most assets are 
+investments
+ such as college savings plans, Coverdell education savings accounts, real estate, installment and land sale contracts (including mortgages held), trust funds, mutual funds, money market funds, Uniform Gifts and Uniform Transfers to Minors (UGMA and UTMA) accounts, certificates of deposit, stocks, stock options, bonds, commodities, and precious metals. If the asset isn’t a business or farm, it is reported as an investment.
+
+The FAFSA form asks for the net worth of investments, which is their total current market value minus their associated debts. If their net worth is negative, zero should be reported.
+
+Applicants will be asked to report the net worth of 
+all businesses and farms
+, regardless of the size of the enterprise, location of the family’s residence on the property, or number of employees. The current net worth (the current market value minus the debt owed on it) is reported for land, buildings, machinery, equipment, livestock, unharvested crops, and inventories. However, the value of a family’s primary residence is still excluded, even if the residence is on the farm property or used to run the business. Applicants should determine the total net value of all farm assets and subtract the net value of their principal residence to determine the final value of their farm assets. The principal residence may include the family’s home, as well as structures and land adjacent to the home that are not being used, stored, or sold for farming or other commercial activities. Property values are generally assessed at a rate that considers the use of the property and the value of the land. Applicants and their families may refer to their property tax assessments from municipal, county, or state governments to help determine and separate the value of their principal residence from other property.
+
+Qualified education benefits or education savings accounts
+ include Coverdell savings accounts, 529 college savings plans, and the refund value of 529 prepaid tuition plans. For an independent student, the accounts owned by the student (and/or the student’s spouse) are reported as student investments. For a dependent student, an account is reported as a parental investment if the account is designated for the dependent student (accounts designated for other children in the family are not included). If the student is the beneficiary (but not the owner) of the account, the value is not reported as a student asset.
+
+States, their agencies, and some colleges sponsor 
+qualified tuition programs (QTPs)
+. The IRS mentions two types of QTPs that are commonly called prepaid tuition plans and college savings plans. States may offer both types, but colleges may only sponsor prepaid tuition plans.
+
+Prepaid tuition plans allow a person to buy tuition credits or certificates, which count as units of attendance. The number of units doesn’t change even though tuition will likely increase before the beneficiary uses the tuition credits. They are an asset of the plan owner, and their worth is the refund value of the credits or certificates.
+
+College savings plans allow a benefactor to deposit money into an account that will be used for the beneficiary’s college expenses. The buyer does not pre-purchase tuition credits as with a prepaid tuition plan. Rather, this type of plan is essentially a savings account, and its value as an asset is the current balance of the account.
+
+Coverdell education savings accounts, or ESAs, are another tax-advantaged savings vehicle for college education. They are treated the same as college savings plans: the current balance is an asset of the account owner.
+
+If distributions from QTPs and ESAs do not exceed the qualified education expenses for which they are intended, they are tax-free, so they will not appear in the next year’s AGI. They should not be treated as other financial assistance (OFA). For more information on these benefits, see the 
+IRS’s Publication 970
+, 
+Tax Benefits for Education
+.
+
+Rental properties
+ are an asset. A unit within a family home that has its own entrance, kitchen, and bath (therefore a rented bedroom would not count) and that is rented to someone other than a family member counts as an asset. To calculate its net value, multiply the net value of the entire structure by the fraction the rented space represents. Similarly, if a family owned a 10-unit apartment building and lived in one of the apartments, 9/10 or 90% of the net value of the building would be an asset.
+
+Take-back mortgage
+ value should be reported as an asset. In a take-back mortgage, the seller of a house finances a portion of its cost for the buyer, who repays this additional mortgage to the seller. The seller reports the interest part of any payments received from the buyer on Schedule B of IRS Form 1040. Therefore, if such interest is reported on a tax return, it likely indicates an asset that should be reported on the FAFSA form: the value of the take-back mortgage. There would be no debt reported against this asset. For example, if an individual sold their house for $200,000 and financed a take back mortgage of $40,000 to the buyer, the seller should report $40,000 as the net worth of the investment. The worth will decrease each year depending on how much of the principal the buyer paid back that year. This concept applies to other forms of seller financing of the sale of a home or other property.
+
+Virtual currency
+ (or cryptocurrency) such as Bitcoin is considered an asset. The value (in U.S. dollars as of the day the FAFSA form is completed) of virtual currency must be reported on the FAFSA form. If the owner sells virtual currency and has a capital gain from the sale, the taxable portion will be in the AGI for the year it is reported on the tax return, and the AGI will then be included on the associated FAFSA form. For more information on how the IRS treats virtual currencies, please see the 
+IRS virtual currency webpage
+.
+
+Uniform Gifts and Uniform Transfers to Minors Acts (UGMA and UTMA)
+ allow the establishment of an account for gifts of cash and financial assets for a minor without the expense of creating a trust. Because the minor is the owner of the account, it counts as the minor’s asset on the FAFSA form, not the asset of the custodian, who is often the parent.
+
+Trust funds
+ are considered an asset of the named beneficiary of the trust, even if the beneficiary’s access to the trust is restricted. If the settlor of a trust has voluntarily placed restrictions on its use, then the beneficiary should report its present value as an asset, as discussed below. If a trust has been restricted by court order, however, the beneficiary should not report it. An example of such a restricted trust is one set up by court order to pay for future surgery for the victim of a car accident.
+
+How the trust must be reported depends on whether the beneficiary receives or will receive the interest income, the trust principal, or both. In the case of a divorce or separation where the trust is owned jointly and ownership is not being contested, the property and the debt are equally divided between the owners for reporting purposes unless the terms of the trust specify some other method of division.
+
+If a beneficiary receives 
+interest only
+ from the trust, any interest received in the base year must be reported as income. If the interest accumulates and is not paid out, the recipient must report an asset value for the interest they will receive. The trust officer can usually calculate the value of the interest the person will receive while the trust exists. This value represents the amount a third person would be willing to pay for the interest income.
+
+The person who will receive 
+principal only
+ from the trust must report the present value of his or her right to that principal as an asset. For example, if a $10,000 principal reverts to a student’s parent when the trust ends in ten years and the student is receiving the interest, the student would report the interest received as income and the present value of the student’s parent’s rights to the principal is reported as an asset of the parent (if the student is required to report parental data) on the student’s FAFSA form. The present value of the principal can be calculated by the trust officer; it’s the amount that a third person would pay for the right to receive the principal ten years from now—basically, the amount that one would have to deposit now to receive $10,000 in ten years.
+
+If a beneficiary receives both 
+interest and principal
+ from the trust, the beneficiary should report the present value of both interest and principal, as described in the discussion of principal only. If the trust is set up so that the interest accumulates within the trust until it ends, the beneficiary should report the present value of the interest and principal that they are expected to receive when the trust ends as an asset.
+
+In some cases, ownership of an asset may be 
+divided or contested
+, which can affect how the owner reports the asset. If the owner has only part ownership of an asset, the owner should report only the owned part. Generally, the value of an asset and debts against it should be divided equally by the number of people who share ownership unless the share of the asset is determined by the amount invested or the terms of the arrangement specify some other means of division.
+
+If 
+ownership is contested
+, the asset should not be reported on the FAFSA form. For instance, if a couple is separated and can’t sell or borrow against jointly owned property because it’s being contested, the net worth of the property would not be reported as an asset. If ownership of an asset is resolved after the initial application is filed, the value cannot be updated. If there’s a 
+lien against the asset
+, the net value of the asset is determined by subtracting any associated debt and the amount of the lien from its total value. If foreclosure of an asset is imminent, the net value of the asset would still be reported until the party making the foreclosure completes legal action to take possession of the asset. If the status of the property changes after the application is filed, the value cannot be updated.
+
+Excluded Assets
+
+The following are 
+excluded assets
+ and should not be reported on the FAFSA form:
+
+Possessions
+ such as a car for personal use, a sound system, clothes, or furniture.
+
+A family’s 
+principal place of residence
+, even if it is part of a business or farm property.
+
+Retirement and life insurance plans and ABLE accounts.
+ An ABLE account is a tax-advantaged savings account for a disabled person and their family; its value does not count as an asset on the FAFSA form. The value of retirement plans—401(k) plans, pension funds, annuities, noneducation IRAs, Keogh plans, etc.—also is not counted as an asset, but distributions do count as income. An exception to reporting pension distributions is when they are rolled over into another retirement plan in the same tax year (rollover). Similarly, the cash value or equity of a whole life insurance policy isn’t reported as an asset, but an insurance settlement may count as income if it is included in the student’s AGI.
+
+Excluded assets for Native American students.
+ The law excludes reporting any income and asset of $2,000 or less per individual payment (any amount over $2,000 is reported as an asset of the recipient) received under the 
+Per Capita Act
+ or the 
+Indian Tribal Judgment Funds Use
+ or 
+Distribution Act
+. It also excludes any income received under the 
+Alaska Native Claims Settlement Act
+ or the 
+Maine Indian Claims Settlement Act
+. Per capita distributions or the proceeds received from the Land Buy-Back Program for Tribal Nations—a tribal purchase of fractionated lands because of the Cobell settlement under the 
+Claims Resolution Act
+ of 2010 (42 U.S.C. 1305)—should also be excluded.
+
+ Excluded assets for Native American students
+ 
+
+HEA Sec. 479C
+
+Colleges (23)
+
+For a school to be able to receive the student's data, the student must list the college’s federal school code (not the OPE ID) or enter its complete name, address, city, and state. There is a federal school code search in the online FAFSA form, and the entire list of school codes is available as a Microsoft Excel spreadsheet and an Adobe PDF document on the 
+Knowledge Center website
+ under the Library section’s “Publications by Resource Type” area.
+
+The student can list up to 10 schools on the paper (PDF) FAFSA form and 20 on the web (at least one is required). If a student wants their information to be available to more schools, they can change the schools listed online or use their FAFSA Submission Summary. The FPS will send data to no more than 20 (10 with the PDF FAFSA form) schools at a time. Chapter 4 explains how students can add or change schools.
+
+The ISIR will only display the federal school code of the receiving school. The information of other schools the student included on the FAFSA form will not appear except on the FAFSA Submission Summary and on ISIRs sent to state grant agencies. See 
+Volume 6
+ of the 
+2024-25 FAFSA Specification Guide
+.
+
+Student Consent, Approval, and Signature (24)
+
+Every student 
+must
+ provide the following to be eligible for 
+Title IV
+ aid:
+
+Consent
+ – The student must consent to the disclosure of certain identifying information to the IRS.
+
+Approval
+ – The student must affirmatively approve that the U.S. Department of Education may receive, use, and redisclose to certain entities their federal tax information (FTI).
+
+Signature
+ – The student’s FSA ID (account username and password) will serve as their signature on the online FAFSA form. Paper (PDF) FAFSA form filers will provide a physical signature on their form.
+
+In addition to certifying that the data on the FAFSA form is correct, the student is also signing a statement of educational purpose, which is required to receive 
+Title IV
+ funds. Among other things, the student agrees to spend 
+Title IV
+ funds only on educational expenses and affirms that they are not in default on a federal loan and do not owe a grant overpayment.
+
+FAFSA Submission
+
+Students who do not have any other required contributors now have a complete FAFSA form. Students who complete and submit their FAFSA form online will receive an email confirmation when their FAFSA form is processed. Applicants with additional required contributors will need these individuals to contribute to their FAFSA form, as described next.
+
+Contributor: Student Spouse
+
+This section consists of five questions related to the student’s spouse. The student’s spouse is a required contributor on the FAFSA form if the student is married and did not file a 2022 tax return jointly with their spouse.
+
+If a married student is completing the FAFSA form online and the student’s spouse is identified as a required contributor, the student will be prompted to enter their spouse’s identity information (name, Social Security number, date of birth, and email address) to invite them to contribute to their FAFSA form. The student spouse will use the email they receive to access the student’s FAFSA form and complete their portion of the form. If the student’s spouse is not a required contributor, the student will enter the same identifying information and email address, but the student’s spouse will not be invited to contribute to the student’s FAFSA form.
+
+If the student is completing the paper (PDF) FAFSA form, they will have their spouse complete the student spouse contributor section.
+
+Student Spouse Identity Information (25)
+
+Like the student, the student spouse identity information should match what appears on their social security card. If the student spouse does not have a Social Security number and is completing their section of the form online, the SSN field will be blank, based on their FSA ID information. If they are completing their section on the paper (PDF) FAFSA, they should enter all zeros in the SSN field. In both application methods, the student spouse should enter their ITIN, if they have one in the ITIN field.
+
+Student Spouse Contact Information (26)
+
+This is the student spouse’s current mobile phone, email address, and permanent home address.
+
+Student Spouse Tax Filing Status (27)
+
+This question asks if a 2022 IRS Form 1040 or 1040-NR was (or will be) completed. It also asks about income earned in a foreign country or if the student spouse filed a tax return in a U.S. territory. See the “Student Tax Filing Status (19)” question for additional information.
+
+Student Spouse 2022 Tax Return Information (28)
+
+This information comes directly from the student spouse’s 2022 tax return. See the discussion of tax return data in the “Student 2022 Tax Return Information (20)” question for a list of data elements that will transfer via the FA-DDX or be manually entered by the student spouse. Unlike the student, the student spouse will not be asked to report either (1) taxable college grants, scholarships, or AmeriCorps benefits, or (2) receipt of the earned income credit.
+
+Student Spouse Consent, Approval, and Signature (29)
+
+Every student spouse contributor must provide the following for the student to be eligible for Title IV aid:
+
+Consent
+ – The student spouse contributor must consent to the disclosure of certain identifying information to the IRS.
+
+Approval
+ – The student spouse contributor must affirmatively approve that the U.S. Department of Education may receive, use, and redisclose to certain entities their federal tax information (FTI).
+
+Signature
+ – The student spouse contributor’s FSA ID (username and password) will serve as their signature on the online FAFSA. Paper (PDF) FAFSA filers will provide a physical signature on their form.
+
+FAFSA Submission
+
+Married, independent students who did not file a 2022 tax return jointly with their current spouse now have a complete FAFSA ready for submission. The student will receive an email confirmation when their FAFSA form is processed. The spouse will see an abbreviated confirmation that the form is complete and that the student has been notified.
+
+Contributor: Parent
+
+This section consists of 12 questions related to the parent of a dependent student.
+
+Dependent students will always have at least one parent contributor. If the student is completing the FAFSA form online, they will be prompted to enter their parent’s identity information (name, Social Security number, date of birth, and email address) to invite them to contribute to their FAFSA form. The parent will use the email they receive to access the student’s FAFSA form and complete their portion. If the student’s parent is married and filed their 2022 taxes jointly with their current spouse, only one parent contributor is required. If the student’s parent is either (1) married or remarried, or (2) unmarried and living together, and did not file their 2022 taxes jointly with their current spouse or partner, the parent’s spouse or partner will be a required contributor on the student’s FAFSA form.
+
+If the student is completing the paper (PDF) FAFSA form, they will have their parent complete the parent section.
+
+Who Counts as a Parent on the FAFSA?
+
+In most cases, it’s clear who the parents are. A parent is a biological or adoptive parent, or a person that the state has determined to be a parent (for example, when a state allows another person’s name to be listed as a parent on a birth certificate). A stepparent is considered a parent if married to a biological or adoptive parent and if the student counts them in their family size. Biological and adoptive parents who are unmarried and living together select that as their marital status, and both report their information on the FAFSA form.
+
+However, a stepparent who did not adopt the student cannot be the sole parent for determining dependency status. If one parent dies, the student is still a dependent of the remaining biological or adoptive parent, not the stepparent.
+
+Surviving parent and stepparent example
+
+AVG, Chapter 2, Example 9:
+ A dependent student’s parents divorced when the student was five years old. The student’s mother remarried, and the student lived with her and the student’s stepfather, who did not adopt the student. The student’s mother died last year, but the student’s biological father is still living. The student does not meet any of the criteria to be independent. Because the student’s biological father is the only surviving parent, the student needs to report the father’s information on the FAFSA form, even if the student is still living with and being supported by the stepfather.
+
+If parents are divorced or never married and not living together, the parent on the FAFSA form should be the parent who provided more than 50% of the financial support for the student during the last 12 months. This may be different from the parent the student lived with during that same period. If one parent pays child support to the other parent, the child support paid counts for the payer when determining which parent is a required contributor on the FAFSA form. Once the parent who provides more than 50% of the financial support for the student has been determined, that parent (and their current spouse, if applicable) should report their income and asset information on the student’s FAFSA form as a contributor. If neither parent provided more than 50% of the financial support for the student, the parent (and current spouse, if applicable) with the greater income and assets is a required contributor on the FAFSA form.
+
+A foster parent or a legal guardian is not treated as a parent for Title IV purposes. If at any time since the age of 13 both student’s parents were dead (and they did not have an adoptive parent at that time) or the student was in foster care, they are independent. If the student is now or was when they became an adult an emancipated minor or in legal guardianship, the student is independent.
+
+If a student is living with their grandparents or other relatives, their data should not be reported on the FAFSA form as parental data unless they have adopted the student.
+
+Student living with relatives example
+
+AVG, Chapter 2, Example 10:
+ A student’s father is dead, and the student’s mother can’t support the student, so the student is living with their grandparents. The student’s mother doesn’t pay any money for the student’s support. The student doesn’t meet any of the independence criteria, so the student must provide parental information. Because the student’s grandparents haven’t adopted the student, they are not the student’s parents. The student will have to provide information about their mother on the form unless there are unusual circumstances that would warrant a dependency override or the student may elect to receive only unsubsidized loans. See Chapter 5 for additional guidance on unusual circumstances.
+
+Parent Identity Information (30)
+
+Like the student, the parent identity information should match what appears on their social security card. If the parent does not have a Social Security number and is completing their section of the form online, the SSN field will automatically be blank, based on the information in the FSA ID account. If the parent is completing their section of the form using the paper (PDF) FAFSA, they should enter all zeros in the SSN field. In both application methods, the parent should enter their ITIN, if they have one, in the ITIN field.
+
+Parent Contact Information (31)
+
+This is the parent’s current mobile phone, email address, and permanent home address.
+
+Parent Current Marital Status (32)
+
+This is the parent’s marital status “as of today” – the day the application is signed. Marital status cannot be projected. It can be updated in limited circumstances; see Chapter 4.
+
+A student’s parent in a relationship that meets the criteria for common-law marriage in their state of legal residence should select “married”. If the state doesn’t consider their situation to be a common-law marriage or doesn’t recognize common-law marriage, then they aren’t married; parents would report that they are unmarried and living together. Check with the appropriate state agency concerning the definition of a common-law marriage.
+
+Parent State of Legal Residence (33)
+
+This is used to determine which poverty guideline to use when evaluating eligibility for a Maximum or Minimum Pell Grant for a dependent student.
+
+Family Size (34)
+
+See “Family Size (9)” in the student section for further explanation of family size for online filers.
+
+For paper (PDF) FAFSA filers, family size appears in both the student and parent contributor sections of the form. The information reported in the parent section of the paper (PDF) FAFSA form will supersede information reported in the student section, if applicable.
+
+The following persons are included in the family size of a 
+dependent student
+:
+
+The student
+
+The parent (and their spouse or partner)
+
+The parent’s dependent children
+, (even if they live apart from the parents due to a qualifying temporary absence under IRS code, such as living apart due to college enrollment) who will receive more than half of their support from the parent (and spouse or partner) from July 1, 2024, through June 30, 2025. Unborn children should not be included in the family size, though the family size can be updated if the child is born during and will receive more than half of their support from the parent (and spouse or partner) during the award year.
+
+Other persons
+ who live with and receive more than half their support from the parent (and spouse or partner) and will receive more than half support for the entire award year.
+
+Number in College (35)
+
+While number in college is no longer a factor in the SAI formula, it is a required question on the FAFSA form. Schools can use the information provided to perform a special circumstance adjustment for a student. See “Professional Judgment” in Chapter 5: Special Cases of this volume for additional information.
+
+The student is always included in the number in college. Also included are those in the family size who are or will be enrolled at least half time during the award year in a degree or certificate program at a 
+Title IV
+-eligible school.
+
+Federal Benefits Received (36)
+
+A student may be eligible to have their and their parents’ assets excluded from the SAI calculation if they (or someone in their family) received one (or more) federal benefits during the 2022 or 2023 calendar years. See the “Federal Benefits Received (18)” question for a list of these federal benefits.
+
+Parent Tax Filing Status (37)
+
+This question asks if a 2022 IRS 1040 or 1040-NR was (or will be) completed. It also asks about income earned in a foreign country or if the parent filed a tax return in a U.S. territory. Married individuals are asked if they filed their 2022 tax return with their current spouse. Individuals who were married and filed jointly with the IRS and are no longer married to the spouse on the applicable tax return, or who have married a different spouse, will be required to manually enter their income and tax information. Individuals who only file foreign tax returns will also be unable to use the FA-DDX since it does not link to foreign tax authorities. They will instead need to manually input their income and tax data by converting foreign currency to U.S. dollars and entering the resulting amounts in the comparable fields from U.S. tax returns. See the “Student Tax Filing Status (19)” question for additional information.
+
+A dependent student whose parent (and parent’s spouse or partner) is not required to file a 2022 federal tax return will be automatically eligible for a Maximum Pell Grant. The student will be assigned an SAI of -1,500 and will not be required to provide any further financial information on the FAFSA form.
+
+Parent 2022 Tax Return Information (38)
+
+For U.S. tax filers, much of the information in Question 38 will be transferred directly from the IRS via the FA-DDX. However, there will be instances where manual entry of tax information will be necessary.
+
+This information comes directly from the parent’s (and parent’s spouse’s if married and filed jointly with their current spouse) 2022 federal tax return. See the discussion of tax return data in the “Student 2022 Tax Return Information (20)” question for a list of data elements that will transfer via the FA-DDX or be manually entered by the parent.
+
+Annual Child Support Received (39)
+
+Annual child support received is included as an asset of the recipient in the SAI formula. If a dependent student’s parent (and their spouse or partner) received child support in the last complete calendar year, they should enter the total amount received for all children in the family size in this question.
+
+Parent Assets (40)
+
+An asset is property that the family owns and has an exchange value. The FAFSA form collects current data (as of the day of signing the FAFSA form) about cash, savings, and checking accounts; investments; real estate; businesses; and investment farms. See the “Student Assets (22)” question for additional discussion of assets.
+
+Parent Consent, Approval, and Signature (41)
+
+Every parent contributor 
+must
+ provide the following for the student to be eligible for 
+Title IV
+ aid:
+
+Consent
+ – The parent contributor must consent to the disclosure of certain identifying information to the IRS.
+
+Approval
+ – The parent contributor must affirmatively approve that the U.S. Department of Education may receive, use, and redisclose to certain entities their federal tax information (FTI).
+
+Signature
+ – The parent contributor’s FSA ID (username and password) will serve as their signature on the online FAFSA. Paper (PDF) FAFSA filers will provide a physical signature on their form.
+
+FAFSA Submission
+
+A dependent student with (1) a single parent or (2) married parents who filed their 2022 tax return jointly with their current spouse now has a complete FAFSA ready for submission. The student will receive an email confirmation when their FAFSA form is processed. The parent will see an abbreviated confirmation that the form is complete and that the student has been notified.
+
+Contributor: Parent Spouse or Partner
+
+This section consists of five questions related to the spouse or partner of a parent of a dependent student. If the student’s parent is married, the spouse’s information is always required on the FAFSA form. If the student’s parent is unmarried and living with a partner, the partner’s information is only required on the FAFSA form if the partner is also the student’s legal parent.
+
+The parent spouse or partner is only a required contributor on the FAFSA form if the parent is either (1) married or remarried and did not file taxes jointly with their current spouse in 2022, or (2) unmarried and living with the student’s other legal parent. If the parent contributor is completing the FAFSA form online and the parent’s spouse is identified as a required contributor, the parent will be prompted to enter the parent spouse’s or partner’s identity information (name, Social Security number, date of birth, and email address) to invite them to contribute to the student’s FAFSA form. The parent spouse or partner will use the email they receive to access the student’s FAFSA and complete their portion of the form. If the parent’s spouse is not a required contributor, the parent will enter the same identifying information and email address, but the parent’s spouse will not be invited to contribute to the student’s FAFSA form.
+
+If the student is completing the paper (PDF) FAFSA form, they will have their parent’s spouse or partner complete the parent spouse or partner contributor section.
+
+Parent Spouse or Partner Identity Information (42)
+
+Like the student, the parent spouse or partner identity information should match what appears on their social security card. If the parent spouse or partner does not have a Social Security number and is completing their section of the form online, the SSN field will automatically be blank based on the information in their FSA ID account. If the parent spouse is completing their section using the paper (PDF) FAFSA, they should enter all zeros in the SSN field. In both application methods, the parent should enter their ITIN, if they have one, in the ITIN field.
+
+Parent Spouse or Partner Contact Information (43)
+
+This is the parent spouse’s or partner’s current mobile phone, email address, and permanent home address.
+
+Parent Spouse or Partner Tax Filing Status (44)
+
+This question asks if the parent spouse or partner filed (or will file) a 2022 IRS 1040 or 1040-NR. It also asks about income earned in a foreign country or if the parent spouse or partner filed a tax return in a U.S. territory. See the discussion of tax return data in the “Student 2022 Tax Return Information (20)” question for a list of data elements that will transfer via the FA-DDX or be manually entered by the parent spouse or partner.
+
+Parent Spouse or Partner 2022 Tax Return Information (45)
+
+This information comes directly from the parent spouse’s or partner’s 2022 federal tax return. See the discussion of tax return data in the “Student 2022 Tax Return Information (20)” question for a list of data elements that will transfer via the FA-DDX or be manually entered by the parent spouse or partner. Unlike the parent, the parent spouse or partner will not be asked to report either (1) taxable college grants, scholarships, or AmeriCorps benefits, or (2) receipt of the earned income credit.
+
+Parent Spouse or Partner Consent, Approval, and Signature (46)
+
+Every parent spouse or partner contributor 
+must
+ provide the following for the student to be eligible for 
+Title IV
+ aid:
+
+Consent
+ – The parent spouse or partner contributor must consent to the disclosure of certain identifying information to the IRS.
+
+Approval
+ – The parent spouse or partner must affirmatively approve that the U.S. Department of Education may receive, use, and redisclose to certain entities their federal tax information (FTI).
+
+Signature
+ – The parent spouse or partner contributor’s FSA ID (username and password) will serve as their signature on the online FAFSA. Paper (PDF) FAFSA filers will provide a physical signature on their form.
+
+FAFSA Submission
+
+A dependent student with (1) unmarried parents living together or (2) a married or remarried parent who did not file their 2022 tax return jointly with their current spouse now have a complete FAFSA ready for processing. The student will receive an email confirmation that their FAFSA form is complete. The parent spouse or partner will see an abbreviated confirmation that the form is complete and that the student has been notified.
+
+Role: Preparer
+
+If someone other than the student, student spouse, parent, or parent spouse or partner completed a portion of the FAFSA form on the applicant’s behalf, that person must complete the Preparer section. 
+Paid preparers are prohibited.
+ This section consists of three questions related to the unpaid preparer. This section appears on the paper (PDF) FAFSA form but the Preparer role will not be available in the online FAFSA form for the 2024-25 award year.
+
+Preparer Identity Information (47)
+
+First name, last name, and either Social Security number (SSN) or Employer Identification Number (EIN).
+
+Preparer Contact Information (48)
+
+This is the preparer’s affiliation or organization and mailing address.
+
+Preparer Signature (49)
+
+The preparer must sign and date the FAFSA form.
+
+Previous
+
+Next
+
+ Last Modified: 05/10/2024 • Published: 03/28/2021

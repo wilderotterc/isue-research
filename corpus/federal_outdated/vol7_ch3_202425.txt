@@ -1,0 +1,575 @@
+Pell Grant Enrollment Intensity and Cost of Attendance | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 3
+
+Pell Grant Enrollment Intensity and Cost of Attendance
+
+Pell Grants and Enrollment Intensity
+
+Enrollment intensity is the percentage of full-time enrollment at which a student is enrolled, rounded to the nearest whole percent. For example, if full-time enrollment is 12 credit hours and the student is enrolled in 7 hours, the enrollment intensity would be 7 ÷ 12 × 100% = 58.3% (round to 58%).
+
+Pell Grant Enrollment Intensity for Term-Based Programs
+
+In a term-based program, academic progress is always measured in credit hours (or an equivalent measure in a direct assessment program), and the student’s annual award depends on their enrollment intensity. Your school’s standards for full-time enrollment must meet the minimum regulatory requirements, which are discussed in further detail in 
+Volume 1
+, Chapter 1 of the 
+FSA Handbook
+.
+
+Programs Offered in Standard Terms
+
+For federal student aid purposes, full-time enrollment for programs offered in standard terms is defined by the institution and, for undergraduate students, must comprise at least 12 credit hours. Below is a chart of enrollment intensity relative to full time, assuming the school defines it as 12 credit hours for financial aid purposes. 
+Enrollment intensity only applies to Pell Grant eligibility. All other 
+Title IV
+ programs still use the categorical measures of enrollment status.
+
+ 
+
+Credit Hours
+
+Enrollment Intensity Formula
+
+Enrollment Intensity
+
+Enrollment Status Equivalent
+
+ 
+
+12 (or more)
+
+12 ÷ 12 = 1.0
+
+100%
+
+Full-Time
+
+ 
+
+11
+
+11 ÷ 12 = 0.917
+
+92%
+
+Three-Quarter Time
+
+ 
+
+10
+
+10 ÷ 12 = 0.833
+
+83%
+
+Three-Quarter Time
+
+ 
+
+9
+
+9 ÷ 12 = 0.75
+
+75%
+
+Three-Quarter Time
+
+ 
+
+8
+
+8 ÷ 12 = 0.667
+
+67%
+
+Half-Time
+
+ 
+
+7
+
+7 ÷ 12 = 0.583
+
+58%
+
+Half-Time
+
+ 
+
+6
+
+6 ÷ 12 = 0.50
+
+50%
+
+Half-Time
+
+ 
+
+5
+
+5 ÷ 12 = 0.417
+
+42%
+
+Less-than-Half-Time
+
+ 
+
+4
+
+4 ÷ 12 = 0.333
+
+33%
+
+Less-than-Half-Time
+
+ 
+
+3
+
+3 ÷ 12 = 0.25
+
+25%
+
+Less-than-Half-Time
+
+ 
+
+2
+
+2 ÷ 12 = .0167
+
+17%
+
+Less-than-Half-Time
+
+ 
+
+1
+
+1 ÷ 12 = 0.083
+
+8%
+
+Less-than-Half-Time
+
+Note:
+ Enrollment intensity cannot exceed 100% for purposes of Pell Grant proration.
+
+If the student is enrolled less than half time, it will also affect the cost components that are used in the student’s budget (see 
+Volume 3
+, Chapter 2). Note that schools do not have the discretion to refuse to pay an eligible part-time student, including during a summer term or intersession.
+
+Programs Offered in Nonstandard Terms
+
+Full-time enrollment for programs offered in nonstandard terms is determined by multiplying the number of weeks in each term by the number of credit hours in an academic year, then dividing the result by the number of weeks in an academic year. The full-time enrollment number is then used as the denominator for determining enrollment intensity.
+
+For example, College X has a program that consists of four 8-week terms. College X defines the academic year as 40 quarter hours and 32 weeks of instructional time. College X determines that full-time enrollment is 10 credit hours per term [(8 weeks per term * 40 credit hours)/32 weeks of instruction)]. Below is a chart of enrollment intensity, relative to 10 credit hours per term as full-time.
+
+ 
+
+Quarter Credit Hours
+
+Enrollment Intensity Formula
+
+Enrollment Intensity
+
+Enrollment Status Equivalent
+
+ 
+
+10 (or more)
+
+10 ÷ 10 = 1.0
+
+100%
+
+Full-Time
+
+ 
+
+9
+
+9 ÷ 10 = 0.90
+
+90%
+
+Three-Quarter Time
+
+ 
+
+8
+
+8 ÷ 10 = 0.80
+
+80%
+
+Three-Quarter Time
+
+ 
+
+7
+
+7 ÷ 10 = 0.70
+
+70%
+
+Half-Time
+
+ 
+
+6
+
+6 ÷ 10 = 0.60
+
+60%
+
+Half-Time
+
+ 
+
+5
+
+5 ÷ 10 = 0.50
+
+50%
+
+Half-Time
+
+ 
+
+4
+
+4 ÷ 10 = 0.40
+
+40%
+
+Less-than-Half-Time
+
+ 
+
+3
+
+3 ÷ 10 = 0.30
+
+30%
+
+Less-than-Half-Time
+
+ 
+
+2
+
+2 ÷ 10 = 0.20
+
+20%
+
+Less-than-Half-Time
+
+ 
+
+1
+
+1 ÷ 10 = 0.10
+
+10%
+
+Less-than-Half-Time
+
+Note:
+ Full-time enrollment for programs offered in nonstandard terms may differ from program to program and even from term to term, as it is based on the number of weeks in each term, the number of credit hours in an academic year, and the number of weeks in an academic year.
+
+Pell Grant Enrollment Intensity for Clock-Hour or Nonterm-Based Programs
+
+Students enrolled in clock-hour or non-term-based programs are considered to be enrolled full-time for Pell Grant purposes. See 
+Chapter 4
+ of this volume for additional discussion of enrollment intesity for clock-hour and nonterm-based programs.
+
+Pell Grant Enrollment Intensity for a Consortium Program
+
+The enrollment intensity of a student attending more than one school under a consortium agreement is based on all the courses taken that apply to the degree or certificate at the home school. The disbursing school may have to make some adjustments if the coursework at the other school is measured in different units.
+
+Below are examples of calculating enrollment intensity for students enrolled in regular coursework at their home institution and coursework offered at another institution through a consortium agreement. The examples describe how to calculate enrollment intensity when the units of enrollment are different (i.e., semester hours at the home school and quarter hours at the consortium institution).
+
+Volume 7, Chapter 3, Example 1: Quarter hours converted to semester hours
+
+A student is taking six 
+semester
+ hours at their home school and nine 
+quarter
+ hours at a different school under a consortium agreement. To determine their enrollment intensity, the home school needs to convert the hours at the host school into 
+semester
+ hours.
+
+Because a quarter hour is about two-thirds of a semester hour, the home school multiplies the number of quarter hours by two-thirds:
+
+9 quarter hours x 2/3 = 6 semester hours
+
+Then the hours taken at both schools can be added together:
+
+6 semester hours (home school) + 6 semester hours (host school) = 12 semester hours
+
+Volume 7, Chapter 3, Example 2: Semester hours converted to quarter hours
+
+A student is taking nine quarter hours at their home institution and six semester hours at a different institution. To determine their enrollment intensity, the home school needs to convert the hours at the host school into quarter hours.
+
+Because a semester hour is about one and one-half of a quarter hour, the home school multiplies the number of quarter hours by 1.5:
+
+6 semester hours x 1.5 = 9 quarter hours
+
+Then, the hours taken at both schools can be added together:
+
+9 quarter hours (home school) + 9 quarter hours (host school) = 18 quarter hours
+
+Students Enrolled in Only Correspondence Courses
+
+Students enrolled in programs of correspondence study are considered to be enrolled no more than half time (the equivalent of 50% enrollment intensity), even if they are enrolled in enough coursework to be full time. However, if the correspondence study is combined with regular coursework, the student’s enrollment intensity might be more than half time (see section below for additional information).
+
+A student enrolled only in a non-term correspondence program always has their award calculated based on 50% enrollment intensity. For a student enrolled in a term-based correspondence program, your school must determine whether the student is enrolled half time (six or more credit-hours in a term) or less than half time (fewer than six credit-hours in a term). Special rules are used to determine the student’s enrollment intensity when the student is enrolled in a combination of regular and correspondence coursework.
+
+Students Enrolled in a Combination of Regular and Correspondence Courses
+
+If a student is enrolled in a non-correspondence study program, but correspondence coursework is combined with regular coursework, the correspondence courses must meet the following criteria to be considered in determining the student’s enrollment intensity:
+
+The courses must apply toward the student’s degree or certificate or must be remedial work to help the student in their course of study.
+
+The courses must be completed during the period required for the student’s regular coursework (e.g., a term).
+
+The amount of correspondence work counted can’t be more than the number of credit hours of regular coursework in which the student is enrolled (although a student taking at least a half-time load of correspondence courses must be paid as at least a half-time student, regardless of the credit hours of regular coursework).
+
+This chart assumes that the school defines full-time enrollment as 12 credit hours per term, and half-time enrollment as six credit hours per term.
+
+ 
+
+Regular Work
+
+Correspondence Work
+
+Adjusted Total Coursework
+
+Enrollment Intensity
+
+ 
+
+3
+
+3
+
+6
+
+50%
+
+ 
+
+3
+
+6
+
+6
+
+50%
+
+ 
+
+3
+
+9
+
+6
+
+50%
+
+ 
+
+6
+
+3
+
+9
+
+75%
+
+ 
+
+6
+
+4
+
+10
+
+83%
+
+ 
+
+6
+
+6
+
+12
+
+100%
+
+ 
+
+6
+
+2
+
+8
+
+67%
+
+ 
+
+2
+
+6
+
+6
+
+50%
+
+ 
+
+3
+
+2
+
+5
+
+42%
+
+As you can see in the second and third rows of the table, the number of correspondence hours counted in the total course load was adjusted so that the correspondence hours never exceeded the regular hours taken. Note that in the last row of the table, the student is eligible for payment based on half-time (50% enrollment intensity) in correspondence courses, because not all the correspondence work can be counted toward enrollment intensity.
+
+Determining Enrollment Intensity Using Credit Hour Equivalencies
+
+For students enrolled in direct assessment programs and students with intellectual disabilities enrolled in comprehensive transition and postsecondary (CTP) programs, enrollment intensity can be calculated using credit hour “equivalencies” rather than credit hours.
+
+For direct assessment programs, schools must develop a methodology, consistent with the requirements of the school’s accrediting agency or state, to reasonably equate each class or competency in the direct assessment program to either credit hour or clock hour equivalencies. For more information, see 
+Volume 2
+, Chapter 2 of the 
+FSA Handbook
+.
+
+Enrollment intensity for students with intellectual disabilities enrolled in CTP programs may also be determined using credit hour equivalencies. These equivalent credits, earned from audited courses and other normally noncredit activities undertaken as part of a program for students with disabilities, may be awarded for purposes of determining enrollment intensity. For more detail, see 
+Volume 1
+, Chapter 1 of the 
+FSA Handbook
+.
+
+Enrollment Intensity for Cooperative Education
+
+In a cooperative education program, your school assesses the work to be performed by the student and determines the equivalent academic course load. The student’s enrollment intensity is based on the equivalent academic course load.
+
+Academic Calendar and Enrollment Intensity Changes
+
+Because the academic calendar for a program determines which Pell formula you use, you need to review the conditions for the use of each formula if the calendar for the program changes. This is particularly true if you are using Formulas 1 and 2, which have the most restrictive conditions.
+
+If a student’s enrollment intensity changes during the year, your school may have to recalculate the student’s Pell Grant payment based on the new enrollment intensity. We’ll discuss when a school is required to recalculate a student’s Pell Grant payment due to a change in enrollment intensity in Chapter 7 of this volume.
+
+ Enrollment intensity changes
+ 
+
+34 CFR 690.80(b)
+
+Pell Grant Cost of Attendance
+
+The types of costs included in the Pell Grant budget are the same as those for the other federal student aid programs; however, Pell Grant costs are always based on the costs for a 
+full-time student for a full academic year
+.
+
+For Pell, costs for programs or enrollment periods longer or shorter than an academic year must be prorated so that they are the costs for one full academic year. This is true for both parts of the academic year definition: if either the number of weeks or the number of clock/credit hours differs from the academic year standard, the costs must be prorated to determine the full-time, full-year Pell budget.
+
+The need to prorate Pell costs is most likely to occur in these situations:
+
+A term-based program that provides fewer weeks of instructional time than the minimum number of weeks of instructional time in an academic year;
+
+A non-term program that provides less than 24 semester hours, 36 quarter hours, or 900 clock hours and/or provides fewer weeks of instructional time than the minimum number of weeks of instructional time in an academic year; or
+
+A program that is longer than an academic year, where the costs for the entire program are charged at the beginning of the program.
+
+There are two ways to prorate Pell costs, as shown in the following examples. Examples 3 and 4 are based on a program that is shorter than an academic year. Example 5 shows how costs are prorated when they are charged for a program that is longer than an academic year. Note that prorating the COA usually does not affect the amount of Pell Grant the student receives. However, you’re required to report the full-time, full-year Pell budget when reporting disbursements to the Common Origination and Disbursement System (COD).
+
+Volume 7, Chapter 3, Example 3: Prorating total costs by lesser of two fractions
+
+You may take the student’s entire COA (tuition and fees, housing and food, etc.) and multiply it by the lesser of the two fractions that represent the length of the academic year. If the lesser fraction one, then equals you don’t prorate the COA. One fraction is based on credit or clock hours and the other is based on weeks of instructional time, as shown in this example.
+
+Let’s use the example of a program that charges $10,500, awards 18 semester credits, and is completed by most full-time students within 20 weeks of instructional time.
+
+Credit/clock hours in academic year definition (24) ÷ Credit/clock hours awarded (18)
+
+OR
+
+Weeks in academic year definition (30) ÷ Weeks provided (20)
+
+Since the fraction using credit hours is the lesser fraction, the program cost of $10,500 is multiplied by 24/18 to find the full-year Pell cost.
+
+$10,500 x (24/18) = $14,000
+
+The full-time cost is $14,000.
+
+Note:
+ If one of the fractions is equal to one, for instance, if the program awards 24 credit hours, then the prorated cost is the same as the original COA.
+
+Volume 7, Chapter 3, Example 4: Prorating academic costs and living expenses separately
+
+As an alternative, you can separately prorate the costs associated with credit or clock hours (tuition and fees, books and supplies, loan fees) and the costs associated with weeks of instructional time (housing and food, miscellaneous expenses, disability expenses, transportation, dependent care, study abroad, reasonable costs associated with employment as part of a cooperative education program). Using our earlier example of a program lasting 20 weeks and awarding 18 credit hours, and specifying that the student’s tuition, books, supplies, etc., come to $4,500 and living expenses amount to $6,000, the calculation would look like this:
+
+$4,500 x (24/18) = $6,000
+
+$6,000 x (30/20) = $9,000
+
+In this example, the student’s Pell budget is the sum of the two prorated costs, or $15,000.
+
+Volume 7, Chapter 3, Example 5: Prorating costs for a non-term program longer than an academic year
+
+You must also prorate costs if they are charged for a period longer than an academic year. You may use either of the proration methods shown in Examples 1 and 2. We’ll use the example of a program awarding 1,000 clock hours and providing 40 weeks of instructional time. Let’s assume that the school uses the regulatory minimums and defines the academic year as 900 clock hours and 26 weeks. The total costs over the 40 weeks, including tuition and living expenses, are $5,900. If we use the method in Example 1, this amount must be prorated by the lesser of the following two fractions:
+
+Credit/clock hours in academic year definition (900) ÷ Credit/clock hours awarded (1,000)
+
+OR
+
+Weeks in academic year definition (26) ÷ Weeks provided (40)
+
+The lesser of the two fractions is the one based on weeks (26/40). Multiply the total program cost by this fraction to determine the Pell costs for a full academic year:
+
+$5,900 x (26/40) = $3,835
+
+If the student is in a category where costs are limited, such as less-than-half-time enrollment, those costs that are allowable must be based on costs for a full-time student for a full academic year. For instance, the tuition component of the Pell COA for a less-than-half-time student must be based on the tuition costs that would be incurred by a full-time student attending a full academic year.
+
+Volume 7, Chapter 3, Example 6: Pell Grant awards and COA with mixed enrollment status
+
+A student plans to attend for a fall and spring semester. In the fall term, the student attends full time (which the school defines as 12 credits). The student has a Pell COA of $8,000 and is eligible for Max Pell. For demonstration purposes, the student’s Scheduled Award is $7,500. The school disburses the fall semester Pell Grant award of $3,750.
+
+In the spring semester, the student drops to 5 credits, which is less-than-half-time and equal to 42% enrollment intensity. The COA is also reduced, as less-than-half-time enrollment means that not all the previously included COA elements may be included in the student’s Spring COA used for Pell determination. The school may not include either (1) miscellaneous personal expenses or (2) housing and food if the student has exhausted their less-than-half-time housing and food allowance (three semesters or equivalent in total, no more than two of which may be consecutive at any one school) in the student’s spring COA for Pell determination. The school determines the student’s reduced COA is $3,000.
+
+The school now uses the reduced COA and enrollment intensity to calculate the student’s spring Pell Grant eligibility. The school multiplies the Scheduled Award ($7,500) by the student’s enrollment intensity (42%). The resulting annual award is $3,150. Since the student’s new COA is less than the annual award, the student’s annual award based on 42% enrollment intensity is capped at $3,000. The school then divides the COA-limited annual award by the number of payment periods in the academic year (2) and determines the student is eligible for a Pell Grant payment of $1,500 for the spring semester. These awards are also subject to the Pell Lifetime Eligibility Used limits (LEU).
+
+Note:
+ In this example, the student’s total annual award based on full-time enrollment in the fall (100% enrollment intensity) and less-than-half-time enrollment in the spring (42% enrollment intensity) is $5,250 ($3,750 in the fall plus $1,500 in the spring). COD will only accept one Pell COA and one annual award for the award year. Schools should report the larger COA and total annual award to COD to calculate the Scheduled Award and Pell LEU correctly.
+
+Pell Grant Cost of Attendance for Cooperative Education
+
+If a student has a co-op job for the first term, the tuition and fees for that period can be prorated over the full academic year for the program (which must include at least 24 semester/trimester hours, 36 quarter credit hours, or 900 clock hours, as well as 30 weeks of instructional time, or, for clock-hour programs, 26 weeks). This prorated amount is then added to the other COA components to arrive at the total cost for a full-time student for a full academic year.
+
+For the rest of the year, your school can either use the COA with the projected amount or can recalculate the student’s tuition and fees at the end of the first term to determine a new COA for the remaining payment periods. This decision must be consistent with your school’s overall policy on recalculating for changes in a student’s costs. Note that the COA can also include employment-related expenses.
+
+Pell Grant Cost of Attendance for a Consortium Program
+
+A student receiving a Pell Grant for attendance at two schools through a consortium agreement may have costs from both schools at the same time. The student’s COA is calculated in the same way as for a student taking classes at only one school. The student’s charges for tuition and fees and books and supplies at the consortium schools must be combined into a single charge for a full academic year for purposes of the Pell calculation.
+
+The school paying the student may choose to use actual charges for the student, which would simply be the sum of the actual charges at each school. Of course, if the student isn’t attending full-time, your school will have to prorate these tuition and fees and books and supplies charges so that they are the correct amounts for a full-time, full-year student.
+
+If the disbursing school uses average charges, then the average full-time charges at each of the schools must be prorated and combined. If the student is taking a full-time load at each school, the full-time tuition and fees charges for an academic year at each school can be averaged to determine the tuition and fee cost. However, if the student is taking an unequal course load, the disbursing school must prorate the charges based on the number of hours the student is taking at each school.
+
+Previous
+
+Next
+
+ Last Modified: 02/28/2024 • Published: 08/25/2023

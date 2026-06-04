@@ -1,0 +1,1262 @@
+U.S. Citizenship & Eligible Noncitizens | 2024-2025 Federal Student Aid Handbook
+
+2024-2025 Federal Student Aid Handbook
+
+Search
+
+Search
+
+Chapter 2
+
+U.S. Citizenship & Eligible Noncitizens
+
+A student must be a U.S. citizen or national, a citizen of the Freely Associated States, a lawful permanent resident, or other eligible noncitizen to be potentially eligible for federal student aid. In this chapter we describe how the student’s FAFSA information is matched with other agencies to determine citizenship or immigration status. We also describe the immigration documents that you may need to collect to ensure the student’s eligibility.
+
+U.S. Citizenship and Eligible Categories
+
+A student must be one of the following to be eligible to receive federal student aid:
+
+A U.S. citizen or U.S. national;
+
+A citizen of the Freely Associated States: the Federated States of Micronesia and the Republics of Palau and the Marshall Islands.
+ These students can only receive aid from some of the FSA programs and do not have an A-number (A-number has replaced Alien registration number/ARN). See “Citizens of the Freely Associated States” section later in this chapter); or
+
+A lawful U.S. permanent resident or other eligible noncitizen.
+
+The Department matches all applications with the Social Security Administration (SSA) on U.S. citizenship status. If U.S. citizenship or nationality cannot be confirmed, the student must provide documents proving U.S. citizenship or nationality, citizenship of the Freely Associated States, lawful permanent residence, or other eligible noncitizen status in order to satisfy the citizenship requirement for 
+Title IV
+ eligibility. If the student provides an A-Number on the FAFSA form, their record is also sent to the Department of Homeland Security (DHS) to check noncitizen immigration status or category. The results of both matches appear on the Institutional Student Information Report (ISIR), and a failed match with either agency will produce a “C code” on the student’s ISIR. A student’s U.S. citizenship or nationality (or eligible noncitizen) status only needs to be checked once for the award year; if the student has an eligible status at that time, the student remains potentially eligible for the rest of the award year (with the exception of parolees; see the “Third-Step Verification” section below).
+
+If a parent wants to take out a PLUS loan for a dependent undergraduate student, both the parent and the student must be a U.S. citizen, national, or eligible noncitizen.
+
+U.S. Citizenship and U.S. Nationality
+
+A person is a U.S. citizen by birth, naturalization, or operation of law. Persons (except for the children of foreign diplomatic officers accredited to the United States or other persons with comparable diplomatic status) born in the 50 states, the District of Columbia, and, in most cases, Puerto Rico, the U.S. Virgin Islands, Guam, and people born on or after November 4, 1986 in the Northern Mariana Islands are U.S. citizens. Also, many persons born abroad to U.S. citizen parents (or a parent) may be U.S. citizens. All U.S. citizens are considered U.S. nationals, but not all U.S. nationals are U.S. citizens. Persons who are not U.S. citizens, but were born in American Samoa, Swains Island, or the U.S. Minor Outlying Islands are not U.S. citizens but 
+are
+ U.S. nationals, and therefore may also receive 
+Title IV
+ funds.
+
+Child Citizenship Act (CCA)
+
+The 
+CCA
+ became effective on February 27, 2001. As of that date, foreign-born children who are not U.S. citizens at birth become citizens once these conditions are met
+
+at least one parent (biological or adoptive) is a U.S. citizen,
+
+the children live in the legal and physical custody of that parent,
+
+they are under 18 years of age, and
+
+they are a lawful permanent resident
+
+Children newly entering the country who are adopted abroad prior to the issuance of their IR-3 visa (for orphans) or IH-3 visa (for children from countries party to the Hague Convention on the Protection of Children and Cooperation in Respect of Intercountry Adoption) become citizens upon admission to the United States. They generally receive a Certificate of Citizenship within 45 days instead of receiving a permanent resident card. For more information see 
+https://www.uscis.gov/policy-manual/volume-12
+.
+
+Children who are adopted after being admitted to the U.S. with an IR-4 visa (for orphans) or IH-4 visa (for children from Hague Convention countries) become citizens once their adoption is completed (or they are re-adopted or obtain state recognition of foreign adoption) in the United States. Parents of these and other children who do not automatically receive a certificate of citizenship can request one by filing Form N-600. For more information, contact the USCIS, visit the website at 
+www.uscis.gov
+, or see the State Department’s intercountry adoption website at 
+http://adoption.state.gov/
+.
+
+If a student who falls under this category fails the citizenship match, the student would need to provide acceptable proof of citizenship by providing documents such as those listed below under the U.S. citizenship documentation section.
+
+ Citizenship
+ 
+
+HEA Sec. 484(a)(5), 
+34 CFR 668.32(d)
+, 
+34 CFR 668.33
+, and 
+Subpart I of Part 668
+.
+
+U.S. Citizenship Match With the SSA
+
+All applications are matched with SSA records to verify U.S. citizenship status, name, date of birth, and Social Security number (SSN) (see 
+Chapter 4
+). The FAFSA Processing System (FPS) will reject the application for insufficient information if name, date of birth or SSN is not provided. The student’s match result is reported in the “SSA Citizenship” field and Match Flags section on the FAFSA Submission Summary and ISIR. If the student leaves the citizenship question blank on the FAFSA form, the FPS will still attempt the citizenship match with the SSA. If there is a complete match with the student’s SSN, name, date of birth, and U.S. citizenship, the FPS will report the student to be a U.S. citizen.
+
+Successful match.
+ The FAFSA Submission Summary and ISIR will have a match flag (but no comment) indicating that the student’s U.S. citizenship status was confirmed.
+
+Data doesn’t match.
+ If the student’s SSN, name, or date of birth doesn’t match SSA records, their U.S. citizenship status can’t be confirmed and a C code and a comment will appear on the output documents (FAFSA Submission Summary and ISIR). If the student misreported their SSN, name, or date of birth (see Chapter 4 for more on SSN match problems), they should correct the appropriate field on their FAFSA Submission Summary and re-submit it. The FPS will perform the match again, and you must see if the new ISIR confirms the student’s U.S. citizenship status; if it does, the C code will no longer appear.
+
+U.S. citizenship not confirmed.
+ The ISIR and FAFSA Submission Summary will include a C code and a comment (
+code 018
+) explaining that the SSA was unable to confirm the student is a U.S. citizen and that they need to provide their college or career school’s financial aid office with documents proving U.S. citizenship (see below). If the student provides eligible noncitizen documentation, you or the student must make a correction by entering the student’s A-Number on the ISIR or FAFSA Submission Summary , and changing their citizenship status to “Eligible noncitizen” (Question 13). If you are making the correction, also click “yes” on the drop-down box in the “Resend Record to Matches” field before clicking the “submit” button. FPS will attempt a match with DHS records to confirm the student’s immigration status or category.
+
+Note that U.S. citizens born abroad might fail the citizenship check, unless they have updated their citizenship information with SSA (see “Updating status for U.S. citizens born abroad” later in this chapter).
+
+U.S. Citizenship Documentation
+
+If a student must prove their status as a U.S. citizen or national, only certain types of documentation are acceptable. The Department doesn’t specify all of the 
+acceptable
+ documents, but some documents you might choose to use to prove U.S. citizenship include:
+
+A Certificate of Naturalization (Forms N-550 or N-570)
+ issued by USCIS, the former INS, or a court to individuals who naturalize. You must copy this document for the student’s file. If the student presents evidence of U.S. citizenship, but SSA did not identify them as a U.S. citizen, you should advise the student to update their status with SSA.
+
+A Certificate of Citizenship (Forms N-560 or N-561)
+ is issued by USCIS or the former INS to individuals who derive or acquire U.S. citizenship through a parent.
+
+A copy of the student’s birth certificate
+ showing that the student was born in the U.S., which includes Puerto Rico (on or after January 13, 1941), Guam, the U.S. Virgin Islands, American Samoa, Swains Island, or the Northern Mariana Islands, unless the person was born to foreign diplomats accredited to the U.S. or other person with comparable diplomatic status in the United States. If a student has a birth certificate from a U.S. jurisdiction showing that the student was born abroad (i.e., not in the U.S. or its territories), that birth certificate is not acceptable documentation. See below for acceptable State Department documentation.
+
+A U.S. passport,
+ issued by the State Department, during its period of validity (except “limited” passports, which are typically issued for short periods such as a year and which don’t receive as much scrutiny as a regular passport when applying). In the case of nationals who are not U.S. citizens, the passport will be stamped “Noncitizen National” (keeping in mind that nationals are potentially eligible for 
+Title IV
+ aid). Five-year-duration U.S. passports commonly issued to younger travelers are considered acceptable documentation and are not considered “limited”. One-year-duration U.S. passports are 
+not
+ acceptable documentation.
+
+A wallet-sized passport card,
+ issued by the State Department, is a fully valid attestation of the U.S. citizenship and identity of the bearer during its period of validity, but can only be used for land and sea travel between the U.S. and Canada, Mexico, the Caribbean, and Bermuda. A student may apply for a U.S. passport card at the U.S. State Department website: 
+https://travel.state.gov/content/travel/en/passports/apply-renew-passport/card.html
+. For more detail, see 
+22 CFR 51.4(b)(2)
+.
+
+A copy of Form FS-240 (Consular Report of Birth Abroad), FS-545 (Certificate of Birth Issued by a Foreign Service Post), or DS1350 (Certification of Report of Birth).
+ These are State Department documents related to U.S. citizenship.
+
+Before you can disburse aid, the student must present documentation that verifies that they are a U.S. citizen or national. If the documents indicate that the student is a U.S. citizen or national, you may award and disburse aid to the student and the C-code may remain on the student’s ISIR. Keep a copy of the documentation in the student’s file, even though older versions of the Certificate of Citizenship and of the Certificate of Naturalization instruct the holder not to photocopy them. Citizenship documentation must be kept in the student’s file but does not need to be verified by any outside agency. Handling of documents for eligible noncitizens differs, and is discussed later in this chapter. The student can also contact the SSA to update the student’s record. This updating is not required to receive aid but may prevent issues with SSA matching in the future.
+
+At your school’s discretion, you may permit U.S. citizen and U.S. national students to photocopy, scan, or otherwise image their citizenship documents, and submit either electronic images or paper copies of the same to the school’s financial aid office for the purpose of determining their eligibility for 
+Title IV
+ funds. For more information, see Dear Colleague Letter 
+GEN-15-18
+.
+
+Updating Status for U.S. Citizens Born Abroad
+
+Students born abroad to U.S. citizen parents are U.S. citizens if they meet certain requirements, and their status is usually noted in the SSA’s database when they receive an SSN. But occasionally, a student may not have provided sufficient proof of U.S. citizenship to SSA for the record to be updated. These students will fail the U.S. citizenship match, even if they have an SSN. If this occurs, the student must provide the school proof of U.S. citizenship as outlined below. The student should contact the SSA to have their record corrected, however, this update is not required to receive aid.
+
+Such students can document US. citizenship by providing a “
+Consular Report of Birth Abroad
+” (
+Form FS-240
+, which is 
+proof
+ of U.S. citizenship), a “
+Certification of Report of Birth
+” (
+Form DS-1350
+, which is evidence of U.S. citizenship and equivalent to a birth certificate), a 
+Certification of Birth Abroad of a Citizen of the United States (Form FS-545), or a Certificate of Citizenship
+ issued by USCIS. The DS-1350 and FS-545 forms are no longer issued but are still accepted as documentation of U.S. citizenship. If the birth of the student was registered with the American consulate or embassy in a foreign country before they turn 18, they can request the FS-240 or Certificate of Citizenship by sending a written, notarized request to the U.S. Department of State’s Passport Vital Records Section. The State Department does not reissue new DS-1350s. If the student had a DS-1350 and lost it, or never received a FS-240 or Certificate of Citizenship before turning 18, the student may apply for a U.S. Passport from the State Department or for a Certificate of Citizenship from USCIS. To apply for a Certificate of Citizenship, the student should file Form N-600, available at the USCIS webpage: 
+https://www.uscis.gov/n-600
+.
+
+For pictures of the U.S. citizen documents listed above, see the end of this chapter.
+
+Citizenship Not Confirmed (Vol. 1 Chapter 2, Example 1)
+
+The student is a U.S. citizen, but SSA doesn’t confirm his U.S. citizenship status. The FAA asks him to submit documentation of his status. The student first submits a Social Security card, but the administrator explains that the card doesn’t document his status because noncitizens can have Social Security cards. The student then brings in his Certificate of Naturalization. The FAA makes a copy of the certificate for his file and tells the student his citizenship has been documented. She also advises the student to have the SSA correct its database so that he won’t have this problem again.
+
+Suspect Documents
+
+If you are able to discern that a document is fraudulent, you must deny the student 
+Title IV
+ aid. If the student submits conflicting information regarding immigration status on the FAFSA form, you must resolve any discrepancies before disbursing 
+Title IV
+ aid. Report altered or misreported information to the Department’s Office of Inspector General at 1-800-MIS-USED or the OIG’s website at: 
+https://www2.ed.gov/about/offices/list/oig/index.html
+.
+
+Mandatory Name Changes
+
+Whenever a student legally changes their name because of marriage, divorce, court order, or any other reason, they must tell the SSA so they can get a corrected card and have correct SSN matches in the future. The student must bring the appropriate documents to prove the change to their local SSA office. See 
+https://secure.ssa.gov
+ for more information.
+
+Parent Signature on Certificate
+
+Because documents such as a certificate of citizenship can go to minors, they may be signed by a parent or guardian instead of the minor child. This does not affect the legitimacy of the document.
+
+Citizens of the Freely Associated States
+
+The 
+Compact of Free Association
+ (P.L. 99-239) created three political entities from the former Trust Territory of the Pacific Islands. Two of these entities, the Republic of the Marshall Islands (RMI) and the Federated States of Micronesia (FSM), voted in 1986 to end political ties with the U.S. The third entity, the Republic of Palau, voted to ratify the compact in 1994; its independence was effective October 1, 1994. These three entities are collectively known as the Freely Associated States. See 
+34 CFR 600.2
+.
+
+Students who are citizens of the Freely Associated States are eligible for Pell Grants (citizens of Palau are also eligible for FWS and FSEOG; see below) but are not eligible for Direct Loans. These students should have a passport from the Freely Associated States or a I-94 form.
+
+The student should indicate on the FAFSA form that they are an eligible noncitizen and leave the A-Number item blank.
+
+Because the student isn’t providing an A-Number, their application won’t go through the DHS match. Do not complete a third-step verification for these students—they will fail the match. Instead, request documentation of the student’s Freely Associated States citizenship. Once you have received the student’s document establishing their status, as a citizen of the Freely Associated States, make a copy of the document and place it in the student’s file. You can reuse the original document in future years if it hasn’t expired.
+
+No FSEOG and FWS/Compact Amendments Act
+
+The 
+Compact of Free Association Amendments Act
+ of 2003, or the 
+Compact Amendments Act
+, eliminated eligibility for citizens of the RMI and the FSM for FSEOG and FWS funds. To mitigate this loss, the 
+Compact Amendments Act
+ authorizes Supplemental Education Grants that are awarded to the FSM and RMI. For more information, students of the FSM and RMI should contact their local education authority.
+
+Eligible Noncitizen Match With DHS
+
+The U.S. Department of Homeland Security (DHS) assigns an A-Number to most noncitizens, which FSA uses to identify which applications must be sent to DHS for immigration status verification. 
+If the applicant indicates on the FAFSA form that they are an eligible noncitizen and provides an A-Number, identifying information is sent to the DHS for eligible noncitizen verification.
+
+The results of the match are shown by a match flag in the “FAA Information” section of the output document, under the headings “DHS Primary Status,” “DHS Secondary Match Status” (Secondary Confirmation Flag), and “DHS Case Number” on the FAFSA Submission Summary and ISIR. There will also be a comment about the results on the output document.
+
+Because all applications are matched with the SSA, an application with an A-Number will be matched with both DHS and SSA records. When results are received from both matches, a successful SSA match will indicate that the student is a U.S. citizen. If the SSA match is unsuccessful, the DHS match status will determine the student’s eligible noncitizen status/category.
+
+Successful match
+ (Y primary match status) - if the match confirms the student’s immigration status or category as an eligible one, they can receive aid if the other eligibility criteria are also met. 
+Comment code 154
+ will appear on the FAFSA Submission Summary and ISIR, and the successful match results are documentation of the student’s eligibility. If you have other information about their status that seems to contradict the successful match result, you must resolve the conflict before paying the student (see “Conflicting Information” in 
+Chapter 1
+) by performing the third-step verification process.
+
+Record was not sent to DHS due to data entry errors
+ (blank match status) - the match won’t be attempted if the student left the A-Number field blank, if the student said they were an eligible noncitizen but provided no A-Number (
+code 022
+), or if they changed their response to the citizenship question (
+code 019
+) or changed their A-Number after previous verification by the DHS (
+code 020
+). Instead, the student will receive a C code and a comment explaining the problem and directing them to provide the school with their most recent immigration documentation to support their eligibility. Compare the student’s immigration document with the FAFSA Submission Summary/ISIR to determine the appropriate resolution action. If you or the student corrects the A-Number and resubmits it so that the match can be conducted, and the student’s eligibility is confirmed as an eligible noncitizen, the C code will not appear on the new ISIR. To match the corrected ISIR with DHS, click “yes” on the drop-down box in the “Resend Record to Matches” field before submitting the correction. If the student’s eligibility is not confirmed, (
+primary match status = N
+), check their DHS secondary match status to determine how to proceed.
+
+Student’s noncitizen status/category has not yet been confirmed
+ (N primary match status and C code) - DHS will continue to check its records in a process called 
+automated secondary confirmation
+. The FAFSA Submission Summary and ISIR will have comment 
+code 155
+ and a primary match flag of “N” indicating that the procedure is still in process. Within three to five business days, the FPS should generate a FAFSA Submission Summary and ISIR indicating the result in the secondary match status field. The “DHS Secondary Match Statuses and Comment Codes” subsection below explains each status, its meaning, and how to proceed.
+
+A case has already been submitted
+ (D primary match status) - cases that are already in review at DHS (i.e., a case with the A-Number provided on the FAFSA form has already been created) are given a “D” status, and comment code 288 is displayed. If you have questions about this status, please contact 
+applicationsystemsdivision@ed.gov
+.
+
+An invalid A-Number was provided
+ (I primary match status) - the value of “I” indicates that an invalid A-Number was submitted and comment code 289 is displayed.
+
+A correction to the student’s name, date of birth, or A-Number made while the DHS is conducting the automated secondary confirmation may start the process over, and the correction may be sent through primary confirmation. Though unlikely, if the new primary match status yields a “Y,” the transaction can be used to award aid. The new transaction may have a new DHS verification number assigned. A correction made to a transaction that contains secondary match statuses of “Y” or “C” (or a transaction with a primary match status of “Y”) will not be sent through the DHS match again. Otherwise, the record will be resent for matching.
+
+DHS Secondary Match Statuses and Comment Codes
+
+Y, 292: Student’s eligibility confirmed. You can process their aid.
+
+C, 294: Student’s eligible noncitizen status/category has not yet been verified. You must wait 10 business days for another ISIR with an updated match result. If there is no update, begin the third-step verification process.
+
+N, 293: The student’s immigration status/category was not confirmed. The school must now perform third-step verification.
+
+P: Pending result of Secondary DHS Match, the student’s case is still processing. Wait for an updated ISIR with a secondary match status before proceeding. There is no Comment Code associated with this match status.
+
+DHS Case Number on the ISIR
+
+When a record is processed through the FPS match with DHS, a 15-digit case number is assigned to the student and printed in the “FAA Information” section of the FAFSA Submission Summary and ISIR. This 15-digit number, along with the applicant’s date of birth, is needed to access the student’s SAVE record, and to submit a third-step verification request through SAVE.
+
+A-Number Corrections and Additions to the FAFSA Form
+
+If the citizenship question is blank but there is an A-Number
+, the FPS will send the record to DHS for matching.
+
+If both the citizenship question and the A-Number are blank
+, the record will not be sent to DHS. The output document will explain that SSA was unable to confirm that the student is a U.S. citizen. The student must submit a correction to the citizenship status and A-Number if they are an eligible noncitizen.
+
+If U.S. citizen or national is selected, but the student provides an eligible noncitizen document
+, correct question 13 on the ISIR to “eligible noncitizen” and enter the A-Number and click “yes” on the drop-down box in the “Resend Record to Matches” field. This correction will tell FPS to send the record to the DHS Primary match (for the first time). Ignore comment code 018 from SSA on the current ISIR. Wait for the DHS Match statuses on the student’s next ISIR to determine if the student is an eligible noncitizen or if a third-step verification is necessary.
+
+If the A-Number on the FAFSA Submission Summary or ISIR does not match the A-Number on the student’s immigration document
+, correct the A-Number in field 13 and click “yes” on the drop-down box in the “Resend Record to Matches” field. This will send the corrected record which DHS considers a new record because of the new A-Number to the DHS Primary match. Ignore DHS comment codes 
+293
+ and 
+294
+ on the current ISIR. Do not complete third-step verification unless the DHS Match statuses on the resulting ISIR indicate that third-step verification is necessary. For more detail on these codes, see the 
+2024-25 FAFSA Specification Guide
+ on the Knowledge Center.
+
+ Conditions requiring secondary confirmation
+ 
+
+34 CFR 668.133(a)
+
+ School policies and procedures on secondary confirmation
+ 
+
+34 CFR 668.134–135
+
+Third-Step Verification
+
+If the student didn’t pass secondary confirmation or if you have conflicting information about their immigration status/category after receiving a primary or secondary match result, you must review the record for third-step verification.
+
+Third-step Verification Preparation
+
+Request the student’s most current, unexpired immigration document. When it is submitted, make a copy of it.
+
+Carefully review the student’s immigration documentation against the status/category and document descriptions below.
+
+Determine whether the student’s immigration documentation supports eligibility for 
+Title IV
+ aid. If it does not support an eligible status, you can tell the student that they are not eligible now, but may be eligible if/when they provide eligible noncitizen documentation. You should not complete third-step verification for this student.
+
+For more on using the SAVE system to complete third-step verification, see the section titled “Using the SAVE System for Third-Step Verification” later in this chapter.
+
+Eligible Noncitizens and Documentation
+
+Certain non-U.S. citizens may be eligible for 
+Title IV
+ aid. Non-citizen eligibility for 
+Title IV
+ aid, as a federal public benefit, is restricted under the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (PRWORA) to persons who are able to demonstrate certain types of eligible noncitizen statuses as a “qualified alien” under 8 U.S.C. § 1641(b). In addition, 
+Title IV
+ of the HEA requires eligible noncitizens to be able to provide documentation that they are “in the United States for other than a temporary purpose with the intention of becoming a citizen or permanent resident” in order to establish their eligibility for federal student aid. In determining eligibility under both PRWORA and 
+Title IV
+ of the HEA, the Department accepts the following types of eligible noncitizen statuses as sufficient to demonstrate a person’s eligibility for 
+Title IV
+ aid (see bulleted list below).”
+
+The U.S. Department of Homeland Security (DHS) – including its component agencies U.S. Citizenship and Immigration Services (USCIS); Immigration and Customs Enforcement (ICE); and U.S. Customs and Border Protection (CBP) – and the U.S. Department of State (DOS) issue a number of documents to noncitizens. For general information and sample images, see the 
+USCIS SAVE Commonly Used Immigration Documents
+ page.
+
+For classes of eligible noncitizens other than lawful permanent residents, evidence of their status is typically on the 
+I-94
+ form, but other documentation may also be acceptable. U.S. Customs and Border Protection (CBP) no longer issues a paper I-94 form, with the exception of asylees and certain parolees. In September 2015, CBP automated the refugee admission process. Refugees will no longer receive a paper form I-94 but will have access to an electronic form. Students without paper I-94 documentation may have their status confirmed by the electronic I-94 printout and/or a CBP stamp, showing class of admission and date admitted or paroled in their passport to confirm this status.
+
+Form I-797 (Notice of Action) is USCIS’s formal communication with customers and is issued when an application or petition is received or approved or to confer an immigration benefit.
+
+Only when students have unsuccessful SSA and DHS matches, or if you have conflicting information must you perform third-step verification using the SAVE system to confirm that their documentation supports one of the following noncitizen status categories:
+
+Lawful permanent residents
+
+Conditional resident aliens
+
+Conditional entrants
+
+Refugees
+
+Persons granted asylum
+
+Persons paroled into the U.S. for at least one year
+
+Ukrainian citizens and nationals
+
+Afghan citizens and nationals paroled into the U.S. between July 31, 2021 and September 30, 2023
+
+Cuban-Haitian Entrants
+
+Victims of human trafficking
+
+Battered immigrants-qualified aliens
+
+Jay Treaty students
+
+Each of these noncitizen status categories are discussed in the respective subsection below.
+
+Lawful Permanent Residents
+
+Lawful permanent residents (LPRs)
+ are noncitizens who are legally permitted to live and work in the U.S. permanently. The standard document is the 
+Permanent Resident Card (Form I-551 since 1997) or Resident Alien Card (Form I-551 before 1997)
+. Both forms are referred to colloquially as “green cards,” though they have changed colors over the years. Possessors of the older 
+Alien Registration Receipt Card (Form I-151
+, issued prior to June 1978) should have replaced it with a newer card, but for receiving 
+Title IV
+ funds it is acceptable as evidence of permanent residence. In general, students whose Permanent Resident Card (PRC) has expired may still be considered lawful permanent residents for FSA eligibility purposes; therefore, if they submit expired documentation, submit it to SAVE and base eligibility on the response.
+
+LPRs may also present an 
+Arrival/Departure Record (Form I-94)
+ or the Departure Record (
+Form I-94A
+), with the endorsement “Processed for I-551. Temporary Evidence of Lawful Admission for Permanent Residence. Valid until . Employment Authorized.” This is used at land border ports of entry. If available, an I-551/PRC (also known as a “green card”) is preferable to establish LPR status. The form will have an A-Number annotated on it and is acceptable if the expiration date has not passed.
+
+The U.S. Department of State issues a 
+machine-readable immigrant visa (MRIV)
+ in the holder’s passport. The MRIV will have a U.S. CBP inspector admission stamp, and the statement “UPON ENDORSEMENT SERVES AS TEMPORARY I-551 EVIDENCING PERMANENT RESIDENCY” will appear directly above the machine-readable section. An MRIV with this statement, contained in an unexpired foreign passport and endorsed with the admission stamp, constitutes a temporary I-551 form, valid for one year from the date of endorsement on the stamp.
+
+USCIS issues the 
+U.S. Travel Document
+ (mint green cover), which contains the Reentry Permit (
+Form I-327
+) and the Refugee Travel Document (
+Form I-571
+). It is used by lawful permanent residents, as well as refugees and asylees, and is annotated with “Permit to Reenter Form I-327 (Rev. 9-2-03).”
+
+If the student has an 
+I-551 form with a baby picture
+, they should update the I-551 with the USCIS. LPRs are expected to get a new picture and be fingerprinted at the age of 14. But you can submit the documents to USCIS and disburse 
+Title IV
+ funds to a student who has an I-551 form with a baby picture as long as you can confirm that it belongs to the student. You can do this by comparing the I-551 form to a current photo ID that has the student’s name, date of birth, and signature. The current ID must also be consistent with any identifying information in the student’s file.
+
+A student who has an approved application for permanent residence on file with the USCIS and who is waiting for a permanent resident card should have a form 
+I-797, Notice of Action from USCIS
+ with "Notice Type: Approval Notice," as well as an A-Number, which will give notice of current status. Note that a pending 
+application
+ for lawful permanent resident status alone is not sufficient for determining eligibility for 
+Title IV
+ funds.
+
+If a person is granted suspension of deportation or cancellation of removal by an immigration judge or by USCIS, USCIS will issue the noncitizen a 
+Form I-551
+, which is evidence of LPR status. There is no special category for persons who have been granted suspension of deportation or cancellation of removal.
+
+Some applicants from Afghanistan may be eligible as 
+Afghan Special Immigrant Lawful Permanent Residents (SI LPRs)
+. These applicants may have MRIVs and/or foreign passports with a DHS, U.S. Customs and Border Protection (CBP) stamp admitting them with an SQ1, SQ2, SQ3, SQ7, SQ8, SW1, SW2, or SW3 Class of Admission. Others may have a temporary Form I-551 stamp in their passport or on a Form I-94. Others may have a Permanent Resident Card, whose expiration date may be extended by a Form I-797C, Notice of Action. Eligible SI LPRs will receive the “Lawful Permanent Resident” response in SAVE. Note that some SI LPRs may not have a physical immigrant visa in their passport and may not have a temporary Form I-551 stamp. For more details, see Dear Colleague Letter 
+GEN-23-04
+.
+
+Conditional Permanent Residents
+
+Conditional permanent residents are eligible for aid if their documentation has not expired. They may have a valid Form 
+I-551, I-94, I-94A
+, or a 
+passport with an MRIV
+ bearing the statement, “Upon endorsement serves as temporary I-551 evidencing permanent residency.”
+
+A Form 
+I-551
+ for a conditional permanent resident is the same Form I-551 that is issued to regular lawful permanent residents, except that the card for a conditional permanent resident expires in two years, as opposed to 10 years for the regular card. A conditional permanent resident must file a petition to remove conditions on permanent residence. USCIS will review the petition and, if eligibility criteria are met, remove the conditions on permanent residence and issue a new PRC. Examples of Conditional Permanent Residents include:
+
+The Marriage Fraud Amendments established lawful permanent resident status on a conditional basis for two years to a noncitizen who obtains lawful permanent resident status through a qualifying marriage to a U.S. citizen or LPR. A qualifying marriage is one that was entered into less than two years before the spouse obtained lawful permanent resident status. This status may also apply to any of the spouse’s children who are noncitizens.
+
+Qualified immigrant investors who invest in U.S. businesses and create jobs for U.S. workers are eligible to receive an employment-based 5th preference (EB-5) immigrant visa. Immigrant investors and derivative family members may obtain lawful permanent resident status on a conditional basis for an initial two-year period. If an immigrant investor files a petition to remove conditions, and USCIS approves the petition, USCIS removes the conditions on the investor’s lawful permanent resident status.
+
+Some applicants from Afghanistan may be eligible as 
+Afghan Special Immigrant (SI) Conditional Permanent Residents (SI CPRs)
+. These applicants may have a foreign passport with MRIVs and a DHS, CBP stamp admitting them with a CQ1, CQ2, or CQ3 Class of Admission. These applicants may also have a temporary Form I-551 stamp in their foreign passport or on a Form I-94. Others may have a Permanent Resident Card. Eligible SI CPRs will receive the “Conditional Resident” response in SAVE. For more details, see and Dear Colleague Letter 
+GEN-23-04
+.
+
+Conditional Entrants
+
+Conditional entrants are refugees who entered the U.S. under the seventh preference category of P.L. 89-236 or whose status was adjusted to lawful permanent resident alien under that category. Students may have a Form 
+I-94
+ with a stamp displaying “
+Section 203(a)(7)
+” and indicating that the person was admitted to the U.S. as a conditional entrant. 
+Because DHS stopped using this category after the enactment of the Refugee Act on March 31, 1980, you should not disburse 
+Title IV
+ funds if the student has a Form I-94 with conditional entrant status granted after that date.
+
+The stamps mentioned use blue security ink. The stamp contains three codes: the first is a two-digit code to the left of the date that designates the field office with jurisdiction over the port of entry. On most stamps, this code will be two numbers and no letters. Letters are currently only used on HQ stamps. The three-letter code located under the word “ADMITTED” shows the port of entry. The third code, to the right of the date, is the unique four-digit number. When referring to a particular stamp, the port of entry code and the stamp’s unique number should be used.
+
+The endorsement or stamp can be placed anywhere on the I-94. If the original stamp does not copy well due to the ink color, you should replicate it by hand on the photocopy. Because CBP offices don’t have uniform procedures or stamps, you should contact the local office with questions regarding acceptable immigration documents.
+
+Refugees
+
+Refugee status continues unless terminated by DHS. Refugees are required to apply for Lawful Permanent Residency (LPR) status after one year and continue to be refugees even after they are granted LPR status. In September 2015, CBP automated the refugee process. A refugee will have an electronic Form 
+I-94
+ showing “RE” as the class of admission and an admit until indicator of “D/S” (indicating duration of status). The 
+refugee travel letter
+ provided by the Department of State will be annotated with a stamp showing admission under Section 207 of the Immigration and Nationality Act (INA). While the form is now automated, a refugee may be in possession of an older paper I-94 or I-94A form or be provided a paper form upon request. The paper Form I-94 or I-94A is annotated with a stamp showing admission under Section 207 of the Immigration and Nationality Act (INA). They may also have the old 
+Refugee Travel Document (Form I-571)
+ or the newer 
+U.S. Travel Document
+ annotated with “Refugee Travel Document Form I-571 (Rev. 9-2-03).”
+
+Persons Granted Asylum (Asylees)
+
+Persons granted asylum can apply for lawful permanent resident status after they have been physically present in the U.S. for at least one year since being granted asylum. Asylee status continues unless rescinded or terminated by DHS or the Department of Justice or until lawful permanent resident status is granted. Asylees will have a Form I-94 or Form I-94A with a stamp showing a grant of asylum under Section 208 of the INA. They may also have a Form I-766, Employment Authorization Document, with a “A05” category. They may also apply for a refugee travel document. Asylees who leave the U.S. and attempt to return without proper travel documentation may have difficulty being readmitted to the U.S. as an asylee.
+
+Noncitizens Paroled into the U.S. for at Least One Year (Parolees)
+
+Persons paroled into the U.S. for at least one year must provide documentation of their parole category (such as a Form I-94 or Form I-766, Employment Authorization Document, with a “C11” category) and it must indicate that the student has been paroled into the U.S. for at least one year, with a date that has not expired (Title IV funds cannot be disbursed after the document has expired). They also must provide evidence such as having filed an Application to Register Permanent Residence or Adjust Status (Form 
+I-485
+) or a beneficiary on a Petition for Alien Relative, (Form 
+I-130
+) from DHS that they are in the U.S. for other than a temporary purpose and intend to become a citizen or LPR. DHS will usually respond to the filing of a Form I-485 with a Form I-797C, Notice of Action, indicating receipt of an application and a parolee must provide this Form I-797C or any other immigration document from DHS showing the student is in the U.S. for other than a temporary purpose and intends to become a U.S. citizen or LPR.
+
+If the student does not submit a Form I-797C, send their alternative documentation to SAVE and ensure that the SAVE response is “Parolee-Expires” or “Parolee-Indefinite” and that the Pending Applications or DHS Comments sections indicate one of the documents mentioned above. (Form I-485 is an application for Lawful Permanent Resident status). Note that individuals classified as “Advance parolees” are never considered potentially eligible for 
+Title IV
+ aid.
+
+Ukrainian Citizens and Nationals
+
+Ukrainian citizens and nationals (and noncitizens who last habitually resided in Ukraine) paroled into the United States between February 24, 2022 and September 30, 2024 are eligible for entitlement programs and other benefits available to refugees admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. § 1157) for the term of parole granted, unless the parole has been terminated by the Secretary of Homeland Security.
+
+In addition, Ukrainian citizens and nationals (and persons who last habitually resided in Ukraine) paroled into the United States after September 30, 2023, are eligible for these benefits if they are the spouse or child of a Ukrainian paroled between February 24, 2022, and September 30, 2024, or the parent or legal guardian of an unaccompanied noncitizen child who was paroled between February 24, 2022, and September 30, 2024. The spouse, child, parent, legal guardian, or primary caregiver are eligible for these benefits for the term of parole granted, unless the parole has been terminated by the Secretary of Homeland Security.
+
+For additional information, please see the Department of Homeland Security’s 
+Uniting for Ukraine
+ webpage and 
+Fact Sheet
+.
+
+Ukrainian citizens and nationals paroled under the Uniting for Ukraine (U4U) process can obtain a copy of their electronic Form I-94, Arrival/Departure Record, from the 
+U.S. Customs and Border Protection website
+. This Form I-94 record will include a “UHP” class of admission (COA). Ukrainian citizens paroled into the United States under Uniting for Ukraine may also have one or more of the following:
+
+Paper Form I-94 with a UHP COA;
+
+Foreign passport with parole stamp that includes a UHP COA; or
+
+Form I 766, Employment Authorization Document (EAD), with a “C11” category, if they have applied for and received one.
+
+Ukrainian citizens and nationals paroled into the United States outside of the Uniting for Ukraine process may also obtain, or may have, the same documentation as those paroled under Uniting for Ukraine, but with a general parole COA, such as “DT” or “PAR” listed in their Form I-94, Arrival/Departure Record, and/or a parole stamp in their foreign passport. The “DT” COA indicates parole authorized by U.S. Customs and Border Protection District Office or Port of Entry. The “PAR” COA indicates parole authorized by USCIS.
+
+If third-step verification is required, the financial aid office must ensure they provide one of the documents noted above as part of the third-step verification request. If SAVE is able to verify that the applicant is a parolee, SAVE will provide a “Parolee-Expires” response and the period of parole. If there is a federal immigration record reflecting Ukrainian citizenship, the SAVE response will also state that the financial aid applicant is a Ukrainian citizen.
+
+Unlike other parolee applicants, eligible beneficiaries paroled into the U.S. from Ukraine are not required to have been paroled for at least one year (although they generally have been), nor are they required to have additional documentation (such as a Form I-797C, Notice of Action, indicating receipt of a Form I-485 Application to Register Permanent Residence or Adjust Status) in order to show that they are “in the U.S. for other than a temporary purpose with intent to become a U.S. Citizen or Permanent Resident” (which is a requirement in under Section 484 of the 
+HEA
+).
+
+Ukrainian citizens and nationals paroled into the United States outside of the applicable timeframes will be required to comply with the standard parolee procedures as outlined in the bullet “Persons paroled into the U.S. at least one year” above.
+
+Please note that some Ukrainian citizens and nationals may have other immigration categories that make them eligible for 
+Title IV
+ student aid, such as Refugee or Asylum. These applicants can also have their immigration status/category verified through SAVE.
+
+Afghan Citizens and Nationals Paroled into the U.S. Between July 31, 2021 and September 30, 2023 (Afghan Parolees)
+
+Afghan citizens and nationals paroled into the U.S. between July 31, 2021 and September 30, 2023 may be eligible as Afghan Special Immigrant Parolees or Non-Special Immigrant Afghan Parolees. SI Parolees may have a separate Form I-94 with the following notation:
+
+SI Parolees Form I-94 Notation
+
+Special Immigrant Status (SQ/SI) Parolee
+
+Sec 602(b)(1) AAPA / Sec 1059(a) NDAA 2006
+
+Date 
+__
+ USCIS officer: 
+__
+
+SI Parolees may also have a Form I-766, Employment Authorization Document (EAD), with a C11 parolee category. SI Parolees will receive the “Parolee-Expires” or “Parolee-Indefinite” response in SAVE, with SQ4 or SQ5 as the Class of Admission (COA).
+
+Other applicants from Afghanistan may be eligible as Non-Special Immigrant Afghan Parolees. These students may also have an Employment Authorization Document (EAD), with a C11 category or a CBP “PAROLED” stamp in their passport. Some of these passports may have an “OAR” notation in the parole stamp. DHS recently began using this code to help distinguish these Afghans from other parolees. Non-SI Afghan Parolees will receive the “Parolee-Expires” or “Parolee-Indefinite” response in SAVE, with OAR, PAR, or DT as the Class of Admission (COA). For more on Afghan arrival categories and documents, see DHS-SAVE’s 
+Afghan Fact Sheet
+.
+
+Unlike other Parolee applicants, SI Afghan Parolees and Non-SI Afghan Parolees are not required to have been paroled into the U.S. for at least one year (although they generally have been), nor are they required to have additional documentation in order to show that they are “in the U.S. for other than a temporary purpose with intent to become a U.S. citizen or Lawful Permanent Resident.” This flexibility is a result of the Afghan Supplemental Appropriations Act and only applies to Afghans paroled between July 31, 2021 and September 30, 2023. This flexibility lasts until March 31, 2023, or the term of parole granted, whichever is later, unless the parole is terminated by the Secretary of Homeland Security. After that time, the Afghan arrival will be required to comply with the standard parolee requirements. For more details, see Dear Colleague Letter 
+GEN-23-04
+.
+
+Cuban-Haitian Entrants
+
+Cuban-Haitian Entrant
+ (CHE) as defined by Section 501(e) of the Refugee Education Assistance Act of 1980. All CHEs are potentially eligible for federal student aid. Note that certain documents showing that the holder is a Cuban-Haitian entrant may continue to demonstrate an individual meets the CHE definition even if the expiration date has passed. Please see 
+Information for SAVE Users: Cuban-Haitian Entrants
+ for examples of documentation, SAVE verification procedures, and other information regarding CHEs. If you are not sure whether documentation establishes that someone is a CHE, submit it as part of a third-step verification request following the instructions in the SAVE CHE information sheet. The SAVE response will let you know (in the “Cuban/Haitian Immigration Details” section) whether the submitted information and documentation is sufficient to verify that the student is a CHE. 
+Remember to click on the Cuban/Haitian Entrant Button to verify whether the individual meets the CHE definition. DHS will not verify this status if you do not click on the button.
+
+Victims of Human Trafficking
+
+Victims of human trafficking have the same eligibility for federal benefits as refugees under the 
+Victims of Trafficking and Violence Protection Act
+. The Department of Health and Human Services (HHS), rather than the DHS, is responsible for certifying individuals that may have an I-94 with a T1 Class of Admission code for principal (other T-visa classes will be identified through DHS’ SAVE process noted below). Because of this, these students will not pass the DHS match, and the normal paper third-step confirmation does not apply. You must instead review the student’s certification or eligibility letter from the HHS and call the Office on Trafficking in Persons at 1-866-401-5510, as noted on the letter, to verify its validity and confirm that the eligibility has not expired.
+
+You must note the date, time, and results of the call and retain a copy of the letter. If the student applies for federal student aid in a subsequent year at your school, you must call again to ensure that the student’s status is still in force. The spouse, child, or parent of a trafficking victim might be eligible for aid. They will not have a certification letter but will have a 
+T-visa (e.g., T2, T3, or T4 for spouse, child, and parent of a T1 respectively)
+. They will also likely fail the DHS match; if so, you must complete third-step verification. Once SAVE returns a third-step response, you should see “T2,” “T3,” or “T4” under the Class of Admission (COA) heading. If you do not see one of those codes in the SAVE response, but you believe that the individual is in fact the spouse, child, or parent of a victim of human trafficking, please email 
+applicationsystemsdivision@ed.gov
+ for assistance. SAVE may also return a response that indicates the individual would be ineligible (such as “nonimmigrant” or “application pending”). These statuses are usually not eligible for federal student aid; however, if any of the COAs noted above are indicated in the SAVE response you can disregard any reference to an ineligible status in the SAVE response.
+
+ Victims of human trafficking
+ 
+
+DCL GEN-06-09
+
+Battered or Abused Spouses or Children-Qualified Noncitizens
+
+Battered or Abused Spouses or Chilren-Qualified Noncitizens, formerly known as Battered Immigrants-Qualified Aliens, are victims of domestic violence by their U.S. citizen or lawful permanent resident (LPR) spouses, former spouses, or parent. They may, with their designated children, self-petition for immigration classification under the 
+Violence Against Women Act (VAWA)
+ and be eligible for certain federal and state public benefits, including federal student aid. Note that both men and women may be approved as victims under 
+VAWA
+.
+
+These applicants can indicate on the FAFSA form that they are eligible noncitizens, though they will not pass the automated DHS match. Instead, they will need to obtain and provide you with documentation based on their case type: self-petition, prima facie, suspension of deportation, or cancellation of removal. Check the student’s documentation carefully. If the immigration documents match the description below for an approval of petition or a prima facie case, the student should be considered an eligible noncitizen. Third-step verification through the SAVE system is not required.
+
+If you have reservations about the documentation provided, or are unclear about the outcome reflected in the documentation, you must submit the student’s documentation for third-step verification through the SAVE system. In SAVE, click on the “VAWA” button (in the “Agency Requests” section) for 
+VAWA
+ Verification. You will determine the student’s eligibility for aid based on the result of the submission.
+
+In 
+self-petitioning cases
+ under 
+VAWA
+, the immigrant submits a petition (Form I-360) to USCIS, who will then either deny the petition, approve it, or make a finding that a prima facie case has been established. If USCIS determines that a self-petitioner has demonstrated prima facie eligibility, USCIS issues a Notice of Prima Facie Case (NPFC) to the self-petitioner. Either a Form I-360 approval or a prima facie finding potentially makes a student eligible for 
+Title IV
+ aid. In some cases, the USCIS will acknowledge receipt of a petition, which does not establish eligibility for 
+Title IV
+ aid.
+
+With an 
+approval of a petition
+, the USCIS will provide a Form I-797, which will indicate it is an approval notice (with “Notice Type: Approval Notice”) for a self-petitioning spouse of a U.S. citizen or LPR (with Section: Self-Petitioning Spouse of USC or LPR, and that the petition has been approved. A separate Form I-797 will be issued with the names and dates of birth of children listed by the applicant, and it will indicate that they are named on the approved petition. These children are potentially eligible for 
+Title IV
+ aid, and because their USCIS status continues after reaching the age of majority, their eligibility for aid continues as well. In some cases, a dependent child can petition for battered immigrant status; the Form I-797 would then indicate a self-petitioning child of a U.S. citizens or LPR.
+
+If you submit prima facie documentation for third-step verification, SAVE may return the “VAWA Self-Petitioner” response. SAVE may provide a different response so you must also check the “Victim of Abuse” section. If you see an indication of an approved self-petition or prima facie 
+VAWA
+ status anywhere in the SAVE response, the applicant is eligible. If you have questions about the response, contact 
+applicationsystemsdivision@ed.gov
+.
+
+Self-petitioners may use the NPFC as evidence to establish their eligibility for certain public benefits and are eligible to renew their NPFC, as needed, until USCIS completes adjudication of the self-petition. NPFCs are initially valid for one year. If USCIS has not made a decision on the self-petition by the time the NPFC expires, USCIS automatically sends a renewed NPFC within 60 days of the expiration date. The NPFC is renewed for 180 days and continues to be renewed for 180-day periods until USCIS adjudicates the self-petition. If the Form I-360 is denied, USCIS does not re-issue or extend the NPFC.
+
+If the student’s documentation for the applicable award year is unexpired when you receive it, the student can be considered eligible for the entire award year. The student will remain eligible even if their documentation expires during the award year. Note that the student would be ineligible for a subsequent award year if the student’s documentation is still expired. Also, if the documentation is expired when you receive it, the student is ineligible unless they provide you with documentation showing that their determination has been extended.
+
+Children may be included on the Form I-797, though their eligibility is subject to the same expiration date. If a spouse is ultimately denied approval, their children on the Form I-797 would also be denied and be ineligible for aid.
+
+If you submit prima facie documentation for third-step verification, SAVE may return the “VAWA Self-Petitioner” response. SAVE may provide a different response so you must also check the “Victim of Abuse” section. If you see an indication of an approved self-petition or prima facie 
+VAWA
+ status anywhere in the SAVE response, the applicant is eligible. If you have questions about the response, contact 
+applicationsystemsdivision@ed.gov
+.
+
+An immigration judge may issue a 
+suspension of deportation
+ or cancellation of removal of the abused person under the 
+VAWA
+. For a suspension of deportation, the applicant will receive a 
+copy of the court order
+. As long as it has not expired and clearly indicates suspension of deportation by the judge, an otherwise eligible person can receive 
+Title IV
+ funds. For a cancellation of removal, the applicant will receive a copy of the court order. As long as it has not expired and clearly indicates cancellation of removal by the judge, an otherwise eligible person can receive 
+Title IV
+ funds. Suspension of deportation or cancellation of removal documentation alone does not make a student eligible for 
+Title IV
+ funds. The documentation must reference a self-petition or prima facie determination for the student to be considered potentially eligible.
+
+You must carefully examine the USCIS document and keep a copy in the student’s file. If it indicates that the student is an approved self-petitioner or has an unexpired prima facie determination, you may award aid if the student is otherwise eligible. If a self-petitioner applies for 
+Title IV
+ funds in a subsequent year, you may rely on their original document. For a student with a prima facie determination, you may rely on their document as long as it is still unexpired. If the documentation has expired, the student is ineligible unless they provide you with documentation showing that their determination has been extended.
+
+Certain American Indians Born in Canada (formerly Jay Treaty Students)
+
+Section 289 of the 
+Immigration and Nationality Act (INA)
+ gives persons with at least 50% Native American blood who were born in Canada the legal right to live and work indefinitely in the U.S. This is based on the 
+Jay Treaty
+ of 1794 and subsequent court decisions. Such individuals are not subject to the legal restrictions typically imposed on aliens by the DHS, are not required to obtain documentation from the DHS, and are considered “lawfully admitted for permanent residence.” They must obtain an SSN for purposes of applying for 
+Title IV
+ aid.
+
+Students who may be eligible for 
+Title IV
+ funds should enter their valid A-Number on the FAFSA form and indicate they are eligible noncitizens. If they fail the DHS match, you must submit a third-step verification with the documentation. If they fail third-step verification, they can still be considered eligible if they meet the documentation requirements below for students without an A-Number.
+
+Students who do not have an A-Number should enter A999999999 and indicate they are eligible noncitizens. Students who enter all 9’s for their A-Number will receive comment 289 on the output document indicating that the A-Number provided is invalid. Please note that a DHS case number will not be generated in this instance, so you will not be able to submit a third-step verification request. Instead, the school must obtain proof from the student that USCIS or CBP has determined that the student meets the requirements of INA 289. These students are likely to have a Form I-551 PRC with the code S13, an unexpired temporary I-551 stamp with the code S13 in a Canadian passport, or an unexpired temporary I-551 stamp with the code S13 on an I-94. Information relating to this process can be found at 
+https://www.uscis.gov/policy-manual/volume-7-part-o-chapter-5
+.
+
+If you have questions about students who are American Indians Born in Canada, contact 
+applicationsystemsdivision@ed.gov
+.
+
+Form I-94 Website
+
+DHS Customs and Border Protection (CBP) creates admission records electronically. The Form I-94 website allows travelers (and schools, if the traveler grants permission) to access admission records online (the website contains records from April 2011 to present). Unexpired paper Forms I-94 are also still valid.
+
+CBP began issuing Forms I-94s with an alpha character in the 10th position of the 11-character identifier beginning in May 2019.
+
+See 
+https://i94.cbp.dhs.gov/I94
+.
+
+Photocopying Immigration Documents
+
+In most cases you will examine and copy original immigration documents, and you must keep a copy in the student’s file with the results from the third-step verification/SAVE. For the purpose of applying for 
+Title IV
+ aid, institutional policy may permit students to legally photocopy, scan, or otherwise image immigration documents (such as Forms I-551 or I-94) and submit either electronic images or paper copies of the same to the institution’s financial aid office to facilitate the confirmation of their status/category and to complete the third-step verification process. See Dear Colleague Letter 
+GEN-15-08
+.
+
+Eligible Noncitizen Name Changes
+
+When an eligible noncitizen student changes their name, the student needs to update it with SSA and DHS. To update their name with DHS, students can contact the USCIS contact center at 800-375-5283 or visit 
+https://www.uscis.gov/tools/uscis-tools-and-resources/information-about-your-immigration-document/updating-or-correcting-your-documents
+ for more information. For the SSA update, the student must bring the appropriate documents to substantiate the change to their local SSA office. Visit 
+https://ssa.gov
+.
+
+Ineligible Statuses and Documents
+
+There are several types of immigration documentation that do not substantiate a student’s eligibility for 
+Title IV
+ aid. If a student only provides documentation that does not substantiate their eligibility for 
+Title IV
+ aid, they are not eligible. However, if a student provides multiple documents and some do support eligibility, they may be eligible for 
+Title IV
+ aid. Generally, if a student has both an eligible status as well as an ineligible status, the eligible status will trump the ineligible status, and the student will be potentially eligible for 
+Title IV
+ aid (pending other aspects of student eligibility as discussed in this volume). There are a variety of forms and their related statuses which are ineligible:
+
+A Social Security card or driver’s license
+ isn’t acceptable for documenting U.S. citizenship or national status since ineligible individuals can also have these forms of identification. Enhanced driver’s licenses (provided by a limited number of states to permit non-air travel entry to the U.S. from Canada, Mexico, and the Caribbean) are also not acceptable.
+
+Notice of Approval to Apply for Permanent Residence (Form I-171 or Form I-464)
+ holders cannot receive 
+Title IV
+ funds.
+
+Employment authorization documents (Form I-766, EAD)
+ alone do not support 
+Title IV
+ eligibility. However, a student with another eligible status and employment authorization can, potentially, be eligible. USCIS can verify an immigration status or category that may be eligible for aid using the information contained on an EAD.
+
+Nonimmigrant visas
+ are held by those with work visas, students, visitors, and foreign government officials and do not convey eligibility for 
+Title IV
+ funds unless the student has a Form 
+I-94
+ with one of the endorsements given in the eligible document section, or a 
+T–Visa
+ as a victim of human trafficking. Ineligible nonimmigrant visa categories include (but are not limited to) the
+
+F-1, F-2, or M-1 Student Visas;
+
+NATO Visas (NATO);
+
+A2 and A3 Visas (foreign official, including attendants);
+
+B-1 or B-2 Visitor Visas;
+
+J-1 or J-2 Exchange Visitors Visas;
+
+H series or L series Visas (which allow temporary employment in the U.S.); or
+
+G series Visas (pertaining to international organizations).
+
+Form I-817, Application or approval for Family Unity Benefits
+ does not prove students are eligible.
+
+Temporary residents allowed to live and work in the U.S. under the Legalization or Special Agricultural Worker program
+ are no longer eligible for Title IV funds.
+
+Illegal aliens under the legalization (also called the amnesty) program established by the 
+Immigration Reform and Control Act
+ of 1986 (
+IRCA
+)
+ were given documentation that allowed them to work while their application for lawful permanent resident status was being processed. These students they aren’t eligible for 
+Title IV
+ aid unless their application was approved.
+
+Approval notice or EAD forms stamped with “Temporary Protected Status”
+ do not prove students are eligible.
+
+Deferred Action for Childhood Arrivals (DACA)
+ status is granted by USCIS. Students granted DACA often are assigned an SSN, and they are not eligible for 
+Title IV
+ aid, but may be eligible for state or college aid, and submitting a FAFSA form can help them access those other types of aid. To complete the FAFSA form, DACA recipient students must enter their SSN and answer the citizenship status question as “Neither U.S. citizen nor eligible noncitizen.” After submitting the FAFSA form, the student should check with the school’s financial aid office to see what types of non-federal financial aid they may be eligible to receive.
+
+Withholding of removal or deferral of removal orders
+ issued by an immigration judge or by the Board of Immigration Appeals. This is used to protect a person from return to a country that threatens the person’s life or freedom. A withholding of removal order does not, by itself, make the student eligible for 
+Title IV
+ aid.
+
+U nonimmigrants or U-Visa holders
+ are not designated as qualified aliens under the 
+Personal Responsibility and Work Opportunity Reconciliation Act (PRWORA)
+ and are therefore not eligible for 
+Title IV
+ program funds. However, U-Visa holders may convert to lawful permanent resident (LPR) status after they have physically been present in the U.S. for a continuous period of at least three years after the date of admission as a u immigrant, if they meet other requirements. Documentation is usually on a Form 
+I-797 reflecting approval of Form I-485
+. It is important for you to inspect the content of the document since the Form 
+I-797
+ is used for a variety of purposes.
+
+If the student becomes an LPR, they become a qualified alien under the 
+PRWORA
+ (see above), and thus potentially eligible for 
+Title IV
+ funds (assuming they meet all other eligibility requirements.) U-Visa holders should be encouraged to explore non-federal aid options to help them pay for school while waiting to convert to LPR status. StudentAid.gov contains information to help students search for possible scholarships and other resources.
+
+A Form I-797C, Notice of Action
+ that shows a receipt of the student’s application, or instructs the student to schedule a biometrics appointment with USCIS, does not support eligibility for 
+Title IV
+ aid (with the exception of Parolee students who have applied for certain immigration statuses, see the Persons paroled into the U.S. for at least one year section above). These documents indicate “THIS NOTICE DOES NOT GRANT ANY IMMIGRATION STATUS OR BENEFIT” at the top. A Form I-797 (no “C”) with Notice Type: “Approval Notice” may be an eligible form of documentation if it approves the student’s application for one of the eligible statuses listed above.
+
+An Advance Parole
+ Document allows certain noncitizens with pending applications for certain immigration benefits to seek parole into the U.S. after traveling abroad. The issuance of the Advance Parole Document does not alone make them eligible for 
+Title IV
+ funds.
+
+If the document a student submits is for an ineligible status, you shouldn’t submit the documentation for third-step verification, unless you have conflicting information or the student requests you to do so. USCIS will only confirm current immigration status/category based on the document presented; it doesn’t determine whether the student is eligible for 
+Title IV
+ funds. Unless the student can submit documentation for an eligible status/category, as described above, or USCIS verifies the student’s immigration status/category, the student can’t receive aid.
+
+ U-Visa information
+ 
+
+More information on U Visas may be found on the following website: 
+www.uscis.gov/green-card/other-ways-get-green-card/green-card-victim-crime-u-nonimmigrant
+.
+
+Using the SAVE System for Third-Step Verification
+
+If the student’s immigration documentation appears to support an eligible noncitizen status/category, or if you have conflicting information after receiving a secondary match result, you must complete a third-step verification request through the SAVE system. USCIS now returns third-step verification responses via the SAVE system.
+
+To access the SAVE system, go to: 
+https://save.uscis.gov/web/vislogin.aspx?JS=YES
+. If you have issues accessing SAVE with that link, try this one: 
+https://save.uscis.gov/save/app/client/ui/home/?JS=YES
+.
+
+In a collaborative effort, DHS the Department of Homeland Security and the Department of Education designed and implemented special functionality for schools to verifysubmit students’ US citizenship or immigration status which is considered to determine third-step verification requests through the SAVE system to check students’ eligibility for 
+Title IV
+ aid. To access the SAVE system, a unique SAVE user ID and password is issued to the Primary Destination Point Administrator (PDPA) at each school when they update their school’s FTI SAIG Enrollment form.
+
+All the instructions you need to access and navigate the SAVE system are available on the 
+DHS-SAVE, Eligible Noncitizen
+ page on the Knowledge Center. 
+Click on the “DHS-SAVE Electronic Third-Step Verification” link.
+
+For assistance with issues related to accessing the SAVE system, please contact 
+applicationsystemsdivision@ed.gov
+.
+
+Third-Step Verification Preparation and Submission Steps
+
+First, request the student’s most current, unexpired immigration document. When it is submitted, make a copy of it. Next, carefully review the student’s immigration documentation against the status and document descriptions above. Finally, determine whether the student’s immigration documentation supports eligibility for 
+Title IV
+ aid. If it does not support an eligible status, you can tell the student that they are not eligible now but may be eligible if/when they provide eligible noncitizen documentation. You should not complete third- step verification for this student.
+
+The Resend Record to Matches Process
+
+If you determine that third-step verification cannot be completed for a student, for example, when the case status is “closed,” or the SAVE response doesn’t match the immigration documentation provided by the student, you must complete the “resend record to matches” process in the FAFSA Partner Portal system, formerly FAA Access. This replaces the “requesting a new DHS verification number” process. For the full instructions, see the “Resend Record to Matches to Generate a new ISIR with a new DHS Verification Number” section of the SAVE instructions for U.S. Department of Education (School) Users Version 3.0 document.
+
+Second and Third-Step Processing Delays
+
+Second and third-step verification responses may be delayed, depending on the complexity of the case. More information on SAVE’s current response schedule is available at 
+https://uscis.gov/save
+.
+
+If you have not yet submitted documentation for a student and are waiting for second-step verification to finish, do not search the student’s DHS Case Number in SAVE. If you do, you will receive the “No cases found” message in SAVE. Before you check the student’s case in SAVE, check the DHS Secondary Match Status on the student’s ISIR. If the Flag is “P” (Pending result of secondary DHS confirmation), it means that the case is still processing. Wait for a new ISIR with a DHS Secondary Match Status of “N” (Citizenship not confirmed) before checking the case in SAVE. It can take several weeks for the new ISIR to generate with the new DHS Secondary Match Status.
+
+If you receive the “No cases found” message in SAVE, do not “Resend Record to Matches” in the FAFSA Partner Portal, to generate a new transaction with a new DHS Case Number. Doing so generates a new SAVE case for the student while the first case is still processing and will result in a slower response. Again, wait for the DHS Secondary Match Status of “N” before checking the student’s case in SAVE. If you receive the “No cases found” message in SAVE despite receiving a Secondary Match Status of “N,” please email 
+applicationsystemsdivision@ed.gov
+ for further assistance.
+
+If you have submitted a student’s documentation for third-step verification, it can take SAVE several weeks to review the documents and provide a response. You will receive an email from SAVE when the response is available.
+
+For additional guidance on the SAVE system and DHS Match Flags, see the SAVE Instructions for U.S. Department of Education (School) Users 3.0 document on the 
+DHS-SAVE Electronic Third-Step Verification page
+.
+
+SAVE Third-Step Responses
+
+SAVE third-step verification is a manual search of available immigration records. If you don’t receive a response from the USCIS after 
+at least 15
+ business days from the date you sent the third-step verification request, if you have sufficient documentation to make a decision, and if you have no information that conflicts with the student’s documents or claimed status/category, you should review the student’s file and determine whether they meet the eligible noncitizen requirements (note – this only applies for third-step verification and does not apply if you are waiting for a result of second step verification). If the student meets the requirements, make any disbursement for which they are eligible and note in their file that SAVE exceeded the time allotment and that noncitizen eligibility was determined without their verification.
+
+When third-step verification results in an eligible status or category, you must keep a copy of the SAVE response screen. If the third-step verification process indicates a discrepancy, you must ask the student to correct the discrepancy with the USCIS. No certification of loans or further disbursement of funds can be made until the discrepancy is corrected. If the discrepancy isn’t reconciled, the student must repay all aid except wages earned under FWS. Whenever the student is able to provide new information, it must be submitted to SAVE as a third-step verification request.
+
+If you have followed the procedures outlined here, including notifying the student of the discrepancy and withholding further payments and loan certifications as soon as a discrepancy is found, your school isn’t liable for aid disbursed prior to third-step verification. This assumes that you had no other conflicting information prior to making the disbursement and had reviewed the available documentation and concluded that the student was otherwise eligible.
+
+Lack of Response (Volume 1, Ch 2, Example 2)
+
+The student is a refugee and received aid from a school. His status wasn’t confirmed through the DHS match, so the school performed third-step verification. DHS didn’t respond in time, so the school paid the student without any response. When the student applies again, the DHS match still doesn’t confirm his status. Even though the school began third-step verification for the student last year and his documents haven’t expired, because the school never received a SAVE response, the school must perform third-step verification again.
+
+Eligible Noncitizen Status not Confirmed (Volume 1, Ch 2, Example 3)
+
+On his original application, the student didn’t give his A-Number and reported that he was a citizen. When the SSA didn’t confirm this, the student told the FAA at the school that he was a permanent resident. He added his A-Number and changed his citizenship status to eligible noncitizen but the Systematic Alien Verification for Entitlements system (SAVE) didn’t confirm his status as an eligible noncitizen. He explained to the aid administrator that he had applied for permanent resident status but didn’t have documentation yet. The FAA administrator told him that when he received documentation that his application was approved, he should bring it to the school so that it could be submitted to the USCIS for confirmation. The FAA told him to bring any information supporting his current immigration status to Fowler so that it could be submitted to the USCIS for confirmation. Depending on the documentation the student provides, it’s possible he will be considered an eligible noncitizen in a class other than permanent resident.
+
+ 15 business day USCIS timeframe
+ 
+
+34 CFR 668.136(b)(3)
+
+Interpreting the SAVE Response
+
+SAVE is responsible for verifying the student’s immigration status/category. The SAVE response does not indicate whether the student is eligible for 
+Title IV
+ funds. It is the school’s responsibility to determine if the student is eligible based on the student’s immigration documentation and the SAVE response. When you receive the SAVE response, compare it with the list of responses below. If it matches with a response, and with the student’s documentation, and supports an eligible status/category, then the student is eligible (assuming they meet all other student and program eligibility requirements). If it matches with a response, and the student’s documentation, but does not support an eligible status, tell the student they are ineligible until/unless they can provide documentation that supports an eligible status.
+
+If the student’s documentation supports an eligible noncitizen status/category but the SAVE system response shows an ineligible status, read the DHS comments and resolve issues raised there (for example, provide a cleaner copy of the student’s documentation if instructed by USCIS). Once resolved, check the bottom of the SAVE response. If you see a “Still not sure? Institute Additional Verification” link, click the link and submit the student’s new documentation on the next page. If you do not see this link or the student’s case is closed, use the Resend to Matches process (see above) and resubmit third-step verification. If you have questions about the SAVE response or about the student’s documentation, contact 
+applicationsystemsdivision@ed.gov
+ and briefly describe your issue.
+
+The following list explains whether a response means the student is eligible or ineligible for 
+Title IV
+ aid. For descriptions of the following immigration statuses/categories, see the earlier sections on eligible and ineligible noncitizens and their documentation:
+
+Potentially Eligible Statuses or Categories:
+
+“Lawful Permanent Resident”
+
+“Conditional Resident”
+
+“Asylee” or “Refugee”
+
+“Parolee-Expires” or “Parolee-Indefinite”
+ The student is eligible for aid if paroled into the U.S. for at least one year. The SAVE response will include Pending Applications or DHS Comments sections indicating one of the documents mentioned in the “Persons paroled into the U.S. for at least one year” section above.
+
+“U.S. Citizen”
+ Third-Step Verification is for verifying immigration documentation for eligible noncitizens. If the student provided U.S. citizen documentation, do not complete third-step verification. If you accidentally submitted U.S. citizen documentation to SAVE, proceed with verifying the student as a U.S. citizen as instructed in the “U.S. Citizenship Match with the SSA” section earlier in this chapter.
+
+“Cuban/Haitian Entrant”
+ Before submitting documentation for these students through SAVE, click the “Cuban-Haitian Entrant” button under the “Additional Requests” section. A Cuban/Haitian Entrant student may be eligible without this response so you must also check the “Cuban/Haitian Immigration Details” section of the response. An eligible student will have the comment, “Applicant is a Cuban/Haitian Entrant.”
+
+"American Indian born in Canada”
+ For details, see the Jay Treaty section earlier in this chapter.
+
+“Kickapoo Tribe of Oklahoma and Kickapoo Traditional Tribe of Texas”
+ If this response is received, the financial aid administrator must contact the Department by emailing 
+applicationsystemsdivision@ed.gov
+.
+
+“VAWA Self-Petitioner”
+ Before submitting documentation for these students through SAVE, click the “VAWA” button under the “Additional Requests” section. A student may still be eligible for VAWA status without this response, so you must also check the Victim of Abuse section of the response. See the information for battered immigrations-qualified aliens earlier in this document for additional guidance. If you have questions about VAWA status, contact 
+applicationsystemsdivision@ed.gov
+.
+
+Ineligible Statuses:
+
+Each of the following statuses are by themselves insufficient to make a student eligible for 
+Title IV
+ funds. If the SAVE response is an eligible status, followed by an ineligible status (for example, Lawful Permanent Resident - Employment Authorized), ignore the ineligible status portion of the response. Unless an eligible status is also submitted, or the student can provide other documentation that can be confirmed by the USCIS, students with the following types of status are not 
+Title IV
+ eligible:
+
+“Employment Authorized”
+
+“Not Employment Authorized”
+
+“Application Pending”
+ In the majority of cases, a student with only a pending application for an eligible noncitizen status will not be eligible for 
+Title IV
+ aid. The student must have documentation showing that their status is approved in order to be considered eligible.
+
+“Nonimmigrant”
+ – Except in the case of a victim of human trafficking (T-Visa). See 
+Victims of human trafficking
+ section for more information.
+
+“Deferred Action for Childhood Arrivals (DACA)”
+
+“Family Unity”
+
+“Temporary Protected Status (TPS)”
+
+“Deferred Action Status”
+
+“Withholding of Removal”
+
+“Document Appears Altered/Counterfeit.”
+ Notify the student that unless corrective action is taken with the USCIS, the case will be submitted to the Office of Inspector General (OIG). Until this is resolved, no further aid may be disbursed, awarded, or certified. If the student does not take corrective action in a timely manner, you must report the case to the OIG (part of which will include resubmitting the document).
+
+“Unable to verify.”
+ DHS-USCIS was not able to verify the student’s status/category based on the documentation provided. Carefully read the SAVE response and the DHS Comments section to determine why the student’s status could not be verified and proceed according to the information provided, including any requests by SAVE to institute additional verification. For example, SAVE may indicate:
+
+Resubmit request with both sides of the applicant’s immigration document.
+ Click the “Still not sure? Institute Additional Verification” link or perform the “Resend Record to Matches” process in the FAFSA Partner Portal (formerly FAA Access to CPS Online) and resubmit the student’s immigration documents through SAVE with copies of both sides of each document.
+
+Applicant’s Immigration document is illegible.
+ Resubmit the student’s immigration documents with higher quality copies of the original documentation.
+
+If you see the “Resubmit Doc” response, this means that this case is available for you to submit the student’s immigration documentation for third-step verification. If you have questions about how to proceed, contact 
+applicationsystemsdivision@ed.gov
+ and provide a brief description of the issue and the student’s DHS Case Number.
+
+Student Rights
+
+You must allow the student at least 30 days from the time you receive the SAVE response to provide documentation of their immigration status/category. During this period and until the results of the third-step verification are received, you can’t deny, reduce, or terminate aid to the student. Unless you can determine that the documentation doesn’t support an eligible noncitizen status/category, you must submit the student’s immigration documents within ten business days of receipt. If the documentation supports the student’s status as an eligible noncitizen, and if at least 15 business days passed since the date on which the documentation was submitted to the USCIS, you can disburse aid to an otherwise eligible student pending the USCIS response.
+
+Your school isn’t liable if you erroneously conclude that a student is an eligible noncitizen, provided that you had no conflicting data on file and you relied on:
+
+a FAFSA Submission Summary or ISIR indicating that the student meets the requirements for federal student aid;
+
+a USCIS determination of an eligible immigration status/category in response to a request for third-step verification; or
+
+an immigration document, submitted by the student, that supports an eligible status/category, if the USCIS did not respond in a timely fashion.
+
+The student (or parent borrower of a Direct PLUS loan) is liable for any 
+Title IV
+ funds received if they are ineligible. If you made your decision without having one of the documents above, your school is held responsible for repaying 
+Title IV
+ funds to the Department. Your school should establish procedures to ensure due process for the student if 
+Title IV
+ funds are disbursed but the aid office later determines (using third-step verification) that the student isn’t an eligible noncitizen.
+
+The student must be notified of their ineligibility and given an opportunity to contest the decision by submitting to your school any additional documents that support their claim to be an eligible noncitizen. If the documents appear to support the student’s claim, you should submit them to USCIS using third-step verification. You must notify the student of your office’s final decision based on the third-step verification results.
+
+For every student required to undergo third-step verification, you must furnish written instructions providing:
+
+an explanation of the documentation the student must submit as evidence of eligible noncitizen status or category;
+
+your school’s deadline for submitting documentation (which must be at least 30 days from the date your office receives the results of the primary confirmation);
+
+notification that if the student misses the deadline, they may not receive 
+Title IV
+ funds for the award period or period of enrollment;
+
+information about the website: 
+https://www.uscis.gov/sites/default/files/document/fact-sheets/Records-Fast-Facts-for-Benefi-Applicants.pdf
+, which provides the applicant information about correcting their immigration records so that they can obtain an accurate match for purposes of determining eligibility for Title IV Student Financial Assistance Programs; and
+
+a statement that you won’t decide the student’s eligibility until they have a chance to submit immigration status documents.
+
+Documenting Immigration Status in Later Award Years
+
+There are several cases in which 
+you must document
+ a student’s immigration status/category in a subsequent award year if that student is not confirmed as an eligible noncitizen on the FAFSA Submission Summary/ISIR. For example, a student who presented a 
+Temporary Form I-551
+ in a prior award year should have received a permanent Form I-551 by the next year and shouldn’t still have a temporary card. You should refer the student to USCIS to obtain a permanent Form I-551 or an updated endorsement on the previous card.
+
+You must also document the eligible noncitizen status/category each award year for a 
+conditional permanent resident, a refugee, a Cuban-Haitian entrant, or a person granted asylum
+. Students in any of these categories may have been redesignated to lawful permanent-resident status or may have had their status/category revoked or terminated. You will have to send the documents for third-step verification if the student’s status or category isn’t confirmed through the DHS match. Also note that VAWA prima facie status generally expires after 1 year, and that parolees can potentially become Lawful Permanent Residents if their Form I-485 is approved.
+
+You don’t have to document
+ a student’s eligible noncitizen status in subsequent award years if you’ve documented that the student is:
+
+a U.S. citizen or national;
+
+a citizen of the Freely Associated States;
+
+a lawful permanent resident and has Forms I-551 or I-151; or
+
+an eligible noncitizen, as indicated by the SAVE response for the previous award year, the student was an eligible noncitizen and the documents supporting the status in question have not expired.
+
+You must also have no conflicting information or reason to doubt the student’s claim of having eligible noncitizen status. Also note that you must have confirmed the status in a previous award year. You may disburse aid without the USCIS response if the USCIS doesn’t respond in time for that award year, but you can’t count that lack of response as confirmation for the following year.
+
+ Exclusion from subsequent confirmation
+ 
+
+34 CFR 668.133(b)
+
+ Procedures when ineligibility is determined after disbursement
+ 
+
+34 CFR 668.136(c)
+
+Replacing Lost DHS Documents
+
+If a student can’t locate their official USCIS documentation, the student must request that the documents be replaced because noncitizens who are 18 years and older must have immigration documentation in their possession at all times while in the United States. Requests for replacement documents should be made by the student to USCIS. Instructions for replacing documents can be found on USCIS’ website or by calling the USCIS Contact Center.
+
+The student may be asked to complete a 
+Form I-90, “Application to Replace Permanent Resident Card” or a Form I-102, “Application for Replacement/ Initial Nonimmigrant Arrival-Departure Document
+.” PDF versions of these forms can be downloaded from the USCIS website at 
+uscis.gov
+. A temporary I-94 may be issued while the replacement documents are pending. If the student needs to replace other documentation, they should go to 
+uscis.gov
+ or contact the USCIS Contact Center.
+
+In cases of undue hardship, where the student urgently needs documentation of their status/category, the 
+Freedom of Information Act (FOIA)
+ allows them to obtain photocopies of the documents from the USCIS District Office that issued the original documents. The student can submit a Form 
+G-639
+ to make this request or can request the records online.
+
+A naturalized U.S. citizen student who lost documents or surrendered them when entering prison is responsible for getting copies of them so you can verify their status. You can request copies of immigration documents directly from penal institutions at the request of the student.
+
+Examples of U.S. Citizenship and Eligible Noncitizen Documents
+
+Some common documents used to demonstrate citizenship and status/category of eligible noncitizens are shown below. Note that not all documents shown satisfy citizenship requirements in all cases. See the specific notes on each document shown, and also refer to the discussion of citizenship requirements described in detail earlier in this chapter.
+
+U.S. Passport
+
+Can be used to document citizenship for citizens born in the United States or abroad.
+
+For a noncitizen national, must be stamped “Noncitizen National.” (Note that a passport issued by another country may be used to document U.S. lawful permanent resident status if it has the endorsement “Processed for I-551” and has a currently valid expiration date.)
+
+ 
+
+ 
+
+ 
+
+ 
+
+U.S. Passport Card
+
+ 
+
+ 
+
+This resembles a credit card in size and form. Though it cannot be used for international air travel, it is, like the passport book, proof of U.S. citizenship.
+
+Certificate of Naturalization
+
+The Certificate of Naturalization is issued to naturalized U.S. citizens. USCIS and its predecessor, the U.S. Department of Justice Immigration and Naturalization Service (INS), have issued several versions of this document. A revised version of the Certificate of Naturalization (Form N-550) was created in 2018.
+
+All previously issued certificates remain valid.
+
+The Form N-570 is a replacement certificate issued by U.S. Citizenship and Immigration Services when the original Certificate of Naturalization is lost, mutilated, or destroyed, or when the individual’s name has legally changed.
+
+USCIS and INS, have issued several versions of this document. All previously issued certificates remain valid.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Certificate of Citizenship
+
+The Certificate of Citizenship is issued to persons who were born abroad of U.S. parent(s), who became citizens when their parents were naturalized, or who were adopted by U.S. parents.
+
+ 
+
+ 
+
+Certification of Birth Abroad
+
+Issued to U.S. citizens born abroad. Must have embossed seal of the State Department.
+
+ 
+
+ 
+
+Form CBP I-94
+
+Here is a sample paper form. Although such are no longer normally issued for air and sea arrivals, legacy paper forms are still valid and in use, and one may still encounter recently issued valid paper forms.
+
+ 
+
+ 
+
+Form CBP I-94A
+
+The computer-generated Form CBP I-94A replaces the paper Form I-94 that was completed manually. For eligible noncitizens, it must be annotated as described earlier in this chapter.
+
+See also the I-94 website at: 
+https://i94.cbp.dhs.gov/I94/#/home
+. The website allows you to look up I-94 student data, if the student grants you permission to do so.
+
+ 
+
+ 
+
+For lawful permanent resident status, must be stamped “Processed for I 551” with expiration date or “Temporary Form I-551” with appropriate information filled in. For other eligible noncitizens, must be stamped with the proper information as described for Refugee, Asylum Status, Conditional Entrant (before April 1, 1980), Parolee, or Cuban- Haitian Entrant.
+
+I-94 Arrival-Departure Record
+
+ 
+
+ 
+
+ 
+
+ 
+
+USCIS Form I 797A “Tear Off Form I-94”
+
+USCIS issues this document to an applicant as a replacement Form I-94. This typically means that USCIS approved an applicant’s change or extension of status/category so they can legally continue to remain in the United States.
+
+ 
+
+ 
+
+United States Travel Document
+
+ 
+
+ 
+
+(front cover)
+ This contains a Reentry Permit (Form I-327) or a Refugee Travel Document (Form I-571). It is used by lawful permanent residents, refugees, and asylees.
+
+Machine Readable Immigrant Visa (MRIV)
+
+ 
+
+ 
+
+The MRIV will appear in the holder’s (foreign) passport. If the passport is unexpired and endorsed with an admission stamp and the statement, “Upon endorsement serves as temporary I-551 evidencing permanent residence for 1 year,” it serves as a temporary Form I-551 and as valid documentation for establishing aid eligibility.
+
+I-571 Refugee Travel document
+
+ 
+
+ 
+
+Contained in the U.S. Travel document, the Form I-571 helps document the status of refugees.
+
+Re-entry Permit
+
+USCIS issues the Form I-327, Permit to Re-Enter the United States to lawful permanent residents and conditional permanent residents to allow them to re-enter the U.S. for a period of two years. The Re-entry Permit is found in the U.S. Travel Document.
+
+ 
+
+ 
+
+CBP I-94 Website Printout
+
+Travelers have access to their electronic Form I-94 via DHS’s I-94 website. The website printout serves the same purpose as any other Form I-94. A sample of what the printout looks like is shown here.
+
+ 
+
+ 
+
+Lawful Permanent Residents
+ are issued identification cards that they are required to have in their possession at all times. The first Alien Registration Receipt Card was introduced in 1946 and through various revisions was primarily green, which caused it to be known as a “green card.” This term is still used, though the cards have changed color over the years.
+
+Alien Registration Receipt Card
+
+(front and back)
+ Issued prior to June 1978 to lawful permanent residents. Form I-151 is no longer accepted by USCIS as evidence of permanent residence, though it may be used to receive 
+Title IV
+ funds.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Resident Alien Card
+
+(two versions, front only)
+ The Form I-551, Resident Alien Card is a revision of the Alien Registration Receipt Card. It was phased in beginning in January 1977 and was revised in 1989. The “Conditional Resident Alien Card” is identified by a “C” on the front and an expiration date on the back.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Permanent Resident Card
+
+(front only for older versions, front and back for the current version)
+ The Permanent Resident Card (Form I-551) was introduced in December 1997 and revised in 2004 and 2010. The current version has returned to using green in the design of the front of the card.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Form I-766, Employment Authorization Document
+
+To reduce the risk of fraud and counterfeiting, USCIS redesigns the Employment Authorization Document (EAD) card every three to five years. Introduction of new EAD designs does not mean that previous designs are invalid. Both current and previous cards remain valid until the expiration date shown on the card (unless otherwise noted such as through an automatic extension of the validity period of the EAD indicated on a Form I-797, Notice of Action, or in a Federal Register notice).
+
+ 
+
+ 
+
+ 
+
+ 
+
+Previous
+
+Next
+
+ Published: 01/23/2025
