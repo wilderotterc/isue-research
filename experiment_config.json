@@ -32,6 +32,8 @@
     "question_categories": ["S", "M2", "M3", "C", "T"],
     "total_questions": 55,
     "total_runs": 165,
+    "total_chunks_indexed": 1641,
+    "corpus_modification": "nasfaa_2025_national_profile.pdf.txt removed from active corpus before experiment. Moved to corpus/excluded/. Caused systematic retrieval failures during S-category audit due to broad statistical content dominating results. Chunk count dropped from 1709 to 1641.",
     "award_year_current": "2025-26",
     "award_year_temporal_corpus": "2024-25"
   },

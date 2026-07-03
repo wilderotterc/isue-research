@@ -81,10 +81,16 @@ def run(pilot: bool = False):
             # ── Call LLM ──────────────────────────────────────────────
             llm_result = call_llm(system_prompt, user_message)
 
-            # ── Compute automated metrics ─────────────────────────────
+            # ── Compute faithfulness inline before logging ────────────
             contexts = [c["text"] for c in chunks]
-            faithfulness_score = compute_faithfulness(query, llm_result["answer"], contexts)
+            if condition == "Baseline-LLM" or not contexts:
+                faithfulness_score = 0.0
+            else:
+                faithfulness_score = compute_faithfulness(
+                    query, llm_result["answer"], contexts
+                )
 
+            # ── Compute source authority accuracy ─────────────────────
             retrieved_authorities = [c["source_authority"] for c in chunks]
             source_accuracy = compute_source_authority_accuracy(
                 retrieved_authorities=retrieved_authorities,
@@ -92,12 +98,7 @@ def run(pilot: bool = False):
                 condition=condition,
             )
 
-            # Add metrics to llm_result for logging convenience
-            llm_result["faithfulness"]       = faithfulness_score
-            llm_result["source_accuracy"]    = source_accuracy
-            llm_result["answer_correctness"] = -1.0  # pending human annotation
-
-            # ── Log ───────────────────────────────────────────────────
+            # ── Log — faithfulness written to CSV in same row ─────────
             log_run(
                 run_id=run_id,
                 question_id=qid,
@@ -106,6 +107,7 @@ def run(pilot: bool = False):
                 query=query,
                 chunks=chunks,
                 llm_result=llm_result,
+                faithfulness_score=faithfulness_score,
             )
 
             print(f"done (F={faithfulness_score:.2f}, tokens={llm_result['total_tokens']})")
