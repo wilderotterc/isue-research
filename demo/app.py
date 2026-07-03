@@ -39,13 +39,13 @@ st.markdown("""
 .badge-professional     { background:#8b5cf6; color:white; padding:2px 8px;
                            border-radius:4px; font-size:0.75rem; font-weight:600; }
 .chunk-box { border:1px solid #e2e8f0; border-radius:6px; padding:12px;
-              margin-bottom:8px; background:#f8fafc; }
+              margin-bottom:8px; background:#f8fafc; color:#1e293b !important; }
 .answer-box { border:2px solid #2E4057; border-radius:8px; padding:16px;
-               background:#f0f4f8; }
+               background:#f0f4f8; color:#1e293b !important; }
 .metric-label { font-size:0.85rem; color:#64748b; font-weight:600; }
 .finding-box { border-left:4px solid #f59e0b; padding:10px 14px;
                 background:#fffbeb; border-radius:0 6px 6px 0;
-                margin-top:12px; font-size:0.9rem; }
+                margin-top:12px; font-size:0.9rem; color:#1e293b !important; }
 </style>
 """, unsafe_allow_html=True)
 
@@ -100,7 +100,7 @@ def load_pipeline():
     return retrieve, rerank, build_prompt, call_llm, compute_faithfulness
 
 # ── Main UI ────────────────────────────────────────────────────
-st.title("🎓 Financial Aid RAG — Interactive Demo")
+st.title("Financial Aid  Interactive Demo")
 st.caption(
     "Evaluating Multi-Document Retrieval-Augmented Generation for Student "
     "Financial Aid Guidance · Kean University · Caleb Wilderotter · 2026"
@@ -195,10 +195,8 @@ if run_btn and query.strip():
 
         # Step 4: Faithfulness
         if chunks and answer:
-            context_text = "\n\n".join(
-                c.get("text", c.get("document", "")) for c in chunks
-            )
-            faithfulness = compute_faithfulness(answer, context_text)
+            context_list = [c.get("text", c.get("document", "")) for c in chunks]
+            faithfulness = compute_faithfulness(query, answer, context_list)
         else:
             faithfulness = 0.0
 
@@ -301,7 +299,7 @@ if run_btn and query.strip():
 
 # ── Side-by-side comparison mode ──────────────────────────────
 st.divider()
-with st.expander("🔀 Compare all three conditions side by side"):
+with st.expander("Compare all three conditions side by side"):
     st.markdown(
         "Click **Run comparison** to send the same question to all three conditions "
         "simultaneously. Uses ~3× the API tokens."
@@ -322,8 +320,8 @@ with st.expander("🔀 Compare all three conditions side by side"):
                     sp, um = build_prompt(query, ch)
                     res = call_llm(sp, um)
                     ans = res.get("answer", "")
-                    ctx = "\n\n".join(c.get("text", c.get("document","")) for c in ch)
-                    f   = compute_faithfulness(ans, ctx) if ch and ans else 0.0
+                    ctx_list = [c.get("text", c.get("document","")) for c in ch]
+                    f   = compute_faithfulness(query, ans, ctx_list) if ch and ans else 0.0
                     results_all[cond] = {"answer": ans, "faithfulness": f, "chunks": ch}
 
             c1, c2, c3 = st.columns(3)
